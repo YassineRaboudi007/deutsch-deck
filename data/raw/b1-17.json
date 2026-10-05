@@ -1,0 +1,901 @@
+{
+  "id": "b1-17",
+  "title": "B1 · Ü–V (17)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "übergeben",
+      "en": "to hand over; to vomit (reflexive)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to hand over, pass on",
+          "de": "jemandem etwas geben, übertragen"
+        },
+        {
+          "en": "to vomit (sich übergeben)",
+          "de": "erbrechen (reflexiv)"
+        }
+      ],
+      "rule": "Untrennbar: übergibt, übergab, hat übergeben. Reflexiv 'sich übergeben' = erbrechen.",
+      "example": "Der Chef hat ihr die Verantwortung übergeben.",
+      "exampleEn": "The boss handed over the responsibility to her.",
+      "example2": "Ihm war so schlecht, dass er sich übergeben musste.",
+      "example2En": "He felt so sick that he had to vomit."
+    },
+    {
+      "de": "überglücklich",
+      "en": "overjoyed",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "extremely happy",
+          "de": "sehr, sehr glücklich"
+        }
+      ],
+      "rule": "Verstärkung mit 'über-'; meist nicht gesteigert, da schon Superlativbedeutung.",
+      "example": "Sie war überglücklich über die bestandene Prüfung.",
+      "exampleEn": "She was overjoyed about passing the exam.",
+      "example2": "Die Eltern sind überglücklich über das neue Baby.",
+      "example2En": "The parents are overjoyed about the new baby."
+    },
+    {
+      "de": "überlegen",
+      "en": "to consider, think over; superior",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to think about, consider (verb, untrennbar)",
+          "de": "nachdenken, abwägen"
+        },
+        {
+          "en": "superior (adjective)",
+          "de": "deutlich besser, stärker"
+        }
+      ],
+      "rule": "Als Verb untrennbar: überlegt, überlegte, hat überlegt (oft reflexiv: sich (Dativ) etwas überlegen). Als Adjektiv (+ Dativ): überlegen, überlegener, am überlegensten, z. B. jemandem überlegen sein.",
+      "example": "Ich muss mir das noch überlegen.",
+      "exampleEn": "I still need to think it over.",
+      "example2": "Die Mannschaft war ihrem Gegner klar überlegen.",
+      "example2En": "The team was clearly superior to their opponent."
+    },
+    {
+      "de": "übernachten",
+      "en": "to stay overnight",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to spend the night somewhere",
+          "de": "die Nacht irgendwo verbringen"
+        }
+      ],
+      "rule": "Untrennbar, regelmäßig: übernachtet, übernachtete, hat übernachtet.",
+      "example": "Wir übernachten in einem kleinen Hotel am See.",
+      "exampleEn": "We are staying overnight in a small hotel by the lake.",
+      "example2": "Kann ich heute bei dir übernachten?",
+      "example2En": "Can I stay over at your place tonight?"
+    },
+    {
+      "de": "die Übernachtung",
+      "en": "overnight stay",
+      "pos": "noun",
+      "plural": "die Übernachtungen",
+      "meanings": [
+        {
+          "en": "staying overnight (e.g. in a hotel)",
+          "de": "das Schlafen an einem Ort für eine Nacht"
+        }
+      ],
+      "rule": "Nomen von 'übernachten'; oft mit Präposition: eine Übernachtung in einem Hotel.",
+      "example": "Die Übernachtung im Hotel kostet 80 Euro.",
+      "exampleEn": "The overnight stay at the hotel costs 80 euros.",
+      "example2": "Wir haben drei Übernachtungen gebucht.",
+      "example2En": "We booked three nights' stay."
+    },
+    {
+      "de": "überraschen",
+      "en": "to surprise",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to surprise someone",
+          "de": "jemandem etwas Unerwartetes zeigen/sagen"
+        }
+      ],
+      "rule": "Untrennbar (kein 'ge-' im Partizip): überrascht, überraschte, hat überrascht.",
+      "example": "Sie hat ihn zum Geburtstag überrascht.",
+      "exampleEn": "She surprised him on his birthday.",
+      "example2": "Das Ergebnis hat alle überrascht.",
+      "example2En": "The result surprised everyone."
+    },
+    {
+      "de": "die Überschwemmung",
+      "en": "flood",
+      "pos": "noun",
+      "plural": "die Überschwemmungen",
+      "meanings": [
+        {
+          "en": "flooding of land or buildings",
+          "de": "wenn Wasser das Land überflutet"
+        }
+      ],
+      "rule": "Von 'überschwemmen'; oft im Kontext von Naturkatastrophen benutzt.",
+      "example": "Der starke Regen hat eine Überschwemmung verursacht.",
+      "exampleEn": "The heavy rain caused a flood.",
+      "example2": "Viele Häuser wurden durch die Überschwemmung zerstört.",
+      "example2En": "Many houses were destroyed by the flood."
+    },
+    {
+      "de": "übersetzen",
+      "en": "to translate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to translate a text",
+          "de": "einen Text in eine andere Sprache übertragen"
+        }
+      ],
+      "rule": "Untrennbar: übersetzt, übersetzte, hat übersetzt. (Trennbare Variante 'übersetzen' = ans andere Ufer fahren, seltener im B1-Wortschatz.)",
+      "example": "Kannst du diesen Satz ins Englische übersetzen?",
+      "exampleEn": "Can you translate this sentence into English?",
+      "example2": "Der Roman wurde in viele Sprachen übersetzt.",
+      "example2En": "The novel has been translated into many languages."
+    },
+    {
+      "de": "die Übersetzung",
+      "en": "translation",
+      "pos": "noun",
+      "plural": "die Übersetzungen",
+      "meanings": [
+        {
+          "en": "a translated text",
+          "de": "ein Text, der übersetzt wurde"
+        }
+      ],
+      "rule": "Nomen von 'übersetzen'; mit Präposition 'in': die Übersetzung ins Deutsche.",
+      "example": "Die Übersetzung des Briefes war sehr schwierig.",
+      "exampleEn": "The translation of the letter was very difficult.",
+      "example2": "Sie arbeitet an einer Übersetzung ins Spanische.",
+      "example2En": "She is working on a translation into Spanish."
+    },
+    {
+      "de": "das Übersetzungsbüro",
+      "en": "translation agency",
+      "pos": "noun",
+      "plural": "die Übersetzungsbüros",
+      "meanings": [
+        {
+          "en": "an office that provides translation services",
+          "de": "eine Firma, die Texte übersetzt"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Übersetzung' + 'Büro'; sächlich wegen 'das Büro'.",
+      "example": "Ich habe den Vertrag an ein Übersetzungsbüro geschickt.",
+      "exampleEn": "I sent the contract to a translation agency.",
+      "example2": "Das Übersetzungsbüro arbeitet mit zehn Sprachen.",
+      "example2En": "The translation agency works with ten languages."
+    },
+    {
+      "de": "die Überstunde",
+      "en": "overtime hour",
+      "pos": "noun",
+      "plural": "die Überstunden",
+      "meanings": [
+        {
+          "en": "an hour worked beyond normal hours",
+          "de": "eine Arbeitsstunde zusätzlich zur normalen Arbeitszeit"
+        }
+      ],
+      "rule": "Meist im Plural benutzt: Überstunden machen/leisten.",
+      "example": "Ich musste gestern zwei Überstunden machen.",
+      "exampleEn": "I had to work two hours of overtime yesterday.",
+      "example2": "Werden die Überstunden bezahlt?",
+      "example2En": "Is the overtime paid?"
+    },
+    {
+      "de": "die Übertragung",
+      "en": "broadcast; transmission",
+      "pos": "noun",
+      "plural": "die Übertragungen",
+      "meanings": [
+        {
+          "en": "a live broadcast (TV/radio)",
+          "de": "die Sendung eines Ereignisses im Fernsehen/Radio"
+        },
+        {
+          "en": "the transfer or transmission of something",
+          "de": "das Übertragen von etwas (z. B. Daten, Krankheit)"
+        }
+      ],
+      "rule": "Nomen von 'übertragen'; wird oft mit 'live' kombiniert: die Live-Übertragung.",
+      "example": "Wir haben die Übertragung des Fußballspiels gesehen.",
+      "exampleEn": "We watched the broadcast of the football match.",
+      "example2": "Die Übertragung des Virus erfolgt über Tröpfchen.",
+      "example2En": "The transmission of the virus happens via droplets."
+    },
+    {
+      "de": "überzeugen",
+      "en": "to convince",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to convince someone",
+          "de": "jemanden von etwas überzeugen, sodass er es glaubt"
+        }
+      ],
+      "rule": "Untrennbar: überzeugt, überzeugte, hat überzeugt. Oft mit 'von': jemanden von etwas überzeugen.",
+      "example": "Er hat mich von seiner Idee überzeugt.",
+      "exampleEn": "He convinced me of his idea.",
+      "example2": "Das neue Produkt konnte die Kunden überzeugen.",
+      "example2En": "The new product managed to convince the customers."
+    },
+    {
+      "de": "üblich",
+      "en": "usual, customary",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "normal or common practice",
+          "de": "normal, wie es meistens gemacht wird"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: üblich, üblicher, am üblichsten. Häufig: wie üblich.",
+      "example": "Wie üblich kam er zu spät.",
+      "exampleEn": "As usual, he came late.",
+      "example2": "Das ist hier nicht üblich.",
+      "example2En": "That is not customary here."
+    },
+    {
+      "de": "umdrehen",
+      "en": "to turn around",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to turn something/someone around",
+          "de": "etwas oder sich in die andere Richtung drehen"
+        }
+      ],
+      "rule": "Trennbar: dreht um, drehte um, hat umgedreht. Oft reflexiv: sich umdrehen.",
+      "example": "Sie hat sich schnell umgedreht.",
+      "exampleEn": "She quickly turned around.",
+      "example2": "Kannst du das Blatt bitte umdrehen?",
+      "example2En": "Can you please turn the sheet over?"
+    },
+    {
+      "de": "umfallen",
+      "en": "to fall over",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to fall down/topple over",
+          "de": "plötzlich das Gleichgewicht verlieren und hinfallen"
+        }
+      ],
+      "rule": "Trennbar, unregelmäßig: fällt um, fiel um, ist umgefallen.",
+      "example": "Die Vase ist vom Tisch umgefallen.",
+      "exampleEn": "The vase fell over from the table.",
+      "example2": "Er wurde so müde, dass er fast umgefallen wäre.",
+      "example2En": "He got so tired that he almost toppled over."
+    },
+    {
+      "de": "der Umgang",
+      "en": "handling, dealing with",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the way of dealing with someone/something",
+          "de": "die Art, wie man mit jemandem/etwas umgeht"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural. Feste Wendung: der Umgang mit + Dativ.",
+      "example": "Der Umgang mit Kunden erfordert Geduld.",
+      "exampleEn": "Dealing with customers requires patience.",
+      "example2": "Er hat einen freundlichen Umgang mit seinen Kollegen.",
+      "example2En": "He has a friendly way of dealing with his colleagues."
+    },
+    {
+      "de": "die Umgebung",
+      "en": "surroundings, area",
+      "pos": "noun",
+      "plural": "die Umgebungen",
+      "meanings": [
+        {
+          "en": "the area surrounding a place",
+          "de": "das Gebiet rund um einen Ort"
+        }
+      ],
+      "rule": "Oft im Singular benutzt: in der Umgebung von.",
+      "example": "Wir haben die Umgebung der Stadt erkundet.",
+      "exampleEn": "We explored the surroundings of the city.",
+      "example2": "In der Umgebung gibt es viele Wälder.",
+      "example2En": "There are many forests in the area."
+    },
+    {
+      "de": "umgehen",
+      "en": "to handle/deal with; to avoid, bypass",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to deal with / handle something (trennbar)",
+          "de": "mit jemandem/etwas umgehen, z. B. mit einer Maschine oder einer Person"
+        },
+        {
+          "en": "to avoid, bypass, circumvent (untrennbar)",
+          "de": "ein Problem oder eine Regel geschickt vermeiden"
+        }
+      ],
+      "rule": "Zwei Formen: trennbar 'mit etw./jmdm. umgehen' (geht um, ging um, ist umgegangen) = handhaben; untrennbar 'etw. umgehen' (umgeht, umging, hat umgangen) = vermeiden.",
+      "example": "Er kann gut mit Kritik umgehen.",
+      "exampleEn": "He can handle criticism well.",
+      "example2": "Die Firma versucht, die Vorschrift zu umgehen.",
+      "example2En": "The company is trying to bypass the regulation."
+    },
+    {
+      "de": "umgehend",
+      "en": "immediate, immediately",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "without delay, right away",
+          "de": "sofort, ohne Verzögerung"
+        }
+      ],
+      "rule": "Wird oft als Adverb benutzt; formeller als 'sofort', typisch in Geschäftsbriefen.",
+      "example": "Bitte antworten Sie uns umgehend.",
+      "exampleEn": "Please reply to us immediately.",
+      "example2": "Wir werden das Problem umgehend lösen.",
+      "example2En": "We will solve the problem right away."
+    },
+    {
+      "de": "die Umschulung",
+      "en": "retraining",
+      "pos": "noun",
+      "plural": "die Umschulungen",
+      "meanings": [
+        {
+          "en": "vocational retraining for a new job/career",
+          "de": "eine neue berufliche Ausbildung für einen anderen Beruf"
+        }
+      ],
+      "rule": "Von 'umschulen'; oft mit 'zu/zum': eine Umschulung zum Krankenpfleger.",
+      "example": "Sie macht eine Umschulung zur Bürokauffrau.",
+      "exampleEn": "She is doing a retraining course to become an office clerk.",
+      "example2": "Nach der Kündigung begann er eine Umschulung.",
+      "example2En": "After being laid off, he started a retraining program."
+    },
+    {
+      "de": "umso",
+      "en": "the (more/less) — all the more",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the (with comparative, showing proportional increase)",
+          "de": "drückt aus: in noch stärkerem Maße, wenn ..."
+        }
+      ],
+      "rule": "Used with comparatives, often after 'je': 'je ..., umso ...'. Not a standalone word.",
+      "example": "Je länger ich warte, umso ungeduldiger werde ich.",
+      "exampleEn": "The longer I wait, the more impatient I become.",
+      "example2": "Sie hat wenig Zeit, umso wichtiger ist eine gute Planung.",
+      "example2En": "She has little time, so good planning is all the more important."
+    },
+    {
+      "de": "umweltfreundlich",
+      "en": "environmentally friendly",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not harmful to the environment",
+          "de": "der Umwelt nicht schadend"
+        }
+      ],
+      "rule": "Regular comparison: umweltfreundlich, umweltfreundlicher, am umweltfreundlichsten.",
+      "example": "Wir kaufen nur noch umweltfreundliche Produkte.",
+      "exampleEn": "We only buy environmentally friendly products now.",
+      "example2": "Fahrradfahren ist sehr umweltfreundlich.",
+      "example2En": "Cycling is very environmentally friendly."
+    },
+    {
+      "de": "der Umweltschutz",
+      "en": "environmental protection",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "protection of the natural environment",
+          "de": "Schutz der Natur und Umwelt"
+        }
+      ],
+      "rule": "Uncountable, no plural. Compound: Umwelt + Schutz, masculine like 'der Schutz'.",
+      "example": "Umweltschutz ist ihr sehr wichtig.",
+      "exampleEn": "Environmental protection is very important to her.",
+      "example2": "Die Firma investiert viel Geld in den Umweltschutz.",
+      "example2En": "The company invests a lot of money in environmental protection."
+    },
+    {
+      "de": "die Umweltverschmutzung",
+      "en": "environmental pollution",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "pollution of the environment",
+          "de": "Verschmutzung von Luft, Wasser und Boden"
+        }
+      ],
+      "rule": "Uncountable, no plural. Feminine like 'die Verschmutzung'.",
+      "example": "Die Umweltverschmutzung in den Großstädten nimmt zu.",
+      "exampleEn": "Environmental pollution is increasing in big cities.",
+      "example2": "Autos tragen stark zur Umweltverschmutzung bei.",
+      "example2En": "Cars contribute a lot to environmental pollution."
+    },
+    {
+      "de": "unbefristet",
+      "en": "permanent, unlimited (contract)",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "without a fixed end date",
+          "de": "ohne zeitliche Begrenzung"
+        }
+      ],
+      "rule": "Opposite of 'befristet'. Common collocation: ein unbefristeter Vertrag/Arbeitsvertrag.",
+      "example": "Sie hat einen unbefristeten Arbeitsvertrag bekommen.",
+      "exampleEn": "She got a permanent employment contract.",
+      "example2": "Der Mietvertrag ist unbefristet.",
+      "example2En": "The rental contract is unlimited (open-ended)."
+    },
+    {
+      "de": "unentschieden",
+      "en": "undecided; drawn (tied), score-wise",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not yet decided",
+          "de": "noch nicht entschieden"
+        },
+        {
+          "en": "tied (sports result)",
+          "de": "mit gleichem Ergebnis, ohne Sieger"
+        }
+      ],
+      "rule": "Also used as a noun 'das Unentschieden' meaning 'a draw/tie' in sports.",
+      "example": "Ich bin noch unentschieden, ob ich mitkomme.",
+      "exampleEn": "I'm still undecided whether I'll come along.",
+      "example2": "Das Spiel endete unentschieden, 1:1.",
+      "example2En": "The match ended in a draw, 1:1."
+    },
+    {
+      "de": "der Unfall",
+      "en": "accident",
+      "pos": "noun",
+      "plural": "die Unfälle",
+      "meanings": [
+        {
+          "en": "an unplanned, harmful event",
+          "de": "ein plötzliches, schädliches Ereignis"
+        }
+      ],
+      "rule": "Irregular plural with umlaut: der Unfall, die Unfälle. Common collocation: einen Unfall haben/verursachen.",
+      "example": "Er hatte gestern einen Autounfall.",
+      "exampleEn": "He had a car accident yesterday.",
+      "example2": "Zum Glück ist bei dem Unfall niemand verletzt worden.",
+      "example2En": "Luckily, no one was injured in the accident."
+    },
+    {
+      "de": "die Unfallgefahr",
+      "en": "risk of accident",
+      "pos": "noun",
+      "plural": "die Unfallgefahren",
+      "meanings": [
+        {
+          "en": "danger that an accident will happen",
+          "de": "Gefahr, dass ein Unfall passiert"
+        }
+      ],
+      "rule": "Compound of Unfall + Gefahr, feminine like 'die Gefahr'.",
+      "example": "Bei Glatteis steigt die Unfallgefahr stark.",
+      "exampleEn": "On icy roads, the risk of accidents rises sharply.",
+      "example2": "An dieser Kreuzung besteht eine hohe Unfallgefahr.",
+      "example2En": "There is a high risk of accidents at this intersection."
+    },
+    {
+      "de": "ungeduldig",
+      "en": "impatient",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not able to wait calmly",
+          "de": "ohne Geduld"
+        }
+      ],
+      "rule": "Opposite of 'geduldig'. Regular comparison.",
+      "example": "Die Kinder wurden ungeduldig, weil der Bus nicht kam.",
+      "exampleEn": "The children got impatient because the bus didn't come.",
+      "example2": "Sei nicht so ungeduldig, es dauert nicht mehr lange.",
+      "example2En": "Don't be so impatient, it won't take much longer."
+    },
+    {
+      "de": "ungesund",
+      "en": "unhealthy",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "bad for one's health",
+          "de": "schlecht für die Gesundheit"
+        }
+      ],
+      "rule": "Opposite of 'gesund'. Takes an umlaut in comparison (like gesund → gesünder): ungesund, ungesünder, am ungesündesten.",
+      "example": "Fast Food ist oft sehr ungesund.",
+      "exampleEn": "Fast food is often very unhealthy.",
+      "example2": "Er raucht und lebt ziemlich ungesund.",
+      "example2En": "He smokes and lives quite unhealthily."
+    },
+    {
+      "de": "unglaublich",
+      "en": "unbelievable, incredible",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "hard to believe",
+          "de": "kaum zu glauben"
+        },
+        {
+          "en": "used as intensifier: extremely",
+          "de": "umgangssprachlich: sehr, extrem"
+        }
+      ],
+      "rule": "Can also be used adverbially as an intensifier: 'unglaublich gut' (incredibly good).",
+      "example": "Das ist eine unglaubliche Geschichte!",
+      "exampleEn": "That's an unbelievable story!",
+      "example2": "Der Film war unglaublich spannend.",
+      "example2En": "The movie was incredibly exciting."
+    },
+    {
+      "de": "unnötig",
+      "en": "unnecessary",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not needed",
+          "de": "nicht nötig"
+        }
+      ],
+      "rule": "Opposite of 'nötig'. Regular comparison.",
+      "example": "Diese Diskussion ist völlig unnötig.",
+      "exampleEn": "This discussion is completely unnecessary.",
+      "example2": "Kauf nichts Unnötiges, wir haben nicht viel Geld.",
+      "example2En": "Don't buy anything unnecessary, we don't have much money."
+    },
+    {
+      "de": "das Unrecht",
+      "en": "injustice, wrong",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "an unfair or wrongful act/situation",
+          "de": "etwas, das nicht gerecht ist"
+        }
+      ],
+      "rule": "Uncountable, no plural. Neuter. Fixed phrase: Unrecht haben (to be wrong).",
+      "example": "Man hat ihm großes Unrecht getan.",
+      "exampleEn": "He was done a great injustice.",
+      "example2": "Ich glaube, du hast Unrecht.",
+      "example2En": "I think you are wrong."
+    },
+    {
+      "de": "die Unterhaltung",
+      "en": "conversation; entertainment",
+      "pos": "noun",
+      "plural": "die Unterhaltungen",
+      "meanings": [
+        {
+          "en": "a conversation, chat",
+          "de": "ein Gespräch"
+        },
+        {
+          "en": "entertainment, amusement",
+          "de": "Zeitvertreib, Vergnügen"
+        }
+      ],
+      "rule": "From verb 'sich unterhalten' (+ mit + Dativ) = to converse; also 'unterhalten' = to entertain.",
+      "example": "Wir hatten eine nette Unterhaltung im Café.",
+      "exampleEn": "We had a nice conversation in the café.",
+      "example2": "Das Fest bot viel Unterhaltung für die Kinder.",
+      "example2En": "The festival offered a lot of entertainment for the children."
+    },
+    {
+      "de": "unverbindlich",
+      "en": "non-binding, without obligation",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not legally or formally binding",
+          "de": "ohne Verpflichtung"
+        }
+      ],
+      "rule": "Opposite of 'verbindlich'. Common in offers: ein unverbindliches Angebot.",
+      "example": "Die Beratung ist kostenlos und unverbindlich.",
+      "exampleEn": "The consultation is free and without obligation.",
+      "example2": "Er gab nur eine unverbindliche Antwort.",
+      "example2En": "He only gave a noncommittal answer."
+    },
+    {
+      "de": "das Unwetter",
+      "en": "storm, severe weather",
+      "pos": "noun",
+      "plural": "die Unwetter",
+      "meanings": [
+        {
+          "en": "a violent storm",
+          "de": "ein sehr starkes, gefährliches Wetter"
+        }
+      ],
+      "rule": "Neuter noun, plural unchanged: das Unwetter, die Unwetter.",
+      "example": "Das Unwetter hat viele Bäume umgeworfen.",
+      "exampleEn": "The storm knocked down many trees.",
+      "example2": "Vor dem Unwetter wurde im Radio gewarnt.",
+      "example2En": "People were warned about the storm on the radio in advance."
+    },
+    {
+      "de": "der Urlaubstag",
+      "en": "vacation day, day off",
+      "pos": "noun",
+      "plural": "die Urlaubstage",
+      "meanings": [
+        {
+          "en": "a day of paid vacation/leave",
+          "de": "ein Tag, an dem man frei von der Arbeit hat"
+        }
+      ],
+      "rule": "Compound of Urlaub + Tag, masculine like 'der Tag'.",
+      "example": "Ich habe noch fünf Urlaubstage in diesem Jahr.",
+      "exampleEn": "I still have five vacation days this year.",
+      "example2": "Er nimmt morgen einen Urlaubstag.",
+      "example2En": "He's taking a day off tomorrow."
+    },
+    {
+      "de": "das Urteil",
+      "en": "judgment, verdict",
+      "pos": "noun",
+      "plural": "die Urteile",
+      "meanings": [
+        {
+          "en": "a court's official decision",
+          "de": "die Entscheidung eines Gerichts"
+        },
+        {
+          "en": "an opinion or assessment",
+          "de": "eine persönliche Meinung/Bewertung"
+        }
+      ],
+      "rule": "Neuter noun. Collocation: ein Urteil fällen/sprechen (to pass judgment).",
+      "example": "Das Gericht hat sein Urteil gesprochen.",
+      "exampleEn": "The court has passed its verdict.",
+      "example2": "Ich möchte mir noch kein Urteil über ihn erlauben.",
+      "example2En": "I don't want to form a judgment about him yet."
+    },
+    {
+      "de": "vegan",
+      "en": "vegan",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "vegan (no animal products)",
+          "de": "ohne tierische Produkte"
+        }
+      ],
+      "rule": "No comparison typically used; regular adjective endings: veganes Essen, vegane Ernährung.",
+      "example": "Sie ernährt sich seit zwei Jahren vegan.",
+      "exampleEn": "She has been eating vegan for two years.",
+      "example2": "Das Restaurant bietet auch vegane Gerichte an.",
+      "example2En": "The restaurant also offers vegan dishes."
+    },
+    {
+      "de": "der Veganer / die Veganerin",
+      "en": "vegan (person)",
+      "pos": "noun",
+      "plural": "die Veganer / die Veganerinnen",
+      "meanings": [
+        {
+          "en": "a person who eats no animal products",
+          "de": "jemand, der vegan lebt"
+        }
+      ],
+      "rule": "Agent noun from 'vegan'; masculine -er, feminine -erin.",
+      "example": "Als Veganer isst er keine Milchprodukte.",
+      "exampleEn": "As a vegan, he doesn't eat dairy products.",
+      "example2": "Immer mehr Veganerinnen kochen ohne Fleisch und Eier.",
+      "example2En": "More and more vegan women cook without meat and eggs."
+    },
+    {
+      "de": "verändern",
+      "en": "to change, alter",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to change something",
+          "de": "etwas anders machen"
+        },
+        {
+          "en": "(sich verändern) to change, develop",
+          "de": "anders werden"
+        }
+      ],
+      "rule": "Regular weak verb (veränderte, hat verändert); can be used transitively or reflexively (sich verändern).",
+      "example": "Die neue Arbeit hat sein Leben verändert.",
+      "exampleEn": "The new job changed his life.",
+      "example2": "Die Stadt hat sich in den letzten Jahren stark verändert.",
+      "example2En": "The city has changed a lot in recent years."
+    },
+    {
+      "de": "verärgert",
+      "en": "annoyed, angry",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "annoyed, angry (about something)",
+          "de": "wütend, genervt"
+        }
+      ],
+      "rule": "Past participle of 'verärgern' used as adjective; often with 'über + Akkusativ'.",
+      "example": "Er war sehr verärgert über die Verspätung.",
+      "exampleEn": "He was very annoyed about the delay.",
+      "example2": "Die Kundin reagierte verärgert auf die schlechte Beratung.",
+      "example2En": "The customer reacted angrily to the poor service."
+    },
+    {
+      "de": "der Verbrauch",
+      "en": "consumption, usage",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the amount used (of energy, water, etc.)",
+          "de": "die verbrauchte Menge"
+        }
+      ],
+      "rule": "Uncountable noun; related verb 'verbrauchen'; often in compounds like Energieverbrauch, Wasserverbrauch.",
+      "example": "Der Verbrauch an Strom ist im Winter höher.",
+      "exampleEn": "Electricity consumption is higher in winter.",
+      "example2": "Wir müssen unseren Verbrauch an Plastik reduzieren.",
+      "example2En": "We need to reduce our plastic consumption."
+    },
+    {
+      "de": "der Verbraucher / die Verbraucherin",
+      "en": "consumer",
+      "pos": "noun",
+      "plural": "die Verbraucher / die Verbraucherinnen",
+      "meanings": [
+        {
+          "en": "a person who buys/uses goods and services",
+          "de": "jemand, der Waren oder Dienstleistungen kauft"
+        }
+      ],
+      "rule": "Agent noun from 'verbrauchen'; often used in 'Verbraucherschutz' (consumer protection).",
+      "example": "Die Verbraucher achten immer mehr auf Qualität.",
+      "exampleEn": "Consumers pay more and more attention to quality.",
+      "example2": "Als Verbraucherin hat sie ein Recht auf klare Informationen.",
+      "example2En": "As a consumer, she has a right to clear information."
+    },
+    {
+      "de": "verdrängen",
+      "en": "to displace, push out; to repress",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to push something out / take its place",
+          "de": "etwas wegdrängen, ersetzen"
+        },
+        {
+          "en": "to repress (a thought or feeling)",
+          "de": "etwas nicht wahrhaben wollen"
+        }
+      ],
+      "rule": "Regular weak verb (verdrängte, hat verdrängt); + Akkusativ.",
+      "example": "Das neue Geschäft hat den kleinen Laden vom Markt verdrängt.",
+      "exampleEn": "The new store pushed the small shop out of the market.",
+      "example2": "Sie versucht, die schlechten Erinnerungen zu verdrängen.",
+      "example2En": "She tries to repress the bad memories."
+    },
+    {
+      "de": "vereinbar",
+      "en": "compatible",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "able to be combined or reconciled with something",
+          "de": "gut zusammenpassend mit etwas"
+        }
+      ],
+      "rule": "Often with 'mit + Dativ'; opposite is 'unvereinbar'.",
+      "example": "Der Job ist gut mit dem Familienleben vereinbar.",
+      "exampleEn": "The job is easily compatible with family life.",
+      "example2": "Diese Werte sind nicht mit unserer Firmenpolitik vereinbar.",
+      "example2En": "These values are not compatible with our company policy."
+    },
+    {
+      "de": "vereinigen",
+      "en": "to unite, combine",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to bring together, unite",
+          "de": "zusammenbringen"
+        }
+      ],
+      "rule": "Regular weak verb (vereinigte, hat vereinigt); can be reflexive (sich vereinigen); related noun: die Vereinigung.",
+      "example": "Die beiden Firmen haben sich zu einem Konzern vereinigt.",
+      "exampleEn": "The two companies merged into one corporation.",
+      "example2": "1990 wurden Ost- und Westdeutschland vereinigt.",
+      "example2En": "In 1990, East and West Germany were united."
+    },
+    {
+      "de": "verfolgen",
+      "en": "to follow, pursue; to chase",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to chase or pursue someone",
+          "de": "jemandem hinterherlaufen"
+        },
+        {
+          "en": "to follow (news, a goal) closely",
+          "de": "aufmerksam beobachten"
+        }
+      ],
+      "rule": "Regular weak verb (verfolgte, hat verfolgt); + Akkusativ.",
+      "example": "Die Polizei hat den Dieb bis zum Bahnhof verfolgt.",
+      "exampleEn": "The police chased the thief to the train station.",
+      "example2": "Ich verfolge die Nachrichten jeden Tag im Internet.",
+      "example2En": "I follow the news every day online."
+    },
+    {
+      "de": "vergleichbar",
+      "en": "comparable",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "similar enough to be compared",
+          "de": "ähnlich, vergleichen lassend"
+        }
+      ],
+      "rule": "Often with 'mit + Dativ'; from verb 'vergleichen'.",
+      "example": "Die Preise sind mit denen im letzten Jahr vergleichbar.",
+      "exampleEn": "The prices are comparable to those last year.",
+      "example2": "Seine Situation ist kaum mit meiner vergleichbar.",
+      "example2En": "His situation is hardly comparable to mine."
+    }
+  ]
+}

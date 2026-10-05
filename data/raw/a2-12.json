@@ -1,0 +1,909 @@
+{
+  "id": "a2-12",
+  "title": "A2 · L–M (12)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "der Lichtbildausweis",
+      "en": "photo ID",
+      "pos": "noun",
+      "plural": "die Lichtbildausweise",
+      "meanings": [
+        {
+          "en": "an official identity document with a photo",
+          "de": "ein Ausweis mit Foto"
+        }
+      ],
+      "rule": "compound: Lichtbild (photo) + Ausweis (ID); formal word, e.g. Personalausweis or Reisepass",
+      "example": "Bitte zeigen Sie einen gültigen Lichtbildausweis.",
+      "exampleEn": "Please show a valid photo ID.",
+      "example2": "Ohne Lichtbildausweis dürfen Sie nicht in die Prüfung.",
+      "example2En": "Without a photo ID you may not enter the exam."
+    },
+    {
+      "de": "das Lieblingsfach",
+      "en": "favorite subject (school)",
+      "pos": "noun",
+      "plural": "die Lieblingsfächer",
+      "meanings": [
+        {
+          "en": "favorite school subject",
+          "de": "das Schulfach, das man am liebsten mag"
+        }
+      ],
+      "rule": "Compound noun: Lieblings- + das Fach; gender from Fach (das).",
+      "example": "Mathe ist mein Lieblingsfach.",
+      "exampleEn": "Math is my favorite subject.",
+      "example2": "Was ist dein Lieblingsfach in der Schule?",
+      "example2En": "What is your favorite subject at school?"
+    },
+    {
+      "de": "die Lieblingsfarbe",
+      "en": "favorite color",
+      "pos": "noun",
+      "plural": "die Lieblingsfarben",
+      "meanings": [
+        {
+          "en": "the color one likes most",
+          "de": "die Farbe, die man am liebsten mag"
+        }
+      ],
+      "rule": "Compound noun: Lieblings- + die Farbe; gender from Farbe (die).",
+      "example": "Meine Lieblingsfarbe ist Blau.",
+      "exampleEn": "My favorite color is blue.",
+      "example2": "Welche Farbe ist deine Lieblingsfarbe?",
+      "example2En": "Which color is your favorite?"
+    },
+    {
+      "de": "der Lieferant / die Lieferantin",
+      "en": "supplier; delivery person",
+      "pos": "noun",
+      "plural": "die Lieferanten / die Lieferantinnen",
+      "meanings": [
+        {
+          "en": "person or company that delivers/supplies goods",
+          "de": "jemand, der Waren liefert"
+        }
+      ],
+      "rule": "Weak masculine noun (der Lieferant, den/dem/des Lieferanten); feminine form with -in.",
+      "example": "Der Lieferant bringt die Pakete am Vormittag.",
+      "exampleEn": "The delivery person brings the packages in the morning.",
+      "example2": "Wir suchen einen neuen Lieferanten für Obst und Gemüse.",
+      "example2En": "We are looking for a new supplier for fruit and vegetables."
+    },
+    {
+      "de": "liefern",
+      "en": "to deliver; to supply",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to deliver goods",
+          "de": "Waren bringen"
+        },
+        {
+          "en": "to supply / provide",
+          "de": "zur Verfügung stellen"
+        }
+      ],
+      "rule": "Regular weak verb: liefert, lieferte, hat geliefert.",
+      "example": "Der Supermarkt liefert die Ware bis vor die Tür.",
+      "exampleEn": "The supermarket delivers the goods right to the door.",
+      "example2": "Die Firma liefert Strom für die ganze Stadt.",
+      "example2En": "The company supplies electricity for the whole city."
+    },
+    {
+      "de": "lockig",
+      "en": "curly",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having curls (hair)",
+          "de": "mit Locken"
+        }
+      ],
+      "rule": "Regular adjective, no irregular comparison: lockig, lockiger, am lockigsten. Used mainly to describe hair.",
+      "example": "Sie hat lockige Haare.",
+      "exampleEn": "She has curly hair.",
+      "example2": "Mein Bruder hatte als Kind sehr lockige Haare.",
+      "example2En": "My brother had very curly hair as a child."
+    },
+    {
+      "de": "der Löffel",
+      "en": "spoon",
+      "pos": "noun",
+      "plural": "die Löffel",
+      "meanings": [
+        {
+          "en": "eating utensil for liquid/soft food",
+          "de": "Besteckteil zum Essen von Suppe"
+        }
+      ],
+      "rule": "Masculine noun; plural unchanged (der Löffel – die Löffel).",
+      "example": "Kannst du mir einen Löffel geben?",
+      "exampleEn": "Can you give me a spoon?",
+      "example2": "Ich esse die Suppe mit einem großen Löffel.",
+      "example2En": "I eat the soup with a big spoon."
+    },
+    {
+      "de": "löschen",
+      "en": "to delete; to extinguish",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to delete (a file, text)",
+          "de": "eine Datei entfernen"
+        },
+        {
+          "en": "to extinguish (fire)",
+          "de": "ein Feuer ausmachen"
+        }
+      ],
+      "rule": "Regular weak verb: löscht, löschte, hat gelöscht.",
+      "example": "Ich habe die E-Mail aus Versehen gelöscht.",
+      "exampleEn": "I accidentally deleted the email.",
+      "example2": "Die Feuerwehr hat das Feuer schnell gelöscht.",
+      "example2En": "The fire department extinguished the fire quickly."
+    },
+    {
+      "de": "lösen",
+      "en": "to solve; to loosen/detach",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to solve (a problem, task)",
+          "de": "eine Lösung für eine Aufgabe finden"
+        },
+        {
+          "en": "to loosen or detach something",
+          "de": "etwas lockern oder abtrennen"
+        }
+      ],
+      "rule": "Regular weak verb: löst, löste, hat gelöst.",
+      "example": "Er hat die Matheaufgabe schnell gelöst.",
+      "exampleEn": "He solved the math problem quickly.",
+      "example2": "Der Knoten lässt sich nicht lösen.",
+      "example2En": "The knot won't loosen."
+    },
+    {
+      "de": "losfahren",
+      "en": "to set off, to depart (driving/riding)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to start a journey / depart",
+          "de": "mit dem Fahrzeug abfahren"
+        }
+      ],
+      "rule": "Trennbar (separable): fährt los, fuhr los, ist losgefahren.",
+      "example": "Wir fahren morgen früh um sechs Uhr los.",
+      "exampleEn": "We set off tomorrow at six in the morning.",
+      "example2": "Der Bus ist schon losgefahren.",
+      "example2En": "The bus has already departed."
+    },
+    {
+      "de": "lückenlos",
+      "en": "complete, without gaps",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "without any gaps or omissions, complete",
+          "de": "ohne Lücken, vollständig"
+        }
+      ],
+      "rule": "From die Lücke (gap) + -los; regular comparison: lückenlos, lückenloser, am lückenlosesten.",
+      "example": "Sie hat einen lückenlosen Lebenslauf.",
+      "exampleEn": "She has a complete résumé (no gaps).",
+      "example2": "Die Polizei will die Vorfälle lückenlos aufklären.",
+      "example2En": "The police want to clarify the incidents completely."
+    },
+    {
+      "de": "die Lust",
+      "en": "desire, enjoyment; mood (to do something)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "desire/inclination to do something",
+          "de": "Wunsch oder Freude, etwas zu tun"
+        }
+      ],
+      "rule": "Feminine noun, usually uncountable in this A2 sense; common phrase: Lust haben auf + Akkusativ / Lust haben, etwas zu tun.",
+      "example": "Hast du Lust, ins Kino zu gehen?",
+      "exampleEn": "Do you feel like going to the cinema?",
+      "example2": "Ich habe heute keine Lust zu kochen.",
+      "example2En": "I don't feel like cooking today."
+    },
+    {
+      "de": "das Mädchen",
+      "en": "girl",
+      "pos": "noun",
+      "plural": "die Mädchen",
+      "meanings": [
+        {
+          "en": "female child or young girl",
+          "de": "weibliches Kind"
+        }
+      ],
+      "rule": "Neuter noun despite referring to a female (diminutive -chen is always neuter); plural unchanged.",
+      "example": "Das Mädchen spielt im Garten.",
+      "exampleEn": "The girl is playing in the garden.",
+      "example2": "In der Klasse sind zwölf Mädchen.",
+      "example2En": "There are twelve girls in the class."
+    },
+    {
+      "de": "mailen",
+      "en": "to email",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to send an email",
+          "de": "eine E-Mail schicken"
+        }
+      ],
+      "rule": "Regular weak verb (from English 'mail'): mailt, mailte, hat gemailt.",
+      "example": "Ich maile dir die Unterlagen heute Abend.",
+      "exampleEn": "I'll email you the documents tonight.",
+      "example2": "Kannst du mir bitte die Fotos mailen?",
+      "example2En": "Can you please email me the photos?"
+    },
+    {
+      "de": "das Make-up",
+      "en": "makeup",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "cosmetics applied to the face",
+          "de": "Kosmetik fürs Gesicht"
+        }
+      ],
+      "rule": "Neuter loanword from English; usually uncountable, no plural in everyday use.",
+      "example": "Sie trägt nie viel Make-up.",
+      "exampleEn": "She never wears much makeup.",
+      "example2": "Er hilft ihr, das Make-up für die Feier aufzulegen.",
+      "example2En": "He helps her put on makeup for the party."
+    },
+    {
+      "de": "der Makler / die Maklerin",
+      "en": "broker, real estate agent",
+      "pos": "noun",
+      "plural": "die Makler / die Maklerinnen",
+      "meanings": [
+        {
+          "en": "agent who mediates sales/rentals (esp. real estate)",
+          "de": "jemand, der Wohnungen oder Häuser vermittelt"
+        }
+      ],
+      "rule": "Masculine noun, plural unchanged; feminine form with -in.",
+      "example": "Wir haben die Wohnung über einen Makler gefunden.",
+      "exampleEn": "We found the apartment through a broker.",
+      "example2": "Die Maklerin zeigt uns heute drei Häuser.",
+      "example2En": "The real estate agent is showing us three houses today."
+    },
+    {
+      "de": "malen",
+      "en": "to paint, to draw",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to paint or draw (a picture)",
+          "de": "ein Bild mit Farbe oder Stift machen"
+        }
+      ],
+      "rule": "Regular weak verb: malt, malte, hat gemalt. Do not confuse with 'mahlen' (to grind).",
+      "example": "Das Kind malt ein Bild von seiner Familie.",
+      "exampleEn": "The child is drawing a picture of their family.",
+      "example2": "Sie malt gern mit Wasserfarben.",
+      "example2En": "She likes painting with watercolors."
+    },
+    {
+      "de": "manche",
+      "en": "some, several",
+      "pos": "pronoun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "some (people/things), an indefinite number",
+          "de": "einige, nicht alle"
+        }
+      ],
+      "rule": "Declines like 'dieser'; used with or without a noun, e.g. manche Leute, manche sagen.",
+      "example": "Manche Leute mögen kein Fleisch.",
+      "exampleEn": "Some people don't like meat.",
+      "example2": "Manche finden das Wetter hier zu kalt.",
+      "example2En": "Some (people) think the weather here is too cold."
+    },
+    {
+      "de": "mangelhaft",
+      "en": "deficient, poor (quality/grade)",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "of poor quality, with defects",
+          "de": "mit Fehlern, nicht ausreichend"
+        },
+        {
+          "en": "a poor/unsatisfactory school grade in Germany (Note 5)",
+          "de": "eine schlechte Schulnote (Note 5 im deutschen Notensystem)"
+        }
+      ],
+      "rule": "From der Mangel (lack) + -haft; regular comparison: mangelhaft, mangelhafter, am mangelhaftesten.",
+      "example": "Die Ware war mangelhaft und wir haben sie zurückgeschickt.",
+      "exampleEn": "The goods were defective, so we sent them back.",
+      "example2": "Er hat in Mathe die Note 'mangelhaft' bekommen.",
+      "example2En": "He got the grade 'mangelhaft' (a poor grade) in math."
+    },
+    {
+      "de": "männlich",
+      "en": "male; masculine",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "male (biological)",
+          "de": "vom Geschlecht her: Mann/Tier-männlich"
+        },
+        {
+          "en": "masculine (grammar)",
+          "de": "grammatisches Geschlecht: der-Wörter"
+        }
+      ],
+      "rule": "No comparison irregularity; opposite: weiblich. Used for sex/gender of people/animals and for grammatical gender (der Artikel).",
+      "example": "Ist das Baby männlich oder weiblich?",
+      "exampleEn": "Is the baby male or female?",
+      "example2": "\"Der Tisch\" ist ein männliches Wort.",
+      "example2En": "\"Der Tisch\" is a masculine word."
+    },
+    {
+      "de": "das Marketing",
+      "en": "marketing",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "marketing (business activity)",
+          "de": "Werbung und Verkaufsförderung"
+        }
+      ],
+      "rule": "Uncountable noun, no plural. Always with article das.",
+      "example": "Sie arbeitet im Marketing.",
+      "exampleEn": "She works in marketing.",
+      "example2": "Das Marketing für das neue Produkt ist wichtig.",
+      "example2En": "The marketing for the new product is important."
+    },
+    {
+      "de": "die Massage",
+      "en": "massage",
+      "pos": "noun",
+      "plural": "die Massagen",
+      "meanings": [
+        {
+          "en": "massage (treatment)",
+          "de": "Behandlung durch Kneten des Körpers"
+        }
+      ],
+      "rule": "Feminine noun; plural regular: die Massagen.",
+      "example": "Ich brauche eine Massage.",
+      "exampleEn": "I need a massage.",
+      "example2": "Die Massage hat eine Stunde gedauert.",
+      "example2En": "The massage lasted one hour."
+    },
+    {
+      "de": "massieren",
+      "en": "to massage",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to massage someone/something",
+          "de": "kneten, den Körper behandeln"
+        }
+      ],
+      "rule": "Regular weak verb: massiert, massierte, hat massiert.",
+      "example": "Er massiert mir den Rücken.",
+      "exampleEn": "He massages my back.",
+      "example2": "Kannst du bitte meine Schultern massieren?",
+      "example2En": "Can you please massage my shoulders?"
+    },
+    {
+      "de": "das Material",
+      "en": "material",
+      "pos": "noun",
+      "plural": "die Materialien",
+      "meanings": [
+        {
+          "en": "material (substance)",
+          "de": "Stoff, aus dem etwas gemacht wird"
+        },
+        {
+          "en": "material (documents/supplies)",
+          "de": "Unterlagen, Werkzeuge für eine Aufgabe"
+        }
+      ],
+      "rule": "Neuter noun; plural die Materialien.",
+      "example": "Das Material ist sehr stabil.",
+      "exampleEn": "The material is very sturdy.",
+      "example2": "Ich brauche noch Material für den Kurs.",
+      "example2En": "I still need materials for the course."
+    },
+    {
+      "de": "die Mathearbeit",
+      "en": "math test",
+      "pos": "noun",
+      "plural": "die Mathearbeiten",
+      "meanings": [
+        {
+          "en": "math exam/test (school)",
+          "de": "schriftliche Prüfung in Mathematik"
+        }
+      ],
+      "rule": "Feminine noun, compound of Mathe + Arbeit; plural die Mathearbeiten.",
+      "example": "Morgen schreiben wir eine Mathearbeit.",
+      "exampleEn": "Tomorrow we're writing a math test.",
+      "example2": "Die Mathearbeit war sehr schwer.",
+      "example2En": "The math test was very hard."
+    },
+    {
+      "de": "die Maus",
+      "en": "mouse",
+      "pos": "noun",
+      "plural": "die Mäuse",
+      "meanings": [
+        {
+          "en": "mouse (animal)",
+          "de": "kleines Tier"
+        },
+        {
+          "en": "mouse (computer device)",
+          "de": "Gerät für den Computer"
+        }
+      ],
+      "rule": "Feminine noun; irregular plural with umlaut: die Mäuse.",
+      "example": "Im Keller ist eine Maus.",
+      "exampleEn": "There's a mouse in the basement.",
+      "example2": "Meine Maus funktioniert nicht mehr.",
+      "example2En": "My (computer) mouse doesn't work anymore."
+    },
+    {
+      "de": "die Meditation",
+      "en": "meditation",
+      "pos": "noun",
+      "plural": "die Meditationen",
+      "meanings": [
+        {
+          "en": "meditation (practice)",
+          "de": "ruhige Übung zur Entspannung"
+        }
+      ],
+      "rule": "Feminine noun; plural die Meditationen (often used singular/uncountable).",
+      "example": "Meditation hilft gegen Stress.",
+      "exampleEn": "Meditation helps against stress.",
+      "example2": "Sie macht jeden Morgen eine Meditation.",
+      "example2En": "She does a meditation every morning."
+    },
+    {
+      "de": "die Mehrfachsteckdose",
+      "en": "power strip",
+      "pos": "noun",
+      "plural": "die Mehrfachsteckdosen",
+      "meanings": [
+        {
+          "en": "power strip / multi-socket outlet",
+          "de": "Steckdose mit mehreren Anschlüssen"
+        }
+      ],
+      "rule": "Feminine compound noun (mehrfach + Steckdose); plural die Mehrfachsteckdosen.",
+      "example": "Ich brauche eine Mehrfachsteckdose für die Lampen.",
+      "exampleEn": "I need a power strip for the lamps.",
+      "example2": "Die Mehrfachsteckdose hat sechs Anschlüsse.",
+      "example2En": "The power strip has six outlets."
+    },
+    {
+      "de": "die Meinung",
+      "en": "opinion",
+      "pos": "noun",
+      "plural": "die Meinungen",
+      "meanings": [
+        {
+          "en": "opinion, view",
+          "de": "persönliche Ansicht zu einem Thema"
+        }
+      ],
+      "rule": "Feminine noun; common phrase: meiner Meinung nach (in my opinion).",
+      "example": "Meiner Meinung nach ist das richtig.",
+      "exampleEn": "In my opinion, that's correct.",
+      "example2": "Er hat immer eine andere Meinung.",
+      "example2En": "He always has a different opinion."
+    },
+    {
+      "de": "meist",
+      "en": "mostly; most",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "mostly, usually",
+          "de": "in den meisten Fällen"
+        },
+        {
+          "en": "most (superlative of viel)",
+          "de": "die größte Menge/Anzahl"
+        }
+      ],
+      "rule": "Superlative form of viel; as adverb often \"meistens\". Comparison: viel, mehr, am meisten.",
+      "example": "Ich bin meist zu Hause.",
+      "exampleEn": "I'm mostly at home.",
+      "example2": "Die meisten Leute finden das gut.",
+      "example2En": "Most people find that good."
+    },
+    {
+      "de": "melden",
+      "en": "to report",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to report, notify (something)",
+          "de": "etwas offiziell mitteilen"
+        },
+        {
+          "en": "sich melden – to get in touch / respond",
+          "de": "reflexiv: Kontakt aufnehmen, sich zu Wort melden"
+        }
+      ],
+      "rule": "Regular weak verb: meldet, meldete, hat gemeldet. Reflexive use: sich melden (bei + Dativ).",
+      "example": "Ich melde den Unfall der Polizei.",
+      "exampleEn": "I'm reporting the accident to the police.",
+      "example2": "Ich melde mich morgen bei dir.",
+      "example2En": "I'll get in touch with you tomorrow."
+    },
+    {
+      "de": "die Menge",
+      "en": "amount, quantity",
+      "pos": "noun",
+      "plural": "die Mengen",
+      "meanings": [
+        {
+          "en": "amount, quantity",
+          "de": "Anzahl oder Masse von etwas"
+        },
+        {
+          "en": "crowd (of people)",
+          "de": "viele Menschen an einem Ort"
+        }
+      ],
+      "rule": "Feminine noun; plural die Mengen. \"eine Menge\" also colloquially means \"a lot of\".",
+      "example": "Wir brauchen eine große Menge Wasser.",
+      "exampleEn": "We need a large amount of water.",
+      "example2": "Die Menge wartete vor dem Stadion.",
+      "example2En": "The crowd waited in front of the stadium."
+    },
+    {
+      "de": "das Messer",
+      "en": "knife",
+      "pos": "noun",
+      "plural": "die Messer",
+      "meanings": [
+        {
+          "en": "knife",
+          "de": "Werkzeug zum Schneiden"
+        }
+      ],
+      "rule": "Neuter noun; plural unchanged: die Messer.",
+      "example": "Gib mir bitte das Messer.",
+      "exampleEn": "Please pass me the knife.",
+      "example2": "Das Messer ist sehr scharf.",
+      "example2En": "The knife is very sharp."
+    },
+    {
+      "de": "mich",
+      "en": "me",
+      "pos": "pronoun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "me (accusative of ich)",
+          "de": "Akkusativform von ich"
+        }
+      ],
+      "rule": "Accusative personal pronoun, 1st person singular. Dative form is mir.",
+      "example": "Kannst du mich anrufen?",
+      "exampleEn": "Can you call me?",
+      "example2": "Er hat mich nicht gesehen.",
+      "example2En": "He didn't see me."
+    },
+    {
+      "de": "der Mieter / die Mieterin",
+      "en": "tenant",
+      "pos": "noun",
+      "plural": "die Mieter / die Mieterinnen",
+      "meanings": [
+        {
+          "en": "tenant, renter",
+          "de": "Person, die eine Wohnung mietet"
+        }
+      ],
+      "rule": "Masculine der Mieter / feminine die Mieterin; plurals die Mieter / die Mieterinnen.",
+      "example": "Der Mieter zahlt jeden Monat die Miete.",
+      "exampleEn": "The tenant pays the rent every month.",
+      "example2": "Die Mieterin hat sich über die Heizung beschwert.",
+      "example2En": "The tenant (female) complained about the heating."
+    },
+    {
+      "de": "das Mineralwasser",
+      "en": "mineral water",
+      "pos": "noun",
+      "plural": "die Mineralwässer",
+      "meanings": [
+        {
+          "en": "mineral water",
+          "de": "Wasser mit Mineralstoffen, oft mit Kohlensäure"
+        }
+      ],
+      "rule": "Neuter noun, usually uncountable; plural die Mineralwässer (with umlaut) used only for different brands/types.",
+      "example": "Ich trinke gern Mineralwasser.",
+      "exampleEn": "I like drinking mineral water.",
+      "example2": "Bringen Sie mir bitte eine Flasche Mineralwasser.",
+      "example2En": "Please bring me a bottle of mineral water."
+    },
+    {
+      "de": "miserabel",
+      "en": "miserable, terrible",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "very bad, terrible",
+          "de": "sehr schlecht"
+        }
+      ],
+      "rule": "No irregular comparison (miserabler, am miserabelsten - rarely used, often replaced by schrecklich). Strong negative adjective.",
+      "example": "Das Wetter heute ist miserabel.",
+      "exampleEn": "The weather today is terrible.",
+      "example2": "Ich fühle mich miserabel.",
+      "example2En": "I feel miserable."
+    },
+    {
+      "de": "der Mitarbeiter / die Mitarbeiterin",
+      "en": "employee; colleague",
+      "pos": "noun",
+      "plural": "die Mitarbeiter / die Mitarbeiterinnen",
+      "meanings": [
+        {
+          "en": "employee (of a company)",
+          "de": "jemand, der in einer Firma arbeitet"
+        },
+        {
+          "en": "colleague, team member",
+          "de": "Kollege/Kollegin im Team"
+        }
+      ],
+      "rule": "Compound of 'mit' + 'Arbeiter'; feminine form adds -in. Plural: die Mitarbeiter (m.), die Mitarbeiterinnen (f.).",
+      "example": "Frau Klein ist eine neue Mitarbeiterin in unserer Firma.",
+      "exampleEn": "Ms. Klein is a new employee at our company.",
+      "example2": "Die Firma hat 50 Mitarbeiter.",
+      "example2En": "The company has 50 employees."
+    },
+    {
+      "de": "der Mitbewohner / die Mitbewohnerin",
+      "en": "roommate; flatmate",
+      "pos": "noun",
+      "plural": "die Mitbewohner / die Mitbewohnerinnen",
+      "meanings": [
+        {
+          "en": "person one shares a flat/house with",
+          "de": "Person, mit der man zusammen wohnt"
+        }
+      ],
+      "rule": "Compound: mit + Bewohner ('resident'). Feminine adds -in.",
+      "example": "Mein Mitbewohner kocht sehr gern.",
+      "exampleEn": "My roommate loves to cook.",
+      "example2": "Wir suchen eine neue Mitbewohnerin für die WG.",
+      "example2En": "We're looking for a new flatmate for the shared flat."
+    },
+    {
+      "de": "mitfahren",
+      "en": "to ride/go along (as a passenger)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to travel along with someone (as a passenger)",
+          "de": "zusammen mit jemandem in einem Fahrzeug fahren, als Mitfahrer(in)"
+        }
+      ],
+      "rule": "trennbar: fährt mit, fuhr mit, ist mitgefahren. Typische Konstruktion: bei jemandem mitfahren (to catch a ride with someone).",
+      "example": "Kann ich bei dir mitfahren?",
+      "exampleEn": "Can I ride along with you?",
+      "example2": "Er ist bei seinem Kollegen mitgefahren.",
+      "example2En": "He rode along with his colleague."
+    },
+    {
+      "de": "mitkommen",
+      "en": "to come along",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to come along / accompany someone",
+          "de": "zusammen mit jemandem kommen"
+        }
+      ],
+      "rule": "trennbar: kommt mit, kam mit, ist mitgekommen.",
+      "example": "Kommst du heute Abend mit?",
+      "exampleEn": "Are you coming along tonight?",
+      "example2": "Sie ist leider nicht mitgekommen.",
+      "example2En": "Unfortunately she didn't come along."
+    },
+    {
+      "de": "mitmachen",
+      "en": "to take part, join in",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to participate, join in an activity",
+          "de": "an etwas teilnehmen"
+        }
+      ],
+      "rule": "trennbar: macht mit, machte mit, hat mitgemacht.",
+      "example": "Machst du bei dem Spiel mit?",
+      "exampleEn": "Are you joining in the game?",
+      "example2": "Alle Kinder haben beim Fest mitgemacht.",
+      "example2En": "All the children took part in the festival."
+    },
+    {
+      "de": "mitnehmen",
+      "en": "to take along, take away",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to take something/someone along",
+          "de": "etwas/jemanden mitbringen, mit sich nehmen"
+        },
+        {
+          "en": "to take (food) away / to go",
+          "de": "zum Mitnehmen bestellen"
+        }
+      ],
+      "rule": "trennbar, unregelmäßig: nimmt mit, nahm mit, hat mitgenommen.",
+      "example": "Kannst du den Regenschirm mitnehmen?",
+      "exampleEn": "Can you take the umbrella with you?",
+      "example2": "Ich möchte die Pizza zum Mitnehmen bestellen.",
+      "example2En": "I'd like to order the pizza to take away."
+    },
+    {
+      "de": "mitschreiben",
+      "en": "to take notes, write along",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to take notes while someone speaks",
+          "de": "während des Sprechens Notizen machen"
+        }
+      ],
+      "rule": "trennbar, unregelmäßig: schreibt mit, schrieb mit, hat mitgeschrieben.",
+      "example": "Im Unterricht muss ich viel mitschreiben.",
+      "exampleEn": "In class I have to take a lot of notes.",
+      "example2": "Kannst du bitte mitschreiben, was er sagt?",
+      "example2En": "Can you please write down what he says?"
+    },
+    {
+      "de": "die Mitteilung",
+      "en": "message, notice, announcement",
+      "pos": "noun",
+      "plural": "die Mitteilungen",
+      "meanings": [
+        {
+          "en": "a message or piece of information given to someone",
+          "de": "eine Nachricht oder Information"
+        }
+      ],
+      "rule": "From 'mitteilen' (to inform, tell). Feminine noun, plural -en.",
+      "example": "Ich habe eine wichtige Mitteilung für dich.",
+      "exampleEn": "I have an important message for you.",
+      "example2": "Die Schule hat eine Mitteilung an die Eltern geschickt.",
+      "example2En": "The school sent a notice to the parents."
+    },
+    {
+      "de": "die Mittelschule",
+      "en": "secondary school (intermediate level)",
+      "pos": "noun",
+      "plural": "die Mittelschulen",
+      "meanings": [
+        {
+          "en": "type of secondary school (lower/intermediate track)",
+          "de": "eine weiterführende Schule (mittleres Niveau)"
+        }
+      ],
+      "rule": "Compound: Mittel- (middle) + Schule. Feminine, plural -n. Regional term (mainly Bavaria/Saxony); comparable schools elsewhere are called 'Realschule' or 'Hauptschule'.",
+      "example": "Mein Sohn geht auf die Mittelschule.",
+      "exampleEn": "My son goes to secondary school.",
+      "example2": "Nach der Grundschule wechseln viele Kinder in die Mittelschule.",
+      "example2En": "After primary school many children move to secondary school."
+    },
+    {
+      "de": "mittlere",
+      "en": "middle, medium, average",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "situated in the middle; medium in size/degree",
+          "de": "in der Mitte liegend, durchschnittlich"
+        }
+      ],
+      "rule": "Looks like a comparative but is actually the normal attributive form of 'mittel' (which is rarely used attributively): der mittlere Finger, die mittlere Größe. The bare form 'mittel' only appears predicatively/colloquially, e.g. 'Der Film war mittel' (so-so).",
+      "example": "Er ist von mittlerer Größe.",
+      "exampleEn": "He is of medium height.",
+      "example2": "Er hat ein mittleres Einkommen.",
+      "example2En": "He has an average income."
+    },
+    {
+      "de": "mobil",
+      "en": "mobile",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "able to move/travel easily",
+          "de": "beweglich, nicht ortsgebunden"
+        },
+        {
+          "en": "relating to mobile phones/devices",
+          "de": "bezogen auf Mobiltelefone"
+        }
+      ],
+      "rule": "No irregular comparison: mobil, mobiler, am mobilsten.",
+      "example": "Mit dem Fahrrad bin ich sehr mobil.",
+      "exampleEn": "With the bike I'm very mobile.",
+      "example2": "Ich bin jederzeit unter meiner mobilen Nummer erreichbar.",
+      "example2En": "I'm always reachable at my mobile number."
+    },
+    {
+      "de": "der Modedesigner / die Modedesignerin",
+      "en": "fashion designer",
+      "pos": "noun",
+      "plural": "die Modedesigner / die Modedesignerinnen",
+      "meanings": [
+        {
+          "en": "person who designs clothing/fashion",
+          "de": "jemand, der Kleidung entwirft"
+        }
+      ],
+      "rule": "Compound: Mode + Designer. Feminine adds -in.",
+      "example": "Sie möchte Modedesignerin werden.",
+      "exampleEn": "She wants to become a fashion designer.",
+      "example2": "Der Modedesigner zeigt seine neue Kollektion.",
+      "example2En": "The fashion designer is showing his new collection."
+    },
+    {
+      "de": "das Modegeschäft",
+      "en": "clothing store, fashion shop",
+      "pos": "noun",
+      "plural": "die Modegeschäfte",
+      "meanings": [
+        {
+          "en": "a shop selling fashionable clothes",
+          "de": "ein Geschäft, in dem man Kleidung kauft"
+        }
+      ],
+      "rule": "Compound: Mode + Geschäft (neuter). Plural die Modegeschäfte.",
+      "example": "In der Stadt gibt es ein neues Modegeschäft.",
+      "exampleEn": "There's a new clothing store in town.",
+      "example2": "Ich kaufe meine Kleidung oft in diesem Modegeschäft.",
+      "example2En": "I often buy my clothes at this fashion shop."
+    }
+  ]
+}

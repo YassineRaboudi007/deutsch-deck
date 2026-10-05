@@ -1,0 +1,905 @@
+{
+  "id": "b1-09",
+  "title": "B1 · H–J (9)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "die Halbpension",
+      "en": "half board",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "half board (breakfast + one main meal included)",
+          "de": "Übernachtung mit Frühstück und einer weiteren Mahlzeit"
+        }
+      ],
+      "rule": "Feminine noun, usually uncountable; common hotel abbreviation 'HP'. Contrast with Vollpension (full board).",
+      "example": "Wir haben das Hotelzimmer mit Halbpension gebucht.",
+      "exampleEn": "We booked the hotel room with half board.",
+      "example2": "Bei HP bekommt man Frühstück und Abendessen.",
+      "example2En": "With half board you get breakfast and dinner."
+    },
+    {
+      "de": "hämmern",
+      "en": "to hammer",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to hammer (hit with a hammer)",
+          "de": "mit einem Hammer schlagen"
+        },
+        {
+          "en": "to pound, throb (heart, pain)",
+          "de": "heftig und laut schlagen"
+        }
+      ],
+      "rule": "Regular weak verb: hämmert, hämmerte, hat gehämmert.",
+      "example": "Der Nachbar hämmert schon seit einer Stunde an der Wand.",
+      "exampleEn": "The neighbor has been hammering on the wall for an hour already.",
+      "example2": "Nach dem Lauf hämmerte ihr Herz.",
+      "example2En": "After the run her heart was pounding."
+    },
+    {
+      "de": "der Handball",
+      "en": "handball",
+      "pos": "noun",
+      "plural": "die Handbälle",
+      "meanings": [
+        {
+          "en": "handball (the sport / the ball)",
+          "de": "eine Ballsportart mit den Händen"
+        }
+      ],
+      "rule": "Masculine noun, plural -bälle (like Ball, Bälle). Common collocation: 'Handball spielen' (to play handball).",
+      "example": "Mein Sohn spielt jeden Dienstag Handball im Verein.",
+      "exampleEn": "My son plays handball at the club every Tuesday.",
+      "example2": "Sie hat sich beim Handball am Finger verletzt.",
+      "example2En": "She injured her finger while playing handball."
+    },
+    {
+      "de": "das Handgepäck",
+      "en": "hand luggage, carry-on",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "hand luggage / carry-on baggage",
+          "de": "Gepäck, das man im Flugzeug bei sich trägt"
+        }
+      ],
+      "rule": "Neuter noun, uncountable. Common in travel contexts: 'nur Handgepäck'.",
+      "example": "Ich reise nur mit Handgepäck, um Zeit zu sparen.",
+      "exampleEn": "I travel with only hand luggage to save time.",
+      "example2": "Am Flughafen wurde mein Handgepäck kontrolliert.",
+      "example2En": "At the airport my carry-on was checked."
+    },
+    {
+      "de": "die Handlung",
+      "en": "action; plot",
+      "pos": "noun",
+      "plural": "die Handlungen",
+      "meanings": [
+        {
+          "en": "action, act, deed",
+          "de": "das, was jemand tut"
+        },
+        {
+          "en": "plot (of a book/film)",
+          "de": "die Geschichte in einem Buch oder Film"
+        }
+      ],
+      "rule": "Feminine noun, plural -en. Related to the verb handeln (to act).",
+      "example": "Seine schnelle Handlung hat dem Verletzten das Leben gerettet.",
+      "exampleEn": "His quick action saved the injured person's life.",
+      "example2": "Die Handlung des Films spielt im 19. Jahrhundert.",
+      "example2En": "The film's plot is set in the 19th century."
+    },
+    {
+      "de": "der Handwerker / die Handwerkerin",
+      "en": "craftsman, tradesperson",
+      "pos": "noun",
+      "plural": "die Handwerker / die Handwerkerinnen",
+      "meanings": [
+        {
+          "en": "craftsman/tradesperson (e.g. plumber, electrician, carpenter)",
+          "de": "jemand, der ein handwerkliches Gewerbe ausübt"
+        }
+      ],
+      "rule": "Masculine noun der Handwerker, feminine die Handwerkerin, plural die Handwerker / die Handwerkerinnen.",
+      "example": "Wir haben einen Handwerker für die Reparatur der Heizung bestellt.",
+      "exampleEn": "We called a tradesman to repair the heating.",
+      "example2": "Die Handwerkerin hat die neuen Fliesen im Bad verlegt.",
+      "example2En": "The craftswoman laid the new tiles in the bathroom."
+    },
+    {
+      "de": "hart",
+      "en": "hard",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "hard (physical firmness)",
+          "de": "fest, nicht weich"
+        },
+        {
+          "en": "hard, tough (difficult, harsh)",
+          "de": "schwierig, streng"
+        }
+      ],
+      "rule": "Irregular comparison: hart, härter, am härtesten.",
+      "example": "Das Brot ist schon ganz hart geworden.",
+      "exampleEn": "The bread has already gone quite hard.",
+      "example2": "Er hat eine harte Kindheit gehabt.",
+      "example2En": "He had a hard childhood."
+    },
+    {
+      "de": "der Hartweizen",
+      "en": "durum wheat",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "durum wheat (used for pasta)",
+          "de": "eine harte Weizensorte, aus der Nudeln gemacht werden"
+        }
+      ],
+      "rule": "Masculine noun, usually uncountable. Common in food labeling: 'Hartweizengrieß'.",
+      "example": "Gute Pasta wird aus Hartweizen hergestellt.",
+      "exampleEn": "Good pasta is made from durum wheat.",
+      "example2": "Auf der Packung steht: 100 % Hartweizen.",
+      "example2En": "The package says: 100% durum wheat."
+    },
+    {
+      "de": "die Haselnuss",
+      "en": "hazelnut",
+      "pos": "noun",
+      "plural": "die Haselnüsse",
+      "meanings": [
+        {
+          "en": "hazelnut",
+          "de": "die Frucht des Haselnussstrauchs"
+        }
+      ],
+      "rule": "Feminine noun, plural with umlaut, like Nuss → Nüsse.",
+      "example": "Im Herbst sammeln die Kinder Haselnüsse im Wald.",
+      "exampleEn": "In autumn the children collect hazelnuts in the forest.",
+      "example2": "Diese Schokolade enthält gemahlene Haselnüsse.",
+      "example2En": "This chocolate contains ground hazelnuts."
+    },
+    {
+      "de": "häufig",
+      "en": "frequent(ly)",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "frequent, common",
+          "de": "oft vorkommend"
+        }
+      ],
+      "rule": "Regular adjective/adverb, no irregular comparison (häufig, häufiger, am häufigsten). Similar to 'oft' but more formal.",
+      "example": "Kopfschmerzen sind eine häufige Nebenwirkung dieses Medikaments.",
+      "exampleEn": "Headaches are a frequent side effect of this medication.",
+      "example2": "Er ist in letzter Zeit häufig krank.",
+      "example2En": "He has been frequently ill lately."
+    },
+    {
+      "de": "der Hauptgrund",
+      "en": "main reason",
+      "pos": "noun",
+      "plural": "die Hauptgründe",
+      "meanings": [
+        {
+          "en": "main reason",
+          "de": "der wichtigste Grund für etwas"
+        }
+      ],
+      "rule": "Masculine noun, plural -e (like Grund, Gründe). Compound of Haupt- (main) + Grund (reason).",
+      "example": "Der Hauptgrund für seinen Umzug war der neue Job.",
+      "exampleEn": "The main reason for his move was the new job.",
+      "example2": "Was war der Hauptgrund für eure Entscheidung?",
+      "example2En": "What was the main reason for your decision?"
+    },
+    {
+      "de": "die Hauptstadt",
+      "en": "capital city",
+      "pos": "noun",
+      "plural": "die Hauptstädte",
+      "meanings": [
+        {
+          "en": "capital city of a country/state",
+          "de": "wichtigste Stadt eines Landes"
+        }
+      ],
+      "rule": "Compound: Haupt- (main) + Stadt; genitive: der Hauptstadt.",
+      "example": "Berlin ist die Hauptstadt von Deutschland.",
+      "exampleEn": "Berlin is the capital of Germany.",
+      "example2": "Welche Stadt ist die Hauptstadt von Österreich?",
+      "example2En": "Which city is the capital of Austria?"
+    },
+    {
+      "de": "der Haushalt",
+      "en": "household; budget",
+      "pos": "noun",
+      "plural": "die Haushalte",
+      "meanings": [
+        {
+          "en": "household (home and its members)",
+          "de": "Wohnung/Familie und ihr Leben zusammen"
+        },
+        {
+          "en": "budget (of a state, family, etc.)",
+          "de": "geplante Einnahmen und Ausgaben"
+        }
+      ],
+      "rule": "Also used as 'den Haushalt machen' = to do the housework.",
+      "example": "In unserem Haushalt leben vier Personen.",
+      "exampleEn": "Four people live in our household.",
+      "example2": "Die Regierung plant den Haushalt für nächstes Jahr.",
+      "example2En": "The government is planning next year's budget."
+    },
+    {
+      "de": "die Heimat",
+      "en": "home country; homeland",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the place/country one feels is home",
+          "de": "Land oder Ort, wo man sich zu Hause fühlt"
+        }
+      ],
+      "rule": "Usually uncountable, no plural; emotional word, stronger than 'Land'.",
+      "example": "Meine Heimat ist ein kleines Dorf in Bayern.",
+      "exampleEn": "My home is a small village in Bavaria.",
+      "example2": "Nach zehn Jahren im Ausland vermisst sie ihre Heimat.",
+      "example2En": "After ten years abroad, she misses her homeland."
+    },
+    {
+      "de": "das Heimweh",
+      "en": "homesickness",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "longing to be back home",
+          "de": "Sehnsucht nach zu Hause"
+        }
+      ],
+      "rule": "Uncountable; used with 'haben': Heimweh haben (nach + Dativ).",
+      "example": "Im ersten Monat hatte er starkes Heimweh.",
+      "exampleEn": "In the first month he was very homesick.",
+      "example2": "Sie bekommt Heimweh, wenn sie zu lange verreist ist.",
+      "example2En": "She gets homesick when she travels for too long."
+    },
+    {
+      "de": "heizen",
+      "en": "to heat",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to heat a room/house",
+          "de": "Wärme erzeugen, warm machen"
+        }
+      ],
+      "rule": "Regular weak verb: heizt, heizte, hat geheizt.",
+      "example": "Im Winter heizen wir die Wohnung mit Gas.",
+      "exampleEn": "In winter we heat the apartment with gas.",
+      "example2": "Bitte heiz nicht so viel, das kostet Geld.",
+      "example2En": "Please don't heat so much, it costs money."
+    },
+    {
+      "de": "die Heizkosten",
+      "en": "heating costs",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "costs for heating a home",
+          "de": "Kosten fürs Heizen"
+        }
+      ],
+      "rule": "Plural-only noun (like 'Kosten'), built from heizen + Kosten; no singular form is used.",
+      "example": "Die Heizkosten sind in diesem Winter stark gestiegen.",
+      "exampleEn": "Heating costs have risen sharply this winter.",
+      "example2": "Wir sparen Heizkosten, indem wir die Fenster gut isolieren.",
+      "example2En": "We save on heating costs by insulating the windows well."
+    },
+    {
+      "de": "die Herausforderung",
+      "en": "challenge",
+      "pos": "noun",
+      "plural": "die Herausforderungen",
+      "meanings": [
+        {
+          "en": "a demanding task or situation",
+          "de": "schwierige Aufgabe, die Mühe kostet"
+        }
+      ],
+      "rule": "From 'herausfordern' (to challenge); often with 'eine Herausforderung sein für + Akk'.",
+      "example": "Die neue Stelle ist eine große Herausforderung für mich.",
+      "exampleEn": "The new job is a big challenge for me.",
+      "example2": "Er sucht immer neue Herausforderungen im Beruf.",
+      "example2En": "He always looks for new challenges at work."
+    },
+    {
+      "de": "herkommen",
+      "en": "to come from; to come here",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to originate from (a place)",
+          "de": "woher stammen"
+        },
+        {
+          "en": "to come to this place",
+          "de": "hierher kommen"
+        }
+      ],
+      "rule": "Trennbar: kommt her, kam her, ist hergekommen.",
+      "example": "Wo kommst du eigentlich her?",
+      "exampleEn": "Where do you actually come from?",
+      "example2": "Komm bitte her, ich möchte dir etwas zeigen.",
+      "example2En": "Please come here, I want to show you something."
+    },
+    {
+      "de": "das Herkunftsland",
+      "en": "country of origin",
+      "pos": "noun",
+      "plural": "die Herkunftsländer",
+      "meanings": [
+        {
+          "en": "the country a person or product comes from",
+          "de": "Land, aus dem jemand/etwas stammt"
+        }
+      ],
+      "rule": "Compound: Herkunft (origin) + Land.",
+      "example": "Sein Herkunftsland ist Syrien.",
+      "exampleEn": "His country of origin is Syria.",
+      "example2": "Auf der Verpackung steht das Herkunftsland des Produkts.",
+      "example2En": "The product's country of origin is stated on the packaging."
+    },
+    {
+      "de": "herstellen",
+      "en": "to manufacture, produce",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to manufacture/produce goods",
+          "de": "produzieren, fertigen"
+        },
+        {
+          "en": "to establish (contact, connection)",
+          "de": "aufbauen, schaffen (z.B. Kontakt)"
+        }
+      ],
+      "rule": "Trennbar: stellt her, stellte her, hat hergestellt.",
+      "example": "Diese Firma stellt Autoteile her.",
+      "exampleEn": "This company manufactures car parts.",
+      "example2": "Wir müssen den Kontakt zum Kunden wieder herstellen.",
+      "example2En": "We need to re-establish contact with the customer."
+    },
+    {
+      "de": "die Herstellung",
+      "en": "manufacture, production",
+      "pos": "noun",
+      "plural": "die Herstellungen",
+      "meanings": [
+        {
+          "en": "the process of producing/manufacturing something",
+          "de": "das Produzieren, Fertigen"
+        }
+      ],
+      "rule": "Noun from 'herstellen'; often used in singular; genitive: der Herstellung.",
+      "example": "Die Herstellung des Produkts dauert zwei Wochen.",
+      "exampleEn": "The manufacture of the product takes two weeks.",
+      "example2": "Bei der Herstellung wird viel Energie verbraucht.",
+      "example2En": "A lot of energy is used during production."
+    },
+    {
+      "de": "das Herz",
+      "en": "heart",
+      "pos": "noun",
+      "plural": "die Herzen",
+      "meanings": [
+        {
+          "en": "the organ that pumps blood",
+          "de": "Organ, das Blut pumpt"
+        },
+        {
+          "en": "figurative: feelings, inner self",
+          "de": "Gefühl, Inneres eines Menschen"
+        }
+      ],
+      "rule": "Irregular declension: des Herzens (genitive), dem Herzen (dative), das Herz (accusative).",
+      "example": "Ihr Herz schlägt sehr schnell nach dem Sport.",
+      "exampleEn": "Her heart beats very fast after sports.",
+      "example2": "Er hat ein gutes Herz und hilft gern anderen.",
+      "example2En": "He has a good heart and likes to help others."
+    },
+    {
+      "de": "hierher",
+      "en": "to here, over here",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "movement towards the speaker's location",
+          "de": "an diesen Ort (Richtung zum Sprecher)"
+        }
+      ],
+      "rule": "Directional adverb, used with verbs of motion: komm hierher!",
+      "example": "Komm bitte hierher, ich brauche deine Hilfe.",
+      "exampleEn": "Please come here, I need your help.",
+      "example2": "Wie bist du hierher gekommen?",
+      "example2En": "How did you get here?"
+    },
+    {
+      "de": "hilfsbereit",
+      "en": "helpful, willing to help",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "always ready to help others",
+          "de": "immer bereit zu helfen"
+        }
+      ],
+      "rule": "Compound adjective: Hilfe + bereit; regular comparison: hilfsbereiter, am hilfsbereitesten.",
+      "example": "Meine Nachbarn sind sehr hilfsbereit.",
+      "exampleEn": "My neighbors are very helpful.",
+      "example2": "Er ist immer hilfsbereit, wenn jemand Probleme hat.",
+      "example2En": "He is always ready to help when someone has problems."
+    },
+    {
+      "de": "historisch",
+      "en": "historical",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to history",
+          "de": "die Geschichte betreffend"
+        },
+        {
+          "en": "historic, of great importance",
+          "de": "bedeutsam, epochal"
+        }
+      ],
+      "rule": "Regular comparison: historischer, am historischsten.",
+      "example": "Die Altstadt hat viele historische Gebäude.",
+      "exampleEn": "The old town has many historical buildings.",
+      "example2": "Das war ein historischer Moment für das Land.",
+      "example2En": "That was a historic moment for the country."
+    },
+    {
+      "de": "das Hochwasser",
+      "en": "flood, high water",
+      "pos": "noun",
+      "plural": "die Hochwasser",
+      "meanings": [
+        {
+          "en": "flooding caused by rising water levels",
+          "de": "stark angestiegenes Wasser, Überschwemmung"
+        }
+      ],
+      "rule": "Compound: hoch + Wasser; plural rarely used, mostly singular.",
+      "example": "Nach dem starken Regen gab es Hochwasser in der Stadt.",
+      "exampleEn": "After the heavy rain there was flooding in the city.",
+      "example2": "Das Hochwasser hat viele Häuser beschädigt.",
+      "example2En": "The flood damaged many houses."
+    },
+    {
+      "de": "der Hörer / die Hörerin",
+      "en": "listener; (phone) receiver",
+      "pos": "noun",
+      "plural": "die Hörer / die Hörerinnen",
+      "meanings": [
+        {
+          "en": "a person who listens (e.g. radio listener)",
+          "de": "Person, die zuhört, z.B. Radiohörer"
+        },
+        {
+          "en": "telephone receiver/handset",
+          "de": "Teil des Telefons zum Sprechen und Hören"
+        }
+      ],
+      "rule": "Person noun der/die from 'hören'; 'der Hörer' also means phone receiver (no feminine form for that sense).",
+      "example": "Viele Hörer riefen bei der Radiosendung an.",
+      "exampleEn": "Many listeners called in during the radio show.",
+      "example2": "Sie nahm den Hörer ab und sagte 'Hallo'.",
+      "example2En": "She picked up the receiver and said 'Hello'."
+    },
+    {
+      "de": "der Horrorfilm",
+      "en": "horror film",
+      "pos": "noun",
+      "plural": "die Horrorfilme",
+      "meanings": [
+        {
+          "en": "a film intended to frighten viewers",
+          "de": "Film, der Angst machen soll"
+        }
+      ],
+      "rule": "Compound: Horror + Film; regular masculine noun.",
+      "example": "Ich schaue gern Horrorfilme am Abend.",
+      "exampleEn": "I like watching horror films in the evening.",
+      "example2": "Dieser Horrorfilm ist mir zu gruselig.",
+      "example2En": "This horror film is too scary for me."
+    },
+    {
+      "de": "das Hostel",
+      "en": "hostel",
+      "pos": "noun",
+      "plural": "die Hostels",
+      "meanings": [
+        {
+          "en": "cheap accommodation for travelers",
+          "de": "billige Unterkunft für Reisende"
+        }
+      ],
+      "rule": "Neutrum; oft im Kontext von Jugendherbergen/Reisen; Plural mit -s.",
+      "example": "Wir haben ein billiges Hostel in der Nähe des Bahnhofs gefunden.",
+      "exampleEn": "We found a cheap hostel near the train station.",
+      "example2": "Im Hostel teilen wir uns ein Zimmer mit anderen Reisenden.",
+      "example2En": "At the hostel we share a room with other travelers."
+    },
+    {
+      "de": "der Hügel",
+      "en": "hill",
+      "pos": "noun",
+      "plural": "die Hügel",
+      "meanings": [
+        {
+          "en": "hill (small elevation of land)",
+          "de": "kleine Erhebung im Gelände"
+        }
+      ],
+      "rule": "Maskulin; Plural unverändert (der Hügel – die Hügel).",
+      "example": "Von dem Hügel aus hat man eine schöne Aussicht auf das Dorf.",
+      "exampleEn": "From the hill you have a nice view of the village.",
+      "example2": "Wir sind auf den Hügel gewandert.",
+      "example2En": "We hiked up the hill."
+    },
+    {
+      "de": "die Hülsenfrucht",
+      "en": "legume, pulse",
+      "pos": "noun",
+      "plural": "die Hülsenfrüchte",
+      "meanings": [
+        {
+          "en": "legume/pulse (e.g. beans, lentils)",
+          "de": "Pflanze mit Hülsen, z. B. Bohnen, Linsen"
+        }
+      ],
+      "rule": "Femininum; Plural die Hülsenfrüchte; häufig in Ernährungs-/Gesundheitsthemen.",
+      "example": "Linsen und Bohnen sind gesunde Hülsenfrüchte.",
+      "exampleEn": "Lentils and beans are healthy legumes.",
+      "example2": "Der Arzt empfiehlt, mehr Hülsenfrüchte zu essen.",
+      "example2En": "The doctor recommends eating more legumes."
+    },
+    {
+      "de": "hygienisch",
+      "en": "hygienic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "hygienic, clean and healthy",
+          "de": "sauber und gesundheitlich unbedenklich"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: hygienisch, hygienischer, am hygienischsten.",
+      "example": "In diesem Restaurant ist alles sehr hygienisch.",
+      "exampleEn": "Everything in this restaurant is very hygienic.",
+      "example2": "Im Krankenhaus muss das Personal besonders hygienisch arbeiten.",
+      "example2En": "In the hospital, the staff must work especially hygienically."
+    },
+    {
+      "de": "das Impressum",
+      "en": "legal notice, imprint",
+      "pos": "noun",
+      "plural": "die Impressen",
+      "meanings": [
+        {
+          "en": "legal notice/imprint on a website or publication",
+          "de": "gesetzlich vorgeschriebene Angaben zum Herausgeber"
+        }
+      ],
+      "rule": "Neutrum; Plural selten gebraucht (die Impressen); typisch bei Websites/Zeitschriften.",
+      "example": "Im Impressum findet man die Adresse des Unternehmens.",
+      "exampleEn": "In the legal notice you can find the company's address.",
+      "example2": "Jede Website braucht in Deutschland ein Impressum.",
+      "example2En": "In Germany every website needs a legal notice."
+    },
+    {
+      "de": "indem",
+      "en": "by (doing something)",
+      "pos": "conjunction",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "by means of, by (doing sth.) — introduces the way something is done",
+          "de": "drückt aus, wie/wodurch etwas geschieht"
+        }
+      ],
+      "rule": "Leitet Nebensatz ein, Verb steht am Ende; beschreibt Mittel/Methode.",
+      "example": "Ich lerne Deutsch, indem ich jeden Tag Vokabeln übe.",
+      "exampleEn": "I learn German by practicing vocabulary every day.",
+      "example2": "Er spart Geld, indem er seltener essen geht.",
+      "example2En": "He saves money by going out to eat less often."
+    },
+    {
+      "de": "individuell",
+      "en": "individual, personal",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "individual, personalized",
+          "de": "auf eine einzelne Person bezogen, persönlich"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: individuell, individueller, am individuellsten.",
+      "example": "Jeder Kunde bekommt eine individuelle Beratung.",
+      "exampleEn": "Every customer gets individual advice.",
+      "example2": "Die Kurse lassen sich individuell anpassen.",
+      "example2En": "The courses can be adapted individually."
+    },
+    {
+      "de": "die Industrie",
+      "en": "industry",
+      "pos": "noun",
+      "plural": "die Industrien",
+      "meanings": [
+        {
+          "en": "industry (economic sector)",
+          "de": "Wirtschaftszweig der Produktion"
+        }
+      ],
+      "rule": "Femininum; Plural die Industrien (z. B. verschiedene Branchen).",
+      "example": "Die Autoindustrie ist wichtig für Deutschland.",
+      "exampleEn": "The car industry is important for Germany.",
+      "example2": "In dieser Region gibt es viel Industrie.",
+      "example2En": "There is a lot of industry in this region."
+    },
+    {
+      "de": "industriell",
+      "en": "industrial",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "industrial, related to industry",
+          "de": "die Industrie betreffend"
+        }
+      ],
+      "rule": "Beziehungsadjektiv (industriell vs. nicht-industriell); in der Regel nicht steigerbar.",
+      "example": "Die Produkte werden industriell hergestellt.",
+      "exampleEn": "The products are manufactured industrially.",
+      "example2": "Die Stadt hat sich zu einem industriellen Zentrum entwickelt.",
+      "example2En": "The city has developed into an industrial center."
+    },
+    {
+      "de": "das Inlineskaten",
+      "en": "inline skating",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "inline skating (sport/activity)",
+          "de": "Sportart mit Inlineskates"
+        }
+      ],
+      "rule": "Neutrum, substantiviertes Verb; unzählbar, kein Plural.",
+      "example": "Im Sommer gehen wir oft Inlineskaten im Park.",
+      "exampleEn": "In summer we often go inline skating in the park.",
+      "example2": "Inlineskaten ist ein gutes Training für die Beine.",
+      "example2En": "Inline skating is good training for your legs."
+    },
+    {
+      "de": "innerhalb",
+      "en": "within, inside of",
+      "pos": "preposition",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "within (a period of time)",
+          "de": "innerhalb eines Zeitraums"
+        },
+        {
+          "en": "inside (a place)",
+          "de": "im Inneren eines Ortes"
+        }
+      ],
+      "rule": "Präposition + Genitiv (innerhalb des Monats); bei Substantiven ohne erkennbaren Genitiv oder im Plural oft mit 'von' + Dativ (innerhalb von zwei Wochen).",
+      "example": "Bitte antworten Sie innerhalb einer Woche.",
+      "exampleEn": "Please reply within a week.",
+      "example2": "Innerhalb des Gebäudes darf man nicht rauchen.",
+      "example2En": "You are not allowed to smoke inside the building."
+    },
+    {
+      "de": "insofern",
+      "en": "in that respect, to that extent",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in that respect, to that extent",
+          "de": "in dieser Hinsicht, in diesem Sinn"
+        }
+      ],
+      "rule": "Oft mit 'als' kombiniert (insofern als ...); leitet Einschränkung/Begründung ein.",
+      "example": "Der Plan ist gut, insofern er realistisch ist.",
+      "exampleEn": "The plan is good, insofar as it is realistic.",
+      "example2": "Insofern hast du recht.",
+      "example2En": "In that respect, you are right."
+    },
+    {
+      "de": "die Instandhaltung",
+      "en": "maintenance",
+      "pos": "noun",
+      "plural": "die Instandhaltungen",
+      "meanings": [
+        {
+          "en": "maintenance, upkeep (of machines, buildings)",
+          "de": "Pflege und Reparatur von Anlagen oder Gebäuden"
+        }
+      ],
+      "rule": "Femininum; Plural selten, meist im Singular verwendet.",
+      "example": "Die Instandhaltung der Maschinen kostet viel Geld.",
+      "exampleEn": "The maintenance of the machines costs a lot of money.",
+      "example2": "Die Firma ist für die Instandhaltung der Gebäude zuständig.",
+      "example2En": "The company is responsible for the maintenance of the buildings."
+    },
+    {
+      "de": "die Institution",
+      "en": "institution",
+      "pos": "noun",
+      "plural": "die Institutionen",
+      "meanings": [
+        {
+          "en": "institution (organization, establishment)",
+          "de": "öffentliche oder soziale Einrichtung"
+        }
+      ],
+      "rule": "Femininum; Plural die Institutionen.",
+      "example": "Die Universität ist eine wichtige Institution der Stadt.",
+      "exampleEn": "The university is an important institution in the city.",
+      "example2": "Viele staatliche Institutionen sind heute online erreichbar.",
+      "example2En": "Many state institutions can now be reached online."
+    },
+    {
+      "de": "intern",
+      "en": "internal",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "internal (within an organization or group)",
+          "de": "innerhalb einer Organisation, nicht öffentlich"
+        }
+      ],
+      "rule": "Kategorisches Adjektiv (intern vs. extern); in der Regel nicht steigerbar.",
+      "example": "Das ist eine interne Angelegenheit der Firma.",
+      "exampleEn": "That is an internal matter of the company.",
+      "example2": "Die Mitarbeiter bekommen die Informationen intern per E-Mail.",
+      "example2En": "The employees receive the information internally by email."
+    },
+    {
+      "de": "inzwischen",
+      "en": "meanwhile, by now",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "meanwhile, in the meantime",
+          "de": "in der Zwischenzeit"
+        },
+        {
+          "en": "by now, already",
+          "de": "bis jetzt, mittlerweile"
+        }
+      ],
+      "rule": "Zeitadverb; oft mit Perfekt/Präsens kombiniert.",
+      "example": "Koch das Wasser auf, ich decke inzwischen den Tisch.",
+      "exampleEn": "Boil the water, meanwhile I'll set the table.",
+      "example2": "Er wohnt inzwischen schon seit fünf Jahren in Berlin.",
+      "example2En": "By now he has been living in Berlin for five years."
+    },
+    {
+      "de": "irgendwann",
+      "en": "someday, at some point",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "someday, sometime, at some point",
+          "de": "zu einem unbestimmten Zeitpunkt"
+        }
+      ],
+      "rule": "Unbestimmtes Zeitadverb; kann sich auf Zukunft oder Vergangenheit beziehen.",
+      "example": "Irgendwann möchte ich nach Australien reisen.",
+      "exampleEn": "Someday I want to travel to Australia.",
+      "example2": "Wir haben uns irgendwann letztes Jahr kennengelernt.",
+      "example2En": "We met at some point last year."
+    },
+    {
+      "de": "irgendwelche",
+      "en": "some, any (kind of)",
+      "pos": "pronoun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "some, any (unspecified, plural/uncountable)",
+          "de": "unbestimmte, nicht genauer bezeichnete"
+        }
+      ],
+      "rule": "Unbestimmtes Pronomen, Pluralform von irgendein(e); wird dekliniert (irgendwelchen, irgendwelcher...).",
+      "example": "Hast du irgendwelche Fragen dazu?",
+      "exampleEn": "Do you have any questions about it?",
+      "example2": "Ruf mich an, wenn es irgendwelche Probleme gibt.",
+      "example2En": "Call me if there are any problems."
+    },
+    {
+      "de": "irgendwer",
+      "en": "someone (or other)",
+      "pos": "pronoun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "someone, anyone (unspecified)",
+          "de": "eine beliebige, nicht genannte Person"
+        }
+      ],
+      "rule": "Indefinite pronoun formed from irgend- + wer; declines like wer: irgendwer (Nom.), irgendwen (Akk.), irgendwem (Dat.). Synonym: irgendjemand (slightly more formal/common register).",
+      "example": "Irgendwer hat meine Tasche mitgenommen.",
+      "exampleEn": "Someone took my bag.",
+      "example2": "Frag doch irgendwen, der hier arbeitet.",
+      "example2En": "Just ask someone who works here."
+    },
+    {
+      "de": "irgendwie",
+      "en": "somehow",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "somehow, in some way",
+          "de": "auf eine nicht genau bestimmte Weise"
+        },
+        {
+          "en": "kind of, sort of (vague impression)",
+          "de": "irgendwie (umgangssprachlich: ein bisschen)"
+        }
+      ],
+      "rule": "Common filler word in spoken German to soften a statement; not separable, no conjugation.",
+      "example": "Wir schaffen das schon irgendwie.",
+      "exampleEn": "We'll manage it somehow.",
+      "example2": "Das Essen schmeckt irgendwie komisch.",
+      "example2En": "The food tastes kind of strange."
+    },
+    {
+      "de": "jahrelang",
+      "en": "for years",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "lasting for years",
+          "de": "über viele Jahre dauernd"
+        }
+      ],
+      "rule": "Can be used as attributive adjective or adverb; no irregular comparison (rarely compared).",
+      "example": "Sie haben jahrelang zusammengearbeitet.",
+      "exampleEn": "They worked together for years.",
+      "example2": "Nach jahrelanger Pause spielt er wieder Fußball.",
+      "example2En": "After a years-long break he plays football again."
+    }
+  ]
+}

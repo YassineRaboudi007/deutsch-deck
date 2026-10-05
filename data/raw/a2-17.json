@@ -1,0 +1,901 @@
+{
+  "id": "a2-17",
+  "title": "A2 · S–T (17)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "statt",
+      "en": "instead of",
+      "pos": "preposition",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "instead of, in place of",
+          "de": "anstelle von"
+        }
+      ],
+      "rule": "Preposition + Genitiv: statt des Kaffees. In spoken German often + Dativ.",
+      "example": "Ich trinke Tee statt Kaffee.",
+      "exampleEn": "I drink tea instead of coffee.",
+      "example2": "Statt zu telefonieren, schreibt sie eine E-Mail.",
+      "example2En": "Instead of calling, she writes an email."
+    },
+    {
+      "de": "das Steak",
+      "en": "steak",
+      "pos": "noun",
+      "plural": "die Steaks",
+      "meanings": [
+        {
+          "en": "a grilled or fried piece of meat",
+          "de": "ein gebratenes Stück Fleisch"
+        }
+      ],
+      "rule": "Loanword from English; neuter gender, plural with -s.",
+      "example": "Er bestellt ein Steak mit Salat.",
+      "exampleEn": "He orders a steak with salad.",
+      "example2": "Das Steak schmeckt sehr gut.",
+      "example2En": "The steak tastes very good."
+    },
+    {
+      "de": "die Steckdose",
+      "en": "electrical socket/outlet",
+      "pos": "noun",
+      "plural": "die Steckdosen",
+      "meanings": [
+        {
+          "en": "a socket for plugging in electrical devices",
+          "de": "der Anschluss in der Wand für Strom"
+        }
+      ],
+      "rule": "Compound: stecken + Dose (feminine, like Dose).",
+      "example": "Der Stecker passt nicht in die Steckdose.",
+      "exampleEn": "The plug doesn't fit into the socket.",
+      "example2": "Die Steckdose ist neben dem Bett.",
+      "example2En": "The socket is next to the bed."
+    },
+    {
+      "de": "stecken",
+      "en": "to put/stick; to be (located)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to put something into a narrow space",
+          "de": "etwas in etwas hineintun"
+        },
+        {
+          "en": "to be stuck/located somewhere",
+          "de": "sich irgendwo befinden"
+        }
+      ],
+      "rule": "Regular weak verb as transitive (steckt, steckte, hat gesteckt); as intransitive meaning 'to be located' also weak.",
+      "example": "Sie steckt den Schlüssel in die Tasche.",
+      "exampleEn": "She puts the key into her bag.",
+      "example2": "Wo steckt mein Handy?",
+      "example2En": "Where is my phone?"
+    },
+    {
+      "de": "stehlen",
+      "en": "to steal",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to steal",
+          "de": "jemandem etwas wegnehmen, ohne zu fragen"
+        }
+      ],
+      "rule": "unregelmäßig: er stiehlt, stahl, hat gestohlen",
+      "example": "Jemand hat mein Fahrrad gestohlen.",
+      "exampleEn": "Someone stole my bike.",
+      "example2": "Er wurde verhaftet, weil er Geld gestohlen hat.",
+      "example2En": "He was arrested because he stole money."
+    },
+    {
+      "de": "steigen",
+      "en": "to climb; to rise",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to climb / get in or out (of a vehicle)",
+          "de": "nach oben gehen, einsteigen/aussteigen"
+        },
+        {
+          "en": "to rise (prices, numbers)",
+          "de": "mehr werden"
+        }
+      ],
+      "rule": "unregelmäßig: er steigt, stieg, ist gestiegen (mit sein)",
+      "example": "Wir steigen in den Bus.",
+      "exampleEn": "We are getting on the bus.",
+      "example2": "Die Preise steigen jedes Jahr.",
+      "example2En": "Prices rise every year."
+    },
+    {
+      "de": "die Stelle",
+      "en": "place; job position",
+      "pos": "noun",
+      "plural": "die Stellen",
+      "meanings": [
+        {
+          "en": "place/spot",
+          "de": "ein bestimmter Ort"
+        },
+        {
+          "en": "job position",
+          "de": "eine Arbeitsstelle"
+        }
+      ],
+      "rule": "feminin, Plural: die Stellen",
+      "example": "An dieser Stelle ist die Straße sehr eng.",
+      "exampleEn": "At this spot the street is very narrow.",
+      "example2": "Sie hat eine neue Stelle als Sekretärin gefunden.",
+      "example2En": "She found a new job as a secretary."
+    },
+    {
+      "de": "das Stellenangebot",
+      "en": "job offer / job vacancy",
+      "pos": "noun",
+      "plural": "die Stellenangebote",
+      "meanings": [
+        {
+          "en": "job offer / job posting",
+          "de": "eine angebotene Arbeitsstelle"
+        }
+      ],
+      "rule": "neutrum, Zusammensetzung aus Stelle + Angebot",
+      "example": "Ich habe ein interessantes Stellenangebot in der Zeitung gesehen.",
+      "exampleEn": "I saw an interesting job offer in the newspaper.",
+      "example2": "Auf der Internetseite gibt es viele Stellenangebote.",
+      "example2En": "There are many job vacancies on the website."
+    },
+    {
+      "de": "die Stellensuche",
+      "en": "job search",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "job search",
+          "de": "die Suche nach einer Arbeitsstelle"
+        }
+      ],
+      "rule": "feminin, meist ohne Plural",
+      "example": "Die Stellensuche dauert oft mehrere Monate.",
+      "exampleEn": "The job search often takes several months.",
+      "example2": "Er ist seit der Stellensuche sehr gestresst.",
+      "example2En": "He has been very stressed since starting his job search."
+    },
+    {
+      "de": "der Stellplatz",
+      "en": "parking space / pitch",
+      "pos": "noun",
+      "plural": "die Stellplätze",
+      "meanings": [
+        {
+          "en": "parking space",
+          "de": "ein Platz zum Parken"
+        },
+        {
+          "en": "pitch (for a caravan/tent on a campsite)",
+          "de": "ein Platz auf dem Campingplatz"
+        }
+      ],
+      "rule": "maskulin, Plural: die Stellplätze",
+      "example": "Das Haus hat einen eigenen Stellplatz für das Auto.",
+      "exampleEn": "The house has its own parking space for the car.",
+      "example2": "Wir haben einen Stellplatz auf dem Campingplatz reserviert.",
+      "example2En": "We reserved a pitch at the campsite."
+    },
+    {
+      "de": "die Steuer",
+      "en": "tax",
+      "pos": "noun",
+      "plural": "die Steuern",
+      "meanings": [
+        {
+          "en": "tax",
+          "de": "Geld, das man an den Staat zahlen muss"
+        }
+      ],
+      "rule": "feminin (die Steuer = tax); Achtung: das Steuer = steering wheel, anderes Wort!",
+      "example": "Wir müssen jedes Jahr Steuern zahlen.",
+      "exampleEn": "We have to pay taxes every year.",
+      "example2": "Die Steuer auf Benzin ist sehr hoch.",
+      "example2En": "The tax on petrol is very high."
+    },
+    {
+      "de": "der Stiefel",
+      "en": "boot",
+      "pos": "noun",
+      "plural": "die Stiefel",
+      "meanings": [
+        {
+          "en": "boot (footwear)",
+          "de": "ein hoher Schuh"
+        }
+      ],
+      "rule": "maskulin, Plural: die Stiefel (unverändert)",
+      "example": "Im Winter trage ich warme Stiefel.",
+      "exampleEn": "In winter I wear warm boots.",
+      "example2": "Ihre neuen Stiefel sind aus Leder.",
+      "example2En": "Her new boots are made of leather."
+    },
+    {
+      "de": "die Störung",
+      "en": "disturbance; malfunction",
+      "pos": "noun",
+      "plural": "die Störungen",
+      "meanings": [
+        {
+          "en": "disturbance / interruption",
+          "de": "etwas, das stört"
+        },
+        {
+          "en": "malfunction / technical fault",
+          "de": "ein technisches Problem"
+        }
+      ],
+      "rule": "feminin, Plural: die Störungen; von \"stören\"",
+      "example": "Entschuldigen Sie die Störung!",
+      "exampleEn": "Sorry to disturb you!",
+      "example2": "Es gibt eine Störung im Internet.",
+      "example2En": "There is a fault with the internet."
+    },
+    {
+      "de": "stoßen",
+      "en": "to push; to bump",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to push / shove",
+          "de": "mit Kraft schieben"
+        },
+        {
+          "en": "to bump into / knock against",
+          "de": "sich gegen etwas stoßen"
+        }
+      ],
+      "rule": "unregelmäßig: er stößt, stieß, hat gestoßen; reflexiv sich stoßen (z.B. sich den Kopf stoßen) bildet das Perfekt ebenfalls mit haben: hat sich gestoßen",
+      "example": "Er hat die Tür aufgestoßen und ist hinausgegangen.",
+      "exampleEn": "He pushed the door open and went out.",
+      "example2": "Ich habe mich am Tisch gestoßen.",
+      "example2En": "I bumped into the table."
+    },
+    {
+      "de": "die Strafe",
+      "en": "punishment; penalty/fine",
+      "pos": "noun",
+      "plural": "die Strafen",
+      "meanings": [
+        {
+          "en": "punishment",
+          "de": "eine Konsequenz für falsches Verhalten"
+        },
+        {
+          "en": "fine/penalty",
+          "de": "eine Geldstrafe"
+        }
+      ],
+      "rule": "feminin, Plural: die Strafen",
+      "example": "Für zu schnelles Fahren gibt es eine Strafe.",
+      "exampleEn": "There is a penalty for speeding.",
+      "example2": "Er musste eine hohe Strafe bezahlen.",
+      "example2En": "He had to pay a high fine."
+    },
+    {
+      "de": "das Straßenfest",
+      "en": "street festival",
+      "pos": "noun",
+      "plural": "die Straßenfeste",
+      "meanings": [
+        {
+          "en": "street festival/party",
+          "de": "ein Fest auf der Straße"
+        }
+      ],
+      "rule": "neutrum, Zusammensetzung aus Straße + Fest",
+      "example": "Am Wochenende ist ein Straßenfest in unserer Stadt.",
+      "exampleEn": "There is a street festival in our town this weekend.",
+      "example2": "Wir haben beim Straßenfest viele Nachbarn getroffen.",
+      "example2En": "We met many neighbors at the street festival."
+    },
+    {
+      "de": "die Strecke",
+      "en": "route; distance",
+      "pos": "noun",
+      "plural": "die Strecken",
+      "meanings": [
+        {
+          "en": "route",
+          "de": "ein Weg von A nach B"
+        },
+        {
+          "en": "distance",
+          "de": "die Länge eines Weges"
+        }
+      ],
+      "rule": "feminin, Plural: die Strecken",
+      "example": "Diese Strecke fahren wir jeden Tag mit dem Bus.",
+      "exampleEn": "We take this route by bus every day.",
+      "example2": "Die Strecke bis zum Bahnhof ist sehr kurz.",
+      "example2En": "The distance to the train station is very short."
+    },
+    {
+      "de": "streng",
+      "en": "strict",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "strict",
+          "de": "nicht locker, mit festen Regeln"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: streng, strenger, am strengsten",
+      "example": "Unser Lehrer ist sehr streng.",
+      "exampleEn": "Our teacher is very strict.",
+      "example2": "In der Schule gelten strenge Regeln.",
+      "example2En": "Strict rules apply at school."
+    },
+    {
+      "de": "die Struktur",
+      "en": "structure",
+      "pos": "noun",
+      "plural": "die Strukturen",
+      "meanings": [
+        {
+          "en": "structure/organization",
+          "de": "der Aufbau von etwas"
+        }
+      ],
+      "rule": "feminin, Plural: die Strukturen",
+      "example": "Der Text hat eine klare Struktur.",
+      "exampleEn": "The text has a clear structure.",
+      "example2": "Die Struktur des Unternehmens hat sich verändert.",
+      "example2En": "The company's structure has changed."
+    },
+    {
+      "de": "surfen",
+      "en": "to surf",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to surf the internet",
+          "de": "im Internet nach Informationen suchen"
+        },
+        {
+          "en": "to surf (on water)",
+          "de": "auf einem Brett auf Wellen fahren"
+        }
+      ],
+      "rule": "regelmäßig: surft, surfte, hat gesurft",
+      "example": "Er surft jeden Abend im Internet.",
+      "exampleEn": "He surfs the internet every evening.",
+      "example2": "Im Urlaub haben wir surfen gelernt.",
+      "example2En": "On vacation we learned to surf."
+    },
+    {
+      "de": "die Süßigkeiten",
+      "en": "sweets / candy",
+      "pos": "noun",
+      "plural": "die Süßigkeiten",
+      "meanings": [
+        {
+          "en": "sweets/candy",
+          "de": "süße Lebensmittel wie Schokolade oder Bonbons"
+        }
+      ],
+      "rule": "feminin, meist nur im Plural verwendet",
+      "example": "Kinder lieben Süßigkeiten.",
+      "exampleEn": "Children love sweets.",
+      "example2": "Er isst zu viele Süßigkeiten.",
+      "example2En": "He eats too much candy."
+    },
+    {
+      "de": "das Symbol",
+      "en": "symbol; icon",
+      "pos": "noun",
+      "plural": "die Symbole",
+      "meanings": [
+        {
+          "en": "symbol (sign with meaning)",
+          "de": "ein Zeichen mit besonderer Bedeutung"
+        },
+        {
+          "en": "icon (on a screen)",
+          "de": "ein kleines Bildzeichen am Computer"
+        }
+      ],
+      "rule": "neutrum, Plural: die Symbole",
+      "example": "Das rote Herz ist ein Symbol für Liebe.",
+      "exampleEn": "The red heart is a symbol of love.",
+      "example2": "Klicken Sie auf das Symbol, um die App zu öffnen.",
+      "example2En": "Click the icon to open the app."
+    },
+    {
+      "de": "sympathisch",
+      "en": "likeable, nice",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "likeable, pleasant (of a person)",
+          "de": "nett, angenehm"
+        }
+      ],
+      "rule": "Comparative regular: sympathisch, sympathischer, am sympathischsten. Describes people, not things. False friend: does NOT mean 'sympathetic' (= mitfühlend in German).",
+      "example": "Mein neuer Kollege ist sehr sympathisch.",
+      "exampleEn": "My new colleague is very likeable.",
+      "example2": "Ich finde die Frau aus dem Kurs sehr sympathisch.",
+      "example2En": "I find the woman from the course very likeable."
+    },
+    {
+      "de": "die Tagesordnung",
+      "en": "agenda",
+      "pos": "noun",
+      "plural": "die Tagesordnungen",
+      "meanings": [
+        {
+          "en": "agenda (of a meeting)",
+          "de": "Liste der Themen für eine Besprechung"
+        }
+      ],
+      "rule": "Compound noun: der Tag + die Ordnung → feminine.",
+      "example": "Wir haben vier Punkte auf der Tagesordnung.",
+      "exampleEn": "We have four items on the agenda.",
+      "example2": "Die Tagesordnung für die Sitzung liegt auf dem Tisch.",
+      "example2En": "The agenda for the meeting is on the table."
+    },
+    {
+      "de": "die TAN",
+      "en": "transaction number (TAN)",
+      "pos": "noun",
+      "plural": "die TANs",
+      "meanings": [
+        {
+          "en": "one-time code for online banking transactions",
+          "de": "Code für Online-Überweisungen"
+        }
+      ],
+      "rule": "Abbreviation for 'Transaktionsnummer'; feminine like 'die Nummer'.",
+      "example": "Bitte geben Sie Ihre TAN ein.",
+      "exampleEn": "Please enter your TAN.",
+      "example2": "Ohne TAN kann ich die Überweisung nicht bestätigen.",
+      "example2En": "Without a TAN I can't confirm the transfer."
+    },
+    {
+      "de": "der Tango",
+      "en": "tango (dance)",
+      "pos": "noun",
+      "plural": "die Tangos",
+      "meanings": [
+        {
+          "en": "tango, a dance",
+          "de": "ein Tanz aus Argentinien"
+        }
+      ],
+      "rule": "Loanword from Spanish; masculine, plural with -s.",
+      "example": "Sie tanzen sehr gut Tango.",
+      "exampleEn": "They dance the tango very well.",
+      "example2": "Am Samstag lernen wir den Tango.",
+      "example2En": "On Saturday we're learning the tango."
+    },
+    {
+      "de": "der Tänzer / die Tänzerin",
+      "en": "dancer",
+      "pos": "noun",
+      "plural": "die Tänzer / die Tänzerinnen",
+      "meanings": [
+        {
+          "en": "a person who dances",
+          "de": "jemand, der tanzt"
+        }
+      ],
+      "rule": "Agent noun from 'tanzen'; feminine adds -in.",
+      "example": "Er ist ein professioneller Tänzer.",
+      "exampleEn": "He is a professional dancer.",
+      "example2": "Die Tänzerin übt jeden Tag drei Stunden.",
+      "example2En": "The dancer practices three hours every day."
+    },
+    {
+      "de": "der Tanzkurs",
+      "en": "dance class",
+      "pos": "noun",
+      "plural": "die Tanzkurse",
+      "meanings": [
+        {
+          "en": "a course to learn dancing",
+          "de": "ein Kurs, um Tanzen zu lernen"
+        }
+      ],
+      "rule": "Compound: tanzen + der Kurs → masculine.",
+      "example": "Wir machen zusammen einen Tanzkurs.",
+      "exampleEn": "We're taking a dance class together.",
+      "example2": "Der Tanzkurs beginnt um 19 Uhr.",
+      "example2En": "The dance class starts at 7 pm."
+    },
+    {
+      "de": "die Taste",
+      "en": "key, button",
+      "pos": "noun",
+      "plural": "die Tasten",
+      "meanings": [
+        {
+          "en": "a key on a keyboard or button on a device",
+          "de": "Knopf an Tastatur oder Gerät"
+        }
+      ],
+      "rule": "Feminine noun; common in compounds like Starttaste.",
+      "example": "Drücken Sie diese Taste, um zu starten.",
+      "exampleEn": "Press this key to start.",
+      "example2": "Die Taste am Fernseher funktioniert nicht.",
+      "example2En": "The button on the TV doesn't work."
+    },
+    {
+      "de": "der Täter / die Täterin",
+      "en": "perpetrator, offender",
+      "pos": "noun",
+      "plural": "die Täter / die Täterinnen",
+      "meanings": [
+        {
+          "en": "a person who commits a crime",
+          "de": "jemand, der eine Straftat begeht"
+        }
+      ],
+      "rule": "From 'die Tat' (act/deed); feminine adds -in.",
+      "example": "Die Polizei sucht noch den Täter.",
+      "exampleEn": "The police are still looking for the perpetrator.",
+      "example2": "Die Täterin wurde am Bahnhof festgenommen.",
+      "example2En": "The offender was arrested at the train station."
+    },
+    {
+      "de": "das Tattoo",
+      "en": "tattoo",
+      "pos": "noun",
+      "plural": "die Tattoos",
+      "meanings": [
+        {
+          "en": "a permanent drawing on the skin",
+          "de": "ein Bild auf der Haut"
+        }
+      ],
+      "rule": "Loanword; neuter, plural with -s.",
+      "example": "Er hat ein Tattoo am Arm.",
+      "exampleEn": "He has a tattoo on his arm.",
+      "example2": "Sie möchte sich ein neues Tattoo machen lassen.",
+      "example2En": "She wants to get a new tattoo."
+    },
+    {
+      "de": "tauschen",
+      "en": "to exchange, swap",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to exchange/swap something with someone",
+          "de": "etwas gegen etwas anderes geben"
+        }
+      ],
+      "rule": "Regular weak verb: tauscht, tauschte, hat getauscht. Often used with 'gegen' or 'mit'.",
+      "example": "Kannst du mit mir den Platz tauschen?",
+      "exampleEn": "Can you swap seats with me?",
+      "example2": "Wir haben unsere Bücher getauscht.",
+      "example2En": "We exchanged our books."
+    },
+    {
+      "de": "das Team",
+      "en": "team",
+      "pos": "noun",
+      "plural": "die Teams",
+      "meanings": [
+        {
+          "en": "a group of people working together",
+          "de": "eine Gruppe, die zusammenarbeitet"
+        }
+      ],
+      "rule": "Loanword from English; neuter, plural with -s.",
+      "example": "Unser Team gewinnt oft.",
+      "exampleEn": "Our team wins often.",
+      "example2": "Er arbeitet gern im Team.",
+      "example2En": "He likes working in a team."
+    },
+    {
+      "de": "das Teelicht",
+      "en": "tealight (candle)",
+      "pos": "noun",
+      "plural": "die Teelichter",
+      "meanings": [
+        {
+          "en": "a small, round candle in a metal case",
+          "de": "eine kleine runde Kerze"
+        }
+      ],
+      "rule": "Compound: der Tee + das Licht → neuter.",
+      "example": "Sie stellt ein Teelicht auf den Tisch.",
+      "exampleEn": "She puts a tealight on the table.",
+      "example2": "Wir haben viele Teelichter für die Party gekauft.",
+      "example2En": "We bought many tealights for the party."
+    },
+    {
+      "de": "der Teenager",
+      "en": "teenager",
+      "pos": "noun",
+      "plural": "die Teenager",
+      "meanings": [
+        {
+          "en": "a young person aged 13-19",
+          "de": "eine Person zwischen 13 und 19 Jahren"
+        }
+      ],
+      "rule": "Loanword from English; masculine, plural unchanged.",
+      "example": "Mein Sohn ist jetzt ein Teenager.",
+      "exampleEn": "My son is a teenager now.",
+      "example2": "Viele Teenager nutzen soziale Medien.",
+      "example2En": "Many teenagers use social media."
+    },
+    {
+      "de": "der Teil",
+      "en": "part",
+      "pos": "noun",
+      "plural": "die Teile",
+      "meanings": [
+        {
+          "en": "a part or piece of something",
+          "de": "ein Stück von etwas"
+        }
+      ],
+      "rule": "Masculine in general use; can also be neuter (das Teil) informally for a component/gadget.",
+      "example": "Das ist nur ein Teil des Problems.",
+      "exampleEn": "That's only part of the problem.",
+      "example2": "Wir haben den Kuchen in acht Teile geschnitten.",
+      "example2En": "We cut the cake into eight pieces."
+    },
+    {
+      "de": "die Teilnahme",
+      "en": "participation",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the act of taking part in something",
+          "de": "das Mitmachen bei etwas"
+        }
+      ],
+      "rule": "Noun from 'teilnehmen'; uncountable, usually used with 'an' + Dativ (Teilnahme am Kurs).",
+      "example": "Die Teilnahme am Kurs ist kostenlos.",
+      "exampleEn": "Participation in the course is free.",
+      "example2": "Vielen Dank für Ihre Teilnahme.",
+      "example2En": "Thank you very much for your participation."
+    },
+    {
+      "de": "die Teilnahmebescheinigung",
+      "en": "certificate of participation",
+      "pos": "noun",
+      "plural": "die Teilnahmebescheinigungen",
+      "meanings": [
+        {
+          "en": "a document confirming that someone took part in a course",
+          "de": "ein Dokument, das die Teilnahme an einem Kurs bestätigt"
+        }
+      ],
+      "rule": "Compound: die Teilnahme + die Bescheinigung → feminine.",
+      "example": "Am Ende des Kurses bekommen Sie eine Teilnahmebescheinigung.",
+      "exampleEn": "At the end of the course you get a certificate of participation.",
+      "example2": "Ich brauche die Teilnahmebescheinigung für meinen Arbeitgeber.",
+      "example2En": "I need the certificate of participation for my employer."
+    },
+    {
+      "de": "teilnehmen",
+      "en": "to take part, participate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to take part in something",
+          "de": "bei etwas mitmachen"
+        }
+      ],
+      "rule": "Trennbar (separable): nimmt teil, nahm teil, hat teilgenommen. + an + Dativ.",
+      "example": "Ich nehme am Deutschkurs teil.",
+      "exampleEn": "I'm taking part in the German course.",
+      "example2": "Er hat am Wettbewerb teilgenommen.",
+      "example2En": "He took part in the competition."
+    },
+    {
+      "de": "die Teilzeit",
+      "en": "part-time",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "working fewer hours than a full-time job",
+          "de": "eine Arbeit mit weniger Stunden als Vollzeit"
+        }
+      ],
+      "rule": "Uncountable; often used as 'in Teilzeit arbeiten' or compound 'Teilzeitjob'.",
+      "example": "Sie arbeitet in Teilzeit.",
+      "exampleEn": "She works part-time.",
+      "example2": "Ich suche eine Stelle in Teilzeit.",
+      "example2En": "I'm looking for a part-time job."
+    },
+    {
+      "de": "die Teilzeitstelle",
+      "en": "part-time job",
+      "pos": "noun",
+      "plural": "die Teilzeitstellen",
+      "meanings": [
+        {
+          "en": "a job with reduced working hours",
+          "de": "eine Arbeitsstelle mit weniger als der vollen Stundenzahl"
+        }
+      ],
+      "rule": "Compound noun: Teilzeit (part-time) + Stelle (job/position); gender follows die Stelle.",
+      "example": "Sie sucht eine Teilzeitstelle im Büro.",
+      "exampleEn": "She is looking for a part-time job in an office.",
+      "example2": "Nach der Geburt arbeitet er nur noch in Teilzeit.",
+      "example2En": "After the birth he only works part-time now."
+    },
+    {
+      "de": "telefonisch",
+      "en": "by phone",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "done or reachable by telephone",
+          "de": "per Telefon"
+        }
+      ],
+      "rule": "Used mainly as an adverb/adjective with contact-related nouns; no irregular comparison.",
+      "example": "Bitte melden Sie sich telefonisch bei uns.",
+      "exampleEn": "Please contact us by phone.",
+      "example2": "Der Termin wurde telefonisch bestätigt.",
+      "example2En": "The appointment was confirmed by phone."
+    },
+    {
+      "de": "die Temperatur",
+      "en": "temperature",
+      "pos": "noun",
+      "plural": "die Temperaturen",
+      "meanings": [
+        {
+          "en": "degree of heat or cold",
+          "de": "Wärmegrad"
+        }
+      ],
+      "rule": "Feminine noun ending in -ur; often used with 'messen' or 'steigt/sinkt'.",
+      "example": "Die Temperatur steigt heute auf 25 Grad.",
+      "exampleEn": "The temperature rises to 25 degrees today.",
+      "example2": "Der Arzt misst die Temperatur des Patienten.",
+      "example2En": "The doctor measures the patient's temperature."
+    },
+    {
+      "de": "die Terminplanung",
+      "en": "scheduling; appointment planning",
+      "pos": "noun",
+      "plural": "die Terminplanungen",
+      "meanings": [
+        {
+          "en": "organizing appointments and dates",
+          "de": "das Planen von Terminen"
+        }
+      ],
+      "rule": "Compound of Termin (appointment) + Planung (planning); often work-related, plural rarely used.",
+      "example": "Die Terminplanung übernimmt meine Kollegin.",
+      "exampleEn": "My colleague handles the scheduling.",
+      "example2": "Gute Terminplanung spart viel Zeit.",
+      "example2En": "Good scheduling saves a lot of time."
+    },
+    {
+      "de": "der Test",
+      "en": "test",
+      "pos": "noun",
+      "plural": "die Tests",
+      "meanings": [
+        {
+          "en": "an examination or trial to check something",
+          "de": "eine Prüfung oder Überprüfung"
+        }
+      ],
+      "rule": "Masculine noun; plural Tests (from English), pronounced with final -s.",
+      "example": "Morgen schreiben wir einen Test in Deutsch.",
+      "exampleEn": "Tomorrow we're writing a test in German.",
+      "example2": "Der Test zeigt, ob das Gerät funktioniert.",
+      "example2En": "The test shows whether the device works."
+    },
+    {
+      "de": "das Theater",
+      "en": "theater",
+      "pos": "noun",
+      "plural": "die Theater",
+      "meanings": [
+        {
+          "en": "a building or art form for stage plays",
+          "de": "ein Gebäude oder eine Kunstform für Bühnenstücke"
+        },
+        {
+          "en": "(informal) a fuss or drama",
+          "de": "(umgangssprachlich) viel Aufregung ohne Grund"
+        }
+      ],
+      "rule": "Neuter noun; plural unchanged (die Theater). Informal sense 'Theater machen' = to make a fuss.",
+      "example": "Wir gehen heute Abend ins Theater.",
+      "exampleEn": "We're going to the theater tonight.",
+      "example2": "Mach doch nicht so ein Theater!",
+      "example2En": "Don't make such a fuss!"
+    },
+    {
+      "de": "das Thema",
+      "en": "topic",
+      "pos": "noun",
+      "plural": "die Themen",
+      "meanings": [
+        {
+          "en": "subject of discussion or writing",
+          "de": "Gegenstand eines Gesprächs oder Textes"
+        }
+      ],
+      "rule": "Neuter noun with Greek origin; irregular plural die Themen (not Themas).",
+      "example": "Das Thema der Diskussion ist Umweltschutz.",
+      "exampleEn": "The topic of the discussion is environmental protection.",
+      "example2": "Wir sprechen heute über ein neues Thema.",
+      "example2En": "Today we're talking about a new topic."
+    },
+    {
+      "de": "die Theorie",
+      "en": "theory",
+      "pos": "noun",
+      "plural": "die Theorien",
+      "meanings": [
+        {
+          "en": "an idea or system explaining something",
+          "de": "ein Gedankensystem zur Erklärung von etwas"
+        }
+      ],
+      "rule": "Feminine noun ending in -ie, stress on the final syllable; often paired with 'Praxis'.",
+      "example": "In der Theorie klingt der Plan gut.",
+      "exampleEn": "In theory, the plan sounds good.",
+      "example2": "Wir lernen zuerst die Theorie, dann die Praxis.",
+      "example2En": "We first learn the theory, then the practice."
+    },
+    {
+      "de": "die Therapie",
+      "en": "therapy",
+      "pos": "noun",
+      "plural": "die Therapien",
+      "meanings": [
+        {
+          "en": "medical or psychological treatment",
+          "de": "medizinische oder psychologische Behandlung"
+        }
+      ],
+      "rule": "Feminine noun ending in -ie; often with 'machen' or 'beginnen'.",
+      "example": "Er macht seit einem Monat eine Therapie.",
+      "exampleEn": "He has been in therapy for a month.",
+      "example2": "Die Therapie hilft ihr bei den Schmerzen.",
+      "example2En": "The therapy helps her with the pain."
+    },
+    {
+      "de": "die Tiefgarage",
+      "en": "underground parking garage",
+      "pos": "noun",
+      "plural": "die Tiefgaragen",
+      "meanings": [
+        {
+          "en": "a parking garage below ground level",
+          "de": "eine Garage unter der Erde"
+        }
+      ],
+      "rule": "Compound: tief (deep) + Garage; gender follows die Garage.",
+      "example": "Wir parken das Auto in der Tiefgarage.",
+      "exampleEn": "We park the car in the underground garage.",
+      "example2": "Die Tiefgarage ist rund um die Uhr geöffnet.",
+      "example2En": "The underground garage is open around the clock."
+    }
+  ]
+}

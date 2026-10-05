@@ -1,0 +1,881 @@
+{
+  "id": "b1-10",
+  "title": "B1 · J–K (10)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "das Jahrhundert",
+      "en": "century",
+      "pos": "noun",
+      "plural": "die Jahrhunderte",
+      "meanings": [
+        {
+          "en": "a period of 100 years",
+          "de": "Zeitraum von 100 Jahren"
+        }
+      ],
+      "rule": "Neuter noun, compound of Jahr + Hundert.",
+      "example": "Das Gebäude ist aus dem 19. Jahrhundert.",
+      "exampleEn": "The building is from the 19th century.",
+      "example2": "Im letzten Jahrhundert hat sich viel verändert.",
+      "example2En": "A lot has changed in the last century."
+    },
+    {
+      "de": "das Jahrzehnt",
+      "en": "decade",
+      "pos": "noun",
+      "plural": "die Jahrzehnte",
+      "meanings": [
+        {
+          "en": "a period of 10 years",
+          "de": "Zeitraum von 10 Jahren"
+        }
+      ],
+      "rule": "Neuter noun formed from Jahr + zehn (ten) with the suffix -t; not related to the unrelated word 'Zehnt' (tithe).",
+      "example": "In den letzten Jahrzehnten hat sich die Technik stark verändert.",
+      "exampleEn": "Technology has changed a lot in the last decades.",
+      "example2": "Das war das erfolgreichste Jahrzehnt seiner Karriere.",
+      "example2En": "That was the most successful decade of his career."
+    },
+    {
+      "de": "die Jobbezeichnung",
+      "en": "job title",
+      "pos": "noun",
+      "plural": "die Jobbezeichnungen",
+      "meanings": [
+        {
+          "en": "the official name of a job/position",
+          "de": "offizieller Name einer Stelle oder Tätigkeit"
+        }
+      ],
+      "rule": "Feminine noun, compound of Job + Bezeichnung.",
+      "example": "Wie lautet deine genaue Jobbezeichnung?",
+      "exampleEn": "What is your exact job title?",
+      "example2": "Die Jobbezeichnung steht im Arbeitsvertrag.",
+      "example2En": "The job title is stated in the employment contract."
+    },
+    {
+      "de": "der Jude / die Jüdin",
+      "en": "Jewish person",
+      "pos": "noun",
+      "plural": "die Juden / die Jüdinnen",
+      "meanings": [
+        {
+          "en": "a person of Jewish faith or identity",
+          "de": "Person jüdischen Glaubens oder jüdischer Herkunft"
+        }
+      ],
+      "rule": "Masculine weak noun (der Jude, den/dem/des Juden); feminine die Jüdin, plural die Jüdinnen.",
+      "example": "Er ist als Jude in Berlin aufgewachsen.",
+      "exampleEn": "He grew up as a Jew in Berlin.",
+      "example2": "Die Jüdin erzählte von ihrer Familiengeschichte.",
+      "example2En": "The Jewish woman talked about her family history."
+    },
+    {
+      "de": "die Jugendherberge",
+      "en": "youth hostel",
+      "pos": "noun",
+      "plural": "die Jugendherbergen",
+      "meanings": [
+        {
+          "en": "a cheap place to stay overnight, often for young travelers/groups",
+          "de": "günstige Übernachtungsmöglichkeit, oft für Jugendliche/Gruppen"
+        }
+      ],
+      "rule": "Feminine noun, compound of Jugend + Herberge.",
+      "example": "Wir übernachten in einer Jugendherberge am See.",
+      "exampleEn": "We are staying overnight in a youth hostel by the lake.",
+      "example2": "Die Jugendherberge bietet günstige Zimmer für Gruppen.",
+      "example2En": "The youth hostel offers cheap rooms for groups."
+    },
+    {
+      "de": "der Kaffeefilter",
+      "en": "coffee filter",
+      "pos": "noun",
+      "plural": "die Kaffeefilter",
+      "meanings": [
+        {
+          "en": "paper/reusable filter for making coffee",
+          "de": "Filter zum Aufbrühen von Kaffee"
+        }
+      ],
+      "rule": "Masculine noun, compound of Kaffee + Filter.",
+      "example": "Wir haben keine Kaffeefilter mehr zu Hause.",
+      "exampleEn": "We don't have any coffee filters left at home.",
+      "example2": "Leg einen neuen Kaffeefilter in die Maschine.",
+      "example2En": "Put a new coffee filter in the machine."
+    },
+    {
+      "de": "der Kamm",
+      "en": "comb",
+      "pos": "noun",
+      "plural": "die Kämme",
+      "meanings": [
+        {
+          "en": "a tool for tidying hair",
+          "de": "Gerät zum Ordnen der Haare"
+        }
+      ],
+      "rule": "Masculine noun with umlaut plural.",
+      "example": "Sie kämmt sich die Haare mit einem Kamm.",
+      "exampleEn": "She combs her hair with a comb.",
+      "example2": "Hast du einen Kamm dabei?",
+      "example2En": "Do you have a comb with you?"
+    },
+    {
+      "de": "der Kandidat / die Kandidatin",
+      "en": "candidate",
+      "pos": "noun",
+      "plural": "die Kandidaten / die Kandidatinnen",
+      "meanings": [
+        {
+          "en": "someone applying for a job or running in an election",
+          "de": "Person, die sich bewirbt oder zur Wahl antritt"
+        }
+      ],
+      "rule": "Masculine weak noun (der Kandidat, den/dem/des Kandidaten); feminine die Kandidatin.",
+      "example": "Der Kandidat hat die Prüfung bestanden.",
+      "exampleEn": "The candidate passed the exam.",
+      "example2": "Drei Kandidatinnen bewerben sich um die Stelle.",
+      "example2En": "Three female candidates are applying for the position."
+    },
+    {
+      "de": "die Kaskoversicherung",
+      "en": "comprehensive car insurance",
+      "pos": "noun",
+      "plural": "die Kaskoversicherungen",
+      "meanings": [
+        {
+          "en": "insurance covering damage to one's own vehicle",
+          "de": "Versicherung, die Schäden am eigenen Fahrzeug abdeckt"
+        }
+      ],
+      "rule": "Feminine noun, compound of Kasko + Versicherung.",
+      "example": "Für das neue Auto braucht er eine Kaskoversicherung.",
+      "exampleEn": "He needs comprehensive insurance for the new car.",
+      "example2": "Die Kaskoversicherung zahlt auch bei selbst verschuldeten Unfällen.",
+      "example2En": "The comprehensive insurance also pays for accidents you caused yourself."
+    },
+    {
+      "de": "der Katalog",
+      "en": "catalogue",
+      "pos": "noun",
+      "plural": "die Kataloge",
+      "meanings": [
+        {
+          "en": "a printed or online list of products/items",
+          "de": "gedrucktes oder digitales Verzeichnis von Waren"
+        }
+      ],
+      "rule": "Masculine noun, regular plural with -e.",
+      "example": "Sie bestellt die Möbel aus einem Katalog.",
+      "exampleEn": "She orders the furniture from a catalogue.",
+      "example2": "Der neue Katalog liegt im Briefkasten.",
+      "example2En": "The new catalogue is in the mailbox."
+    },
+    {
+      "de": "der Kauf",
+      "en": "purchase",
+      "pos": "noun",
+      "plural": "die Käufe",
+      "meanings": [
+        {
+          "en": "the act of buying something",
+          "de": "das Erwerben einer Ware gegen Geld"
+        }
+      ],
+      "rule": "Masculine noun with umlaut plural; related verb kaufen.",
+      "example": "Der Kauf des Hauses war eine gute Entscheidung.",
+      "exampleEn": "The purchase of the house was a good decision.",
+      "example2": "Beim Kauf sollte man den Preis vergleichen.",
+      "example2En": "When buying, you should compare the price."
+    },
+    {
+      "de": "die Kaufbestätigung",
+      "en": "purchase confirmation",
+      "pos": "noun",
+      "plural": "die Kaufbestätigungen",
+      "meanings": [
+        {
+          "en": "written confirmation that a purchase was made",
+          "de": "schriftlicher Nachweis über einen getätigten Kauf"
+        }
+      ],
+      "rule": "Feminine noun, compound of Kauf + Bestätigung.",
+      "example": "Bitte bewahren Sie die Kaufbestätigung auf.",
+      "exampleEn": "Please keep the purchase confirmation.",
+      "example2": "Die Kaufbestätigung wurde ihm per E-Mail geschickt.",
+      "example2En": "The purchase confirmation was sent to him by email."
+    },
+    {
+      "de": "der Käufer / die Käuferin",
+      "en": "buyer",
+      "pos": "noun",
+      "plural": "die Käufer / die Käuferinnen",
+      "meanings": [
+        {
+          "en": "a person who buys something",
+          "de": "Person, die etwas kauft"
+        }
+      ],
+      "rule": "Masculine noun derived from kaufen; feminine die Käuferin.",
+      "example": "Der Käufer zahlt den Betrag in bar.",
+      "exampleEn": "The buyer pays the amount in cash.",
+      "example2": "Die Käuferin prüft das Auto vor dem Kauf.",
+      "example2En": "The buyer (female) checks the car before the purchase."
+    },
+    {
+      "de": "der Kaufvertrag",
+      "en": "purchase contract",
+      "pos": "noun",
+      "plural": "die Kaufverträge",
+      "meanings": [
+        {
+          "en": "a legal contract for buying/selling something",
+          "de": "rechtlicher Vertrag über Kauf und Verkauf einer Sache"
+        }
+      ],
+      "rule": "Masculine noun, compound of Kauf + Vertrag, umlaut plural.",
+      "example": "Beide unterschreiben den Kaufvertrag.",
+      "exampleEn": "Both sign the purchase contract.",
+      "example2": "Im Kaufvertrag stehen alle wichtigen Bedingungen.",
+      "example2En": "All important terms are in the purchase contract."
+    },
+    {
+      "de": "kaum",
+      "en": "hardly, scarcely",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "hardly, barely (almost not)",
+          "de": "fast nicht"
+        },
+        {
+          "en": "no sooner ... than (temporal contrast in 'kaum ... als/da')",
+          "de": "kaum ... als/da: unmittelbar danach geschah etwas anderes"
+        }
+      ],
+      "rule": "Common adverb of degree, often with a negative/limiting sense: kaum + Verb. In the temporal construction 'kaum ... als/da', kaum triggers inversion (verb right after kaum), e.g. 'Kaum war sie zu Hause, klingelte das Telefon.'",
+      "example": "Er hat kaum Zeit für Hobbys.",
+      "exampleEn": "He hardly has time for hobbies.",
+      "example2": "Kaum war sie zu Hause, klingelte das Telefon.",
+      "example2En": "Hardly had she gotten home when the phone rang."
+    },
+    {
+      "de": "der Kilometer",
+      "en": "kilometer",
+      "pos": "noun",
+      "plural": "die Kilometer",
+      "meanings": [
+        {
+          "en": "unit of distance (1000 m)",
+          "de": "Längeneinheit, 1000 Meter"
+        }
+      ],
+      "rule": "Plural unverändert: der Kilometer, die Kilometer. Abkürzung: km. Als Maßeinheit bleibt die Form nach Zahlen gleich: zwei Kilometer (nicht 'Kilometers').",
+      "example": "Der Bahnhof ist zwei Kilometer von hier entfernt.",
+      "exampleEn": "The train station is two kilometers from here.",
+      "example2": "Wir sind heute zehn Kilometer gelaufen.",
+      "example2En": "We walked ten kilometers today."
+    },
+    {
+      "de": "die Kindheit",
+      "en": "childhood",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the period of being a child",
+          "de": "die Zeit, in der man ein Kind ist"
+        }
+      ],
+      "rule": "Meist nur im Singular verwendet (uncountable). Oft mit Präpositionen: in meiner Kindheit.",
+      "example": "Sie hat eine glückliche Kindheit gehabt.",
+      "exampleEn": "She had a happy childhood.",
+      "example2": "In seiner Kindheit hat er oft auf dem Land gelebt.",
+      "example2En": "In his childhood he often lived in the countryside."
+    },
+    {
+      "de": "kippen",
+      "en": "to tip over; to tilt",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to tip over / fall sideways",
+          "de": "umfallen, aus dem Gleichgewicht geraten"
+        },
+        {
+          "en": "to tilt / pour out by tilting",
+          "de": "etwas schräg stellen und ausleeren"
+        }
+      ],
+      "rule": "Regelmäßig: kippt, kippte, ist/hat gekippt. Intransitiv (umfallen) mit 'sein', transitiv (etwas kippen) mit 'haben'. Nicht mit 'umkippen' (trennbares Verb) verwechseln.",
+      "example": "Pass auf, die Leiter kippt gleich!",
+      "exampleEn": "Careful, the ladder is about to tip over!",
+      "example2": "Er hat das Wasser aus dem Eimer gekippt.",
+      "example2En": "He tipped the water out of the bucket."
+    },
+    {
+      "de": "klettern",
+      "en": "to climb",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to climb (using hands and feet)",
+          "de": "mit Händen und Füßen nach oben steigen"
+        }
+      ],
+      "rule": "Regelmäßig: klettert, kletterte, ist geklettert (Bewegungsverb mit 'sein').",
+      "example": "Die Kinder klettern gern auf Bäume.",
+      "exampleEn": "The children like climbing trees.",
+      "example2": "Wir sind am Wochenende in den Bergen geklettert.",
+      "example2En": "We went climbing in the mountains at the weekend."
+    },
+    {
+      "de": "das Klima",
+      "en": "climate",
+      "pos": "noun",
+      "plural": "die Klimas",
+      "meanings": [
+        {
+          "en": "the typical weather of a region",
+          "de": "das typische Wetter einer Region über lange Zeit"
+        },
+        {
+          "en": "atmosphere/mood (figurative)",
+          "de": "die Stimmung, Atmosphäre"
+        }
+      ],
+      "rule": "Meist im Singular verwendet. Plural im Alltag 'die Klimas', fachsprachlich 'die Klimate'.",
+      "example": "In Spanien ist das Klima wärmer als in Deutschland.",
+      "exampleEn": "The climate in Spain is warmer than in Germany.",
+      "example2": "Im Büro herrscht ein sehr gutes Klima.",
+      "example2En": "There is a very good atmosphere in the office."
+    },
+    {
+      "de": "der Klimawandel",
+      "en": "climate change",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "long-term change in global climate patterns",
+          "de": "die langfristige Veränderung des Klimas"
+        }
+      ],
+      "rule": "Meist nur Singular verwendet. Zusammensetzung aus Klima + Wandel.",
+      "example": "Der Klimawandel ist eines der größten Probleme unserer Zeit.",
+      "exampleEn": "Climate change is one of the biggest problems of our time.",
+      "example2": "Viele Länder wollen etwas gegen den Klimawandel tun.",
+      "example2En": "Many countries want to take action against climate change."
+    },
+    {
+      "de": "klug",
+      "en": "clever, intelligent",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "intelligent, smart",
+          "de": "intelligent, schlau"
+        }
+      ],
+      "rule": "Komparation regelmäßig: klug, klüger, am klügsten (Umlaut!).",
+      "example": "Sie ist eine sehr kluge Studentin.",
+      "exampleEn": "She is a very clever student.",
+      "example2": "Das war keine kluge Entscheidung.",
+      "example2En": "That wasn't a smart decision."
+    },
+    {
+      "de": "das Kochbuch",
+      "en": "cookbook",
+      "pos": "noun",
+      "plural": "die Kochbücher",
+      "meanings": [
+        {
+          "en": "a book with recipes",
+          "de": "ein Buch mit Rezepten"
+        }
+      ],
+      "rule": "Zusammensetzung aus kochen + Buch; Plural wie Buch → Bücher.",
+      "example": "Ich habe mir ein neues Kochbuch gekauft.",
+      "exampleEn": "I bought myself a new cookbook.",
+      "example2": "Das Rezept steht in meinem alten Kochbuch.",
+      "example2En": "The recipe is in my old cookbook."
+    },
+    {
+      "de": "der Kofferraum",
+      "en": "car trunk/boot",
+      "pos": "noun",
+      "plural": "die Kofferräume",
+      "meanings": [
+        {
+          "en": "the storage compartment of a car",
+          "de": "der Stauraum im Auto für Gepäck"
+        }
+      ],
+      "rule": "Zusammensetzung aus Koffer + Raum; Plural wie Raum → Räume.",
+      "example": "Leg die Taschen bitte in den Kofferraum.",
+      "exampleEn": "Please put the bags in the trunk.",
+      "example2": "Der Kofferraum ist voll mit Einkäufen.",
+      "example2En": "The trunk is full of groceries."
+    },
+    {
+      "de": "komfortabel",
+      "en": "comfortable",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "providing comfort and convenience",
+          "de": "bequem, mit viel Komfort"
+        }
+      ],
+      "rule": "Regelmäßig: komfortabel, komfortabler, am komfortabelsten (bei Deklination entfällt das zweite e: ein komfortables Auto).",
+      "example": "Das Hotelzimmer war sehr komfortabel.",
+      "exampleEn": "The hotel room was very comfortable.",
+      "example2": "Wir suchen ein komfortables Auto für die lange Fahrt.",
+      "example2En": "We are looking for a comfortable car for the long drive."
+    },
+    {
+      "de": "der Kommentator / die Kommentatorin",
+      "en": "commentator",
+      "pos": "noun",
+      "plural": "die Kommentatoren / die Kommentatorinnen",
+      "meanings": [
+        {
+          "en": "a person who gives commentary, e.g. on TV/radio",
+          "de": "jemand, der z. B. im Fernsehen ein Ereignis kommentiert"
+        }
+      ],
+      "rule": "Maskulines Substantiv auf -or: Plural mit Betonungsverschiebung: der Kommentator, die Kommentatoren.",
+      "example": "Der Kommentator beschreibt das Fußballspiel im Radio.",
+      "exampleEn": "The commentator describes the football match on the radio.",
+      "example2": "Die Kommentatorin war bei den Olympischen Spielen sehr beliebt.",
+      "example2En": "The commentator was very popular at the Olympic Games."
+    },
+    {
+      "de": "der Kommissar / die Kommissarin",
+      "en": "police inspector/commissioner",
+      "pos": "noun",
+      "plural": "die Kommissare / die Kommissarinnen",
+      "meanings": [
+        {
+          "en": "a senior police officer investigating crimes",
+          "de": "ein hoher Polizeibeamter, der Verbrechen aufklärt"
+        }
+      ],
+      "rule": "Maskulin -e Plural: der Kommissar, die Kommissare.",
+      "example": "Der Kommissar ermittelt in einem Mordfall.",
+      "exampleEn": "The inspector is investigating a murder case.",
+      "example2": "Die Kommissarin hat den Täter schnell gefasst.",
+      "example2En": "The inspector caught the culprit quickly."
+    },
+    {
+      "de": "die Kommunikationsstärke",
+      "en": "strong communication skills",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the ability to communicate well",
+          "de": "die Fähigkeit, gut zu kommunizieren"
+        }
+      ],
+      "rule": "Nur Singular; häufig in Bewerbungen/Stellenanzeigen verwendet.",
+      "example": "Für diese Stelle ist Kommunikationsstärke sehr wichtig.",
+      "exampleEn": "Strong communication skills are very important for this job.",
+      "example2": "Sie überzeugt im Vorstellungsgespräch durch ihre Kommunikationsstärke.",
+      "example2En": "She impresses in the job interview with her strong communication skills."
+    },
+    {
+      "de": "kommunikativ",
+      "en": "communicative",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "good at communicating, sociable",
+          "de": "gesprächsbereit, gut im Umgang mit anderen"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: kommunikativ, kommunikativer, am kommunikativsten.",
+      "example": "Er ist sehr kommunikativ und redet gern mit Kunden.",
+      "exampleEn": "He is very communicative and likes talking to customers.",
+      "example2": "Für den Job sucht man eine kommunikative Person.",
+      "example2En": "For the job they are looking for a communicative person."
+    },
+    {
+      "de": "die Komödie",
+      "en": "comedy",
+      "pos": "noun",
+      "plural": "die Komödien",
+      "meanings": [
+        {
+          "en": "a funny film, play, or book",
+          "de": "ein lustiges Theaterstück oder ein lustiger Film"
+        }
+      ],
+      "rule": "Feminin, Plural auf -n: die Komödie, die Komödien.",
+      "example": "Wir haben gestern eine lustige Komödie im Kino gesehen.",
+      "exampleEn": "We saw a funny comedy at the cinema yesterday.",
+      "example2": "Das Theater spielt diese Woche eine bekannte Komödie.",
+      "example2En": "This week the theater is performing a well-known comedy."
+    },
+    {
+      "de": "der Konferenzraum",
+      "en": "conference room",
+      "pos": "noun",
+      "plural": "die Konferenzräume",
+      "meanings": [
+        {
+          "en": "a room used for meetings/conferences",
+          "de": "ein Raum für Besprechungen und Konferenzen"
+        }
+      ],
+      "rule": "Zusammensetzung aus Konferenz + Raum; Plural wie Raum → Räume.",
+      "example": "Das Meeting findet im Konferenzraum im ersten Stock statt.",
+      "exampleEn": "The meeting takes place in the conference room on the first floor.",
+      "example2": "Der Konferenzraum ist mit einem Beamer ausgestattet.",
+      "example2En": "The conference room is equipped with a projector."
+    },
+    {
+      "de": "der Konflikt",
+      "en": "conflict",
+      "pos": "noun",
+      "plural": "die Konflikte",
+      "meanings": [
+        {
+          "en": "a serious disagreement or clash",
+          "de": "ein ernster Streit oder Gegensatz"
+        }
+      ],
+      "rule": "Maskulin, Plural auf -e: der Konflikt, die Konflikte.",
+      "example": "Zwischen den Kollegen gibt es einen Konflikt wegen der Arbeitszeiten.",
+      "exampleEn": "There is a conflict between the colleagues about working hours.",
+      "example2": "Man sollte Konflikte offen ansprechen und lösen.",
+      "example2En": "One should address and resolve conflicts openly."
+    },
+    {
+      "de": "der König / die Königin",
+      "en": "king / queen",
+      "pos": "noun",
+      "plural": "die Könige / die Königinnen",
+      "meanings": [
+        {
+          "en": "male/female monarch ruling a kingdom",
+          "de": "der Herrscher / die Herrscherin eines Königreichs"
+        }
+      ],
+      "rule": "Maskulin Plural auf -e: der König, die Könige (kein zusätzlicher Umlaut, da der Stammvokal ö schon im Singular steht); feminin Plural auf -nen: die Königin, die Königinnen.",
+      "example": "Der König lebt in einem großen Schloss.",
+      "exampleEn": "The king lives in a large castle.",
+      "example2": "Die Königin hat gestern eine wichtige Rede gehalten.",
+      "example2En": "The queen gave an important speech yesterday."
+    },
+    {
+      "de": "die Konservendose",
+      "en": "tin can",
+      "pos": "noun",
+      "plural": "die Konservendosen",
+      "meanings": [
+        {
+          "en": "a sealed metal can for preserved food",
+          "de": "eine Dose aus Metall für haltbar gemachte Lebensmittel"
+        }
+      ],
+      "rule": "Compound: Konserve (preserve) + Dose (can/tin); feminine like Dose.",
+      "example": "Ich habe noch eine Konservendose mit Bohnen im Schrank.",
+      "exampleEn": "I still have a can of beans in the cupboard.",
+      "example2": "Öffne bitte die Konservendose mit dem Dosenöffner.",
+      "example2En": "Please open the tin can with the can opener."
+    },
+    {
+      "de": "die Kontaktdaten",
+      "en": "contact details",
+      "pos": "noun",
+      "plural": "die Kontaktdaten",
+      "meanings": [
+        {
+          "en": "information such as address, phone, email for reaching someone",
+          "de": "Adresse, Telefonnummer, E-Mail usw. zum Erreichen einer Person"
+        }
+      ],
+      "rule": "Used only in plural (Pluraletantum); compound of Kontakt + Daten.",
+      "example": "Bitte geben Sie Ihre Kontaktdaten auf dem Formular an.",
+      "exampleEn": "Please give your contact details on the form.",
+      "example2": "Ich habe seine Kontaktdaten verloren.",
+      "example2En": "I lost his contact details."
+    },
+    {
+      "de": "die Kopie",
+      "en": "copy",
+      "pos": "noun",
+      "plural": "die Kopien",
+      "meanings": [
+        {
+          "en": "a reproduction/duplicate of a document",
+          "de": "ein Duplikat eines Dokuments"
+        }
+      ],
+      "rule": "Feminine noun; often used with 'eine Kopie machen/erstellen'.",
+      "example": "Kannst du mir eine Kopie von dem Vertrag machen?",
+      "exampleEn": "Can you make me a copy of the contract?",
+      "example2": "Ich brauche eine Kopie meines Passes.",
+      "example2En": "I need a copy of my passport."
+    },
+    {
+      "de": "der Kopierer",
+      "en": "photocopier",
+      "pos": "noun",
+      "plural": "die Kopierer",
+      "meanings": [
+        {
+          "en": "a machine that makes copies of documents",
+          "de": "ein Gerät, das Dokumente kopiert"
+        }
+      ],
+      "rule": "Masculine noun; derived from kopieren (to copy).",
+      "example": "Der Kopierer im Büro ist schon wieder kaputt.",
+      "exampleEn": "The photocopier in the office is broken again.",
+      "example2": "Kannst du die Seiten am Kopierer kopieren?",
+      "example2En": "Can you copy the pages on the copier?"
+    },
+    {
+      "de": "korrekt",
+      "en": "correct",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "free of errors, right",
+          "de": "richtig, fehlerfrei"
+        },
+        {
+          "en": "proper, appropriate in behavior",
+          "de": "angemessen, ordentlich"
+        }
+      ],
+      "rule": "Regular comparison: korrekt, korrekter, am korrektesten.",
+      "example": "Ihre Antwort war völlig korrekt.",
+      "exampleEn": "Her answer was completely correct.",
+      "example2": "Er hat sich immer sehr korrekt verhalten.",
+      "example2En": "He always behaved very properly."
+    },
+    {
+      "de": "die Kosmetik",
+      "en": "cosmetics",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "beauty products and skincare",
+          "de": "Schönheitsprodukte und Hautpflege"
+        }
+      ],
+      "rule": "Uncountable feminine noun, no plural.",
+      "example": "Sie kauft ihre Kosmetik immer in der Drogerie.",
+      "exampleEn": "She always buys her cosmetics at the drugstore.",
+      "example2": "Er interessiert sich nicht für Kosmetik.",
+      "example2En": "He isn't interested in cosmetics."
+    },
+    {
+      "de": "krachen",
+      "en": "to crash, to bang",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make a loud crashing noise",
+          "de": "einen lauten Knall machen"
+        },
+        {
+          "en": "(colloquial) to have a fight/argument",
+          "de": "(umgangssprachlich) sich streiten"
+        }
+      ],
+      "rule": "Regular weak verb: kracht, krachte, hat gekracht. Can take 'sein' when describing movement/collision (ist gekracht).",
+      "example": "Der Donner krachte laut über dem Haus.",
+      "exampleEn": "The thunder crashed loudly over the house.",
+      "example2": "Die beiden Autos sind ineinander gekracht.",
+      "example2En": "The two cars crashed into each other."
+    },
+    {
+      "de": "der Kratzer",
+      "en": "scratch",
+      "pos": "noun",
+      "plural": "die Kratzer",
+      "meanings": [
+        {
+          "en": "a small mark or cut on a surface",
+          "de": "eine kleine Beschädigung auf einer Oberfläche"
+        }
+      ],
+      "rule": "Masculine noun; plural same as singular form.",
+      "example": "Das Auto hat einen Kratzer an der Tür.",
+      "exampleEn": "The car has a scratch on the door.",
+      "example2": "Ich habe mir einen Kratzer am Arm geholt.",
+      "example2En": "I got a scratch on my arm."
+    },
+    {
+      "de": "der Krieg",
+      "en": "war",
+      "pos": "noun",
+      "plural": "die Kriege",
+      "meanings": [
+        {
+          "en": "an armed conflict between states or groups",
+          "de": "ein bewaffneter Konflikt zwischen Staaten oder Gruppen"
+        }
+      ],
+      "rule": "Masculine noun; common expression 'im Krieg' (in the war).",
+      "example": "Der Krieg dauerte mehrere Jahre.",
+      "exampleEn": "The war lasted several years.",
+      "example2": "Viele Menschen mussten wegen des Krieges fliehen.",
+      "example2En": "Many people had to flee because of the war."
+    },
+    {
+      "de": "das Kriegsende",
+      "en": "end of the war",
+      "pos": "noun",
+      "plural": "die Kriegsenden",
+      "meanings": [
+        {
+          "en": "the point when a war stops",
+          "de": "der Zeitpunkt, an dem ein Krieg endet"
+        }
+      ],
+      "rule": "Compound: Krieg + Ende; gender follows Ende (das).",
+      "example": "Nach dem Kriegsende kehrten viele Soldaten nach Hause zurück.",
+      "exampleEn": "After the end of the war, many soldiers returned home.",
+      "example2": "Das Kriegsende wurde 1945 gefeiert.",
+      "example2En": "The end of the war was celebrated in 1945."
+    },
+    {
+      "de": "der Krimi",
+      "en": "crime novel/movie",
+      "pos": "noun",
+      "plural": "die Krimis",
+      "meanings": [
+        {
+          "en": "a detective or crime story (book, film, or TV show)",
+          "de": "eine Kriminalgeschichte (Buch, Film oder Serie)"
+        }
+      ],
+      "rule": "Masculine short form of Kriminalroman/Kriminalfilm; informal.",
+      "example": "Abends lese ich gern einen guten Krimi.",
+      "exampleEn": "In the evening I like to read a good crime novel.",
+      "example2": "Im Fernsehen läuft heute ein spannender Krimi.",
+      "example2En": "There's an exciting crime show on TV today."
+    },
+    {
+      "de": "die Krippe",
+      "en": "manger; nursery/daycare",
+      "pos": "noun",
+      "plural": "die Krippen",
+      "meanings": [
+        {
+          "en": "a feeding trough, especially the nativity manger",
+          "de": "ein Futtertrog, besonders die Weihnachtskrippe"
+        },
+        {
+          "en": "a daycare facility for very young children",
+          "de": "eine Betreuungseinrichtung für Kleinkinder"
+        }
+      ],
+      "rule": "Feminine noun; 'Kinderkrippe' is the common word for baby daycare.",
+      "example": "Zu Weihnachten stellen wir eine Krippe unter den Baum.",
+      "exampleEn": "At Christmas we put a nativity manger under the tree.",
+      "example2": "Unser Sohn geht seit einem Monat in die Krippe.",
+      "example2En": "Our son has been going to daycare for a month."
+    },
+    {
+      "de": "der Kritiker / die Kritikerin",
+      "en": "critic",
+      "pos": "noun",
+      "plural": "die Kritiker / die Kritikerinnen",
+      "meanings": [
+        {
+          "en": "a person who reviews or judges art, books, films, etc.",
+          "de": "eine Person, die Kunst, Bücher, Filme usw. beurteilt"
+        }
+      ],
+      "rule": "Masculine/feminine pair; from Kritik (criticism/review).",
+      "example": "Der Kritiker hat den neuen Film sehr gelobt.",
+      "exampleEn": "The critic praised the new film highly.",
+      "example2": "Die Kritikerin schrieb eine negative Rezension über das Buch.",
+      "example2En": "The critic wrote a negative review of the book."
+    },
+    {
+      "de": "kulinarisch",
+      "en": "culinary",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to cooking or food",
+          "de": "das Kochen oder Essen betreffend"
+        }
+      ],
+      "rule": "No irregular comparison; often used as 'kulinarische Genüsse' (culinary delights).",
+      "example": "Die Stadt ist für ihre kulinarischen Spezialitäten bekannt.",
+      "exampleEn": "The city is known for its culinary specialties.",
+      "example2": "Wir hatten ein kulinarisches Erlebnis im neuen Restaurant.",
+      "example2En": "We had a culinary experience at the new restaurant."
+    },
+    {
+      "de": "die Kundenbefragung",
+      "en": "customer survey",
+      "pos": "noun",
+      "plural": "die Kundenbefragungen",
+      "meanings": [
+        {
+          "en": "a survey to gather customer opinions",
+          "de": "eine Umfrage zur Meinung von Kunden"
+        }
+      ],
+      "rule": "Compound: Kunde + Befragung; feminine like Befragung.",
+      "example": "Die Firma führt regelmäßig eine Kundenbefragung durch.",
+      "exampleEn": "The company regularly conducts a customer survey.",
+      "example2": "Die Ergebnisse der Kundenbefragung waren sehr positiv.",
+      "example2En": "The results of the customer survey were very positive."
+    },
+    {
+      "de": "kundenfreundlich",
+      "en": "customer-friendly",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "friendly and helpful towards customers",
+          "de": "freundlich und hilfsbereit gegenüber Kunden"
+        }
+      ],
+      "rule": "Compound adjective: Kunde + freundlich; regular comparison.",
+      "example": "Der Verkäufer war sehr kundenfreundlich.",
+      "exampleEn": "The salesperson was very customer-friendly.",
+      "example2": "Das Unternehmen legt Wert auf kundenfreundlichen Service.",
+      "example2En": "The company values customer-friendly service."
+    },
+    {
+      "de": "die Kündigung",
+      "en": "notice of termination; resignation/dismissal",
+      "pos": "noun",
+      "plural": "die Kündigungen",
+      "meanings": [
+        {
+          "en": "formal termination of a contract, job, or lease",
+          "de": "die formale Beendigung eines Vertrags, einer Stelle oder einer Wohnung"
+        }
+      ],
+      "rule": "From kündigen (to terminate/give notice); feminine noun.",
+      "example": "Er hat seine Kündigung zum Monatsende eingereicht.",
+      "exampleEn": "He submitted his resignation effective end of the month.",
+      "example2": "Die Kündigung der Wohnung muss schriftlich erfolgen.",
+      "example2En": "The termination of the apartment lease must be in writing."
+    }
+  ]
+}

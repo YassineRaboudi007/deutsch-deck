@@ -1,0 +1,905 @@
+{
+  "id": "b1-16",
+  "title": "B1 · S–Ü (16)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "die Staatsgründung",
+      "en": "founding of a state",
+      "pos": "noun",
+      "plural": "die Staatsgründungen",
+      "meanings": [
+        {
+          "en": "founding/establishment of a state",
+          "de": "die Entstehung eines neuen Staates"
+        }
+      ],
+      "rule": "Compound: der Staat + die Gründung.",
+      "example": "Die Staatsgründung fand vor über 70 Jahren statt.",
+      "exampleEn": "The founding of the state took place more than 70 years ago.",
+      "example2": "Historiker diskutieren über die Umstände der Staatsgründung.",
+      "example2En": "Historians discuss the circumstances of the state's founding."
+    },
+    {
+      "de": "das Stadion",
+      "en": "stadium",
+      "pos": "noun",
+      "plural": "die Stadien",
+      "meanings": [
+        {
+          "en": "stadium (sports venue)",
+          "de": "große Sportanlage mit Rängen für Zuschauer"
+        }
+      ],
+      "rule": "Plural unregelmäßig: die Stadien (nicht 'Stadions').",
+      "example": "Am Samstag gehen wir ins Stadion, um das Fußballspiel zu sehen.",
+      "exampleEn": "On Saturday we're going to the stadium to watch the football match.",
+      "example2": "Das neue Stadion bietet Platz für 50.000 Zuschauer.",
+      "example2En": "The new stadium has room for 50,000 spectators."
+    },
+    {
+      "de": "die Statistik",
+      "en": "statistics",
+      "pos": "noun",
+      "plural": "die Statistiken",
+      "meanings": [
+        {
+          "en": "statistics (data/figures)",
+          "de": "Zusammenstellung von Zahlen und Daten"
+        },
+        {
+          "en": "statistics (the science)",
+          "de": "wissenschaftliche Methode zur Auswertung von Daten"
+        }
+      ],
+      "rule": "Im Singular oft für 'eine Statistik' (eine Datentabelle), im Uni-Kontext auch das Fach 'Statistik' ohne Plural.",
+      "example": "Laut einer Statistik fahren immer mehr Menschen mit dem Fahrrad.",
+      "exampleEn": "According to a statistic, more and more people are cycling.",
+      "example2": "Im Studium musste sie einen Kurs in Statistik belegen.",
+      "example2En": "During her studies she had to take a course in statistics."
+    },
+    {
+      "de": "stattfinden",
+      "en": "to take place",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to take place / happen (event)",
+          "de": "(Veranstaltung) durchgeführt werden"
+        }
+      ],
+      "rule": "Trennbar: findet ... statt, fand statt, hat stattgefunden. Nur mit Sachen/Ereignissen als Subjekt, nicht mit Personen.",
+      "example": "Die Konferenz findet nächste Woche in Berlin statt.",
+      "exampleEn": "The conference takes place next week in Berlin.",
+      "example2": "Wegen des Regens fand das Konzert nicht im Freien statt.",
+      "example2En": "Because of the rain, the concert did not take place outdoors."
+    },
+    {
+      "de": "die Stellenanzeige",
+      "en": "job advertisement",
+      "pos": "noun",
+      "plural": "die Stellenanzeigen",
+      "meanings": [
+        {
+          "en": "job advertisement / job posting",
+          "de": "Anzeige, mit der eine freie Arbeitsstelle gesucht wird"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Stelle' (Job/Position) + 'Anzeige' (Werbung); steht meist in Zeitungen oder online.",
+      "example": "Ich habe in der Zeitung eine interessante Stellenanzeige gefunden.",
+      "exampleEn": "I found an interesting job ad in the newspaper.",
+      "example2": "Auf die Stellenanzeige haben sich über 50 Personen beworben.",
+      "example2En": "More than 50 people applied for the job posting."
+    },
+    {
+      "de": "der Stern",
+      "en": "star",
+      "pos": "noun",
+      "plural": "die Sterne",
+      "meanings": [
+        {
+          "en": "star (in the sky)",
+          "de": "leuchtender Himmelskörper"
+        },
+        {
+          "en": "star (symbol, e.g. in ratings)",
+          "de": "Symbol in Sternform, z. B. bei Bewertungen (fünf Sterne)"
+        }
+      ],
+      "rule": "Maskulin, regelmäßiger Plural: die Sterne. Achtung: 'Star' (Berühmtheit) ist ein anderes Wort - der Star, die Stars.",
+      "example": "Nachts kann man am Himmel viele Sterne sehen.",
+      "exampleEn": "At night you can see many stars in the sky.",
+      "example2": "Das Hotel hat fünf Sterne.",
+      "example2En": "The hotel has five stars."
+    },
+    {
+      "de": "der Steuerberater / die Steuerberaterin",
+      "en": "tax advisor",
+      "pos": "noun",
+      "plural": "die Steuerberater / die Steuerberaterinnen",
+      "meanings": [
+        {
+          "en": "tax advisor / accountant",
+          "de": "Fachperson, die bei Steuerfragen berät"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Steuer' (tax) + 'Berater' (advisor); weibliche Form mit -in.",
+      "example": "Mein Steuerberater hilft mir bei der Steuererklärung.",
+      "exampleEn": "My tax advisor helps me with my tax return.",
+      "example2": "Für die Firma ist eine gute Steuerberaterin sehr wichtig.",
+      "example2En": "A good tax advisor is very important for the company."
+    },
+    {
+      "de": "das Steuerberatungsbüro",
+      "en": "tax consultancy office",
+      "pos": "noun",
+      "plural": "die Steuerberatungsbüros",
+      "meanings": [
+        {
+          "en": "tax consultancy office / accounting firm",
+          "de": "Büro, in dem Steuerberater arbeiten"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Steuerberatung' + 'Büro'; Plural auf -s wie bei vielen Wörtern auf -o.",
+      "example": "Das Steuerberatungsbüro liegt direkt neben der Bank.",
+      "exampleEn": "The tax consultancy office is right next to the bank.",
+      "example2": "Sie arbeitet seit fünf Jahren in einem Steuerberatungsbüro.",
+      "example2En": "She has worked at a tax consultancy office for five years."
+    },
+    {
+      "de": "stinken",
+      "en": "to stink",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to stink / smell bad",
+          "de": "schlecht riechen"
+        }
+      ],
+      "rule": "Unregelmäßig: stinkt, stank, hat gestunken.",
+      "example": "Der Müll im Hof stinkt schon seit Tagen.",
+      "exampleEn": "The garbage in the yard has been stinking for days.",
+      "example2": "Nach dem Sport stinken seine Schuhe fürchterlich.",
+      "example2En": "After sports, his shoes smell terrible."
+    },
+    {
+      "de": "stinksauer",
+      "en": "furious (coll.)",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "furious / really angry (colloquial)",
+          "de": "(umgangssprachlich) sehr wütend"
+        }
+      ],
+      "rule": "Umgangssprachliche Verstärkung von 'sauer' (wütend); keine unregelmäßige Steigerung, wird meist prädikativ benutzt.",
+      "example": "Er war stinksauer, weil der Bus schon wieder zu spät kam.",
+      "exampleEn": "He was furious because the bus was late again.",
+      "example2": "Meine Chefin ist stinksauer auf mich, weil ich den Termin vergessen habe.",
+      "example2En": "My boss is really angry at me because I forgot the appointment."
+    },
+    {
+      "de": "das Stipendium",
+      "en": "scholarship",
+      "pos": "noun",
+      "plural": "die Stipendien",
+      "meanings": [
+        {
+          "en": "scholarship / grant",
+          "de": "finanzielle Unterstützung für Studium oder Ausbildung"
+        }
+      ],
+      "rule": "Plural unregelmäßig: die Stipendien (wie bei vielen Wörtern auf -ium).",
+      "example": "Sie hat ein Stipendium für ihr Studium in Deutschland bekommen.",
+      "exampleEn": "She got a scholarship for her studies in Germany.",
+      "example2": "Ohne das Stipendium könnte er sich die Uni nicht leisten.",
+      "example2En": "Without the scholarship, he couldn't afford university."
+    },
+    {
+      "de": "stören",
+      "en": "to disturb",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to disturb / bother",
+          "de": "jemanden bei etwas unterbrechen oder belästigen"
+        },
+        {
+          "en": "to bother / annoy (impersonal, etwas stört jmdn.)",
+          "de": "jemandem unangenehm auffallen"
+        }
+      ],
+      "rule": "Regelmäßig: stört, störte, hat gestört. Oft mit Akkusativobjekt der Person: 'jemanden stören'.",
+      "example": "Entschuldigung, störe ich Sie gerade?",
+      "exampleEn": "Excuse me, am I disturbing you right now?",
+      "example2": "Der Lärm von der Baustelle stört mich beim Arbeiten.",
+      "example2En": "The noise from the construction site bothers me while I work."
+    },
+    {
+      "de": "die Stoßstange",
+      "en": "bumper",
+      "pos": "noun",
+      "plural": "die Stoßstangen",
+      "meanings": [
+        {
+          "en": "bumper (of a car)",
+          "de": "vorderer oder hinterer Teil des Autos zum Schutz bei Stößen"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'stoßen' (to push/bump) + 'Stange' (bar).",
+      "example": "Bei dem Unfall wurde nur die Stoßstange beschädigt.",
+      "exampleEn": "In the accident, only the bumper was damaged.",
+      "example2": "Die vordere Stoßstange hat einen tiefen Kratzer.",
+      "example2En": "The front bumper has a deep scratch."
+    },
+    {
+      "de": "der Straßenrand",
+      "en": "roadside / curb",
+      "pos": "noun",
+      "plural": "die Straßenränder",
+      "meanings": [
+        {
+          "en": "roadside / edge of the street",
+          "de": "der äußere Rand einer Straße"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Straße' + 'Rand'; oft in 'am Straßenrand' (Präposition 'an' + Dativ).",
+      "example": "Das Auto war am Straßenrand geparkt.",
+      "exampleEn": "The car was parked at the roadside.",
+      "example2": "Am Straßenrand wachsen viele Blumen.",
+      "example2En": "Many flowers grow along the roadside."
+    },
+    {
+      "de": "der Straßenverkehr",
+      "en": "road traffic",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "road traffic",
+          "de": "Verkehr von Autos, Fahrrädern usw. auf der Straße"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural. Zusammensetzung aus 'Straße' + 'Verkehr'.",
+      "example": "Der Straßenverkehr ist in der Stadt oft sehr stressig.",
+      "exampleEn": "Road traffic in the city is often very stressful.",
+      "example2": "Kinder lernen in der Schule, sich sicher im Straßenverkehr zu bewegen.",
+      "example2En": "Children learn at school how to move safely in road traffic."
+    },
+    {
+      "de": "das Streichholz",
+      "en": "match (for lighting)",
+      "pos": "noun",
+      "plural": "die Streichhölzer",
+      "meanings": [
+        {
+          "en": "match (used to light fire)",
+          "de": "kleines Holzstück zum Anzünden von Feuer"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'streichen' (to strike) + 'Holz' (wood); Plural mit Umlaut: die Streichhölzer.",
+      "example": "Kannst du mir bitte ein Streichholz geben, um die Kerze anzuzünden?",
+      "exampleEn": "Can you give me a match to light the candle, please?",
+      "example2": "Die Streichhölzer liegen in der Küchenschublade.",
+      "example2En": "The matches are in the kitchen drawer."
+    },
+    {
+      "de": "streiken",
+      "en": "to strike",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to strike (workers/labor action)",
+          "de": "aus Protest gemeinsam die Arbeit niederlegen"
+        }
+      ],
+      "rule": "Regelmäßig: streikt, streikte, hat gestreikt.",
+      "example": "Die Lokführer streiken diese Woche für höhere Löhne.",
+      "exampleEn": "The train drivers are striking this week for higher wages.",
+      "example2": "Die Fluglotsen streiken heute, deshalb fallen viele Flüge aus.",
+      "example2En": "The air traffic controllers are striking today, so many flights are cancelled."
+    },
+    {
+      "de": "streiten",
+      "en": "to argue",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to argue / quarrel",
+          "de": "einen Streit mit jemandem haben"
+        },
+        {
+          "en": "to argue (sich streiten, reflexive, mutual dispute)",
+          "de": "sich gegenseitig streiten"
+        }
+      ],
+      "rule": "Unregelmäßig: streitet, stritt, hat gestritten. Oft reflexiv: 'sich streiten mit + Dativ' oder 'sich streiten über + Akkusativ'.",
+      "example": "Die Geschwister streiten sich ständig um das Spielzeug.",
+      "exampleEn": "The siblings constantly argue about the toy.",
+      "example2": "Wir haben lange über den richtigen Weg gestritten.",
+      "example2En": "We argued for a long time about the right way."
+    },
+    {
+      "de": "der Strom",
+      "en": "electricity",
+      "pos": "noun",
+      "plural": "die Ströme",
+      "meanings": [
+        {
+          "en": "electricity / power",
+          "de": "elektrische Energie"
+        },
+        {
+          "en": "stream / large river",
+          "de": "großer, breiter Fluss"
+        },
+        {
+          "en": "stream / flow (of people, traffic, etc.)",
+          "de": "große, gleichmäßige Bewegung von Menschen oder Dingen"
+        }
+      ],
+      "rule": "Für 'Elektrizität' meist Singular ohne Plural verwendet; als 'großer Fluss' regelmäßiger Plural: die Ströme.",
+      "example": "Der Strom ist heute Morgen für zwei Stunden ausgefallen.",
+      "exampleEn": "The power was out for two hours this morning.",
+      "example2": "Ein Strom von Touristen fließt jeden Tag durch die Altstadt.",
+      "example2En": "A stream of tourists flows through the old town every day."
+    },
+    {
+      "de": "der Stromanbieter",
+      "en": "electricity provider",
+      "pos": "noun",
+      "plural": "die Stromanbieter",
+      "meanings": [
+        {
+          "en": "company that supplies electricity",
+          "de": "Firma, die Strom liefert"
+        }
+      ],
+      "rule": "Compound: der Strom + der Anbieter; masculine like Anbieter; often used with 'wechseln' (den Stromanbieter wechseln).",
+      "example": "Wir haben den Stromanbieter gewechselt, weil er billiger ist.",
+      "exampleEn": "We switched electricity providers because it's cheaper.",
+      "example2": "Mein Stromanbieter hat die Preise erhöht.",
+      "example2En": "My electricity provider has raised the prices."
+    },
+    {
+      "de": "die Stromkosten",
+      "en": "electricity costs",
+      "pos": "noun",
+      "plural": "die Stromkosten",
+      "meanings": [
+        {
+          "en": "money paid for electricity",
+          "de": "Kosten für den Stromverbrauch"
+        }
+      ],
+      "rule": "Plural-only noun (Pluraletantum); no singular form in everyday use.",
+      "example": "Die Stromkosten steigen jedes Jahr.",
+      "exampleEn": "Electricity costs rise every year.",
+      "example2": "Wir wollen unsere Stromkosten senken.",
+      "example2En": "We want to reduce our electricity costs."
+    },
+    {
+      "de": "die Studie",
+      "en": "study; survey",
+      "pos": "noun",
+      "plural": "die Studien",
+      "meanings": [
+        {
+          "en": "a scientific or research study",
+          "de": "wissenschaftliche Untersuchung"
+        }
+      ],
+      "rule": "Feminine noun; do not confuse with 'das Studium' (course of study at university).",
+      "example": "Eine neue Studie zeigt die Wirkung des Medikaments.",
+      "exampleEn": "A new study shows the effect of the medication.",
+      "example2": "Laut einer Studie schlafen viele Deutsche zu wenig.",
+      "example2En": "According to a study, many Germans sleep too little."
+    },
+    {
+      "de": "der Sturm",
+      "en": "storm",
+      "pos": "noun",
+      "plural": "die Stürme",
+      "meanings": [
+        {
+          "en": "a violent windstorm",
+          "de": "sehr starker Wind"
+        }
+      ],
+      "rule": "Masculine noun; umlaut in plural (Sturm → Stürme).",
+      "example": "Der Sturm hat viele Bäume umgeworfen.",
+      "exampleEn": "The storm knocked down many trees.",
+      "example2": "Heute Abend soll ein starker Sturm kommen.",
+      "example2En": "A strong storm is expected tonight."
+    },
+    {
+      "de": "der SUV",
+      "en": "SUV (sport utility vehicle)",
+      "pos": "noun",
+      "plural": "die SUVs",
+      "meanings": [
+        {
+          "en": "a large, high-riding car",
+          "de": "großes, hoch gebautes Auto"
+        }
+      ],
+      "rule": "Loanword/abbreviation from English; masculine article der SUV; plural adds -s.",
+      "example": "Sie fährt einen großen SUV.",
+      "exampleEn": "She drives a big SUV.",
+      "example2": "SUVs verbrauchen oft mehr Benzin als kleine Autos.",
+      "example2En": "SUVs often use more fuel than small cars."
+    },
+    {
+      "de": "der Tagesablauf",
+      "en": "daily routine",
+      "pos": "noun",
+      "plural": "die Tagesabläufe",
+      "meanings": [
+        {
+          "en": "the sequence of events in a typical day",
+          "de": "der übliche Ablauf eines Tages"
+        }
+      ],
+      "rule": "Compound: der Tag(es) + der Ablauf; masculine.",
+      "example": "Mein Tagesablauf beginnt mit einer Tasse Kaffee.",
+      "exampleEn": "My daily routine starts with a cup of coffee.",
+      "example2": "Der Tagesablauf im Kindergarten ist gut strukturiert.",
+      "example2En": "The daily routine at the kindergarten is well structured."
+    },
+    {
+      "de": "die Talkshow",
+      "en": "talk show",
+      "pos": "noun",
+      "plural": "die Talkshows",
+      "meanings": [
+        {
+          "en": "a TV program where guests are interviewed or discuss topics",
+          "de": "Fernsehsendung mit Gästen und Diskussion"
+        }
+      ],
+      "rule": "Loanword from English; feminine article (die Show); plural adds -s.",
+      "example": "Er war gestern Gast in einer Talkshow.",
+      "exampleEn": "He was a guest on a talk show yesterday.",
+      "example2": "In der Talkshow diskutieren Politiker über die Wahl.",
+      "example2En": "In the talk show, politicians discuss the election."
+    },
+    {
+      "de": "die Taschenlampe",
+      "en": "flashlight",
+      "pos": "noun",
+      "plural": "die Taschenlampen",
+      "meanings": [
+        {
+          "en": "a small portable electric light",
+          "de": "kleines tragbares Licht mit Batterie"
+        }
+      ],
+      "rule": "Compound: die Tasche + die Lampe; feminine.",
+      "example": "Ich brauche eine Taschenlampe, weil es dunkel ist.",
+      "exampleEn": "I need a flashlight because it's dark.",
+      "example2": "Die Taschenlampe funktioniert nicht mehr, die Batterie ist leer.",
+      "example2En": "The flashlight doesn't work anymore, the battery is dead."
+    },
+    {
+      "de": "das Taschenmesser",
+      "en": "pocketknife",
+      "pos": "noun",
+      "plural": "die Taschenmesser",
+      "meanings": [
+        {
+          "en": "a small folding knife",
+          "de": "kleines Klappmesser zum Mitnehmen"
+        }
+      ],
+      "rule": "Compound: die Tasche + das Messer; neuter (takes gender of Messer).",
+      "example": "Er hat immer ein Taschenmesser dabei.",
+      "exampleEn": "He always carries a pocketknife with him.",
+      "example2": "Mit dem Taschenmesser kann man Brot schneiden.",
+      "example2En": "You can cut bread with the pocketknife."
+    },
+    {
+      "de": "tatsächlich",
+      "en": "actual, actually; indeed",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "real, actual (adjective)",
+          "de": "wirklich, real"
+        },
+        {
+          "en": "really, in fact (adverb/discourse particle)",
+          "de": "wirklich, tatsächlich so"
+        }
+      ],
+      "rule": "Can be used both as adjective (die tatsächlichen Kosten) and as adverb/modal particle expressing surprise or confirmation.",
+      "example": "Die tatsächlichen Kosten waren höher als geplant.",
+      "exampleEn": "The actual costs were higher than planned.",
+      "example2": "Er hat tatsächlich die Prüfung bestanden!",
+      "example2En": "He actually passed the exam!"
+    },
+    {
+      "de": "die Teamfähigkeit",
+      "en": "teamwork skills, ability to work in a team",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the ability to work well with others in a team",
+          "de": "Fähigkeit, gut mit anderen zusammenzuarbeiten"
+        }
+      ],
+      "rule": "Feminine, uncountable noun; common in job ads (Wir erwarten Teamfähigkeit).",
+      "example": "Teamfähigkeit ist in diesem Beruf sehr wichtig.",
+      "exampleEn": "Teamwork skills are very important in this job.",
+      "example2": "Im Bewerbungsgespräch wurde nach meiner Teamfähigkeit gefragt.",
+      "example2En": "In the job interview, I was asked about my ability to work in a team."
+    },
+    {
+      "de": "die Teilkaskoversicherung",
+      "en": "partial comprehensive insurance (for cars)",
+      "pos": "noun",
+      "plural": "die Teilkaskoversicherungen",
+      "meanings": [
+        {
+          "en": "limited car insurance covering theft, fire, glass, etc. but not own-fault collision damage",
+          "de": "Autoversicherung, die z. B. Diebstahl und Glasschäden, aber keine selbst verursachten Unfallschäden deckt"
+        }
+      ],
+      "rule": "Compound: Teil + Kasko + Versicherung; feminine; short form 'die Teilkasko' is common.",
+      "example": "Für das alte Auto reicht eine Teilkaskoversicherung.",
+      "exampleEn": "For the old car, partial comprehensive insurance is enough.",
+      "example2": "Die Teilkasko zahlt, wenn das Auto gestohlen wird.",
+      "example2En": "The partial comprehensive insurance pays if the car is stolen."
+    },
+    {
+      "de": "die Teilung",
+      "en": "division; split",
+      "pos": "noun",
+      "plural": "die Teilungen",
+      "meanings": [
+        {
+          "en": "the act of dividing something into parts",
+          "de": "das Aufteilen in mehrere Teile"
+        }
+      ],
+      "rule": "Feminine noun from the verb 'teilen'.",
+      "example": "Die Teilung des Kuchens war nicht gerecht.",
+      "exampleEn": "The division of the cake wasn't fair.",
+      "example2": "Nach der Teilung Deutschlands gab es zwei Staaten.",
+      "example2En": "After the division of Germany, there were two states."
+    },
+    {
+      "de": "die Telekommunikation",
+      "en": "telecommunications",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "technology and services for transmitting information over distance (phone, internet, etc.)",
+          "de": "Übertragung von Informationen über Entfernungen, z. B. Telefon, Internet"
+        }
+      ],
+      "rule": "Feminine, uncountable noun; often used in compounds like Telekommunikationsunternehmen.",
+      "example": "Er arbeitet in der Telekommunikation.",
+      "exampleEn": "He works in telecommunications.",
+      "example2": "Die Telekommunikation hat sich in den letzten Jahren stark verändert.",
+      "example2En": "Telecommunications has changed a lot in recent years."
+    },
+    {
+      "de": "der Terminkalender",
+      "en": "appointment calendar, diary",
+      "pos": "noun",
+      "plural": "die Terminkalender",
+      "meanings": [
+        {
+          "en": "a calendar for keeping track of appointments",
+          "de": "Kalender, in dem man Termine einträgt"
+        }
+      ],
+      "rule": "Compound: der Termin + der Kalender; masculine.",
+      "example": "Mein Terminkalender ist diese Woche voll.",
+      "exampleEn": "My appointment calendar is full this week.",
+      "example2": "Sie trägt jeden Termin sofort in den Terminkalender ein.",
+      "example2En": "She immediately writes every appointment into her calendar."
+    },
+    {
+      "de": "die Tiefkühlpizza",
+      "en": "frozen pizza",
+      "pos": "noun",
+      "plural": "die Tiefkühlpizzen",
+      "meanings": [
+        {
+          "en": "pizza sold frozen for home baking",
+          "de": "Pizza, die tiefgefroren verkauft wird"
+        }
+      ],
+      "rule": "Compound: tiefkühlen/tiefgekühlt + die Pizza; feminine.",
+      "example": "Wir haben abends nur eine Tiefkühlpizza gegessen.",
+      "exampleEn": "We just ate a frozen pizza in the evening.",
+      "example2": "Tiefkühlpizza ist schnell und einfach zuzubereiten.",
+      "example2En": "Frozen pizza is quick and easy to prepare."
+    },
+    {
+      "de": "tierisch",
+      "en": "animal (adj.); (colloquial) extremely",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to animals",
+          "de": "das Tier betreffend"
+        },
+        {
+          "en": "(informal) very, extremely",
+          "de": "(umgangssprachlich) sehr, stark"
+        }
+      ],
+      "rule": "As adjective means 'animal-related' (tierisches Fett = animal fat); colloquially used as intensifier (tierisch müde = extremely tired).",
+      "example": "Tierisches Fett steckt in vielen Fertiggerichten.",
+      "exampleEn": "Animal fat is found in many ready meals.",
+      "example2": "Ich bin heute tierisch müde.",
+      "example2En": "I'm extremely tired today."
+    },
+    {
+      "de": "der Tierschutz",
+      "en": "animal welfare, animal protection",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "protection of animals from cruelty and suffering",
+          "de": "Schutz der Tiere vor Leid und Missbrauch"
+        }
+      ],
+      "rule": "Compound: das Tier + der Schutz; masculine, uncountable.",
+      "example": "Sie engagiert sich für den Tierschutz.",
+      "exampleEn": "She is committed to animal welfare.",
+      "example2": "Der Tierschutzverein sucht neue Mitglieder.",
+      "example2En": "The animal welfare association is looking for new members."
+    },
+    {
+      "de": "das Tor",
+      "en": "goal; gate",
+      "pos": "noun",
+      "plural": "die Tore",
+      "meanings": [
+        {
+          "en": "gate/large door",
+          "de": "großer Eingang, z. B. bei einem Haus oder einer Stadt"
+        },
+        {
+          "en": "goal (sports)",
+          "de": "Punkt im Fußball, wenn der Ball ins Netz geht"
+        }
+      ],
+      "rule": "Neutrum, endet auf -e im Plural: das Tor, die Tore. Nicht verwechseln mit 'der Tor' (Narr, veraltet).",
+      "example": "Die Fans haben das geschossene Tor bejubelt.",
+      "exampleEn": "The fans cheered the goal that was scored.",
+      "example2": "Bitte mach das Tor zum Garten zu.",
+      "example2En": "Please close the gate to the garden."
+    },
+    {
+      "de": "der Torwart / die Torwartin",
+      "en": "goalkeeper",
+      "pos": "noun",
+      "plural": "die Torwarte / die Torwartinnen",
+      "meanings": [
+        {
+          "en": "goalkeeper in football/handball",
+          "de": "Spieler, der das Tor verteidigt"
+        }
+      ],
+      "rule": "Movierte Form: -in im Femininum. Synonym: der Torhüter / die Torhüterin.",
+      "example": "Der Torwart hat den Elfmeter gehalten.",
+      "exampleEn": "The goalkeeper saved the penalty.",
+      "example2": "Sie spielt als Torwartin in der Jugendmannschaft.",
+      "example2En": "She plays as goalkeeper on the youth team."
+    },
+    {
+      "de": "total",
+      "en": "totally; completely",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "total/entire (extent)",
+          "de": "ganz, vollständig"
+        },
+        {
+          "en": "completely, very (intensifier, colloquial)",
+          "de": "sehr, völlig (umgangssprachlich)"
+        }
+      ],
+      "rule": "Wird oft als Adverb/Verstärker im Alltag benutzt, z. B. 'total müde'.",
+      "example": "Das Haus wurde total renoviert.",
+      "exampleEn": "The house was totally renovated.",
+      "example2": "Ich bin heute total müde.",
+      "example2En": "I'm totally tired today."
+    },
+    {
+      "de": "traditionsreich",
+      "en": "rich in tradition, steeped in tradition",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having a long, rich tradition",
+          "de": "mit einer langen, bedeutenden Tradition"
+        }
+      ],
+      "rule": "Zusammengesetztes Adjektiv (Tradition + reich), regelmäßig steigerbar, meist ohne Steigerung verwendet.",
+      "example": "Das ist ein traditionsreiches Restaurant in der Altstadt.",
+      "exampleEn": "That is a restaurant with a rich tradition in the old town.",
+      "example2": "Die traditionsreiche Firma feiert in diesem Jahr ihr 100-jähriges Jubiläum.",
+      "example2En": "The company, which has a long tradition, is celebrating its 100th anniversary this year."
+    },
+    {
+      "de": "traumhaft",
+      "en": "dreamlike, fantastic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "wonderful, like a dream",
+          "de": "wunderschön, wie im Traum"
+        }
+      ],
+      "rule": "Regelmäßig: traumhaft, traumhafter, am traumhaftesten. Oft für Landschaften, Urlaub, Wetter.",
+      "example": "Wir hatten traumhaftes Wetter im Urlaub.",
+      "exampleEn": "We had fantastic weather on vacation.",
+      "example2": "Der Ausblick von hier ist einfach traumhaft.",
+      "example2En": "The view from here is simply dreamlike."
+    },
+    {
+      "de": "der Trend",
+      "en": "trend",
+      "pos": "noun",
+      "plural": "die Trends",
+      "meanings": [
+        {
+          "en": "a general tendency or direction of development",
+          "de": "allgemeine Entwicklung oder Richtung"
+        }
+      ],
+      "rule": "Maskulin, Plural mit -s (Fremdwort aus dem Englischen).",
+      "example": "Fahrräder liegen voll im Trend.",
+      "exampleEn": "Bicycles are very much in trend right now.",
+      "example2": "Der Trend geht zu kleineren Wohnungen.",
+      "example2En": "The trend is moving toward smaller apartments."
+    },
+    {
+      "de": "treu",
+      "en": "loyal, faithful",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "loyal, faithful (to a person, principle)",
+          "de": "loyal, verlässlich, ohne jemanden zu verraten"
+        }
+      ],
+      "rule": "Regelmäßig gesteigert: treu, treuer, am treuesten. Achtung: 'treu' verlangt den Dativ (jemandem treu sein/bleiben).",
+      "example": "Er ist seiner Frau immer treu geblieben.",
+      "exampleEn": "He has always stayed faithful to his wife.",
+      "example2": "Unser Hund ist sehr treu.",
+      "example2En": "Our dog is very loyal."
+    },
+    {
+      "de": "das Trinkwasser",
+      "en": "drinking water",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "water safe for drinking",
+          "de": "Wasser, das man trinken kann"
+        }
+      ],
+      "rule": "Neutrum, unzählbar, kein Plural. Zusammensetzung: trinken + Wasser.",
+      "example": "In Deutschland kann man das Leitungswasser als Trinkwasser nutzen.",
+      "exampleEn": "In Germany you can use tap water as drinking water.",
+      "example2": "Sauberes Trinkwasser ist nicht überall selbstverständlich.",
+      "example2En": "Clean drinking water is not a given everywhere."
+    },
+    {
+      "de": "tropfen",
+      "en": "to drip",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to drip, fall in drops",
+          "de": "in Tropfen herabfallen"
+        }
+      ],
+      "rule": "Regelmäßig: tropft, tropfte, hat/ist getropft (mit 'ist' bei Ortsveränderung). Nicht verwechseln mit 'der Tropfen' (Nomen).",
+      "example": "Der Wasserhahn tropft schon seit Tagen.",
+      "exampleEn": "The faucet has been dripping for days.",
+      "example2": "Regen tropfte vom Dach.",
+      "example2En": "Rain dripped from the roof."
+    },
+    {
+      "de": "trüb",
+      "en": "cloudy, dull, murky",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "cloudy, hazy (liquid or weather)",
+          "de": "nicht klar, bewölkt"
+        },
+        {
+          "en": "gloomy, dreary (mood)",
+          "de": "traurig, bedrückend (Stimmung)"
+        }
+      ],
+      "rule": "Regelmäßig: trüb, trüber, am trübsten.",
+      "example": "Das Wasser im Fluss ist heute ganz trüb.",
+      "exampleEn": "The water in the river is quite murky today.",
+      "example2": "Der Himmel war den ganzen Tag trüb.",
+      "example2En": "The sky was dull all day long."
+    },
+    {
+      "de": "der Tsunami",
+      "en": "tsunami",
+      "pos": "noun",
+      "plural": "die Tsunamis",
+      "meanings": [
+        {
+          "en": "a huge destructive sea wave, usually caused by an earthquake",
+          "de": "riesige, zerstörerische Meereswelle, meist durch ein Erdbeben ausgelöst"
+        }
+      ],
+      "rule": "Maskulin, Fremdwort aus dem Japanischen, Plural mit -s.",
+      "example": "Der Tsunami hat die Küste komplett zerstört.",
+      "exampleEn": "The tsunami completely destroyed the coast.",
+      "example2": "Nach dem Erdbeben warnten die Behörden vor einem Tsunami.",
+      "example2En": "After the earthquake, the authorities warned of a tsunami."
+    },
+    {
+      "de": "der Turm",
+      "en": "tower",
+      "pos": "noun",
+      "plural": "die Türme",
+      "meanings": [
+        {
+          "en": "a tall building or structure",
+          "de": "hohes, schmales Bauwerk"
+        }
+      ],
+      "rule": "Maskulin, Plural mit Umlaut: der Turm, die Türme.",
+      "example": "Man kann auf den Turm der Kirche steigen.",
+      "exampleEn": "You can climb up the church tower.",
+      "example2": "Der Eiffelturm ist ein berühmter Turm in Paris.",
+      "example2En": "The Eiffel Tower is a famous tower in Paris."
+    },
+    {
+      "de": "übereinstimmen",
+      "en": "to agree, correspond",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to agree, be in accordance (opinions)",
+          "de": "die gleiche Meinung haben"
+        },
+        {
+          "en": "to match, correspond (facts/data)",
+          "de": "gleich sein, zusammenpassen"
+        }
+      ],
+      "rule": "Trennbar: stimmt überein, stimmte überein, hat übereingestimmt. Oft mit 'mit + Dativ'.",
+      "example": "Die beiden Zeugen stimmen in ihrer Aussage überein.",
+      "exampleEn": "The two witnesses agree in their statement.",
+      "example2": "Die Zahlen stimmen nicht mit dem Bericht überein.",
+      "example2En": "The numbers do not match the report."
+    }
+  ]
+}

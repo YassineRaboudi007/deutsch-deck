@@ -1,0 +1,885 @@
+{
+  "id": "a2-07",
+  "title": "A2 · E–G (7)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "etwa",
+      "en": "about, approximately",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "approximately (with numbers)",
+          "de": "ungefähr"
+        },
+        {
+          "en": "perhaps, by any chance (in questions)",
+          "de": "vielleicht, zufällig"
+        }
+      ],
+      "rule": "keine Steigerung; vor Zahlen = ungefähr, in Fragen = Überraschung/Vermutung",
+      "example": "Die Fahrt dauert etwa zwei Stunden.",
+      "exampleEn": "The trip takes about two hours.",
+      "example2": "Hast du das etwa vergessen?",
+      "example2En": "Did you perhaps forget that?"
+    },
+    {
+      "de": "das Event",
+      "en": "event",
+      "pos": "noun",
+      "plural": "die Events",
+      "meanings": [
+        {
+          "en": "a (special) event/happening",
+          "de": "eine besondere Veranstaltung"
+        }
+      ],
+      "rule": "Englisches Lehnwort, im Deutschen sächlich: das Event. Wird oft für besondere, unterhaltsame Veranstaltungen benutzt.",
+      "example": "Am Wochenende gibt es ein großes Event in der Stadt.",
+      "exampleEn": "This weekend there is a big event in the city.",
+      "example2": "Das Konzert war ein tolles Event.",
+      "example2En": "The concert was a great event."
+    },
+    {
+      "de": "das Fach",
+      "en": "subject; compartment",
+      "pos": "noun",
+      "plural": "die Fächer",
+      "meanings": [
+        {
+          "en": "school/study subject",
+          "de": "Schulfach, z. B. Mathematik"
+        },
+        {
+          "en": "compartment, shelf",
+          "de": "kleiner Raum zum Ablegen, z. B. im Schrank"
+        }
+      ],
+      "rule": "Plural mit Umlaut: das Fach – die Fächer.",
+      "example": "Mathe ist mein Lieblingsfach.",
+      "exampleEn": "Math is my favorite subject.",
+      "example2": "Leg die Bücher ins Fach im Regal.",
+      "example2En": "Put the books in the compartment on the shelf."
+    },
+    {
+      "de": "die Fachhochschule",
+      "en": "university of applied sciences",
+      "pos": "noun",
+      "plural": "die Fachhochschulen",
+      "meanings": [
+        {
+          "en": "university of applied sciences (FH)",
+          "de": "praxisorientierte Hochschule"
+        }
+      ],
+      "rule": "Zusammengesetztes Wort: Fach + Hochschule; Abkürzung FH.",
+      "example": "Sie studiert Informatik an einer Fachhochschule.",
+      "exampleEn": "She studies computer science at a university of applied sciences.",
+      "example2": "Die Fachhochschule bietet praktische Studiengänge an.",
+      "example2En": "The university of applied sciences offers practical degree programs."
+    },
+    {
+      "de": "die Fachhochschulreife",
+      "en": "qualification for university of applied sciences",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "school qualification allowing entry to a Fachhochschule",
+          "de": "Schulabschluss für die Fachhochschule"
+        }
+      ],
+      "rule": "Meist unzählbar, kein Plural gebräuchlich; oft als 'Fachabi' abgekürzt.",
+      "example": "Nach der 12. Klasse hat er die Fachhochschulreife.",
+      "exampleEn": "After grade 12 he has the qualification for a university of applied sciences.",
+      "example2": "Mit der Fachhochschulreife kann man an einer FH studieren.",
+      "example2En": "With this qualification you can study at a university of applied sciences."
+    },
+    {
+      "de": "der Fahrkartenschalter",
+      "en": "ticket counter",
+      "pos": "noun",
+      "plural": "die Fahrkartenschalter",
+      "meanings": [
+        {
+          "en": "ticket counter/window (at station)",
+          "de": "Schalter, an dem man Fahrkarten kauft"
+        }
+      ],
+      "rule": "Zusammensetzung: Fahrkarte + Schalter; Plural bleibt unverändert.",
+      "example": "Ich kaufe die Fahrkarte am Fahrkartenschalter.",
+      "exampleEn": "I buy the ticket at the ticket counter.",
+      "example2": "Der Fahrkartenschalter ist heute geschlossen.",
+      "example2En": "The ticket counter is closed today."
+    },
+    {
+      "de": "der Fahrplan",
+      "en": "timetable, schedule",
+      "pos": "noun",
+      "plural": "die Fahrpläne",
+      "meanings": [
+        {
+          "en": "timetable for trains/buses",
+          "de": "Übersicht der Abfahrtszeiten"
+        }
+      ],
+      "rule": "Plural mit Umlaut: der Fahrplan – die Fahrpläne.",
+      "example": "Schau im Fahrplan nach, wann der Bus fährt.",
+      "exampleEn": "Check the timetable to see when the bus leaves.",
+      "example2": "Der neue Fahrplan gilt ab Montag.",
+      "example2En": "The new timetable is valid from Monday."
+    },
+    {
+      "de": "der Fahrradhelm",
+      "en": "bicycle helmet",
+      "pos": "noun",
+      "plural": "die Fahrradhelme",
+      "meanings": [
+        {
+          "en": "helmet for cycling",
+          "de": "Schutzhelm für das Fahrrad"
+        }
+      ],
+      "rule": "Zusammensetzung: Fahrrad + Helm.",
+      "example": "Trag beim Radfahren immer einen Fahrradhelm.",
+      "exampleEn": "Always wear a bicycle helmet when cycling.",
+      "example2": "Er hat seinen Fahrradhelm zu Hause vergessen.",
+      "example2En": "He forgot his bicycle helmet at home."
+    },
+    {
+      "de": "der Fahrradständer",
+      "en": "bicycle rack/stand",
+      "pos": "noun",
+      "plural": "die Fahrradständer",
+      "meanings": [
+        {
+          "en": "rack or stand for parking bicycles",
+          "de": "Gestell zum Abstellen von Fahrrädern"
+        }
+      ],
+      "rule": "Zusammensetzung: Fahrrad + Ständer; Plural bleibt gleich.",
+      "example": "Stell dein Fahrrad in den Fahrradständer.",
+      "exampleEn": "Put your bicycle in the bicycle rack.",
+      "example2": "Vor dem Bahnhof gibt es viele Fahrradständer.",
+      "example2En": "There are many bicycle racks in front of the station."
+    },
+    {
+      "de": "die Familienkasse",
+      "en": "family benefits office",
+      "pos": "noun",
+      "plural": "die Familienkassen",
+      "meanings": [
+        {
+          "en": "office that pays child benefit (Kindergeld)",
+          "de": "Behörde, die Kindergeld auszahlt"
+        }
+      ],
+      "rule": "Zusammensetzung: Familie + Kasse.",
+      "example": "Sie beantragt das Kindergeld bei der Familienkasse.",
+      "exampleEn": "She applies for child benefit at the family benefits office.",
+      "example2": "Die Familienkasse hat den Antrag genehmigt.",
+      "example2En": "The family benefits office approved the application."
+    },
+    {
+      "de": "das Familienmitglied",
+      "en": "family member",
+      "pos": "noun",
+      "plural": "die Familienmitglieder",
+      "meanings": [
+        {
+          "en": "a member of a family",
+          "de": "Person aus der Familie"
+        }
+      ],
+      "rule": "Zusammensetzung: Familie + Mitglied; Plural mit -er: das Familienmitglied – die Familienmitglieder.",
+      "example": "Jedes Familienmitglied hilft im Haushalt.",
+      "exampleEn": "Every family member helps with the household.",
+      "example2": "Wie viele Familienmitglieder habt ihr eingeladen?",
+      "example2En": "How many family members did you invite?"
+    },
+    {
+      "de": "das Familienstammbuch",
+      "en": "family register book",
+      "pos": "noun",
+      "plural": "die Familienstammbücher",
+      "meanings": [
+        {
+          "en": "official booklet recording family/marriage data, given at marriage",
+          "de": "amtliches Dokument mit Familiendaten, das man bei der Hochzeit bekommt"
+        }
+      ],
+      "rule": "Zusammensetzung: Familie + Stammbuch; Plural mit Umlaut: das Familienstammbuch – die Familienstammbücher.",
+      "example": "Bei der Hochzeit bekommt man ein Familienstammbuch.",
+      "exampleEn": "You receive a family register book at the wedding.",
+      "example2": "Das Familienstammbuch enthält alle wichtigen Familiendaten.",
+      "example2En": "The family register book contains all important family data."
+    },
+    {
+      "de": "fantastisch",
+      "en": "fantastic, great",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "wonderful, great",
+          "de": "sehr gut, toll"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: fantastisch, fantastischer, am fantastischsten.",
+      "example": "Das Essen im Restaurant war fantastisch.",
+      "exampleEn": "The food at the restaurant was fantastic.",
+      "example2": "Wir hatten einen fantastischen Urlaub.",
+      "example2En": "We had a fantastic vacation."
+    },
+    {
+      "de": "das Fast Food",
+      "en": "fast food",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "quickly prepared, inexpensive food",
+          "de": "schnelles, einfaches Essen"
+        }
+      ],
+      "rule": "Sächlich gebraucht ('das Fast Food'), meist ohne Artikel im Alltag; unzählbar, kein Plural.",
+      "example": "Er isst zu oft Fast Food.",
+      "exampleEn": "He eats fast food too often.",
+      "example2": "Fast Food ist nicht sehr gesund.",
+      "example2En": "Fast food is not very healthy."
+    },
+    {
+      "de": "fehlen",
+      "en": "to be missing; to be absent",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to be missing/lacking",
+          "de": "nicht vorhanden sein"
+        },
+        {
+          "en": "to be absent (e.g. from school)",
+          "de": "nicht anwesend sein"
+        }
+      ],
+      "rule": "Regelmäßig; oft mit Dativ der Person: 'Mir fehlt Zeit.' Perfekt: hat gefehlt.",
+      "example": "Mir fehlt noch ein Euro für den Kaffee.",
+      "exampleEn": "I'm still missing one euro for the coffee.",
+      "example2": "Er hat heute in der Schule gefehlt.",
+      "example2En": "He was absent from school today."
+    },
+    {
+      "de": "der Fernbus",
+      "en": "long-distance bus",
+      "pos": "noun",
+      "plural": "die Fernbusse",
+      "meanings": [
+        {
+          "en": "coach for long-distance travel",
+          "de": "Bus für lange Strecken zwischen Städten"
+        }
+      ],
+      "rule": "Zusammensetzung: fern + Bus; Plural: die Fernbusse.",
+      "example": "Wir fahren mit dem Fernbus nach Berlin.",
+      "exampleEn": "We are traveling to Berlin by long-distance bus.",
+      "example2": "Der Fernbus ist günstiger als der Zug.",
+      "example2En": "The long-distance bus is cheaper than the train."
+    },
+    {
+      "de": "die Fernwärme",
+      "en": "district heating",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "centrally produced heating distributed to buildings",
+          "de": "Wärme aus einem zentralen Heizkraftwerk"
+        }
+      ],
+      "rule": "Unzählbares Wort, kein Plural.",
+      "example": "Unser Haus wird mit Fernwärme beheizt.",
+      "exampleEn": "Our house is heated with district heating.",
+      "example2": "Die Stadt baut das Fernwärmenetz aus.",
+      "example2En": "The city is expanding the district heating network."
+    },
+    {
+      "de": "der Feuerlöscher",
+      "en": "fire extinguisher",
+      "pos": "noun",
+      "plural": "die Feuerlöscher",
+      "meanings": [
+        {
+          "en": "device to put out small fires",
+          "de": "Gerät zum Löschen eines Feuers"
+        }
+      ],
+      "rule": "Zusammensetzung: Feuer + löschen + -er; Plural bleibt gleich.",
+      "example": "Im Flur hängt ein Feuerlöscher.",
+      "exampleEn": "There is a fire extinguisher hanging in the hallway.",
+      "example2": "Bitte prüfen Sie regelmäßig den Feuerlöscher.",
+      "example2En": "Please check the fire extinguisher regularly."
+    },
+    {
+      "de": "das Feuerzeug",
+      "en": "lighter",
+      "pos": "noun",
+      "plural": "die Feuerzeuge",
+      "meanings": [
+        {
+          "en": "small device for lighting fires/cigarettes",
+          "de": "kleines Gerät zum Anzünden"
+        }
+      ],
+      "rule": "Zusammensetzung: Feuer + Zeug.",
+      "example": "Hast du ein Feuerzeug für die Kerze?",
+      "exampleEn": "Do you have a lighter for the candle?",
+      "example2": "Er hat sein Feuerzeug verloren.",
+      "example2En": "He lost his lighter."
+    },
+    {
+      "de": "die Filiale",
+      "en": "branch (of a shop/bank)",
+      "pos": "noun",
+      "plural": "die Filialen",
+      "meanings": [
+        {
+          "en": "branch office / branch store",
+          "de": "Zweigstelle eines Unternehmens"
+        }
+      ],
+      "rule": "Feminine noun; often used with Bank, Supermarkt, or Firma names.",
+      "example": "Die Bank hat eine Filiale in unserer Stadt.",
+      "exampleEn": "The bank has a branch in our city.",
+      "example2": "Ich kaufe immer in der Filiale in der Nähe ein.",
+      "example2En": "I always shop at the branch nearby."
+    },
+    {
+      "de": "das Finanzamt",
+      "en": "tax office",
+      "pos": "noun",
+      "plural": "die Finanzämter",
+      "meanings": [
+        {
+          "en": "government tax authority office",
+          "de": "Behörde für Steuern"
+        }
+      ],
+      "rule": "Neuter noun; compound of Finanz + Amt; umlaut in plural (Ämter).",
+      "example": "Ich muss meine Steuererklärung zum Finanzamt schicken.",
+      "exampleEn": "I have to send my tax return to the tax office.",
+      "example2": "Das Finanzamt hat mir einen Brief geschickt.",
+      "example2En": "The tax office sent me a letter."
+    },
+    {
+      "de": "fit",
+      "en": "fit, in good shape",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "physically healthy and in good shape",
+          "de": "körperlich gesund und trainiert"
+        }
+      ],
+      "rule": "Regular comparison: fit, fitter, am fittesten.",
+      "example": "Ich mache Sport, um fit zu bleiben.",
+      "exampleEn": "I do sports to stay fit.",
+      "example2": "Er ist mit 60 Jahren noch sehr fit.",
+      "example2En": "At 60, he is still very fit."
+    },
+    {
+      "de": "die Fitness",
+      "en": "fitness",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "physical fitness, good physical condition",
+          "de": "körperliche Leistungsfähigkeit"
+        }
+      ],
+      "rule": "Feminine noun, uncountable (no plural); often in compounds like Fitnessstudio.",
+      "example": "Für ihre Fitness geht sie dreimal pro Woche ins Fitnessstudio.",
+      "exampleEn": "For her fitness, she goes to the gym three times a week.",
+      "example2": "Gute Fitness ist wichtig für die Gesundheit.",
+      "example2En": "Good fitness is important for health."
+    },
+    {
+      "de": "die Flamme",
+      "en": "flame",
+      "pos": "noun",
+      "plural": "die Flammen",
+      "meanings": [
+        {
+          "en": "a flame of fire",
+          "de": "das Feuer einer Kerze oder eines Herds"
+        }
+      ],
+      "rule": "Feminine noun; common in kitchen/cooking context.",
+      "example": "Die Kerze brennt mit einer kleinen Flamme.",
+      "exampleEn": "The candle burns with a small flame.",
+      "example2": "Stell den Topf auf kleine Flamme.",
+      "example2En": "Put the pot on a low flame."
+    },
+    {
+      "de": "fliegen",
+      "en": "to fly",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to travel by airplane",
+          "de": "mit dem Flugzeug reisen"
+        },
+        {
+          "en": "(of birds/objects) to fly through the air",
+          "de": "sich durch die Luft bewegen"
+        }
+      ],
+      "rule": "Irregular: fliegt, flog, ist geflogen (movement, so with sein).",
+      "example": "Wir fliegen im Sommer nach Spanien.",
+      "exampleEn": "We are flying to Spain in the summer.",
+      "example2": "Der Vogel fliegt aus dem Fenster.",
+      "example2En": "The bird flies out of the window."
+    },
+    {
+      "de": "fliehen",
+      "en": "to flee, to escape",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to run away from danger",
+          "de": "vor Gefahr weglaufen"
+        }
+      ],
+      "rule": "Irregular: flieht, floh, ist geflohen (with sein).",
+      "example": "Die Familie ist vor dem Krieg geflohen.",
+      "exampleEn": "The family fled the war.",
+      "example2": "Viele Menschen fliehen aus ihrer Heimat.",
+      "example2En": "Many people flee their homeland."
+    },
+    {
+      "de": "der Flipflop",
+      "en": "flip-flop",
+      "pos": "noun",
+      "plural": "die Flipflops",
+      "meanings": [
+        {
+          "en": "open sandal worn in summer (usually used in plural, as a pair)",
+          "de": "leichter Sommerschuh (meist im Plural, als Paar)"
+        }
+      ],
+      "rule": "Masculine noun (der Flipflop), borrowed from English; almost always used in the plural (die Flipflops) since worn in pairs.",
+      "example": "Im Sommer trage ich oft Flipflops.",
+      "exampleEn": "In summer I often wear flip-flops.",
+      "example2": "Meine Flipflops sind am Strand kaputtgegangen.",
+      "example2En": "My flip-flops broke at the beach."
+    },
+    {
+      "de": "flirten",
+      "en": "to flirt",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to behave playfully/romantically with someone",
+          "de": "jemandem verliebt/verspielt zeigen, dass man ihn mag"
+        }
+      ],
+      "rule": "Regular weak verb: flirtet, flirtete, hat geflirtet; often used with 'mit'.",
+      "example": "Er flirtet gern mit den Kolleginnen.",
+      "exampleEn": "He likes to flirt with his female colleagues.",
+      "example2": "Sie haben auf der Party miteinander geflirtet.",
+      "example2En": "They flirted with each other at the party."
+    },
+    {
+      "de": "der Flohmarkt",
+      "en": "flea market",
+      "pos": "noun",
+      "plural": "die Flohmärkte",
+      "meanings": [
+        {
+          "en": "outdoor market selling used goods",
+          "de": "Markt für gebrauchte Sachen"
+        }
+      ],
+      "rule": "Masculine noun; compound of Floh + Markt; umlaut in plural.",
+      "example": "Am Samstag gehen wir auf den Flohmarkt.",
+      "exampleEn": "On Saturday we're going to the flea market.",
+      "example2": "Auf dem Flohmarkt habe ich einen alten Tisch gekauft.",
+      "example2En": "At the flea market I bought an old table."
+    },
+    {
+      "de": "das Flugzeug",
+      "en": "airplane",
+      "pos": "noun",
+      "plural": "die Flugzeuge",
+      "meanings": [
+        {
+          "en": "aircraft for air travel",
+          "de": "Fahrzeug, das fliegt"
+        }
+      ],
+      "rule": "Neuter noun; compound of Flug + Zeug.",
+      "example": "Das Flugzeug startet um zehn Uhr.",
+      "exampleEn": "The airplane takes off at ten o'clock.",
+      "example2": "Wir fliegen mit einem großen Flugzeug nach New York.",
+      "example2En": "We're flying to New York on a big airplane."
+    },
+    {
+      "de": "der Fluss",
+      "en": "river",
+      "pos": "noun",
+      "plural": "die Flüsse",
+      "meanings": [
+        {
+          "en": "a large natural stream of water",
+          "de": "großes fließendes Gewässer"
+        }
+      ],
+      "rule": "Masculine noun; umlaut in plural (Flüsse).",
+      "example": "Der Rhein ist ein langer Fluss.",
+      "exampleEn": "The Rhine is a long river.",
+      "example2": "Wir sind am Fluss spazieren gegangen.",
+      "example2En": "We took a walk by the river."
+    },
+    {
+      "de": "folgen",
+      "en": "to follow",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to go after someone/something",
+          "de": "hinter jemandem hergehen"
+        },
+        {
+          "en": "to follow (e.g. on social media)",
+          "de": "jemandem online folgen"
+        }
+      ],
+      "rule": "Regular weak verb: folgt, folgte, ist gefolgt; governs Dativ (+ Dativ).",
+      "example": "Der Hund folgt seinem Besitzer überallhin.",
+      "exampleEn": "The dog follows its owner everywhere.",
+      "example2": "Ich folge ihr auf Instagram.",
+      "example2En": "I follow her on Instagram."
+    },
+    {
+      "de": "folgend",
+      "en": "following, next",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "coming next, mentioned afterward",
+          "de": "was danach kommt"
+        }
+      ],
+      "rule": "From the verb folgen; used before nouns like 'folgende Woche'.",
+      "example": "Bitte lesen Sie den folgenden Text.",
+      "exampleEn": "Please read the following text.",
+      "example2": "Am folgenden Tag war das Wetter besser.",
+      "example2En": "The following day the weather was better."
+    },
+    {
+      "de": "formell",
+      "en": "formal",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "official, following formal rules or style",
+          "de": "offiziell, nach festen Regeln"
+        }
+      ],
+      "rule": "Regular comparison: formell, formeller, am formellsten.",
+      "example": "Bei der Arbeit tragen wir formelle Kleidung.",
+      "exampleEn": "At work we wear formal clothing.",
+      "example2": "Das war ein sehr formelles Treffen.",
+      "example2En": "That was a very formal meeting."
+    },
+    {
+      "de": "formulieren",
+      "en": "to formulate, to phrase",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to express something in words",
+          "de": "etwas in Worte fassen"
+        }
+      ],
+      "rule": "Regular weak verb: formuliert, formulierte, hat formuliert.",
+      "example": "Kannst du die Frage anders formulieren?",
+      "exampleEn": "Can you phrase the question differently?",
+      "example2": "Sie hat ihre Kritik sehr höflich formuliert.",
+      "example2En": "She phrased her criticism very politely."
+    },
+    {
+      "de": "fortgeschritten",
+      "en": "advanced",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "at a high skill level, not a beginner",
+          "de": "nicht mehr Anfänger, mit viel Erfahrung"
+        }
+      ],
+      "rule": "Past participle of fortschreiten, used as adjective; common in course levels (Fortgeschrittene).",
+      "example": "Der Kurs ist für fortgeschrittene Lerner.",
+      "exampleEn": "The course is for advanced learners.",
+      "example2": "Sie hat fortgeschrittene Kenntnisse in Spanisch.",
+      "example2En": "She has advanced knowledge of Spanish."
+    },
+    {
+      "de": "das Forum",
+      "en": "forum",
+      "pos": "noun",
+      "plural": "die Foren",
+      "meanings": [
+        {
+          "en": "an online discussion platform",
+          "de": "Website für Diskussionen"
+        },
+        {
+          "en": "a place/event for public discussion",
+          "de": "Ort für öffentliche Diskussion"
+        }
+      ],
+      "rule": "Neuter noun; irregular Latin-origin plural: Foren.",
+      "example": "Ich habe eine Antwort in einem Forum im Internet gefunden.",
+      "exampleEn": "I found an answer in a forum on the internet.",
+      "example2": "Die Konferenz war ein Forum für neue Ideen.",
+      "example2En": "The conference was a forum for new ideas."
+    },
+    {
+      "de": "der Fotograf / die Fotografin",
+      "en": "photographer",
+      "pos": "noun",
+      "plural": "die Fotografen / die Fotografinnen",
+      "meanings": [
+        {
+          "en": "person who takes photographs professionally",
+          "de": "jemand, der beruflich Fotos macht"
+        }
+      ],
+      "rule": "N-Deklination: der Fotograf, den/dem/des Fotografen (außer Nominativ Singular).",
+      "example": "Mein Bruder ist Fotograf von Beruf.",
+      "exampleEn": "My brother is a photographer by profession.",
+      "example2": "Die Fotografin macht Bilder von der Hochzeit.",
+      "example2En": "The photographer is taking pictures of the wedding."
+    },
+    {
+      "de": "freiwillig",
+      "en": "voluntary",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "done by free choice, not forced",
+          "de": "aus freiem Willen, nicht gezwungen"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: freiwillig, freiwilliger, am freiwilligsten.",
+      "example": "Er arbeitet freiwillig im Krankenhaus.",
+      "exampleEn": "He works voluntarily at the hospital.",
+      "example2": "Die Teilnahme am Kurs ist freiwillig.",
+      "example2En": "Participation in the course is voluntary."
+    },
+    {
+      "de": "die Freizeit",
+      "en": "free time; leisure time",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "time not spent working",
+          "de": "Zeit ohne Arbeit oder Schule"
+        }
+      ],
+      "rule": "Meist unzählbar, kein Plural.",
+      "example": "Was machst du in deiner Freizeit?",
+      "exampleEn": "What do you do in your free time?",
+      "example2": "Ich habe im Moment wenig Freizeit.",
+      "example2En": "I have little free time at the moment."
+    },
+    {
+      "de": "die Freizeitaktivität",
+      "en": "leisure activity",
+      "pos": "noun",
+      "plural": "die Freizeitaktivitäten",
+      "meanings": [
+        {
+          "en": "an activity done in free time",
+          "de": "eine Aktivität in der Freizeit"
+        }
+      ],
+      "rule": "Zusammengesetztes Nomen: Freizeit + Aktivität; Artikel wie das Grundwort 'die Aktivität'.",
+      "example": "Schwimmen ist meine liebste Freizeitaktivität.",
+      "exampleEn": "Swimming is my favorite leisure activity.",
+      "example2": "Die Schüler stellen verschiedene Freizeitaktivitäten vor.",
+      "example2En": "The students present different leisure activities."
+    },
+    {
+      "de": "das Freizeitangebot",
+      "en": "leisure offer; range of leisure activities",
+      "pos": "noun",
+      "plural": "die Freizeitangebote",
+      "meanings": [
+        {
+          "en": "activities or facilities offered for leisure",
+          "de": "Angebot an Freizeitaktivitäten, z. B. in einer Stadt"
+        }
+      ],
+      "rule": "Zusammengesetztes Nomen: Freizeit + Angebot; Artikel 'das' wie 'das Angebot'.",
+      "example": "Die Stadt hat ein großes Freizeitangebot.",
+      "exampleEn": "The city has a wide range of leisure activities.",
+      "example2": "Das Hotel bietet ein tolles Freizeitangebot für Kinder.",
+      "example2En": "The hotel offers a great range of leisure activities for children."
+    },
+    {
+      "de": "das Freizeitvergnügen",
+      "en": "leisure pleasure; pastime",
+      "pos": "noun",
+      "plural": "die Freizeitvergnügen",
+      "meanings": [
+        {
+          "en": "an enjoyable leisure activity",
+          "de": "eine angenehme Beschäftigung in der Freizeit"
+        }
+      ],
+      "rule": "Zusammengesetztes Nomen: Freizeit + Vergnügen; Plural bleibt unverändert.",
+      "example": "Radfahren ist ein beliebtes Freizeitvergnügen.",
+      "exampleEn": "Cycling is a popular leisure pastime.",
+      "example2": "Für viele ist Kochen ein echtes Freizeitvergnügen.",
+      "example2En": "For many, cooking is a real leisure pleasure."
+    },
+    {
+      "de": "der Frisör / die Frisörin",
+      "en": "hairdresser",
+      "pos": "noun",
+      "plural": "die Frisöre / die Frisörinnen",
+      "meanings": [
+        {
+          "en": "person who cuts and styles hair",
+          "de": "jemand, der Haare schneidet und stylt"
+        }
+      ],
+      "rule": "Auch Schreibweise 'Friseur/Friseurin'; regelmäßige Pluralbildung.",
+      "example": "Ich habe morgen einen Termin beim Frisör.",
+      "exampleEn": "I have an appointment at the hairdresser's tomorrow.",
+      "example2": "Die Frisörin schneidet mir die Haare kurz.",
+      "example2En": "The hairdresser is cutting my hair short."
+    },
+    {
+      "de": "frittieren",
+      "en": "to deep-fry",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to cook food in hot oil",
+          "de": "in heißem Fett/Öl garen"
+        }
+      ],
+      "rule": "Regelmäßiges Verb: frittiert, frittierte, hat frittiert.",
+      "example": "Wir frittieren die Pommes selbst.",
+      "exampleEn": "We deep-fry the fries ourselves.",
+      "example2": "Der Fisch wird in Öl frittiert.",
+      "example2En": "The fish is deep-fried in oil."
+    },
+    {
+      "de": "funktionieren",
+      "en": "to work; to function",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to work properly (machine, device)",
+          "de": "richtig arbeiten (Gerät, Maschine)"
+        },
+        {
+          "en": "to work out, go well (plan, system)",
+          "de": "gut ablaufen, gelingen (Plan, System)"
+        }
+      ],
+      "rule": "Regelmäßiges Verb: funktioniert, funktionierte, hat funktioniert.",
+      "example": "Der Fernseher funktioniert nicht mehr.",
+      "exampleEn": "The TV doesn't work anymore.",
+      "example2": "So funktioniert das neue System.",
+      "example2En": "This is how the new system works."
+    },
+    {
+      "de": "die Gabel",
+      "en": "fork",
+      "pos": "noun",
+      "plural": "die Gabeln",
+      "meanings": [
+        {
+          "en": "eating utensil with prongs",
+          "de": "Essbesteck mit Zinken"
+        }
+      ],
+      "rule": "Feminin, regelmäßiger Plural auf -n.",
+      "example": "Kannst du mir bitte eine Gabel geben?",
+      "exampleEn": "Can you give me a fork, please?",
+      "example2": "Er isst den Salat mit Messer und Gabel.",
+      "example2En": "He eats the salad with a knife and fork."
+    },
+    {
+      "de": "das Gas",
+      "en": "gas",
+      "pos": "noun",
+      "plural": "die Gase",
+      "meanings": [
+        {
+          "en": "gaseous substance used for heating/cooking",
+          "de": "gasförmiger Stoff zum Heizen/Kochen"
+        }
+      ],
+      "rule": "Neutrum; in der Bedeutung 'Erdgas' meist unzählbar.",
+      "example": "Wir kochen mit Gas.",
+      "exampleEn": "We cook with gas.",
+      "example2": "Die Gaspreise sind gestiegen.",
+      "example2En": "Gas prices have risen."
+    },
+    {
+      "de": "Gassi gehen",
+      "en": "to walk the dog",
+      "pos": "phrase",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to take a dog for a walk",
+          "de": "mit dem Hund spazieren gehen"
+        }
+      ],
+      "rule": "Feste Wendung mit 'gehen': er geht Gassi, ist Gassi gegangen.",
+      "example": "Ich gehe jeden Abend mit dem Hund Gassi.",
+      "exampleEn": "I walk the dog every evening.",
+      "example2": "Kannst du heute Gassi gehen?",
+      "example2En": "Can you walk the dog today?"
+    },
+    {
+      "de": "die Gastronomie",
+      "en": "gastronomy; catering industry",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the restaurant and catering business",
+          "de": "Branche der Restaurants und Gaststätten"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural.",
+      "example": "Er arbeitet seit zehn Jahren in der Gastronomie.",
+      "exampleEn": "He has worked in the catering industry for ten years.",
+      "example2": "Die Gastronomie hat in der Krise viel verloren.",
+      "example2En": "The restaurant industry lost a lot during the crisis."
+    }
+  ]
+}

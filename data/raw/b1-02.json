@@ -1,0 +1,933 @@
+{
+  "id": "b1-02",
+  "title": "B1 · A (2)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "anprobieren",
+      "en": "to try on (clothes)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to try on clothes/shoes",
+          "de": "Kleidung testen, ob sie passt"
+        }
+      ],
+      "rule": "trennbar: probiert an, probierte an, hat anprobiert",
+      "example": "Ich möchte dieses Kleid anprobieren.",
+      "exampleEn": "I would like to try on this dress.",
+      "example2": "Er hat drei Paar Schuhe anprobiert.",
+      "example2En": "He tried on three pairs of shoes."
+    },
+    {
+      "de": "anrechnen",
+      "en": "to count towards; to charge for",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to credit/count something towards a total",
+          "de": "berücksichtigen, gutschreiben"
+        },
+        {
+          "en": "to charge someone for something",
+          "de": "in Rechnung stellen"
+        }
+      ],
+      "rule": "trennbar: rechnet an, rechnete an, hat angerechnet; oft mit Dativ der Person (jemandem etwas anrechnen)",
+      "example": "Das Praktikum wird mir auf das Studium angerechnet.",
+      "exampleEn": "The internship will be counted towards my studies.",
+      "example2": "Der Kellner hat uns das Wasser nicht angerechnet.",
+      "example2En": "The waiter didn't charge us for the water."
+    },
+    {
+      "de": "anschauen",
+      "en": "to look at, to watch",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to look at, view",
+          "de": "ansehen, betrachten"
+        }
+      ],
+      "rule": "trennbar: schaut an, schaute an, hat angeschaut; süddeutsch/österreichisch häufiger als 'ansehen'",
+      "example": "Wir haben uns gestern einen Film angeschaut.",
+      "exampleEn": "We watched a movie yesterday.",
+      "example2": "Schau dir das mal an!",
+      "example2En": "Take a look at this!"
+    },
+    {
+      "de": "ansehen",
+      "en": "to look at; to regard as",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to look at / watch",
+          "de": "anschauen, betrachten"
+        },
+        {
+          "en": "to regard as, consider",
+          "de": "betrachten als, halten für"
+        }
+      ],
+      "rule": "trennbar: sieht an, sah an, hat angesehen; oft reflexiv 'sich (Dat.) etwas ansehen'",
+      "example": "Wir sehen uns heute Abend einen Film an.",
+      "exampleEn": "We're watching a movie tonight.",
+      "example2": "Sie sehen ihn als Experten an.",
+      "example2En": "They regard him as an expert."
+    },
+    {
+      "de": "anstatt",
+      "en": "instead of",
+      "pos": "preposition",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "instead of",
+          "de": "statt"
+        }
+      ],
+      "rule": "+ Genitiv (anstatt des/der...); auch als Konjunktion mit 'zu' + Infinitiv",
+      "example": "Anstatt zu telefonieren, schreibt er lieber E-Mails.",
+      "exampleEn": "Instead of calling, he prefers writing emails.",
+      "example2": "Ich nehme den Bus anstatt des Autos.",
+      "example2En": "I take the bus instead of the car."
+    },
+    {
+      "de": "ansteckend",
+      "en": "contagious, infectious",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "contagious, infectious (illness)",
+          "de": "übertragbar (Krankheit)"
+        },
+        {
+          "en": "infectious (mood, laughter)",
+          "de": "mitreißend"
+        }
+      ],
+      "rule": "Adjektiv, regelmäßige Steigerung: ansteckend, ansteckender, am ansteckendsten",
+      "example": "Die Grippe ist sehr ansteckend.",
+      "exampleEn": "The flu is very contagious.",
+      "example2": "Ihr Lachen ist ansteckend.",
+      "example2En": "Her laughter is infectious."
+    },
+    {
+      "de": "die Anstellung",
+      "en": "employment, job",
+      "pos": "noun",
+      "plural": "die Anstellungen",
+      "meanings": [
+        {
+          "en": "employment, job",
+          "de": "Arbeitsstelle, Beschäftigung"
+        }
+      ],
+      "rule": "feminin, die Anstellungen; oft 'eine feste Anstellung'",
+      "example": "Sie hat endlich eine feste Anstellung gefunden.",
+      "exampleEn": "She has finally found a permanent job.",
+      "example2": "Nach dem Studium suchte er eine Anstellung als Ingenieur.",
+      "example2En": "After his studies he looked for a job as an engineer."
+    },
+    {
+      "de": "der Anstoß",
+      "en": "kickoff; impetus",
+      "pos": "noun",
+      "plural": "die Anstöße",
+      "meanings": [
+        {
+          "en": "kickoff (sports)",
+          "de": "Beginn eines Fußballspiels"
+        },
+        {
+          "en": "impetus, stimulus",
+          "de": "Anregung, Impuls"
+        }
+      ],
+      "rule": "maskulin, die Anstöße; feste Wendung: 'den Anstoß geben zu'",
+      "example": "Der Anstoß erfolgt um 15 Uhr.",
+      "exampleEn": "Kickoff is at 3 pm.",
+      "example2": "Sein Vortrag gab den Anstoß zu vielen neuen Ideen.",
+      "example2En": "His talk gave the impetus for many new ideas."
+    },
+    {
+      "de": "anstreichen",
+      "en": "to paint; to mark",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to paint (a wall/surface)",
+          "de": "mit Farbe bemalen"
+        },
+        {
+          "en": "to mark/underline (an error)",
+          "de": "markieren, kennzeichnen"
+        }
+      ],
+      "rule": "trennbar: streicht an, strich an, hat angestrichen",
+      "example": "Wir haben das Zimmer neu angestrichen.",
+      "exampleEn": "We repainted the room.",
+      "example2": "Der Lehrer strich die Fehler im Text rot an.",
+      "example2En": "The teacher marked the mistakes in the text in red."
+    },
+    {
+      "de": "anstrengend",
+      "en": "exhausting, strenuous",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "exhausting, strenuous",
+          "de": "ermüdend, kräftezehrend"
+        }
+      ],
+      "rule": "Adjektiv, regelmäßig gesteigert: anstrengend, anstrengender, am anstrengendsten",
+      "example": "Die Wanderung war sehr anstrengend.",
+      "exampleEn": "The hike was very exhausting.",
+      "example2": "Ein Tag mit kleinen Kindern kann anstrengend sein.",
+      "example2En": "A day with small children can be exhausting."
+    },
+    {
+      "de": "die Anzeigetafel",
+      "en": "scoreboard, display board",
+      "pos": "noun",
+      "plural": "die Anzeigetafeln",
+      "meanings": [
+        {
+          "en": "scoreboard, display board",
+          "de": "Tafel mit Informationen/Ergebnissen"
+        }
+      ],
+      "rule": "feminin, die Anzeigetafeln",
+      "example": "Das Ergebnis steht auf der Anzeigetafel.",
+      "exampleEn": "The score is shown on the scoreboard.",
+      "example2": "Am Bahnhof zeigt die Anzeigetafel die Abfahrtszeiten.",
+      "example2En": "At the station, the display board shows departure times."
+    },
+    {
+      "de": "die Arbeitskraft",
+      "en": "worker; workforce, manpower",
+      "pos": "noun",
+      "plural": "die Arbeitskräfte",
+      "meanings": [
+        {
+          "en": "worker, employee",
+          "de": "Person, die arbeitet"
+        },
+        {
+          "en": "working capacity, manpower",
+          "de": "Fähigkeit zu arbeiten"
+        }
+      ],
+      "rule": "feminin, die Arbeitskräfte; als Person zählbar, als Fähigkeit meist Singular",
+      "example": "Die Firma stellt drei neue Arbeitskräfte ein.",
+      "exampleEn": "The company is hiring three new workers.",
+      "example2": "Die körperliche Arbeitskraft lässt im Alter nach.",
+      "example2En": "Physical work capacity declines with age."
+    },
+    {
+      "de": "die Arbeitslosigkeit",
+      "en": "unemployment",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "unemployment",
+          "de": "Zustand ohne Arbeit"
+        }
+      ],
+      "rule": "feminin, Singularwort (kein Plural)",
+      "example": "Die Arbeitslosigkeit ist in diesem Jahr gestiegen.",
+      "exampleEn": "Unemployment has risen this year.",
+      "example2": "Langzeitige Arbeitslosigkeit belastet viele Familien.",
+      "example2En": "Long-term unemployment burdens many families."
+    },
+    {
+      "de": "die Arbeitsstelle",
+      "en": "job, workplace",
+      "pos": "noun",
+      "plural": "die Arbeitsstellen",
+      "meanings": [
+        {
+          "en": "job, workplace",
+          "de": "Ort/Stelle, an der man arbeitet"
+        }
+      ],
+      "rule": "feminin, die Arbeitsstellen; Synonym zu 'Arbeitsplatz'",
+      "example": "Er hat eine neue Arbeitsstelle in Berlin.",
+      "exampleEn": "He has a new job in Berlin.",
+      "example2": "Sie pendelt jeden Tag zu ihrer Arbeitsstelle.",
+      "example2En": "She commutes to her workplace every day."
+    },
+    {
+      "de": "die Arbeitsweise",
+      "en": "way of working, method",
+      "pos": "noun",
+      "plural": "die Arbeitsweisen",
+      "meanings": [
+        {
+          "en": "way of working, method",
+          "de": "Methode, wie man arbeitet"
+        }
+      ],
+      "rule": "feminin, die Arbeitsweisen",
+      "example": "Die Arbeitsweise der Firma hat sich verändert.",
+      "exampleEn": "The company's way of working has changed.",
+      "example2": "Jeder Lehrer hat seine eigene Arbeitsweise.",
+      "example2En": "Every teacher has their own working method."
+    },
+    {
+      "de": "die Arbeitszeit",
+      "en": "working hours",
+      "pos": "noun",
+      "plural": "die Arbeitszeiten",
+      "meanings": [
+        {
+          "en": "working hours",
+          "de": "Zeit, in der man arbeitet"
+        }
+      ],
+      "rule": "feminin, die Arbeitszeiten",
+      "example": "Die Arbeitszeit beträgt 40 Stunden pro Woche.",
+      "exampleEn": "Working hours are 40 hours per week.",
+      "example2": "Nach der Arbeitszeit geht er joggen.",
+      "example2En": "After work he goes jogging."
+    },
+    {
+      "de": "der Ärger",
+      "en": "anger; trouble",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "anger, annoyance",
+          "de": "Wut, Verärgerung"
+        },
+        {
+          "en": "trouble, hassle",
+          "de": "Schwierigkeiten, Probleme"
+        }
+      ],
+      "rule": "maskulin, nur Singular (kein Plural); 'Ärger haben/machen'",
+      "example": "Er hatte Ärger mit seinem Chef.",
+      "exampleEn": "He had trouble with his boss.",
+      "example2": "Ich konnte meinen Ärger kaum verbergen.",
+      "example2En": "I could hardly hide my anger."
+    },
+    {
+      "de": "ärgerlich",
+      "en": "annoying; annoyed",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "annoying",
+          "de": "unangenehm, störend"
+        },
+        {
+          "en": "annoyed",
+          "de": "verärgert"
+        }
+      ],
+      "rule": "Adjektiv: über etwas (Akk.) ärgerlich sein (Sache/Ereignis), auf jemanden (Akk.) ärgerlich sein (Person); regelmäßig gesteigert",
+      "example": "Es ist ärgerlich, dass der Bus schon wieder zu spät kommt.",
+      "exampleEn": "It's annoying that the bus is late again.",
+      "example2": "Sie war sehr ärgerlich über den Fehler.",
+      "example2En": "She was very annoyed about the mistake."
+    },
+    {
+      "de": "die Art",
+      "en": "kind, type; manner",
+      "pos": "noun",
+      "plural": "die Arten",
+      "meanings": [
+        {
+          "en": "kind, type",
+          "de": "Sorte, Gattung"
+        },
+        {
+          "en": "manner, way",
+          "de": "Weise, Verhaltensweise"
+        }
+      ],
+      "rule": "feminin, die Arten; 'auf diese Art' = in this way",
+      "example": "Das ist eine seltene Art von Vogel.",
+      "exampleEn": "That's a rare kind of bird.",
+      "example2": "Mir gefällt seine freundliche Art.",
+      "example2En": "I like his friendly manner."
+    },
+    {
+      "de": "die Artikelnummer",
+      "en": "item/article number",
+      "pos": "noun",
+      "plural": "die Artikelnummern",
+      "meanings": [
+        {
+          "en": "item/article number",
+          "de": "Nummer zur Identifikation eines Produkts"
+        }
+      ],
+      "rule": "feminin, die Artikelnummern; oft abgekürzt 'Art.-Nr.'",
+      "example": "Bitte geben Sie die Artikelnummer an.",
+      "exampleEn": "Please state the item number.",
+      "example2": "Die Artikelnummer finden Sie auf der Verpackung.",
+      "example2En": "You can find the article number on the packaging."
+    },
+    {
+      "de": "ärztlich",
+      "en": "medical",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "medical (relating to a doctor)",
+          "de": "vom Arzt, den Arzt betreffend"
+        }
+      ],
+      "rule": "Adjektiv, Bezug zu 'Arzt'; nicht steigerbar in dieser Bedeutung",
+      "example": "Er braucht ein ärztliches Attest.",
+      "exampleEn": "He needs a doctor's certificate.",
+      "example2": "Nach dem Unfall war eine ärztliche Untersuchung nötig.",
+      "example2En": "After the accident a medical examination was necessary."
+    },
+    {
+      "de": "die Assistenz",
+      "en": "assistance; support",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "assistance/support (help given)",
+          "de": "die Hilfe, Unterstützung"
+        },
+        {
+          "en": "assistant role/position",
+          "de": "die Position als Assistent(in)"
+        }
+      ],
+      "rule": "Often used in job titles/compounds (Assistenz der Geschäftsführung); usually uncountable, no plural.",
+      "example": "Sie arbeitet in der Assistenz der Geschäftsführung.",
+      "exampleEn": "She works as an assistant to the management.",
+      "example2": "Er braucht Assistenz bei der täglichen Pflege.",
+      "example2En": "He needs assistance with daily care."
+    },
+    {
+      "de": "der Astronaut / die Astronautin",
+      "en": "astronaut",
+      "pos": "noun",
+      "plural": "die Astronauten / die Astronautinnen",
+      "meanings": [
+        {
+          "en": "astronaut",
+          "de": "jemand, der ins Weltall fliegt"
+        }
+      ],
+      "rule": "Weak masculine noun: der Astronaut, den/dem/des Astronauten.",
+      "example": "Der Astronaut ist zur Raumstation geflogen.",
+      "exampleEn": "The astronaut flew to the space station.",
+      "example2": "Sie möchte später Astronautin werden.",
+      "example2En": "She wants to become an astronaut later."
+    },
+    {
+      "de": "das Asyl",
+      "en": "asylum",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "asylum (political protection)",
+          "de": "Schutz vor politischer Verfolgung"
+        }
+      ],
+      "rule": "Uncountable; common phrase: Asyl beantragen (to apply for asylum).",
+      "example": "Die Familie hat Asyl beantragt.",
+      "exampleEn": "The family applied for asylum.",
+      "example2": "Er bekam politisches Asyl in Deutschland.",
+      "example2En": "He was granted political asylum in Germany."
+    },
+    {
+      "de": "die Atmung",
+      "en": "breathing; respiration",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "breathing/respiration",
+          "de": "das Atmen"
+        }
+      ],
+      "rule": "Uncountable noun derived from the verb \"atmen\" (to breathe).",
+      "example": "Die Atmung wird bei Stress schneller.",
+      "exampleEn": "Breathing gets faster under stress.",
+      "example2": "Der Arzt hat die Atmung des Patienten kontrolliert.",
+      "example2En": "The doctor checked the patient's breathing."
+    },
+    {
+      "de": "atmungsaktiv",
+      "en": "breathable",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "breathable (fabric/material)",
+          "de": "lässt Luft und Feuchtigkeit durch"
+        }
+      ],
+      "rule": "Regular comparison (rarely used comparatively); typically describes clothing/textiles.",
+      "example": "Die Jacke ist atmungsaktiv und wasserdicht.",
+      "exampleEn": "The jacket is breathable and waterproof.",
+      "example2": "Sportschuhe sollten atmungsaktiv sein.",
+      "example2En": "Sports shoes should be breathable."
+    },
+    {
+      "de": "aufdrehen",
+      "en": "to turn on; to turn up",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to turn on/open (tap, gas)",
+          "de": "öffnen, andrehen"
+        },
+        {
+          "en": "to turn up (volume)",
+          "de": "lauter stellen"
+        }
+      ],
+      "rule": "Trennbar: dreht ... auf, drehte ... auf, hat aufgedreht.",
+      "example": "Kannst du den Wasserhahn aufdrehen?",
+      "exampleEn": "Can you turn on the tap?",
+      "example2": "Er hat die Musik voll aufgedreht.",
+      "example2En": "He turned the music up loud."
+    },
+    {
+      "de": "aufkommen",
+      "en": "to arise; to be liable for",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to arise/come up (wind, feeling, doubt)",
+          "de": "entstehen"
+        },
+        {
+          "en": "to pay for/be liable for (+für)",
+          "de": "bezahlen, haften für"
+        }
+      ],
+      "rule": "Trennbar, irregular: kommt auf, kam auf, ist aufgekommen; \"aufkommen für\" + Akk.",
+      "example": "Plötzlich kam starker Wind auf.",
+      "exampleEn": "Suddenly strong wind came up.",
+      "example2": "Die Versicherung kommt für den Schaden auf.",
+      "example2En": "The insurance covers/pays for the damage."
+    },
+    {
+      "de": "aufmachen",
+      "en": "to open",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to open",
+          "de": "öffnen"
+        },
+        {
+          "en": "to open/set up (a shop), colloquial",
+          "de": "eröffnen"
+        }
+      ],
+      "rule": "Trennbar: macht auf, machte auf, hat aufgemacht.",
+      "example": "Mach bitte die Tür auf.",
+      "exampleEn": "Please open the door.",
+      "example2": "Sie haben letztes Jahr ein neues Café aufgemacht.",
+      "example2En": "They opened a new café last year."
+    },
+    {
+      "de": "aufmerksam",
+      "en": "attentive",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "attentive",
+          "de": "konzentriert, achtsam"
+        },
+        {
+          "en": "pointing out/noticing (jemanden auf etwas aufmerksam machen)",
+          "de": "hinweisend"
+        }
+      ],
+      "rule": "Regular comparison: aufmerksam, aufmerksamer, am aufmerksamsten; fixed phrase \"jemanden auf etwas aufmerksam machen\" = to point sth out to sb.",
+      "example": "Die Schüler waren sehr aufmerksam im Unterricht.",
+      "exampleEn": "The students were very attentive in class.",
+      "example2": "Er machte mich auf den Fehler aufmerksam.",
+      "example2En": "He pointed out the mistake to me."
+    },
+    {
+      "de": "die Aufregung",
+      "en": "excitement; agitation",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "excitement/agitation",
+          "de": "Nervosität, Erregung"
+        }
+      ],
+      "rule": "Uncountable noun from \"sich aufregen\" (to get upset/excited).",
+      "example": "Vor der Prüfung war die Aufregung groß.",
+      "exampleEn": "Before the exam the excitement/nervousness was great.",
+      "example2": "In der Aufregung hat sie ihren Schlüssel vergessen.",
+      "example2En": "In the excitement she forgot her key."
+    },
+    {
+      "de": "der Aufruf",
+      "en": "call; appeal",
+      "pos": "noun",
+      "plural": "die Aufrufe",
+      "meanings": [
+        {
+          "en": "call/appeal (public request)",
+          "de": "öffentliche Bitte"
+        },
+        {
+          "en": "calling up (name, number)",
+          "de": "Namensaufruf"
+        }
+      ],
+      "rule": "Noun from \"aufrufen\" (to call up/call for).",
+      "example": "Die Organisation startete einen Aufruf zur Blutspende.",
+      "exampleEn": "The organization launched an appeal for blood donations.",
+      "example2": "Beim Aufruf Ihres Namens gehen Sie bitte zum Schalter.",
+      "example2En": "When your name is called, please go to the counter."
+    },
+    {
+      "de": "aufschreiben",
+      "en": "to write down",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to write down/note",
+          "de": "notieren"
+        }
+      ],
+      "rule": "Trennbar, irregular: schreibt auf, schrieb auf, hat aufgeschrieben.",
+      "example": "Ich schreibe mir die Telefonnummer auf.",
+      "exampleEn": "I'm writing down the phone number.",
+      "example2": "Der Kellner hat unsere Bestellung aufgeschrieben.",
+      "example2En": "The waiter wrote down our order."
+    },
+    {
+      "de": "aufteilen",
+      "en": "to divide up; to split",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to divide up/split",
+          "de": "teilen, verteilen"
+        }
+      ],
+      "rule": "Trennbar: teilt auf, teilte auf, hat aufgeteilt; often + in + Akk.",
+      "example": "Wir haben die Arbeit unter uns aufgeteilt.",
+      "exampleEn": "We divided the work among ourselves.",
+      "example2": "Die Wohnung wurde in zwei kleinere Wohnungen aufgeteilt.",
+      "example2En": "The apartment was split into two smaller apartments."
+    },
+    {
+      "de": "die Aufteilung",
+      "en": "division; distribution",
+      "pos": "noun",
+      "plural": "die Aufteilungen",
+      "meanings": [
+        {
+          "en": "division/distribution",
+          "de": "das Aufteilen"
+        }
+      ],
+      "rule": "Noun derived from the verb \"aufteilen\".",
+      "example": "Die Aufteilung der Kosten war fair.",
+      "exampleEn": "The division of costs was fair.",
+      "example2": "Über die Aufteilung des Erbes gab es Streit.",
+      "example2En": "There was a dispute over the division of the inheritance."
+    },
+    {
+      "de": "der Auftrag",
+      "en": "order; assignment",
+      "pos": "noun",
+      "plural": "die Aufträge",
+      "meanings": [
+        {
+          "en": "order (commercial)",
+          "de": "Bestellung"
+        },
+        {
+          "en": "assignment/task",
+          "de": "Aufgabe"
+        }
+      ],
+      "rule": "Common phrase: einen Auftrag erteilen/bekommen (to place/receive an order).",
+      "example": "Die Firma hat einen großen Auftrag bekommen.",
+      "exampleEn": "The company received a big order.",
+      "example2": "Ich habe den Auftrag, das Zimmer aufzuräumen.",
+      "example2En": "I have the task of tidying up the room."
+    },
+    {
+      "de": "die Auftragsnummer",
+      "en": "order number",
+      "pos": "noun",
+      "plural": "die Auftragsnummern",
+      "meanings": [
+        {
+          "en": "order number",
+          "de": "Nummer eines Auftrags"
+        }
+      ],
+      "rule": "Compound noun: Auftrag + Nummer; takes gender of Nummer (die).",
+      "example": "Bitte geben Sie Ihre Auftragsnummer an.",
+      "exampleEn": "Please state your order number.",
+      "example2": "Die Auftragsnummer finden Sie auf der Rechnung.",
+      "example2En": "You'll find the order number on the invoice."
+    },
+    {
+      "de": "der Ausgang",
+      "en": "exit; outcome",
+      "pos": "noun",
+      "plural": "die Ausgänge",
+      "meanings": [
+        {
+          "en": "exit",
+          "de": "Tür oder Weg nach draußen"
+        },
+        {
+          "en": "outcome/result",
+          "de": "Ergebnis"
+        }
+      ],
+      "rule": "Also seen in compounds like Notausgang (emergency exit).",
+      "example": "Der Ausgang ist links neben der Kasse.",
+      "exampleEn": "The exit is on the left next to the checkout.",
+      "example2": "Der Ausgang des Spiels war ungewiss.",
+      "example2En": "The outcome of the game was uncertain."
+    },
+    {
+      "de": "ausgewogen",
+      "en": "balanced",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "balanced, well-proportioned",
+          "de": "im Gleichgewicht, harmonisch"
+        }
+      ],
+      "rule": "regular comparison: ausgewogen, ausgewogener, am ausgewogensten; often used with Ernährung (diet) or Mischung.",
+      "example": "Für ein gesundes Leben braucht man eine ausgewogene Ernährung.",
+      "exampleEn": "For a healthy life you need a balanced diet.",
+      "example2": "Der Bericht war sehr ausgewogen und zeigte beide Seiten.",
+      "example2En": "The report was very balanced and showed both sides."
+    },
+    {
+      "de": "ausliefern",
+      "en": "to deliver; to hand over",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to deliver (goods)",
+          "de": "liefern, zustellen"
+        },
+        {
+          "en": "to hand over (a person)",
+          "de": "übergeben, preisgeben"
+        }
+      ],
+      "rule": "trennbar: liefert ... aus, lieferte ... aus, hat ausgeliefert.",
+      "example": "Die Firma liefert die Bestellung morgen aus.",
+      "exampleEn": "The company will deliver the order tomorrow.",
+      "example2": "Der Verbrecher wurde der Polizei ausgeliefert.",
+      "example2En": "The criminal was handed over to the police."
+    },
+    {
+      "de": "die Ausnahme",
+      "en": "exception",
+      "pos": "noun",
+      "plural": "die Ausnahmen",
+      "meanings": [
+        {
+          "en": "exception, exemption",
+          "de": "etwas, das von der Regel abweicht"
+        }
+      ],
+      "rule": "common phrase: eine Ausnahme machen (to make an exception).",
+      "example": "Heute mache ich eine Ausnahme und esse Schokolade.",
+      "exampleEn": "Today I'll make an exception and eat chocolate.",
+      "example2": "Jede Regel hat ihre Ausnahme.",
+      "example2En": "Every rule has its exception."
+    },
+    {
+      "de": "ausparken",
+      "en": "to park out / to pull out of a parking space",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to drive a car out of a parking space",
+          "de": "aus einer Parklücke herausfahren"
+        }
+      ],
+      "rule": "trennbar: parkt ... aus, parkte ... aus, hat ausgeparkt.",
+      "example": "Ich muss vorsichtig ausparken, die Straße ist eng.",
+      "exampleEn": "I have to pull out carefully, the street is narrow.",
+      "example2": "Kannst du mir helfen auszuparken?",
+      "example2En": "Can you help me pull out of the parking space?"
+    },
+    {
+      "de": "ausprobieren",
+      "en": "to try out",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to try out, test",
+          "de": "testen, probieren"
+        }
+      ],
+      "rule": "trennbar: probiert ... aus, probierte ... aus, hat ausprobiert.",
+      "example": "Ich möchte das neue Restaurant ausprobieren.",
+      "exampleEn": "I want to try out the new restaurant.",
+      "example2": "Probier doch mal die App aus, sie ist praktisch.",
+      "example2En": "Just try the app out, it's practical."
+    },
+    {
+      "de": "ausschalten",
+      "en": "to switch off",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to turn off (a device)",
+          "de": "abschalten, ausmachen"
+        }
+      ],
+      "rule": "trennbar: schaltet ... aus, schaltete ... aus, hat ausgeschaltet.",
+      "example": "Bitte schalte das Licht aus, bevor du gehst.",
+      "exampleEn": "Please switch off the light before you leave.",
+      "example2": "Er hat sein Handy während des Films ausgeschaltet.",
+      "example2En": "He switched off his phone during the film."
+    },
+    {
+      "de": "ausschlafen",
+      "en": "to sleep in; to get enough sleep",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to sleep until fully rested",
+          "de": "lange und genug schlafen"
+        }
+      ],
+      "rule": "trennbar, irregular: schläft ... aus, schlief ... aus, hat ausgeschlafen.",
+      "example": "Am Wochenende kann ich endlich mal ausschlafen.",
+      "exampleEn": "On the weekend I can finally sleep in.",
+      "example2": "Bist du ausgeschlafen oder noch müde?",
+      "example2En": "Did you get enough sleep or are you still tired?"
+    },
+    {
+      "de": "der Außenspiegel",
+      "en": "side mirror (of a car)",
+      "pos": "noun",
+      "plural": "die Außenspiegel",
+      "meanings": [
+        {
+          "en": "exterior mirror of a vehicle",
+          "de": "Spiegel außen am Auto"
+        }
+      ],
+      "rule": "compound noun: außen + Spiegel; gender follows der Spiegel.",
+      "example": "Vor dem Abbiegen schaue ich immer in den Außenspiegel.",
+      "exampleEn": "Before turning I always check the side mirror.",
+      "example2": "Der Außenspiegel ist beim Parken abgebrochen.",
+      "example2En": "The side mirror broke off while parking."
+    },
+    {
+      "de": "die Ausstattung",
+      "en": "equipment, furnishing",
+      "pos": "noun",
+      "plural": "die Ausstattungen",
+      "meanings": [
+        {
+          "en": "equipment, furnishing, features",
+          "de": "das, womit etwas ausgestattet ist"
+        }
+      ],
+      "rule": "often used for cars, apartments, hotel rooms describing included features.",
+      "example": "Das Auto hat eine gute Ausstattung mit Klimaanlage und Navi.",
+      "exampleEn": "The car has good equipment with air conditioning and navigation.",
+      "example2": "Die Ausstattung der Wohnung ist einfach, aber modern.",
+      "example2En": "The furnishing of the apartment is simple but modern."
+    },
+    {
+      "de": "ausstellen",
+      "en": "to exhibit; to issue (a document)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to exhibit, display",
+          "de": "präsentieren, zeigen"
+        },
+        {
+          "en": "to issue (a certificate, invoice)",
+          "de": "ein Dokument erstellen und geben"
+        }
+      ],
+      "rule": "trennbar: stellt ... aus, stellte ... aus, hat ausgestellt.",
+      "example": "Die Bilder werden im Museum ausgestellt.",
+      "exampleEn": "The paintings are being exhibited in the museum.",
+      "example2": "Der Arzt hat mir eine Krankschreibung ausgestellt.",
+      "example2En": "The doctor issued me a sick note."
+    },
+    {
+      "de": "die Auswahl",
+      "en": "selection, choice",
+      "pos": "noun",
+      "plural": "die Auswahlen",
+      "meanings": [
+        {
+          "en": "selection, range of choice",
+          "de": "Angebot, aus dem man wählen kann"
+        }
+      ],
+      "rule": "often used with 'eine große/kleine Auswahl an + Dativ'.",
+      "example": "Der Supermarkt hat eine große Auswahl an Käse.",
+      "exampleEn": "The supermarket has a large selection of cheese.",
+      "example2": "Bitte triff eine Auswahl aus den drei Angeboten.",
+      "example2En": "Please make a choice from the three offers."
+    },
+    {
+      "de": "der Auswanderer",
+      "en": "emigrant",
+      "pos": "noun",
+      "plural": "die Auswanderer",
+      "meanings": [
+        {
+          "en": "person who emigrates",
+          "de": "jemand, der sein Land verlässt, um woanders zu leben"
+        }
+      ],
+      "rule": "feminine form: die Auswanderin (plural: die Auswanderinnen) — parallel to der Wanderer / die Wanderin, not 'Auswandererin'.",
+      "example": "Viele Auswanderer verließen im 19. Jahrhundert Europa.",
+      "exampleEn": "Many emigrants left Europe in the 19th century.",
+      "example2": "Der Auswanderer schickte Briefe an seine Familie zu Hause.",
+      "example2En": "The emigrant sent letters to his family back home."
+    }
+  ]
+}

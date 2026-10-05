@@ -1,0 +1,925 @@
+{
+  "id": "b1-18",
+  "title": "B1 · V–W (18)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "die Vergütung",
+      "en": "payment, remuneration",
+      "pos": "noun",
+      "plural": "die Vergütungen",
+      "meanings": [
+        {
+          "en": "payment for work or a service",
+          "de": "Bezahlung für eine Leistung"
+        }
+      ],
+      "rule": "From verb 'vergüten'; formal word, often used for salary/compensation in job contexts.",
+      "example": "Die Vergütung für den Praktikanten ist leider gering.",
+      "exampleEn": "The compensation for the intern is unfortunately low.",
+      "example2": "Er verlangt eine angemessene Vergütung für seine Arbeit.",
+      "example2En": "He demands fair pay for his work."
+    },
+    {
+      "de": "verhaften",
+      "en": "to arrest",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to arrest someone (by police)",
+          "de": "jemanden festnehmen"
+        }
+      ],
+      "rule": "Regular weak verb (verhaftete, hat verhaftet); + Akkusativ; often used in passive: wird verhaftet.",
+      "example": "Die Polizei hat den Mann wegen Diebstahls verhaftet.",
+      "exampleEn": "The police arrested the man for theft.",
+      "example2": "Er wurde am Flughafen verhaftet.",
+      "example2En": "He was arrested at the airport."
+    },
+    {
+      "de": "verlängern",
+      "en": "to extend, lengthen",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make longer in time",
+          "de": "die Dauer verlängern"
+        },
+        {
+          "en": "to make longer in length",
+          "de": "länger machen"
+        }
+      ],
+      "rule": "Regular weak verb (verlängerte, hat verlängert); + Akkusativ.",
+      "example": "Ich möchte meinen Vertrag um ein Jahr verlängern.",
+      "exampleEn": "I would like to extend my contract by one year.",
+      "example2": "Die Schneiderin hat die Hose verlängert.",
+      "example2En": "The tailor lengthened the trousers."
+    },
+    {
+      "de": "verlassen",
+      "en": "to leave (a place/person); (sich verlassen auf) to rely on",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to leave a place or a person",
+          "de": "einen Ort oder eine Person weggehen"
+        },
+        {
+          "en": "(sich verlassen auf) to rely/depend on someone",
+          "de": "jemandem vertrauen"
+        }
+      ],
+      "rule": "Irregular: verlässt, verließ, hat verlassen; + Akkusativ; reflexive form 'sich verlassen auf + Akkusativ' means 'to rely on'.",
+      "example": "Sie hat die Stadt vor zehn Jahren verlassen.",
+      "exampleEn": "She left the city ten years ago.",
+      "example2": "Du kannst dich auf mich verlassen.",
+      "example2En": "You can rely on me."
+    },
+    {
+      "de": "verlaufen",
+      "en": "to go, take a course; (sich verlaufen) to get lost",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to proceed, happen (an event, road)",
+          "de": "einen bestimmten Verlauf nehmen"
+        },
+        {
+          "en": "(sich verlaufen) to lose one's way",
+          "de": "sich nicht mehr auskennen, den Weg verlieren"
+        }
+      ],
+      "rule": "Irregular: verläuft, verlief, ist/hat verlaufen (intransitive 'ist', reflexive 'hat'); reflexive form means 'to get lost'.",
+      "example": "Die Veranstaltung ist ohne Probleme verlaufen.",
+      "exampleEn": "The event went off without any problems.",
+      "example2": "Wir haben uns im Wald verlaufen.",
+      "example2En": "We got lost in the forest."
+    },
+    {
+      "de": "verletzen",
+      "en": "to injure, hurt",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to physically injure someone",
+          "de": "jemandem körperlich schaden"
+        },
+        {
+          "en": "to hurt someone's feelings",
+          "de": "jemanden kränken"
+        }
+      ],
+      "rule": "Regular weak verb (verletzte, hat verletzt); + Akkusativ; often reflexive: sich verletzen (to injure oneself).",
+      "example": "Er hat sich beim Fußballspielen am Bein verletzt.",
+      "exampleEn": "He injured his leg while playing football.",
+      "example2": "Ihre Bemerkung hat mich sehr verletzt.",
+      "example2En": "Her remark hurt me a lot."
+    },
+    {
+      "de": "der Verlierer / die Verliererin",
+      "en": "loser",
+      "pos": "noun",
+      "plural": "die Verlierer / die Verliererinnen",
+      "meanings": [
+        {
+          "en": "person who loses (a game, competition)",
+          "de": "jemand, der verliert"
+        }
+      ],
+      "rule": "Gebildet von 'verlieren'; weibliche Form: die Verliererin.",
+      "example": "Er ist ein fairer Verlierer und gratuliert dem Sieger.",
+      "exampleEn": "He is a fair loser and congratulates the winner.",
+      "example2": "Bei diesem Spiel gibt es nur einen Verlierer.",
+      "example2En": "In this game there is only one loser."
+    },
+    {
+      "de": "vermischen",
+      "en": "to mix, blend",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to mix substances together",
+          "de": "verschiedene Dinge zusammenmischen"
+        }
+      ],
+      "rule": "Regelmäßig: vermischt, vermischte, hat vermischt. Oft reflexiv: sich vermischen.",
+      "example": "Man muss Mehl und Wasser vermischen.",
+      "exampleEn": "You have to mix flour and water.",
+      "example2": "Die Farben vermischen sich zu Grau.",
+      "example2En": "The colors mix together to become gray."
+    },
+    {
+      "de": "vermissen",
+      "en": "to miss (someone/something)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to feel the absence of someone or something",
+          "de": "das Fehlen von jemandem/etwas schmerzlich spüren"
+        }
+      ],
+      "rule": "Regelmäßig: vermisst, vermisste, hat vermisst. + Akkusativ.",
+      "example": "Ich vermisse meine Familie sehr.",
+      "exampleEn": "I miss my family a lot.",
+      "example2": "Seit dem Umzug vermisse ich meine alten Freunde.",
+      "example2En": "Since moving, I miss my old friends."
+    },
+    {
+      "de": "verpacken",
+      "en": "to pack, wrap up",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to put something in packaging",
+          "de": "etwas in eine Verpackung tun"
+        }
+      ],
+      "rule": "Regelmäßig: verpackt, verpackte, hat verpackt.",
+      "example": "Sie verpackt das Geschenk in buntes Papier.",
+      "exampleEn": "She wraps the gift in colorful paper.",
+      "example2": "Die Ware wird sicher verpackt und versandt.",
+      "example2En": "The goods are securely packed and shipped."
+    },
+    {
+      "de": "verpflichten",
+      "en": "to oblige, commit (someone)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to bind someone to a duty or contract",
+          "de": "jemanden zu etwas verbindlich machen"
+        },
+        {
+          "en": "to sign/hire (a player, employee)",
+          "de": "jemanden vertraglich engagieren"
+        }
+      ],
+      "rule": "Regelmäßig: verpflichtet, verpflichtete, hat verpflichtet. Oft reflexiv: sich verpflichten (zu + Dativ).",
+      "example": "Der Vertrag verpflichtet ihn zu pünktlicher Zahlung.",
+      "exampleEn": "The contract obliges him to pay on time.",
+      "example2": "Der Verein hat einen neuen Trainer verpflichtet.",
+      "example2En": "The club has signed a new coach."
+    },
+    {
+      "de": "verreisen",
+      "en": "to go on a trip, travel away",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to leave for a journey",
+          "de": "eine Reise antreten"
+        }
+      ],
+      "rule": "Regelmäßig, mit 'sein': verreist, verreiste, ist verreist.",
+      "example": "Wir verreisen im Sommer nach Italien.",
+      "exampleEn": "We are going on a trip to Italy in the summer.",
+      "example2": "Er ist beruflich verreist und kommt erst nächste Woche zurück.",
+      "example2En": "He has gone away on business and won't be back until next week."
+    },
+    {
+      "de": "der Versand",
+      "en": "shipping, dispatch",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the process of sending goods",
+          "de": "das Versenden von Waren"
+        }
+      ],
+      "rule": "Maskulin, meist im Singular (unzählbar); von 'versenden'.",
+      "example": "Der Versand der Bestellung dauert zwei Tage.",
+      "exampleEn": "Shipping of the order takes two days.",
+      "example2": "Der Versand ist kostenlos ab 50 Euro Bestellwert.",
+      "example2En": "Shipping is free from an order value of 50 euros."
+    },
+    {
+      "de": "die Versandkosten (Pl.)",
+      "en": "shipping costs",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "fees charged for shipping",
+          "de": "Kosten für den Versand einer Ware"
+        }
+      ],
+      "rule": "Nur im Plural gebräuchlich; Zusammensetzung aus Versand + Kosten.",
+      "example": "Die Versandkosten betragen 4,95 Euro.",
+      "exampleEn": "The shipping costs are 4.95 euros.",
+      "example2": "Bitte prüfen Sie die Versandkosten vor der Bestellung.",
+      "example2En": "Please check the shipping costs before ordering."
+    },
+    {
+      "de": "versandkostenfrei",
+      "en": "free shipping (adj.)",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "without shipping costs",
+          "de": "ohne Versandkosten"
+        }
+      ],
+      "rule": "Keine Steigerung üblich; zusammengesetztes Adjektiv aus Versandkosten + frei.",
+      "example": "Ab 30 Euro liefern wir versandkostenfrei.",
+      "exampleEn": "From 30 euros, we deliver with free shipping.",
+      "example2": "Dieser Artikel ist versandkostenfrei erhältlich.",
+      "example2En": "This item is available with free shipping."
+    },
+    {
+      "de": "die Versandkostenpauschale",
+      "en": "flat shipping fee",
+      "pos": "noun",
+      "plural": "die Versandkostenpauschalen",
+      "meanings": [
+        {
+          "en": "a fixed flat-rate shipping charge",
+          "de": "ein fester Pauschalbetrag für den Versand"
+        }
+      ],
+      "rule": "Feminin; Zusammensetzung aus Versandkosten + Pauschale.",
+      "example": "Wir berechnen eine Versandkostenpauschale von 5 Euro.",
+      "exampleEn": "We charge a flat shipping fee of 5 euros.",
+      "example2": "Die Versandkostenpauschale gilt für die ganze Bestellung.",
+      "example2En": "The flat shipping fee applies to the whole order."
+    },
+    {
+      "de": "verschieben",
+      "en": "to postpone; to move/shift",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to postpone to a later time",
+          "de": "auf einen späteren Zeitpunkt legen"
+        },
+        {
+          "en": "to move something to another position",
+          "de": "etwas an eine andere Stelle rücken"
+        }
+      ],
+      "rule": "Unregelmäßig: verschiebt, verschob, hat verschoben. + Akkusativ.",
+      "example": "Wir müssen den Termin auf nächste Woche verschieben.",
+      "exampleEn": "We have to postpone the appointment to next week.",
+      "example2": "Kannst du den Schrank ein Stück verschieben?",
+      "example2En": "Can you move the cupboard a bit?"
+    },
+    {
+      "de": "verschmutzen",
+      "en": "to pollute, get dirty",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make something dirty/polluted",
+          "de": "etwas schmutzig machen"
+        },
+        {
+          "en": "to become dirty/polluted",
+          "de": "schmutzig werden"
+        }
+      ],
+      "rule": "Regelmäßig; transitiv mit 'haben' (hat verschmutzt), intransitiv mit 'sein' (ist verschmutzt).",
+      "example": "Die Fabrik verschmutzt den Fluss.",
+      "exampleEn": "The factory pollutes the river.",
+      "example2": "Die Luft in der Stadt ist stark verschmutzt.",
+      "example2En": "The air in the city is heavily polluted."
+    },
+    {
+      "de": "verschwenden",
+      "en": "to waste",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to use something carelessly without benefit",
+          "de": "etwas nutzlos vergeuden"
+        }
+      ],
+      "rule": "Regelmäßig: verschwendet, verschwendete, hat verschwendet. + Akkusativ.",
+      "example": "Du solltest kein Wasser verschwenden.",
+      "exampleEn": "You shouldn't waste water.",
+      "example2": "Er hat viel Geld für unnötige Dinge verschwendet.",
+      "example2En": "He wasted a lot of money on unnecessary things."
+    },
+    {
+      "de": "die Verschwendung",
+      "en": "waste, wastefulness",
+      "pos": "noun",
+      "plural": "die Verschwendungen",
+      "meanings": [
+        {
+          "en": "the act of wasting resources",
+          "de": "das Verschwenden von etwas"
+        }
+      ],
+      "rule": "Feminin; von 'verschwenden'; meist im Singular verwendet.",
+      "example": "Das ist reine Zeitverschwendung.",
+      "exampleEn": "That is a pure waste of time.",
+      "example2": "Die Verschwendung von Lebensmitteln ist ein großes Problem.",
+      "example2En": "The waste of food is a big problem."
+    },
+    {
+      "de": "versehentlich",
+      "en": "accidentally, by mistake",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "unintentionally, by accident",
+          "de": "ohne Absicht, aus Versehen"
+        }
+      ],
+      "rule": "Keine Steigerung; oft mit 'aus Versehen' austauschbar.",
+      "example": "Ich habe versehentlich die falsche E-Mail geschickt.",
+      "exampleEn": "I accidentally sent the wrong email.",
+      "example2": "Er hat versehentlich meine Tasche mitgenommen.",
+      "example2En": "He accidentally took my bag."
+    },
+    {
+      "de": "versenden",
+      "en": "to send, dispatch",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to send goods, mail or messages",
+          "de": "etwas per Post, Kurier o. Ä. schicken"
+        }
+      ],
+      "rule": "Unregelmäßig/regelmäßig möglich: versendet, versandte/versendete, hat versandt/versendet. + Akkusativ.",
+      "example": "Wir versenden die Ware noch heute.",
+      "exampleEn": "We will dispatch the goods today.",
+      "example2": "Die Einladungen wurden per Post versendet.",
+      "example2En": "The invitations were sent by mail."
+    },
+    {
+      "de": "versichern",
+      "en": "to insure; to assure",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to insure something against risk",
+          "de": "etwas gegen Schäden absichern"
+        },
+        {
+          "en": "to assure someone of something",
+          "de": "jemandem etwas fest zusichern"
+        }
+      ],
+      "rule": "Regelmäßig: versichert, versicherte, hat versichert. Oft reflexiv: sich versichern.",
+      "example": "Er hat sein Auto gegen Diebstahl versichert.",
+      "exampleEn": "He insured his car against theft.",
+      "example2": "Sie versicherte mir, dass alles in Ordnung sei.",
+      "example2En": "She assured me that everything was fine."
+    },
+    {
+      "de": "der Versicherungsberater / die Versicherungsberaterin",
+      "en": "insurance advisor",
+      "pos": "noun",
+      "plural": "die Versicherungsberater / die Versicherungsberaterinnen",
+      "meanings": [
+        {
+          "en": "a professional who advises on insurance matters",
+          "de": "jemand, der beruflich zu Versicherungen berät"
+        }
+      ],
+      "rule": "Zusammensetzung aus Versicherung + Berater; weibliche Form: die Versicherungsberaterin.",
+      "example": "Der Versicherungsberater hat mir eine passende Police empfohlen.",
+      "exampleEn": "The insurance advisor recommended a suitable policy to me.",
+      "example2": "Ich habe einen Termin bei meiner Versicherungsberaterin.",
+      "example2En": "I have an appointment with my insurance advisor."
+    },
+    {
+      "de": "der Versicherungsschutz",
+      "en": "insurance coverage",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the protection/coverage provided by an insurance policy",
+          "de": "der Schutz durch eine Versicherung"
+        }
+      ],
+      "rule": "Kompoundwort: Versicherung + Schutz; meist ohne Plural, unzählbar.",
+      "example": "Mein Versicherungsschutz umfasst auch Diebstahl.",
+      "exampleEn": "My insurance coverage also includes theft.",
+      "example2": "Ohne ausreichenden Versicherungsschutz kann das teuer werden.",
+      "example2En": "Without adequate insurance coverage, this can get expensive."
+    },
+    {
+      "de": "versorgen",
+      "en": "to provide for; to take care of/supply",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to supply someone with something",
+          "de": "jemandem etwas geben, das er braucht"
+        },
+        {
+          "en": "to take care of / look after (a person, wound)",
+          "de": "sich um jemanden kümmern"
+        }
+      ],
+      "rule": "regelmäßig: versorgt, versorgte, hat versorgt; + Akkusativ (Person) + mit (Sache): jemanden mit etwas versorgen.",
+      "example": "Die Firma versorgt die Stadt mit Strom.",
+      "exampleEn": "The company supplies the city with electricity.",
+      "example2": "Sie hat die Wunde sofort versorgt.",
+      "example2En": "She took care of the wound immediately."
+    },
+    {
+      "de": "versprechen",
+      "en": "to promise",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to give a promise",
+          "de": "fest zusagen, etwas zu tun"
+        },
+        {
+          "en": "to expect/hope for (sich etwas versprechen von)",
+          "de": "sich etwas erhoffen"
+        }
+      ],
+      "rule": "unregelmäßig: verspricht, versprach, hat versprochen; + Dativ der Person.",
+      "example": "Er hat mir versprochen, pünktlich zu kommen.",
+      "exampleEn": "He promised me that he would come on time.",
+      "example2": "Sie verspricht sich viel von dem neuen Job.",
+      "example2En": "She expects a lot from the new job."
+    },
+    {
+      "de": "das Verständnis",
+      "en": "understanding",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "comprehension (of a text, situation)",
+          "de": "das Begreifen einer Sache"
+        },
+        {
+          "en": "sympathy/empathy for someone's situation",
+          "de": "Mitgefühl für jemanden"
+        }
+      ],
+      "rule": "unzählbar, kein Plural; + für: Verständnis für etwas haben.",
+      "example": "Ich habe kein Verständnis für dieses Verhalten.",
+      "exampleEn": "I have no sympathy for this behavior.",
+      "example2": "Vielen Dank für Ihr Verständnis.",
+      "example2En": "Thank you very much for your understanding."
+    },
+    {
+      "de": "die Verstärkung",
+      "en": "reinforcement; strengthening",
+      "pos": "noun",
+      "plural": "die Verstärkungen",
+      "meanings": [
+        {
+          "en": "additional support/reinforcement (people)",
+          "de": "zusätzliche Unterstützung"
+        },
+        {
+          "en": "strengthening/amplification (of a signal, sound)",
+          "de": "das Stärker-Machen"
+        }
+      ],
+      "rule": "von 'verstärken'; als Person: Verstärkung bekommen/holen.",
+      "example": "Das Team braucht dringend Verstärkung.",
+      "exampleEn": "The team urgently needs reinforcement.",
+      "example2": "Die Verstärkung des Signals war deutlich zu hören.",
+      "example2En": "The amplification of the signal was clearly audible."
+    },
+    {
+      "de": "der Verstoß",
+      "en": "violation; infringement",
+      "pos": "noun",
+      "plural": "die Verstöße",
+      "meanings": [
+        {
+          "en": "a breach of a rule or law",
+          "de": "das Nichtbeachten einer Regel"
+        }
+      ],
+      "rule": "+ gegen: ein Verstoß gegen das Gesetz/die Regeln.",
+      "example": "Das ist ein klarer Verstoß gegen die Vorschriften.",
+      "exampleEn": "That is a clear violation of the regulations.",
+      "example2": "Für diesen Verstoß droht eine Geldstrafe.",
+      "example2En": "A fine is possible for this violation."
+    },
+    {
+      "de": "verstoßen",
+      "en": "to violate; to disown/reject",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to break a rule or law (gegen etwas verstoßen)",
+          "de": "gegen eine Regel handeln"
+        },
+        {
+          "en": "to disown/cast out a person (jemanden verstoßen)",
+          "de": "jemanden aus der Familie ausschließen"
+        }
+      ],
+      "rule": "unregelmäßig: verstößt, verstieß, hat verstoßen; +gegen (Akk.) für Regeln, + Akk. Person für 'verstoßen' im Sinn von ausschließen.",
+      "example": "Er hat gegen die Verkehrsregeln verstoßen.",
+      "exampleEn": "He violated the traffic rules.",
+      "example2": "Die Familie hat ihn verstoßen.",
+      "example2En": "The family disowned him."
+    },
+    {
+      "de": "vertragen",
+      "en": "to tolerate/stand; (sich vertragen) to get along",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to tolerate physically (food, medicine, weather)",
+          "de": "etwas ohne negative Folgen aushalten"
+        },
+        {
+          "en": "sich vertragen: to get along well with someone",
+          "de": "gut miteinander auskommen"
+        }
+      ],
+      "rule": "unregelmäßig: verträgt, vertrug, hat vertragen; reflexiv 'sich vertragen mit + Dativ'.",
+      "example": "Ich vertrage keinen Kaffee am Abend.",
+      "exampleEn": "I can't tolerate coffee in the evening.",
+      "example2": "Die Geschwister vertragen sich wieder gut.",
+      "example2En": "The siblings get along well again."
+    },
+    {
+      "de": "das Vertragsende",
+      "en": "end of contract",
+      "pos": "noun",
+      "plural": "die Vertragsenden",
+      "meanings": [
+        {
+          "en": "the date/point when a contract ends",
+          "de": "der Zeitpunkt, an dem ein Vertrag endet"
+        }
+      ],
+      "rule": "Kompositum: Vertrag + Ende; meist im Singular verwendet.",
+      "example": "Das Vertragsende liegt am 31. Dezember.",
+      "exampleEn": "The end of the contract is on December 31st.",
+      "example2": "Bitte kündigen Sie rechtzeitig vor Vertragsende.",
+      "example2En": "Please cancel in good time before the end of the contract."
+    },
+    {
+      "de": "die Vertragsnummer",
+      "en": "contract number",
+      "pos": "noun",
+      "plural": "die Vertragsnummern",
+      "meanings": [
+        {
+          "en": "the reference number of a contract",
+          "de": "die Nummer, die einen Vertrag kennzeichnet"
+        }
+      ],
+      "rule": "Kompositum: Vertrag + Nummer; regelmäßiger Plural auf -n.",
+      "example": "Bitte geben Sie Ihre Vertragsnummer an.",
+      "exampleEn": "Please provide your contract number.",
+      "example2": "Die Vertragsnummer finden Sie oben rechts auf dem Schreiben.",
+      "example2En": "You can find the contract number at the top right of the letter."
+    },
+    {
+      "de": "verursachen",
+      "en": "to cause",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to bring about/cause (usually something negative)",
+          "de": "etwas (meist Negatives) bewirken"
+        }
+      ],
+      "rule": "regelmäßig: verursacht, verursachte, hat verursacht; + Akkusativ.",
+      "example": "Der Unfall wurde durch Glatteis verursacht.",
+      "exampleEn": "The accident was caused by black ice.",
+      "example2": "Rauchen verursacht viele Krankheiten.",
+      "example2En": "Smoking causes many diseases."
+    },
+    {
+      "de": "verurteilen",
+      "en": "to convict/sentence; to condemn",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to sentence someone in court",
+          "de": "jemanden gerichtlich bestrafen"
+        },
+        {
+          "en": "to condemn/disapprove strongly of something",
+          "de": "etwas stark missbilligen"
+        }
+      ],
+      "rule": "regelmäßig: verurteilt, verurteilte, hat verurteilt; + Akkusativ + zu (Strafe).",
+      "example": "Der Richter hat ihn zu drei Jahren Haft verurteilt.",
+      "exampleEn": "The judge sentenced him to three years in prison.",
+      "example2": "Viele Politiker verurteilen die Gewalt.",
+      "example2En": "Many politicians condemn the violence."
+    },
+    {
+      "de": "verwerten",
+      "en": "to use/utilize; to recycle",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make use of something (material, information)",
+          "de": "etwas nutzen oder verwenden"
+        },
+        {
+          "en": "to recycle waste materials",
+          "de": "Abfall wiederverwenden"
+        }
+      ],
+      "rule": "regelmäßig: verwertet, verwertete, hat verwertet; + Akkusativ.",
+      "example": "Die Firma verwertet alte Elektrogeräte.",
+      "exampleEn": "The company recycles old electronic devices.",
+      "example2": "Man kann die Reste vom Gemüse gut verwerten.",
+      "example2En": "You can make good use of the vegetable leftovers."
+    },
+    {
+      "de": "der Verzehr",
+      "en": "consumption (of food/drink)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the act of eating or drinking something",
+          "de": "das Essen oder Trinken von etwas"
+        }
+      ],
+      "rule": "unzählbar, kein Plural; typisch in Hinweisen: 'zum sofortigen Verzehr bestimmt'.",
+      "example": "Das Getränk ist nach dem Öffnen zum sofortigen Verzehr bestimmt.",
+      "exampleEn": "After opening, the drink is intended for immediate consumption.",
+      "example2": "Der Verzehr von rohem Fisch kann riskant sein.",
+      "example2En": "The consumption of raw fish can be risky."
+    },
+    {
+      "de": "verzichten",
+      "en": "to do without; to renounce",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to give up or forgo something voluntarily",
+          "de": "freiwillig auf etwas verzichten"
+        }
+      ],
+      "rule": "regelmäßig: verzichtet, verzichtete, hat verzichtet; + auf (Akkusativ).",
+      "example": "Er verzichtet auf Fleisch.",
+      "exampleEn": "He does without meat.",
+      "example2": "Sie hat auf ihren Urlaub verzichtet, um zu arbeiten.",
+      "example2En": "She gave up her vacation in order to work."
+    },
+    {
+      "de": "das Visum",
+      "en": "visa",
+      "pos": "noun",
+      "plural": "die Visa",
+      "meanings": [
+        {
+          "en": "official permission document to enter a country",
+          "de": "die offizielle Einreiseerlaubnis"
+        }
+      ],
+      "rule": "unregelmäßiger Plural: die Visa (auch: die Visen).",
+      "example": "Für die Einreise brauchen wir ein Visum.",
+      "exampleEn": "We need a visa to enter the country.",
+      "example2": "Das Visum ist drei Monate gültig.",
+      "example2En": "The visa is valid for three months."
+    },
+    {
+      "de": "völlig",
+      "en": "completely; total",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "completely, entirely",
+          "de": "ganz, vollständig"
+        }
+      ],
+      "rule": "keine unregelmäßige Steigerung; wird oft als Adverb verwendet: völlig neu, völlig egal.",
+      "example": "Das ist mir völlig egal.",
+      "exampleEn": "That's completely irrelevant to me.",
+      "example2": "Die Straße war völlig leer.",
+      "example2En": "The street was completely empty."
+    },
+    {
+      "de": "die Vollkaskoversicherung (Vollkasko)",
+      "en": "comprehensive car insurance",
+      "pos": "noun",
+      "plural": "die Vollkaskoversicherungen",
+      "meanings": [
+        {
+          "en": "comprehensive insurance covering damage to one's own car regardless of fault",
+          "de": "Versicherung, die auch selbst verursachte Schäden am eigenen Auto abdeckt"
+        }
+      ],
+      "rule": "Kompositum: voll + Kasko + Versicherung; Kurzform 'Vollkasko' ist gebräuchlich, meist ohne Artikel im Alltag.",
+      "example": "Für das neue Auto habe ich eine Vollkaskoversicherung abgeschlossen.",
+      "exampleEn": "I took out comprehensive insurance for the new car.",
+      "example2": "Mit Vollkasko sind auch selbst verschuldete Unfälle versichert.",
+      "example2En": "With comprehensive insurance, even self-caused accidents are covered."
+    },
+    {
+      "de": "voraussichtlich",
+      "en": "expected; probably",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "expected, anticipated",
+          "de": "wie erwartet, vermutlich"
+        }
+      ],
+      "rule": "Wird sowohl attributiv vor dem Nomen als auch adverbial bei Verben verwendet; da kaum graduierbar, praktisch nicht gesteigert.",
+      "example": "Der Zug kommt voraussichtlich um 18 Uhr an.",
+      "exampleEn": "The train is expected to arrive at 6 pm.",
+      "example2": "Die Reparatur dauert voraussichtlich zwei Tage.",
+      "example2En": "The repair is expected to take two days."
+    },
+    {
+      "de": "vorbeigehen",
+      "en": "to walk past; to pass (of time/pain)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to walk/go past someone or something",
+          "de": "an jemandem/etwas vorübergehen"
+        },
+        {
+          "en": "(of pain, time) to pass, to go away",
+          "de": "aufhören, enden"
+        }
+      ],
+      "rule": "trennbar: geht ... vorbei, ging vorbei, ist vorbeigegangen; oft mit 'an + Dativ'",
+      "example": "Ich bin an deinem Haus vorbeigegangen.",
+      "exampleEn": "I walked past your house.",
+      "example2": "Die Kopfschmerzen gehen bald vorbei.",
+      "example2En": "The headache will pass soon."
+    },
+    {
+      "de": "vorher",
+      "en": "before; beforehand",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "before that, earlier, beforehand",
+          "de": "davor, früher"
+        }
+      ],
+      "rule": "Temporaladverb, Gegenteil von 'nachher'; unveränderlich (nicht deklinierbar).",
+      "example": "Vorher hatte ich noch nie Sushi gegessen.",
+      "exampleEn": "Before that, I had never eaten sushi.",
+      "example2": "Ich muss vorher noch schnell einkaufen gehen.",
+      "example2En": "I need to quickly go shopping beforehand."
+    },
+    {
+      "de": "vorhersagen",
+      "en": "to predict, to forecast",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to predict, forecast",
+          "de": "im Voraus sagen, prognostizieren"
+        }
+      ],
+      "rule": "trennbar: sagt ... vorher, sagte vorher, hat vorhergesagt",
+      "example": "Der Wetterbericht sagt Regen für morgen vorher.",
+      "exampleEn": "The weather forecast predicts rain for tomorrow.",
+      "example2": "Niemand konnte diesen Erfolg vorhersagen.",
+      "example2En": "Nobody could have predicted this success."
+    },
+    {
+      "de": "vorschreiben",
+      "en": "to prescribe, to dictate (rules)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to prescribe, require, dictate",
+          "de": "vorgeben, anordnen, befehlen"
+        }
+      ],
+      "rule": "unregelmäßig: schreibt ... vor, schrieb vor, hat vorgeschrieben; oft im Passiv 'vorgeschrieben sein'",
+      "example": "Das Gesetz schreibt für Motorradfahrer das Tragen eines Helms vor.",
+      "exampleEn": "The law requires motorcyclists to wear a helmet.",
+      "example2": "Lass dir nicht vorschreiben, was du tun sollst.",
+      "example2En": "Don't let anyone dictate what you should do."
+    },
+    {
+      "de": "vorsichtig",
+      "en": "careful, cautious",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "careful, cautious",
+          "de": "achtsam, behutsam"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: vorsichtig, vorsichtiger, am vorsichtigsten.",
+      "example": "Sei vorsichtig, die Straße ist glatt!",
+      "exampleEn": "Be careful, the road is slippery!",
+      "example2": "Er fährt immer sehr vorsichtig.",
+      "example2En": "He always drives very cautiously."
+    },
+    {
+      "de": "wahr",
+      "en": "true",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "true, in accordance with fact",
+          "de": "der Wirklichkeit entsprechend"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: wahr, wahrer, am wahrsten (selten gesteigert); Nicht verwechseln mit 'war' (Präteritum von 'sein').",
+      "example": "Ist es wahr, dass du umziehst?",
+      "exampleEn": "Is it true that you're moving?",
+      "example2": "Diese Geschichte ist leider wahr.",
+      "example2En": "Unfortunately, this story is true."
+    },
+    {
+      "de": "wahrscheinlich",
+      "en": "probable, likely",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "probable, likely",
+          "de": "vermutlich, höchstwahrscheinlich"
+        }
+      ],
+      "rule": "Wird auch als Adverb gebraucht; regelmäßige Steigerung.",
+      "example": "Er kommt wahrscheinlich morgen an.",
+      "exampleEn": "He will probably arrive tomorrow.",
+      "example2": "Das ist die wahrscheinlichste Erklärung.",
+      "example2En": "That is the most probable explanation."
+    }
+  ]
+}

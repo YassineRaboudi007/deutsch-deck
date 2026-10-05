@@ -1,0 +1,925 @@
+{
+  "id": "b1-15",
+  "title": "B1 · S (15)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "schalten",
+      "en": "to switch, to shift gears",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to operate a switch/change a setting",
+          "de": "einen Schalter bedienen, etwas umstellen"
+        },
+        {
+          "en": "to shift gears (in a car)",
+          "de": "beim Autofahren den Gang wechseln"
+        }
+      ],
+      "rule": "Regular weak verb: schaltet, schaltete, hat geschaltet. 'in den dritten Gang schalten' = shift into third gear.",
+      "example": "Bitte schalte das Licht aus.",
+      "exampleEn": "Please switch off the light.",
+      "example2": "Beim Bergabfahren musst du in einen niedrigeren Gang schalten.",
+      "example2En": "When going downhill you have to shift into a lower gear."
+    },
+    {
+      "de": "der Schalter",
+      "en": "switch; counter/window (service desk)",
+      "pos": "noun",
+      "plural": "die Schalter",
+      "meanings": [
+        {
+          "en": "a device to turn something on/off",
+          "de": "ein Gerät zum Ein- und Ausschalten"
+        },
+        {
+          "en": "a service counter or window (e.g. at a bank, post office)",
+          "de": "ein Bereich, an dem man bedient wird, z. B. in einer Bank"
+        }
+      ],
+      "rule": "Masculine noun, plural unchanged (der Schalter – die Schalter).",
+      "example": "Der Schalter an der Wand funktioniert nicht mehr.",
+      "exampleEn": "The switch on the wall doesn't work anymore.",
+      "example2": "Gehen Sie bitte zu Schalter 3.",
+      "example2En": "Please go to counter number 3."
+    },
+    {
+      "de": "die Scheibe",
+      "en": "pane (of glass); slice",
+      "pos": "noun",
+      "plural": "die Scheiben",
+      "meanings": [
+        {
+          "en": "a pane of glass, e.g. a window",
+          "de": "eine Glasplatte, z. B. in einem Fenster"
+        },
+        {
+          "en": "a slice (of bread, cheese, etc.)",
+          "de": "ein dünnes, flaches Stück, z. B. von Brot"
+        }
+      ],
+      "rule": "Feminine noun. Common collocation: eine Scheibe Brot (a slice of bread), die Windschutzscheibe (windshield).",
+      "example": "Die Scheibe des Autos ist kaputt.",
+      "exampleEn": "The car window is broken.",
+      "example2": "Ich möchte noch eine Scheibe Brot, bitte.",
+      "example2En": "I'd like another slice of bread, please."
+    },
+    {
+      "de": "der Scheinwerfer",
+      "en": "headlight; spotlight",
+      "pos": "noun",
+      "plural": "die Scheinwerfer",
+      "meanings": [
+        {
+          "en": "a car headlight",
+          "de": "das Licht vorne am Auto"
+        },
+        {
+          "en": "a spotlight (e.g. on stage)",
+          "de": "ein starkes Licht, z. B. auf der Bühne"
+        }
+      ],
+      "rule": "Masculine noun, plural unchanged. Compound of 'scheinen' (to shine) + 'Werfer' (thrower).",
+      "example": "Bitte schalte die Scheinwerfer ein, es wird dunkel.",
+      "exampleEn": "Please turn on the headlights, it's getting dark.",
+      "example2": "Der Sänger stand im Licht der Scheinwerfer.",
+      "example2En": "The singer stood in the light of the spotlights."
+    },
+    {
+      "de": "der Schiedsrichter",
+      "en": "referee, umpire",
+      "pos": "noun",
+      "plural": "die Schiedsrichter",
+      "meanings": [
+        {
+          "en": "an official who enforces the rules in a sports match",
+          "de": "eine Person, die bei einem Sportspiel die Regeln kontrolliert"
+        }
+      ],
+      "rule": "Masculine noun; female form die Schiedsrichterin. Plural unchanged for masculine.",
+      "example": "Der Schiedsrichter zeigte dem Spieler die rote Karte.",
+      "exampleEn": "The referee showed the player the red card.",
+      "example2": "Die Fans waren mit der Entscheidung des Schiedsrichters nicht einverstanden.",
+      "example2En": "The fans disagreed with the referee's decision."
+    },
+    {
+      "de": "schießen",
+      "en": "to shoot",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to fire a weapon or shoot a ball",
+          "de": "eine Waffe abfeuern oder einen Ball stark treten/werfen"
+        }
+      ],
+      "rule": "Irregular (strong) verb: schießt, schoss, hat geschossen. 'ein Tor schießen' = to score a goal.",
+      "example": "Er hat in letzter Minute ein Tor geschossen.",
+      "exampleEn": "He scored a goal in the last minute.",
+      "example2": "Die Polizei musste in die Luft schießen.",
+      "example2En": "The police had to shoot into the air."
+    },
+    {
+      "de": "der Schläger",
+      "en": "racket/bat/club; thug",
+      "pos": "noun",
+      "plural": "die Schläger",
+      "meanings": [
+        {
+          "en": "a racket, bat, or club used in sports (tennis, golf, hockey)",
+          "de": "ein Sportgerät zum Schlagen, z. B. beim Tennis"
+        },
+        {
+          "en": "a violent person, thug",
+          "de": "eine gewalttätige Person"
+        }
+      ],
+      "rule": "Masculine noun, plural unchanged. Derived from 'schlagen' (to hit).",
+      "example": "Ich brauche einen neuen Tennisschläger.",
+      "exampleEn": "I need a new tennis racket.",
+      "example2": "Vor der Disco kam es zu einer Schlägerei mit mehreren Schlägern.",
+      "example2En": "There was a brawl with several thugs outside the club."
+    },
+    {
+      "de": "die Schlange",
+      "en": "snake; queue/line",
+      "pos": "noun",
+      "plural": "die Schlangen",
+      "meanings": [
+        {
+          "en": "a snake (the animal)",
+          "de": "ein Reptil ohne Beine"
+        },
+        {
+          "en": "a queue, a line of waiting people",
+          "de": "eine lange Reihe wartender Menschen"
+        }
+      ],
+      "rule": "Feminine noun. 'Schlange stehen' = to stand in line/queue.",
+      "example": "Im Zoo haben wir eine giftige Schlange gesehen.",
+      "exampleEn": "At the zoo we saw a poisonous snake.",
+      "example2": "Vor der Kasse mussten wir lange Schlange stehen.",
+      "example2En": "We had to stand in a long queue at the checkout."
+    },
+    {
+      "de": "schmutzig",
+      "en": "dirty",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not clean, soiled",
+          "de": "nicht sauber, voller Schmutz"
+        }
+      ],
+      "rule": "Regular comparison: schmutzig, schmutziger, am schmutzigsten.",
+      "example": "Deine Schuhe sind total schmutzig.",
+      "exampleEn": "Your shoes are totally dirty.",
+      "example2": "Die schmutzige Wäsche liegt im Korb.",
+      "example2En": "The dirty laundry is lying in the basket."
+    },
+    {
+      "de": "schneiden",
+      "en": "to cut",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to cut something with a knife/scissors",
+          "de": "mit einem Messer oder einer Schere teilen"
+        },
+        {
+          "en": "to cut oneself (injure)",
+          "de": "sich verletzen, indem man sich schneidet"
+        }
+      ],
+      "rule": "Irregular verb: schneidet, schnitt, hat geschnitten. Reflexive possible: sich schneiden (to cut oneself).",
+      "example": "Kannst du das Brot in Scheiben schneiden?",
+      "exampleEn": "Can you cut the bread into slices?",
+      "example2": "Ich habe mich beim Kochen in den Finger geschnitten.",
+      "example2En": "I cut my finger while cooking."
+    },
+    {
+      "de": "das Schreiben",
+      "en": "letter, written document",
+      "pos": "noun",
+      "plural": "die Schreiben",
+      "meanings": [
+        {
+          "en": "a formal letter or written document",
+          "de": "ein offizieller Brief oder ein schriftliches Dokument"
+        }
+      ],
+      "rule": "Neuter noun (nominalized infinitive of 'schreiben'); plural unchanged. Used in formal/official contexts.",
+      "example": "Wir haben ein Schreiben vom Finanzamt bekommen.",
+      "exampleEn": "We received a letter from the tax office.",
+      "example2": "Bitte antworten Sie auf unser Schreiben bis zum 10. Oktober.",
+      "example2En": "Please reply to our letter by October 10th."
+    },
+    {
+      "de": "schützen",
+      "en": "to protect",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to protect someone/something from harm",
+          "de": "jemanden/etwas vor Schaden bewahren"
+        }
+      ],
+      "rule": "Regular weak verb: schützt, schützte, hat geschützt. Often + 'vor' (+ Dativ): jemanden vor etwas schützen.",
+      "example": "Eine Creme schützt die Haut vor der Sonne.",
+      "exampleEn": "A cream protects the skin from the sun.",
+      "example2": "Die Polizei soll die Bürger schützen.",
+      "example2En": "The police are supposed to protect citizens."
+    },
+    {
+      "de": "schwingen",
+      "en": "to swing, to vibrate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to move back and forth, to swing something",
+          "de": "sich hin und her bewegen oder etwas hin und her bewegen"
+        },
+        {
+          "en": "to vibrate/resonate (sound, feeling)",
+          "de": "schwingen, z. B. bei Tönen oder Gefühlen mitschwingen"
+        }
+      ],
+      "rule": "Irregular verb: schwingt, schwang, hat geschwungen. 'sich schwingen' (reflexive) = to swing oneself up onto something.",
+      "example": "Er schwang den Hammer kräftig.",
+      "exampleEn": "He swung the hammer powerfully.",
+      "example2": "In ihrer Stimme schwang etwas Traurigkeit mit.",
+      "example2En": "There was a hint of sadness in her voice."
+    },
+    {
+      "de": "die Seifenoper",
+      "en": "soap opera",
+      "pos": "noun",
+      "plural": "die Seifenopern",
+      "meanings": [
+        {
+          "en": "a long-running, dramatic TV series (soap opera)",
+          "de": "eine lange, dramatische Fernsehserie"
+        }
+      ],
+      "rule": "Feminine noun (compound: Seife + Oper); loan translation of English 'soap opera'.",
+      "example": "Meine Oma sieht jeden Nachmittag ihre Lieblings-Seifenoper.",
+      "exampleEn": "My grandma watches her favorite soap opera every afternoon.",
+      "example2": "Die Handlung der Serie ist wie in einer Seifenoper.",
+      "example2En": "The plot of the series is like in a soap opera."
+    },
+    {
+      "de": "seitdem",
+      "en": "since then; since (temporal conjunction/adverb)",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "since then (adverb)",
+          "de": "von diesem Zeitpunkt an"
+        },
+        {
+          "en": "since / ever since (conjunction)",
+          "de": "seit dem Zeitpunkt, an dem"
+        }
+      ],
+      "rule": "Als Adverb steht 'seitdem' allein im Satz; als Konjunktion leitet es einen Nebensatz ein (Verb ans Ende).",
+      "example": "Er hat vor drei Jahren geheiratet, seitdem wohnt er in Köln.",
+      "exampleEn": "He got married three years ago; since then he has lived in Cologne.",
+      "example2": "Seitdem sie umgezogen ist, sehen wir uns selten.",
+      "example2En": "Since she moved, we rarely see each other."
+    },
+    {
+      "de": "der Selbstständige / die Selbstständige",
+      "en": "self-employed person",
+      "pos": "noun",
+      "plural": "die Selbstständigen",
+      "meanings": [
+        {
+          "en": "a self-employed person",
+          "de": "jemand, der eine eigene Firma hat und nicht angestellt ist"
+        }
+      ],
+      "rule": "Substantiviertes Adjektiv: wird wie ein Adjektiv dekliniert (ein Selbstständiger, die Selbstständigen).",
+      "example": "Als Selbstständige muss sie ihre Steuern selbst berechnen.",
+      "exampleEn": "As a self-employed person, she has to calculate her own taxes.",
+      "example2": "Viele Selbstständige haben keine feste Arbeitszeit.",
+      "example2En": "Many self-employed people have no fixed working hours."
+    },
+    {
+      "de": "selbstverständlich",
+      "en": "obvious(ly); naturally, of course",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "obvious / natural",
+          "de": "klar, logisch"
+        },
+        {
+          "en": "of course (as adverb)",
+          "de": "natürlich"
+        }
+      ],
+      "rule": "Sehr häufig als Antwort-Adverb im Sinn von 'natürlich, gerne'.",
+      "example": "Das ist doch selbstverständlich!",
+      "exampleEn": "That's obvious, of course!",
+      "example2": "Selbstverständlich helfe ich dir.",
+      "example2En": "Of course I'll help you."
+    },
+    {
+      "de": "senden",
+      "en": "to send; to broadcast",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to send (mail, a signal)",
+          "de": "schicken"
+        },
+        {
+          "en": "to broadcast (TV/radio)",
+          "de": "im Fernsehen/Radio übertragen"
+        }
+      ],
+      "rule": "sendet, sandte/sendete, hat gesandt/gesendet (beide Formen korrekt; 'gesendet' meist für Rundfunk).",
+      "example": "Ich habe dir die Unterlagen per E-Mail gesendet.",
+      "exampleEn": "I sent you the documents by email.",
+      "example2": "Das Programm wird live gesendet.",
+      "example2En": "The program is broadcast live."
+    },
+    {
+      "de": "die Sendung",
+      "en": "broadcast, program; shipment",
+      "pos": "noun",
+      "plural": "die Sendungen",
+      "meanings": [
+        {
+          "en": "TV/radio program",
+          "de": "eine Radio- oder Fernsehsendung"
+        },
+        {
+          "en": "shipment, parcel",
+          "de": "ein Paket oder Brief, der verschickt wird"
+        }
+      ],
+      "rule": "Zwei getrennte Bedeutungen: Medien und Post/Versand.",
+      "example": "Hast du gestern die Sendung im Fernsehen gesehen?",
+      "exampleEn": "Did you see the TV program yesterday?",
+      "example2": "Die Sendung ist noch nicht angekommen.",
+      "example2En": "The shipment hasn't arrived yet."
+    },
+    {
+      "de": "das Seniorenheim",
+      "en": "retirement home, nursing home",
+      "pos": "noun",
+      "plural": "die Seniorenheime",
+      "meanings": [
+        {
+          "en": "a home/residence for elderly people",
+          "de": "ein Heim, in dem alte Menschen wohnen und betreut werden"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Senioren' + 'Heim'; oft Synonym für Altersheim/Altenheim.",
+      "example": "Meine Großmutter lebt seit einem Jahr im Seniorenheim.",
+      "exampleEn": "My grandmother has lived in the retirement home for a year.",
+      "example2": "Das Seniorenheim sucht neue Pflegekräfte.",
+      "example2En": "The nursing home is looking for new caregivers."
+    },
+    {
+      "de": "senken",
+      "en": "to lower, to reduce",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to lower / reduce (prices, level)",
+          "de": "kleiner/niedriger machen"
+        }
+      ],
+      "rule": "Regelmäßiges Verb: senkt, senkte, hat gesenkt. Nicht verwechseln mit 'sinken' (intransitiv, selbst fallen).",
+      "example": "Die Firma will die Preise senken.",
+      "exampleEn": "The company wants to lower the prices.",
+      "example2": "Er hat seinen Blutdruck durch Sport gesenkt.",
+      "example2En": "He lowered his blood pressure through exercise."
+    },
+    {
+      "de": "die Serie",
+      "en": "series",
+      "pos": "noun",
+      "plural": "die Serien",
+      "meanings": [
+        {
+          "en": "a series (TV show, sequence)",
+          "de": "eine Reihe von zusammengehörenden Folgen oder Dingen"
+        }
+      ],
+      "rule": "Plural regelmäßig: die Serien.",
+      "example": "Wir schauen jeden Abend eine Folge dieser Serie.",
+      "exampleEn": "We watch one episode of this series every evening.",
+      "example2": "In letzter Zeit gab es eine Serie von Einbrüchen.",
+      "example2En": "There has been a series of burglaries lately."
+    },
+    {
+      "de": "das Shopping",
+      "en": "shopping",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "shopping (leisure activity)",
+          "de": "das Einkaufen, besonders zum Vergnügen"
+        }
+      ],
+      "rule": "Anglizismus, meist unzählbar, kein Plural; die Aktivität wird meist mit dem Verb 'shoppen' ausgedrückt ('shoppen gehen'), 'Shopping' selbst steht oft in Komposita wie 'Online-Shopping'.",
+      "example": "Am Samstag gehen wir in der Stadt shoppen.",
+      "exampleEn": "On Saturday we're going shopping in the city.",
+      "example2": "Online-Shopping ist für viele bequemer.",
+      "example2En": "Online shopping is more convenient for many people."
+    },
+    {
+      "de": "sich etwas angewöhnen",
+      "en": "to get into the habit of",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to adopt a habit",
+          "de": "sich eine Gewohnheit zulegen"
+        }
+      ],
+      "rule": "reflexiv mit Dativ (sich) + Akkusativ der Sache: sich (Dat.) etwas (Akk.) angewöhnen; trennbar: gewöhnt sich etwas an, gewöhnte sich etwas an, hat sich etwas angewöhnt",
+      "example": "Ich habe mir angewöhnt, jeden Morgen zu joggen.",
+      "exampleEn": "I've gotten into the habit of jogging every morning.",
+      "example2": "Er sollte sich das Rauchen nicht angewöhnen.",
+      "example2En": "He shouldn't get into the habit of smoking."
+    },
+    {
+      "de": "siegen",
+      "en": "to win, to be victorious",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to win, to triumph (esp. in sport/competition)",
+          "de": "gewinnen, den Sieg erringen"
+        }
+      ],
+      "rule": "Regelmäßig: siegt, siegte, hat gesiegt. Oft mit 'gegen' + Akkusativ (gegen jemanden siegen).",
+      "example": "Unsere Mannschaft hat gestern gesiegt.",
+      "exampleEn": "Our team won yesterday.",
+      "example2": "Er siegte im Finale gegen den Favoriten.",
+      "example2En": "He won the final against the favorite."
+    },
+    {
+      "de": "der Sieger / die Siegerin",
+      "en": "winner, victor",
+      "pos": "noun",
+      "plural": "die Sieger / die Siegerinnen",
+      "meanings": [
+        {
+          "en": "the winner of a competition",
+          "de": "wer gewonnen hat"
+        }
+      ],
+      "rule": "Movierung: männlich der Sieger, weiblich die Siegerin (Plural: die Siegerinnen).",
+      "example": "Der Sieger des Wettbewerbs bekommt einen Pokal.",
+      "exampleEn": "The winner of the competition gets a trophy.",
+      "example2": "Die Siegerin wurde mit Applaus gefeiert.",
+      "example2En": "The (female) winner was celebrated with applause."
+    },
+    {
+      "de": "der Sinn",
+      "en": "sense, meaning; purpose",
+      "pos": "noun",
+      "plural": "die Sinne",
+      "meanings": [
+        {
+          "en": "meaning, point (of something)",
+          "de": "die Bedeutung oder der Zweck von etwas"
+        },
+        {
+          "en": "a (physical) sense",
+          "de": "eines der fünf Sinnesorgane, z. B. Sehen, Hören"
+        }
+      ],
+      "rule": "Feste Wendung: 'es hat keinen Sinn' = es bringt nichts; Plural 'die Sinne' meist für Sinnesorgane.",
+      "example": "Ich verstehe nicht, welchen Sinn diese Regel hat.",
+      "exampleEn": "I don't understand the point of this rule.",
+      "example2": "Der Geruchssinn ist einer unserer fünf Sinne.",
+      "example2En": "The sense of smell is one of our five senses."
+    },
+    {
+      "de": "sinnlos",
+      "en": "pointless, senseless",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "pointless, without purpose",
+          "de": "ohne Sinn oder Zweck"
+        }
+      ],
+      "rule": "Gegenteil von 'sinnvoll'; regelmäßige Steigerung (sinnlos, sinnloser, am sinnlosesten).",
+      "example": "Es ist sinnlos, jetzt noch zu diskutieren.",
+      "exampleEn": "It's pointless to discuss it any further now.",
+      "example2": "Ohne Plan zu arbeiten ist sinnlos.",
+      "example2En": "Working without a plan is pointless."
+    },
+    {
+      "de": "sinnvoll",
+      "en": "sensible, meaningful, useful",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "sensible, making sense",
+          "de": "vernünftig, logisch"
+        },
+        {
+          "en": "useful, worthwhile",
+          "de": "nützlich, wertvoll"
+        }
+      ],
+      "rule": "Gegenteil von 'sinnlos'; regelmäßige Steigerung.",
+      "example": "Es wäre sinnvoll, früher aufzustehen.",
+      "exampleEn": "It would be sensible to get up earlier.",
+      "example2": "Diese Investition ist sehr sinnvoll.",
+      "example2En": "This investment is very worthwhile."
+    },
+    {
+      "de": "der Skisport",
+      "en": "skiing (as a sport)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "skiing as a sport/discipline",
+          "de": "der Sport, bei dem man auf Skiern fährt"
+        }
+      ],
+      "rule": "Meist unzählbar, kein Plural; Zusammensetzung Ski + Sport.",
+      "example": "Er interessiert sich sehr für Skisport.",
+      "exampleEn": "He is very interested in skiing (as a sport).",
+      "example2": "Im Fernsehen läuft heute eine Sendung über Skisport.",
+      "example2En": "There's a program about skiing on TV today."
+    },
+    {
+      "de": "die Soap",
+      "en": "soap opera",
+      "pos": "noun",
+      "plural": "die Soaps",
+      "meanings": [
+        {
+          "en": "a soap opera (TV series)",
+          "de": "eine Fernsehserie mit vielen Folgen, oft über Familien/Beziehungen"
+        }
+      ],
+      "rule": "Anglizismus, kurz für 'soap opera'; Plural die Soaps.",
+      "example": "Meine Schwester schaut jeden Tag ihre Lieblings-Soap.",
+      "exampleEn": "My sister watches her favorite soap opera every day.",
+      "example2": "Diese Soap läuft schon seit zwanzig Jahren.",
+      "example2En": "This soap opera has been running for twenty years."
+    },
+    {
+      "de": "die Solarenergie",
+      "en": "solar energy",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "energy from the sun",
+          "de": "Energie, die aus Sonnenlicht gewonnen wird"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural; Zusammensetzung Solar + Energie.",
+      "example": "Unser Haus wird mit Solarenergie beheizt.",
+      "exampleEn": "Our house is heated with solar energy.",
+      "example2": "Die Nutzung von Solarenergie wächst weltweit.",
+      "example2En": "The use of solar energy is growing worldwide."
+    },
+    {
+      "de": "der Sondermüll",
+      "en": "hazardous waste, special waste",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "hazardous/special waste requiring special disposal",
+          "de": "gefährlicher Müll, der besonders entsorgt werden muss"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural; Zusammensetzung Sonder + Müll.",
+      "example": "Batterien gehören nicht in den Hausmüll, sondern in den Sondermüll.",
+      "exampleEn": "Batteries don't belong in household waste, but in hazardous waste.",
+      "example2": "Die Firma muss ihren Sondermüll fachgerecht entsorgen.",
+      "example2En": "The company must dispose of its hazardous waste properly."
+    },
+    {
+      "de": "der Sonnenschein",
+      "en": "sunshine",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "sunshine",
+          "de": "das Licht der Sonne"
+        }
+      ],
+      "rule": "Uncountable, no plural. Compound: die Sonne + der Schein.",
+      "example": "Bei Sonnenschein frühstücken wir gern auf dem Balkon.",
+      "exampleEn": "When it's sunny, we like to have breakfast on the balcony.",
+      "example2": "Nach dem Regen kam wieder Sonnenschein.",
+      "example2En": "After the rain, the sunshine came back."
+    },
+    {
+      "de": "der Sonnenschirm",
+      "en": "parasol, sun umbrella",
+      "pos": "noun",
+      "plural": "die Sonnenschirme",
+      "meanings": [
+        {
+          "en": "parasol / sun umbrella",
+          "de": "ein Schirm, der vor der Sonne schützt"
+        }
+      ],
+      "rule": "Compound noun: die Sonne + der Schirm, takes der.",
+      "example": "Kannst du bitte den Sonnenschirm aufspannen?",
+      "exampleEn": "Can you open the parasol, please?",
+      "example2": "Am Strand hatten wir keinen Sonnenschirm dabei.",
+      "example2En": "We didn't have a parasol with us at the beach."
+    },
+    {
+      "de": "die Sonnenterrasse",
+      "en": "sun terrace",
+      "pos": "noun",
+      "plural": "die Sonnenterrassen",
+      "meanings": [
+        {
+          "en": "sun terrace",
+          "de": "eine Terrasse mit viel Sonne"
+        }
+      ],
+      "rule": "Compound: die Sonne + die Terrasse, takes die.",
+      "example": "Das Café hat eine schöne Sonnenterrasse.",
+      "exampleEn": "The café has a nice sun terrace.",
+      "example2": "Wir sitzen am liebsten auf der Sonnenterrasse.",
+      "example2En": "We prefer to sit on the sun terrace."
+    },
+    {
+      "de": "der Sonnenuntergang",
+      "en": "sunset",
+      "pos": "noun",
+      "plural": "die Sonnenuntergänge",
+      "meanings": [
+        {
+          "en": "sunset",
+          "de": "wenn die Sonne untergeht"
+        }
+      ],
+      "rule": "Compound: die Sonne + der Untergang.",
+      "example": "Wir haben den Sonnenuntergang am Meer beobachtet.",
+      "exampleEn": "We watched the sunset by the sea.",
+      "example2": "Der Sonnenuntergang war heute besonders schön.",
+      "example2En": "The sunset was especially beautiful today."
+    },
+    {
+      "de": "die Sorge",
+      "en": "worry, concern",
+      "pos": "noun",
+      "plural": "die Sorgen",
+      "meanings": [
+        {
+          "en": "worry, concern",
+          "de": "ein Gefühl der Angst oder Unruhe"
+        },
+        {
+          "en": "care (for someone's well-being)",
+          "de": "die Fürsorge für jemanden"
+        }
+      ],
+      "rule": "Common phrase: sich Sorgen machen (um + Akk.) = to worry about. Fixed idiom 'Sorge tragen für' (to take care of / be responsible for) is used without an article before Sorge.",
+      "example": "Mach dir keine Sorgen, alles wird gut.",
+      "exampleEn": "Don't worry, everything will be fine.",
+      "example2": "Die Eltern tragen Sorge für ihre Kinder.",
+      "example2En": "Parents take care of their children."
+    },
+    {
+      "de": "sortieren",
+      "en": "to sort",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to sort, arrange",
+          "de": "nach einem System ordnen"
+        }
+      ],
+      "rule": "Regular weak verb; sortiert, sortierte, hat sortiert. Often + nach (sortieren nach Größe).",
+      "example": "Sie sortiert die Wäsche nach Farben.",
+      "exampleEn": "She sorts the laundry by colour.",
+      "example2": "Bitte sortiere die Dokumente alphabetisch.",
+      "example2En": "Please sort the documents alphabetically."
+    },
+    {
+      "de": "soweit",
+      "en": "as far as, so far",
+      "pos": "conjunction",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "as far as (I know/concerned), insofar as",
+          "de": "in dem Maße, wie; insofern"
+        },
+        {
+          "en": "ready, that far along",
+          "de": "bereit, fertig"
+        }
+      ],
+      "rule": "As a subordinating conjunction meaning 'insofar as', it is written as one word: 'soweit ich weiß' (verb goes to the end of the clause). For the colloquial sense 'to be ready', it is correctly spelled as two words: 'so weit sein' (e.g. 'Bist du so weit?').",
+      "example": "Soweit ich weiß, kommt sie morgen.",
+      "exampleEn": "As far as I know, she's coming tomorrow.",
+      "example2": "Bist du so weit? Wir können los.",
+      "example2En": "Are you ready? We can go."
+    },
+    {
+      "de": "spannend",
+      "en": "exciting, thrilling",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "exciting, suspenseful",
+          "de": "interessant und aufregend"
+        }
+      ],
+      "rule": "Regular comparison: spannend, spannender, am spannendsten.",
+      "example": "Der Film war wirklich spannend.",
+      "exampleEn": "The movie was really exciting.",
+      "example2": "Sie liest gerade ein spannendes Buch.",
+      "example2En": "She's currently reading an exciting book."
+    },
+    {
+      "de": "sparsam",
+      "en": "thrifty, economical",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "thrifty, frugal (of a person)",
+          "de": "gibt wenig Geld aus"
+        },
+        {
+          "en": "economical, efficient (of a device)",
+          "de": "verbraucht wenig Energie"
+        }
+      ],
+      "rule": "Regular comparison: sparsam, sparsamer, am sparsamsten.",
+      "example": "Meine Oma ist sehr sparsam und spart viel Geld.",
+      "exampleEn": "My grandma is very thrifty and saves a lot of money.",
+      "example2": "Das neue Auto ist sehr sparsam im Verbrauch.",
+      "example2En": "The new car is very fuel-efficient."
+    },
+    {
+      "de": "die Speise",
+      "en": "dish, food",
+      "pos": "noun",
+      "plural": "die Speisen",
+      "meanings": [
+        {
+          "en": "dish, food, meal",
+          "de": "etwas, das man isst"
+        }
+      ],
+      "rule": "Somewhat formal/written word; often seen in 'Speisekarte' (menu).",
+      "example": "Auf der Karte stehen viele leckere Speisen.",
+      "exampleEn": "There are many tasty dishes on the menu.",
+      "example2": "Diese Speise schmeckt sehr würzig.",
+      "example2En": "This dish tastes very flavorful."
+    },
+    {
+      "de": "der Sperrmüll",
+      "en": "bulky waste",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "bulky waste (large household items for disposal)",
+          "de": "große Gegenstände, die man wegwirft, z. B. Möbel"
+        }
+      ],
+      "rule": "Uncountable, no plural. Compound: sperrig (bulky, unwieldy) + der Müll — not from 'sperren'.",
+      "example": "Der alte Schrank kommt zum Sperrmüll.",
+      "exampleEn": "The old wardrobe is going to bulky waste collection.",
+      "example2": "Wann wird hier der Sperrmüll abgeholt?",
+      "example2En": "When is the bulky waste collected here?"
+    },
+    {
+      "de": "spezialisieren (sich)",
+      "en": "to specialize",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to specialize (in something)",
+          "de": "sich auf ein bestimmtes Gebiet konzentrieren"
+        }
+      ],
+      "rule": "Reflexive verb: sich spezialisieren auf + Akk. Regular: spezialisiert, spezialisierte, hat sich spezialisiert.",
+      "example": "Der Arzt hat sich auf Kinderkrankheiten spezialisiert.",
+      "exampleEn": "The doctor specialized in children's illnesses.",
+      "example2": "Unsere Firma spezialisiert sich auf Software.",
+      "example2En": "Our company specializes in software."
+    },
+    {
+      "de": "der Spieler / die Spielerin",
+      "en": "player",
+      "pos": "noun",
+      "plural": "die Spieler / die Spielerinnen",
+      "meanings": [
+        {
+          "en": "player (sports, games)",
+          "de": "jemand, der ein Spiel spielt"
+        }
+      ],
+      "rule": "Feminine form adds -in; plural die Spielerinnen.",
+      "example": "Der Spieler schoss ein tolles Tor.",
+      "exampleEn": "The player scored a great goal.",
+      "example2": "Sie ist eine sehr gute Spielerin.",
+      "example2En": "She is a very good player."
+    },
+    {
+      "de": "der Spielfilm",
+      "en": "feature film",
+      "pos": "noun",
+      "plural": "die Spielfilme",
+      "meanings": [
+        {
+          "en": "feature film (fictional, as opposed to documentary)",
+          "de": "ein Film mit einer erfundenen Geschichte"
+        }
+      ],
+      "rule": "Compound: spielen + der Film.",
+      "example": "Heute Abend läuft ein spannender Spielfilm im Fernsehen.",
+      "exampleEn": "An exciting feature film is on TV tonight.",
+      "example2": "Der Spielfilm dauert etwa zwei Stunden.",
+      "example2En": "The feature film lasts about two hours."
+    },
+    {
+      "de": "der Sportwagen",
+      "en": "sports car",
+      "pos": "noun",
+      "plural": "die Sportwagen",
+      "meanings": [
+        {
+          "en": "sports car",
+          "de": "ein schnelles, sportliches Auto"
+        }
+      ],
+      "rule": "Compound: der Sport + der Wagen; plural unchanged.",
+      "example": "Er träumt von einem roten Sportwagen.",
+      "exampleEn": "He dreams of a red sports car.",
+      "example2": "Sportwagen verbrauchen meistens viel Benzin.",
+      "example2En": "Sports cars usually use a lot of petrol."
+    },
+    {
+      "de": "der Sprachnachweis",
+      "en": "language certificate",
+      "pos": "noun",
+      "plural": "die Sprachnachweise",
+      "meanings": [
+        {
+          "en": "proof/certificate of language proficiency",
+          "de": "ein Dokument, das Sprachkenntnisse bestätigt"
+        }
+      ],
+      "rule": "Compound: die Sprache + der Nachweis.",
+      "example": "Für das Studium brauche ich einen Sprachnachweis in Deutsch.",
+      "exampleEn": "I need a German language certificate for my studies.",
+      "example2": "Ohne Sprachnachweis konnte er sich nicht bewerben.",
+      "example2En": "Without a language certificate he couldn't apply."
+    },
+    {
+      "de": "der Staat",
+      "en": "state, country",
+      "pos": "noun",
+      "plural": "die Staaten",
+      "meanings": [
+        {
+          "en": "state, country, nation",
+          "de": "ein Land mit eigener Regierung"
+        }
+      ],
+      "rule": "No special irregularities; genitive: des Staates.",
+      "example": "Deutschland ist ein demokratischer Staat.",
+      "exampleEn": "Germany is a democratic state.",
+      "example2": "Der Staat unterstützt Familien mit Kindergeld.",
+      "example2En": "The state supports families with child benefit."
+    }
+  ]
+}

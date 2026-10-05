@@ -1,0 +1,937 @@
+{
+  "id": "b1-05",
+  "title": "B1 · D–E (5)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "der/die Freiwillige",
+      "en": "volunteer",
+      "pos": "noun",
+      "plural": "die Freiwilligen",
+      "meanings": [
+        {
+          "en": "a person who does something voluntarily, unpaid",
+          "de": "eine Person, die etwas freiwillig und meist unbezahlt tut"
+        }
+      ],
+      "rule": "Adjective noun (nominalized adjective): declines like an adjective, e.g. 'ein Freiwilliger', 'die Freiwillige', plural 'die Freiwilligen'.",
+      "example": "Viele Freiwillige helfen nach der Flut beim Aufräumen.",
+      "exampleEn": "Many volunteers are helping clean up after the flood.",
+      "example2": "Sie arbeitet als Freiwillige im Krankenhaus.",
+      "example2En": "She works as a volunteer at the hospital."
+    },
+    {
+      "de": "deswegen",
+      "en": "therefore, that's why",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "for that reason",
+          "de": "aus diesem Grund, deshalb"
+        }
+      ],
+      "rule": "Konjunktionaladverb: Verb steht direkt danach (Position 2), z.B. 'Es regnet, deswegen bleibe ich zu Hause.'",
+      "example": "Der Bus kam zu spät, deswegen habe ich den Zug verpasst.",
+      "exampleEn": "The bus came too late, that's why I missed the train.",
+      "example2": "Ich bin krank, deswegen gehe ich heute nicht arbeiten.",
+      "example2En": "I'm sick, so I'm not going to work today."
+    },
+    {
+      "de": "die Detektivgeschichte",
+      "en": "detective story",
+      "pos": "noun",
+      "plural": "die Detektivgeschichten",
+      "meanings": [
+        {
+          "en": "a story about solving a crime",
+          "de": "Geschichte, in der ein Fall gelöst wird"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Detektiv' + 'Geschichte'; Genus vom Grundwort 'die Geschichte'.",
+      "example": "Er liest gern spannende Detektivgeschichten.",
+      "exampleEn": "He likes reading exciting detective stories.",
+      "example2": "Die Detektivgeschichte endet mit einer Überraschung.",
+      "example2En": "The detective story ends with a surprise."
+    },
+    {
+      "de": "der Diabetiker / die Diabetikerin",
+      "en": "diabetic (person)",
+      "pos": "noun",
+      "plural": "die Diabetiker / die Diabetikerinnen",
+      "meanings": [
+        {
+          "en": "a person who has diabetes",
+          "de": "Person, die an Diabetes (Zuckerkrankheit) leidet"
+        }
+      ],
+      "rule": "Bewegungsform: Diabetiker (m) / Diabetikerin (f); Plural analog.",
+      "example": "Mein Vater ist Diabetiker und muss auf Zucker achten.",
+      "exampleEn": "My father is diabetic and has to watch his sugar.",
+      "example2": "Diabetiker sollten regelmäßig ihren Blutzucker messen.",
+      "example2En": "Diabetics should check their blood sugar regularly."
+    },
+    {
+      "de": "das Diagramm",
+      "en": "diagram, chart",
+      "pos": "noun",
+      "plural": "die Diagramme",
+      "meanings": [
+        {
+          "en": "a graphic representation of data",
+          "de": "grafische Darstellung von Zahlen oder Daten"
+        }
+      ],
+      "rule": "Neutrum, Plural auf -e.",
+      "example": "Das Diagramm zeigt die Verkaufszahlen des letzten Jahres.",
+      "exampleEn": "The diagram shows last year's sales figures.",
+      "example2": "Bitte zeichnen Sie ein Diagramm für Ihre Präsentation.",
+      "example2En": "Please draw a diagram for your presentation."
+    },
+    {
+      "de": "dicht",
+      "en": "dense, tight-sealed; closed",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "densely packed, close together",
+          "de": "eng, nah beieinander"
+        },
+        {
+          "en": "sealed, not leaking",
+          "de": "undurchlässig, wasserdicht"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: dicht, dichter, am dichtesten.",
+      "example": "Im Wald stehen die Bäume sehr dicht.",
+      "exampleEn": "The trees in the forest stand very close together.",
+      "example2": "Das Fenster ist nicht dicht, es zieht.",
+      "example2En": "The window doesn't seal well, there's a draft."
+    },
+    {
+      "de": "die/der Bekannte",
+      "en": "acquaintance",
+      "pos": "noun",
+      "plural": "die Bekannten",
+      "meanings": [
+        {
+          "en": "a person one knows (not a close friend)",
+          "de": "eine Person, die man kennt"
+        }
+      ],
+      "rule": "Adjektivdeklination: 'der/die Bekannte', 'ein Bekannter / eine Bekannte' – dekliniert wie ein Adjektiv.",
+      "example": "Ich habe gestern eine alte Bekannte getroffen.",
+      "exampleEn": "Yesterday I met an old acquaintance.",
+      "example2": "Er hat viele Bekannte, aber wenige echte Freunde.",
+      "example2En": "He has many acquaintances but few real friends."
+    },
+    {
+      "de": "der Diebstahl",
+      "en": "theft",
+      "pos": "noun",
+      "plural": "die Diebstähle",
+      "meanings": [
+        {
+          "en": "the act of stealing",
+          "de": "das Stehlen fremden Eigentums"
+        }
+      ],
+      "rule": "Plural mit Umlaut: der Diebstahl – die Diebstähle.",
+      "example": "Er wurde wegen Diebstahls angezeigt.",
+      "exampleEn": "He was reported for theft.",
+      "example2": "In der Stadt gab es mehrere Diebstähle.",
+      "example2En": "There were several thefts in the city."
+    },
+    {
+      "de": "die Dienstleistung",
+      "en": "service",
+      "pos": "noun",
+      "plural": "die Dienstleistungen",
+      "meanings": [
+        {
+          "en": "a service provided (not a physical product)",
+          "de": "Leistung, die für andere erbracht wird, z. B. Beratung, Reparatur"
+        }
+      ],
+      "rule": "Oft im Plural in wirtschaftlichem Kontext: Dienstleistungen anbieten.",
+      "example": "Die Firma bietet verschiedene Dienstleistungen an.",
+      "exampleEn": "The company offers various services.",
+      "example2": "Der Dienstleistungssektor wächst stark.",
+      "example2En": "The service sector is growing strongly."
+    },
+    {
+      "de": "die Dienstreise",
+      "en": "business trip",
+      "pos": "noun",
+      "plural": "die Dienstreisen",
+      "meanings": [
+        {
+          "en": "a trip made for work purposes",
+          "de": "Reise, die man beruflich unternimmt"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Dienst' + 'Reise'; Genus vom Grundwort 'die Reise'.",
+      "example": "Mein Chef ist diese Woche auf Dienstreise.",
+      "exampleEn": "My boss is on a business trip this week.",
+      "example2": "Ich muss nächsten Monat eine Dienstreise nach Berlin machen.",
+      "example2En": "I have to go on a business trip to Berlin next month."
+    },
+    {
+      "de": "die Diskussion",
+      "en": "discussion",
+      "pos": "noun",
+      "plural": "die Diskussionen",
+      "meanings": [
+        {
+          "en": "a conversation exchanging views, often argumentative",
+          "de": "Gespräch, bei dem verschiedene Meinungen ausgetauscht werden"
+        }
+      ],
+      "rule": "Kollokation: eine Diskussion führen / eine Diskussion über etwas.",
+      "example": "Es gab eine lange Diskussion über das neue Gesetz.",
+      "exampleEn": "There was a long discussion about the new law.",
+      "example2": "Bitte führt die Diskussion ruhig und sachlich.",
+      "example2En": "Please keep the discussion calm and objective."
+    },
+    {
+      "de": "die Dokumentation (Doku)",
+      "en": "documentary; documentation",
+      "pos": "noun",
+      "plural": "die Dokumentationen",
+      "meanings": [
+        {
+          "en": "a factual film/report on a topic",
+          "de": "Film oder Bericht über ein Thema, z. B. im Fernsehen"
+        },
+        {
+          "en": "written records documenting a process",
+          "de": "schriftliche Aufzeichnung eines Vorgangs"
+        }
+      ],
+      "rule": "Umgangssprachliche Kurzform: die Doku.",
+      "example": "Heute Abend läuft eine Doku über den Klimawandel.",
+      "exampleEn": "Tonight there's a documentary about climate change.",
+      "example2": "Die Dokumentation des Projekts muss vollständig sein.",
+      "example2En": "The documentation of the project must be complete."
+    },
+    {
+      "de": "der Döner",
+      "en": "doner kebab",
+      "pos": "noun",
+      "plural": "die Döner",
+      "meanings": [
+        {
+          "en": "Turkish-style sandwich with grilled meat in flatbread",
+          "de": "gefülltes Fladenbrot mit gegrilltem Fleisch"
+        }
+      ],
+      "rule": "Plural unverändert: der Döner – die Döner.",
+      "example": "Ich hole uns zwei Döner zum Mittagessen.",
+      "exampleEn": "I'll get us two doner kebabs for lunch.",
+      "example2": "Der Döner an der Ecke schmeckt wirklich gut.",
+      "example2En": "The doner kebab place on the corner tastes really good."
+    },
+    {
+      "de": "doof",
+      "en": "silly, dumb, annoying",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "stupid, silly (informal)",
+          "de": "dumm, blöd (umgangssprachlich)"
+        },
+        {
+          "en": "annoying, unpleasant",
+          "de": "unangenehm, ärgerlich"
+        }
+      ],
+      "rule": "Umgangssprachlich; regelmäßige Steigerung: doof, doofer, am doofsten.",
+      "example": "Das war echt eine doofe Idee.",
+      "exampleEn": "That was really a silly idea.",
+      "example2": "So ein doofes Wetter heute!",
+      "example2En": "What annoying weather today!"
+    },
+    {
+      "de": "das Doppelbett",
+      "en": "double bed",
+      "pos": "noun",
+      "plural": "die Doppelbetten",
+      "meanings": [
+        {
+          "en": "a bed for two people",
+          "de": "Bett für zwei Personen"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'doppel-' + 'das Bett'; Genus vom Grundwort.",
+      "example": "Das Hotelzimmer hat ein großes Doppelbett.",
+      "exampleEn": "The hotel room has a large double bed.",
+      "example2": "Wir möchten ein Zimmer mit Doppelbett buchen.",
+      "example2En": "We would like to book a room with a double bed."
+    },
+    {
+      "de": "doppelt",
+      "en": "double; twice",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "double (amount/size)",
+          "de": "zweifach"
+        },
+        {
+          "en": "twice (as much)",
+          "de": "zweimal"
+        }
+      ],
+      "rule": "Adjective/adverb; often used with 'so viel/so groß': 'doppelt so groß'.",
+      "example": "Die doppelte Portion kostet fünf Euro mehr.",
+      "exampleEn": "The double portion costs five euros more.",
+      "example2": "Ich musste doppelt so lange warten wie sonst.",
+      "example2En": "I had to wait twice as long as usual."
+    },
+    {
+      "de": "das Doppelzimmer",
+      "en": "double room",
+      "pos": "noun",
+      "plural": "die Doppelzimmer",
+      "meanings": [
+        {
+          "en": "hotel room for two people",
+          "de": "Zimmer für zwei Personen"
+        }
+      ],
+      "rule": "Neuter compound noun (der/das Zimmer is neuter); abbreviated 'DZ' in hotel bookings.",
+      "example": "Wir hätten gern ein Doppelzimmer mit Meerblick.",
+      "exampleEn": "We'd like a double room with a sea view.",
+      "example2": "Das Doppelzimmer kostet 90 Euro pro Nacht.",
+      "example2En": "The double room costs 90 euros per night."
+    },
+    {
+      "de": "das Dorf",
+      "en": "village",
+      "pos": "noun",
+      "plural": "die Dörfer",
+      "meanings": [
+        {
+          "en": "small rural settlement",
+          "de": "kleiner Ort auf dem Land"
+        }
+      ],
+      "rule": "Neuter noun with umlaut plural: Dorf → Dörfer.",
+      "example": "Meine Großeltern wohnen in einem kleinen Dorf.",
+      "exampleEn": "My grandparents live in a small village.",
+      "example2": "Im Dorf gibt es nur einen Supermarkt.",
+      "example2En": "There's only one supermarket in the village."
+    },
+    {
+      "de": "dramatisch",
+      "en": "dramatic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "tense/serious (situation)",
+          "de": "sehr ernst, spannungsgeladen"
+        },
+        {
+          "en": "theatrical, exaggerated",
+          "de": "übertrieben, theatralisch"
+        }
+      ],
+      "rule": "Regular adjective; comparison: dramatisch, dramatischer, am dramatischsten.",
+      "example": "Die Lage im Krankenhaus war sehr dramatisch.",
+      "exampleEn": "The situation in the hospital was very dramatic.",
+      "example2": "Musst du immer so dramatisch reagieren?",
+      "example2En": "Do you always have to react so dramatically?"
+    },
+    {
+      "de": "dran sein",
+      "en": "to be someone's turn",
+      "pos": "phrase",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to have one's turn (waiting, games)",
+          "de": "an der Reihe sein"
+        }
+      ],
+      "rule": "Colloquial fixed phrase with sein; 'dran' = short for 'daran'. Präteritum: war dran, Perfekt: ist dran gewesen.",
+      "example": "Warte kurz, du bist gleich dran.",
+      "exampleEn": "Wait a moment, it's almost your turn.",
+      "example2": "Wer ist als Nächster dran?",
+      "example2En": "Who's next in line?"
+    },
+    {
+      "de": "drinnen",
+      "en": "inside, indoors",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in an interior space (opposite of draußen)",
+          "de": "im Inneren eines Raumes"
+        }
+      ],
+      "rule": "Adverb of place, no article/declension; opposite: draußen.",
+      "example": "Es regnet, bleiben wir lieber drinnen.",
+      "exampleEn": "It's raining, let's stay inside instead.",
+      "example2": "Drinnen ist es viel wärmer als draußen.",
+      "example2En": "It's much warmer inside than outside."
+    },
+    {
+      "de": "dumm",
+      "en": "stupid, dumb",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "unintelligent",
+          "de": "nicht klug"
+        },
+        {
+          "en": "annoying, unfortunate (situation)",
+          "de": "ärgerlich, blöd"
+        }
+      ],
+      "rule": "Irregular comparison with umlaut: dumm, dümmer, am dümmsten.",
+      "example": "Das war eine dumme Frage, tut mir leid.",
+      "exampleEn": "That was a stupid question, sorry.",
+      "example2": "So ein dummer Zufall, dass wir uns verpasst haben!",
+      "example2En": "What a silly coincidence that we missed each other!"
+    },
+    {
+      "de": "durchlässig",
+      "en": "permeable, porous",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "allowing liquid/light etc. to pass through",
+          "de": "Wasser, Licht o.Ä. durchlassend"
+        }
+      ],
+      "rule": "Regular adjective; from 'durchlassen' (to let through).",
+      "example": "Der Boden hier ist sehr durchlässig für Regenwasser.",
+      "exampleEn": "The soil here is very permeable to rainwater.",
+      "example2": "Die Jacke ist wasserdicht, aber luftdurchlässig.",
+      "example2En": "The jacket is waterproof but breathable (air-permeable)."
+    },
+    {
+      "de": "der Durchschnitt",
+      "en": "average",
+      "pos": "noun",
+      "plural": "die Durchschnitte",
+      "meanings": [
+        {
+          "en": "arithmetic mean/average value",
+          "de": "Mittelwert"
+        }
+      ],
+      "rule": "Masculine noun; common phrase 'im Durchschnitt' = on average.",
+      "example": "Im Durchschnitt arbeite ich acht Stunden am Tag.",
+      "exampleEn": "On average I work eight hours a day.",
+      "example2": "Sein Notendurchschnitt hat sich verbessert.",
+      "example2En": "His grade average has improved."
+    },
+    {
+      "de": "durchschnittlich",
+      "en": "average; on average",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "average (adjective)",
+          "de": "im Mittel liegend"
+        },
+        {
+          "en": "on average (adverb)",
+          "de": "im Durchschnitt"
+        }
+      ],
+      "rule": "Adjective and adverb from 'Durchschnitt'; regular comparison.",
+      "example": "Die durchschnittliche Miete ist im letzten Jahr gestiegen.",
+      "exampleEn": "The average rent has risen in the last year.",
+      "example2": "Wir verdienen durchschnittlich 2500 Euro im Monat.",
+      "example2En": "We earn on average 2,500 euros a month."
+    },
+    {
+      "de": "die DVD",
+      "en": "DVD",
+      "pos": "noun",
+      "plural": "die DVDs",
+      "meanings": [
+        {
+          "en": "digital video disc",
+          "de": "digitale Videoscheibe"
+        }
+      ],
+      "rule": "Feminine noun (die Disc/Scheibe); plural simply adds -s.",
+      "example": "Hast du diesen Film auf DVD?",
+      "exampleEn": "Do you have this film on DVD?",
+      "example2": "Wir haben den ganzen Abend DVDs geschaut.",
+      "example2En": "We watched DVDs all evening."
+    },
+    {
+      "de": "ebenso",
+      "en": "just as, likewise",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "just as (comparison)",
+          "de": "genauso"
+        },
+        {
+          "en": "likewise, similarly",
+          "de": "ebenfalls"
+        }
+      ],
+      "rule": "Often paired with 'wie': 'ebenso ... wie'.",
+      "example": "Sie ist ebenso nett wie ihre Schwester.",
+      "exampleEn": "She is just as nice as her sister.",
+      "example2": "Er kam zu spät, und sein Kollege ebenso.",
+      "example2En": "He arrived late, and so did his colleague."
+    },
+    {
+      "de": "ehemalig",
+      "en": "former",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "former, ex-",
+          "de": "früher, vorherig"
+        }
+      ],
+      "rule": "Only used attributively before a noun (not predicative).",
+      "example": "Mein ehemaliger Chef hat mich angerufen.",
+      "exampleEn": "My former boss called me.",
+      "example2": "Das Gebäude war eine ehemalige Fabrik.",
+      "example2En": "The building was a former factory."
+    },
+    {
+      "de": "eher",
+      "en": "rather; sooner",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "rather, more likely (preference)",
+          "de": "vielmehr, lieber"
+        },
+        {
+          "en": "sooner, earlier (comparative of bald)",
+          "de": "früher"
+        }
+      ],
+      "rule": "Irregular comparative of 'bald' (bald – eher – am ehesten), not of 'früh'; also common expressing preference: 'eher ... als'.",
+      "example": "Ich würde eher zu Hause bleiben als ins Kino gehen.",
+      "exampleEn": "I'd rather stay home than go to the cinema.",
+      "example2": "Kannst du morgen eher kommen, um acht statt um neun?",
+      "example2En": "Can you come earlier tomorrow, at eight instead of nine?"
+    },
+    {
+      "de": "ehrlich",
+      "en": "honest",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "truthful, sincere",
+          "de": "aufrichtig, wahrheitsgemäß"
+        }
+      ],
+      "rule": "Regular adjective; common phrase 'ehrlich gesagt' = honestly speaking.",
+      "example": "Sei bitte ehrlich zu mir.",
+      "exampleEn": "Please be honest with me.",
+      "example2": "Ehrlich gesagt, der Film hat mir nicht gefallen.",
+      "example2En": "Honestly, I didn't like the film."
+    },
+    {
+      "de": "der Eierkarton",
+      "en": "egg carton",
+      "pos": "noun",
+      "plural": "die Eierkartons",
+      "meanings": [
+        {
+          "en": "box for carrying/storing eggs",
+          "de": "Verpackung für Eier"
+        }
+      ],
+      "rule": "Masculine (der Karton); compound of Ei(er) + Karton; plural with -s.",
+      "example": "Kannst du einen Eierkarton aus dem Supermarkt mitbringen?",
+      "exampleEn": "Can you bring an egg carton from the supermarket?",
+      "example2": "Der Eierkarton ist leer, wir brauchen neue Eier.",
+      "example2En": "The egg carton is empty, we need new eggs."
+    },
+    {
+      "de": "die Eierschale",
+      "en": "eggshell",
+      "pos": "noun",
+      "plural": "die Eierschalen",
+      "meanings": [
+        {
+          "en": "the hard outer shell of an egg",
+          "de": "harte Hülle eines Eis"
+        }
+      ],
+      "rule": "Feminine (die Schale); compound of Ei(er) + Schale. Idiom: 'wie auf Eierschalen gehen' = to walk on eggshells.",
+      "example": "Wirf die Eierschalen bitte in den Biomüll.",
+      "exampleEn": "Please throw the eggshells into the organic waste.",
+      "example2": "Seit dem Streit geht er bei ihr wie auf Eierschalen.",
+      "example2En": "Since the argument, he's been walking on eggshells around her."
+    },
+    {
+      "de": "das Eigentum",
+      "en": "property, ownership",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "something owned; possession",
+          "de": "Besitz"
+        },
+        {
+          "en": "legal ownership",
+          "de": "rechtlicher Besitzanspruch"
+        }
+      ],
+      "rule": "Neuter, uncountable noun (no plural); compare 'Eigentümer/in' = owner.",
+      "example": "Diese Wohnung ist mein Eigentum.",
+      "exampleEn": "This apartment is my property.",
+      "example2": "Das Fahrrad gehört nicht mir, es ist fremdes Eigentum.",
+      "example2En": "The bike isn't mine, it's someone else's property."
+    },
+    {
+      "de": "eigenverantwortlich",
+      "en": "on one's own responsibility; independently",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "acting on one's own responsibility, independently",
+          "de": "selbstständig, auf eigene Verantwortung"
+        }
+      ],
+      "rule": "Adjective/adverb, no irregular comparison typical (often used without comparative forms); common in job contexts: 'eigenverantwortlich arbeiten'.",
+      "example": "In dieser Stelle arbeiten Sie sehr eigenverantwortlich.",
+      "exampleEn": "In this job you work very independently, on your own responsibility.",
+      "example2": "Die neue Mitarbeiterin plant ihre Projekte eigenverantwortlich.",
+      "example2En": "The new employee plans her projects on her own responsibility."
+    },
+    {
+      "de": "eilig",
+      "en": "urgent; in a hurry",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "needing to be done quickly, urgent",
+          "de": "dringend, muss schnell erledigt werden"
+        },
+        {
+          "en": "in a hurry (of a person)",
+          "de": "in Eile, schnell unterwegs"
+        }
+      ],
+      "rule": "Regular comparison: eilig, eiliger, am eiligsten. Common phrase: 'es eilig haben' (to be in a hurry).",
+      "example": "Das ist eine eilige Angelegenheit, bitte kümmern Sie sich sofort darum.",
+      "exampleEn": "This is an urgent matter, please take care of it right away.",
+      "example2": "Entschuldigung, ich habe es eilig. Wir sprechen später.",
+      "example2En": "Sorry, I'm in a hurry. We'll talk later."
+    },
+    {
+      "de": "einbrechen",
+      "en": "to break in (burglary); to fall through/collapse",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to break into a building to steal",
+          "de": "gewaltsam in ein Gebäude eindringen, um zu stehlen"
+        },
+        {
+          "en": "to collapse, fall through (e.g. ice)",
+          "de": "plötzlich zusammenbrechen, z. B. Eis"
+        }
+      ],
+      "rule": "Trennbar: bricht ein, brach ein, ist eingebrochen. With 'in + Akk.' for the burglary sense.",
+      "example": "Letzte Nacht sind Einbrecher in das Geschäft eingebrochen.",
+      "exampleEn": "Last night burglars broke into the shop.",
+      "example2": "Der Junge ist auf dem See ins Eis eingebrochen.",
+      "example2En": "The boy fell through the ice on the lake."
+    },
+    {
+      "de": "der Einbrecher / die Einbrecherin",
+      "en": "burglar",
+      "pos": "noun",
+      "plural": "die Einbrecher / die Einbrecherinnen",
+      "meanings": [
+        {
+          "en": "a person who breaks into buildings to steal",
+          "de": "jemand, der einbricht, um zu stehlen"
+        }
+      ],
+      "rule": "Derived from 'einbrechen'; masculine form also used generically.",
+      "example": "Die Polizei hat den Einbrecher noch in der Nacht gefasst.",
+      "exampleEn": "The police caught the burglar that very night.",
+      "example2": "Eine Einbrecherin wurde von der Nachbarin beobachtet.",
+      "example2En": "A female burglar was spotted by the neighbor."
+    },
+    {
+      "de": "der Einbruch",
+      "en": "burglary; onset (e.g. of darkness/winter)",
+      "pos": "noun",
+      "plural": "die Einbrüche",
+      "meanings": [
+        {
+          "en": "a burglary, break-in",
+          "de": "das gewaltsame Eindringen, um zu stehlen"
+        },
+        {
+          "en": "the sudden onset of something (darkness, winter)",
+          "de": "der plötzliche Beginn, z. B. bei Einbruch der Dunkelheit"
+        }
+      ],
+      "rule": "Noun from 'einbrechen'; fixed phrase 'bei Einbruch der Dunkelheit' = at nightfall.",
+      "example": "Bei dem Einbruch wurde viel Schmuck gestohlen.",
+      "exampleEn": "A lot of jewelry was stolen in the burglary.",
+      "example2": "Wir müssen vor Einbruch der Dunkelheit zu Hause sein.",
+      "example2En": "We have to be home before nightfall."
+    },
+    {
+      "de": "einchecken",
+      "en": "to check in",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to check in at an airport or hotel",
+          "de": "sich am Flughafen oder Hotel anmelden"
+        }
+      ],
+      "rule": "Trennbar: checkt ein, checkte ein, hat eingecheckt.",
+      "example": "Wir müssen zwei Stunden vor dem Abflug einchecken.",
+      "exampleEn": "We have to check in two hours before departure.",
+      "example2": "Sie hat online für den Flug eingecheckt.",
+      "example2En": "She checked in online for the flight."
+    },
+    {
+      "de": "einfallen",
+      "en": "to occur to someone; to invade",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to come to mind, occur to someone",
+          "de": "jemandem plötzlich in den Sinn kommen"
+        },
+        {
+          "en": "to invade (a country, militarily)",
+          "de": "militärisch in ein Land eindringen"
+        }
+      ],
+      "rule": "Trennbar: fällt ein, fiel ein, ist eingefallen. + Dativ for the 'come to mind' sense: 'mir fällt ein...'",
+      "example": "Mir fällt gerade sein Name nicht ein.",
+      "exampleEn": "I can't think of his name right now.",
+      "example2": "Die Truppen sind in das Nachbarland eingefallen.",
+      "example2En": "The troops invaded the neighboring country."
+    },
+    {
+      "de": "einführen",
+      "en": "to introduce; to import",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to introduce (a system, person, product)",
+          "de": "etwas Neues bekannt machen oder einsetzen"
+        },
+        {
+          "en": "to import goods",
+          "de": "Waren aus dem Ausland ins Land bringen"
+        }
+      ],
+      "rule": "Trennbar: führt ein, führte ein, hat eingeführt.",
+      "example": "Die Firma hat ein neues Bewertungssystem eingeführt.",
+      "exampleEn": "The company introduced a new rating system.",
+      "example2": "Deutschland führt viele Rohstoffe aus dem Ausland ein.",
+      "example2En": "Germany imports many raw materials from abroad."
+    },
+    {
+      "de": "eingehen",
+      "en": "to arrive (mail/goods); to shrink; to agree to/accept (a risk)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to arrive, come in (letters, orders)",
+          "de": "ankommen, z. B. Post oder Bestellungen"
+        },
+        {
+          "en": "to shrink (fabric)",
+          "de": "kleiner werden, z. B. Stoff beim Waschen"
+        },
+        {
+          "en": "to enter into, agree to (a risk, contract)",
+          "de": "etwas eingehen, z. B. ein Risiko oder einen Vertrag"
+        }
+      ],
+      "rule": "Trennbar: geht ein, ging ein, ist eingegangen. 'auf etwas eingehen' = to respond to/address something.",
+      "example": "Ihre Bewerbung ist gestern bei uns eingegangen.",
+      "exampleEn": "Your application arrived here yesterday.",
+      "example2": "Der Pullover ist beim Waschen eingegangen.",
+      "example2En": "The sweater shrank in the wash."
+    },
+    {
+      "de": "einhalten",
+      "en": "to keep, comply with (rules, deadlines)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to keep, adhere to (a rule, deadline, promise)",
+          "de": "sich an etwas halten, z. B. Regeln oder Termine"
+        }
+      ],
+      "rule": "Trennbar: hält ein, hielt ein, hat eingehalten. + Akkusativ.",
+      "example": "Bitte halten Sie die Lieferfrist ein.",
+      "exampleEn": "Please meet the delivery deadline.",
+      "example2": "Er hält sich immer an die Regeln.",
+      "example2En": "He always complies with the rules."
+    },
+    {
+      "de": "das Einkommen",
+      "en": "income",
+      "pos": "noun",
+      "plural": "die Einkommen",
+      "meanings": [
+        {
+          "en": "money earned, income",
+          "de": "das Geld, das jemand verdient"
+        }
+      ],
+      "rule": "Neuter noun from 'einkommen'; plural form identical to singular; often used with adjectives: monatliches Einkommen.",
+      "example": "Ihr monatliches Einkommen liegt über dem Durchschnitt.",
+      "exampleEn": "Her monthly income is above average.",
+      "example2": "Das Einkommen der Familie reicht kaum zum Leben.",
+      "example2En": "The family's income is barely enough to live on."
+    },
+    {
+      "de": "einlegen",
+      "en": "to insert; to pickle/preserve",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to insert, put in (e.g. a disc, a break)",
+          "de": "etwas hineinlegen, z. B. eine Pause einlegen"
+        },
+        {
+          "en": "to pickle, preserve (food)",
+          "de": "Lebensmittel in Flüssigkeit haltbar machen"
+        }
+      ],
+      "rule": "Trennbar: legt ein, legte ein, hat eingelegt. Fixed phrase: 'eine Pause einlegen' = to take a break.",
+      "example": "Wir sollten jetzt eine kurze Pause einlegen.",
+      "exampleEn": "We should take a short break now.",
+      "example2": "Meine Oma legt jedes Jahr Gurken ein.",
+      "example2En": "My grandma pickles cucumbers every year."
+    },
+    {
+      "de": "einparken",
+      "en": "to park (into a space)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to park a vehicle into a parking space",
+          "de": "ein Fahrzeug in eine Parklücke fahren"
+        }
+      ],
+      "rule": "Trennbar: parkt ein, parkte ein, hat eingeparkt.",
+      "example": "Er kann sehr gut rückwärts einparken.",
+      "exampleEn": "He can park backwards very well.",
+      "example2": "Die Parklücke war zu klein zum Einparken.",
+      "example2En": "The parking space was too small to park in."
+    },
+    {
+      "de": "einreichen",
+      "en": "to submit, hand in",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to submit an application or document",
+          "de": "ein Dokument offiziell abgeben"
+        }
+      ],
+      "rule": "Trennbar: reicht ein, reichte ein, hat eingereicht. + Akkusativ, often with 'bei': etwas bei jemandem einreichen.",
+      "example": "Sie müssen die Unterlagen bis Freitag einreichen.",
+      "exampleEn": "You have to submit the documents by Friday.",
+      "example2": "Er hat seinen Urlaubsantrag beim Chef eingereicht.",
+      "example2En": "He submitted his vacation request to his boss."
+    },
+    {
+      "de": "einschalten",
+      "en": "to switch on; to bring in, call in",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to switch on (a device)",
+          "de": "ein Gerät anmachen"
+        },
+        {
+          "en": "to call in, involve (a person/authority)",
+          "de": "jemanden zur Hilfe hinzuziehen, z. B. einen Anwalt"
+        }
+      ],
+      "rule": "Trennbar: schaltet ein, schaltete ein, hat eingeschaltet.",
+      "example": "Kannst du bitte den Fernseher einschalten?",
+      "exampleEn": "Can you please switch on the TV?",
+      "example2": "Bei Problemen haben sie einen Anwalt eingeschaltet.",
+      "example2En": "They called in a lawyer when problems arose."
+    },
+    {
+      "de": "einschlafen",
+      "en": "to fall asleep",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to fall asleep",
+          "de": "in den Schlaf fallen"
+        }
+      ],
+      "rule": "Trennbar: schläft ein, schlief ein, ist eingeschlafen.",
+      "example": "Das Baby ist schnell eingeschlafen.",
+      "exampleEn": "The baby fell asleep quickly.",
+      "example2": "Ich bin gestern Abend vor dem Fernseher eingeschlafen.",
+      "example2En": "I fell asleep in front of the TV last night."
+    },
+    {
+      "de": "einschreiben",
+      "en": "to send by registered mail; to enroll/register",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to send something as registered mail",
+          "de": "einen Brief als Einschreiben verschicken"
+        },
+        {
+          "en": "to enroll, register (e.g. at university, oneself)",
+          "de": "sich für etwas anmelden, z. B. an einer Universität"
+        }
+      ],
+      "rule": "Trennbar: schreibt ein, schrieb ein, hat eingeschrieben. Reflexive 'sich einschreiben' for enrollment.",
+      "example": "Ich habe den Brief einschreiben lassen, damit er sicher ankommt.",
+      "exampleEn": "I had the letter sent by registered mail so that it arrives safely.",
+      "example2": "Sie hat sich für das Sommersemester eingeschrieben.",
+      "example2En": "She enrolled for the summer semester."
+    }
+  ]
+}

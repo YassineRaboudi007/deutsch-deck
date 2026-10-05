@@ -1,0 +1,873 @@
+{
+  "id": "b1-12",
+  "title": "B1 · M–N (12)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "der Mietvertrag",
+      "en": "tenancy agreement, lease",
+      "pos": "noun",
+      "plural": "die Mietverträge",
+      "meanings": [
+        {
+          "en": "a rental contract",
+          "de": "ein Vertrag zwischen Mieter und Vermieter"
+        }
+      ],
+      "rule": "Kompositum aus Miete + Vertrag; Plural mit Umlaut: Mietverträge.",
+      "example": "Wir haben gestern den Mietvertrag unterschrieben.",
+      "exampleEn": "We signed the lease yesterday.",
+      "example2": "Im Mietvertrag steht die Kündigungsfrist.",
+      "example2En": "The notice period is stated in the tenancy agreement."
+    },
+    {
+      "de": "die Migration",
+      "en": "migration",
+      "pos": "noun",
+      "plural": "die Migrationen",
+      "meanings": [
+        {
+          "en": "the movement of people to live in another country/region",
+          "de": "die Wanderung von Menschen in ein anderes Land"
+        }
+      ],
+      "rule": "Meist Singular gebraucht, besonders im gesellschaftlichen/politischen Kontext.",
+      "example": "Migration ist ein wichtiges Thema in der Politik.",
+      "exampleEn": "Migration is an important topic in politics.",
+      "example2": "Viele Städte sind durch Migration vielfältiger geworden.",
+      "example2En": "Many cities have become more diverse through migration."
+    },
+    {
+      "de": "der Milchkarton",
+      "en": "milk carton",
+      "pos": "noun",
+      "plural": "die Milchkartons",
+      "meanings": [
+        {
+          "en": "a carton/package for milk",
+          "de": "eine Verpackung für Milch"
+        }
+      ],
+      "rule": "Kompositum aus Milch + Karton; Plural auf -s (Fremdwort Karton).",
+      "example": "Bitte wirf den leeren Milchkarton in den Gelben Sack.",
+      "exampleEn": "Please throw the empty milk carton into the recycling bag.",
+      "example2": "Im Kühlschrank steht noch ein voller Milchkarton.",
+      "example2En": "There's still a full carton of milk in the fridge."
+    },
+    {
+      "de": "der Milchzucker",
+      "en": "lactose",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "lactose (sugar found in milk)",
+          "de": "der natürliche Zucker in der Milch"
+        }
+      ],
+      "rule": "Kompositum aus Milch + Zucker; meist unzählbar, kein Plural.",
+      "example": "Ich vertrage keinen Milchzucker, deshalb trinke ich laktosefreie Milch.",
+      "exampleEn": "I can't tolerate lactose, so I drink lactose-free milk.",
+      "example2": "Auf der Verpackung steht, wie viel Milchzucker enthalten ist.",
+      "example2En": "The packaging shows how much lactose it contains."
+    },
+    {
+      "de": "die Million",
+      "en": "million",
+      "pos": "noun",
+      "plural": "die Millionen",
+      "meanings": [
+        {
+          "en": "one million (1,000,000)",
+          "de": "die Zahl 1.000.000"
+        }
+      ],
+      "rule": "Anders als 'hundert' oder 'tausend' bekommt 'Million' nach einer Zahl ab 2 die Plural-Endung -en: zwei Millionen, drei Millionen Euro.",
+      "example": "In dieser Stadt leben über eine Million Menschen.",
+      "exampleEn": "More than one million people live in this city.",
+      "example2": "Er hat im Lotto zwei Millionen Euro gewonnen.",
+      "example2En": "He won two million euros in the lottery."
+    },
+    {
+      "de": "der Millionär / die Millionärin",
+      "en": "millionaire",
+      "pos": "noun",
+      "plural": "die Millionäre / die Millionärinnen",
+      "meanings": [
+        {
+          "en": "a person who has at least a million euros/dollars",
+          "de": "eine Person mit sehr viel Geld (über eine Million)"
+        }
+      ],
+      "rule": "Weibliche Form mit -in: die Millionärin.",
+      "example": "Er wurde durch seine Erfindung zum Millionär.",
+      "exampleEn": "He became a millionaire thanks to his invention.",
+      "example2": "Die Millionärin spendet jedes Jahr viel Geld für wohltätige Zwecke.",
+      "example2En": "The (female) millionaire donates a lot of money to charity every year."
+    },
+    {
+      "de": "die Minderheit",
+      "en": "minority",
+      "pos": "noun",
+      "plural": "die Minderheiten",
+      "meanings": [
+        {
+          "en": "a small part of a group; an ethnic/social minority",
+          "de": "ein kleinerer Teil einer Gruppe"
+        }
+      ],
+      "rule": "Gegenteil von die Mehrheit.",
+      "example": "In diesem Stadtteil leben viele ethnische Minderheiten.",
+      "exampleEn": "Many ethnic minorities live in this district.",
+      "example2": "Bei der Abstimmung war er leider in der Minderheit.",
+      "example2En": "Unfortunately, he was in the minority in the vote."
+    },
+    {
+      "de": "mitdenken",
+      "en": "to think along; to follow attentively and anticipate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to think along with someone / follow actively and anticipate",
+          "de": "aktiv mitüberlegen, aufmerksam folgen"
+        }
+      ],
+      "rule": "trennbar: denkt ... mit, dachte ... mit, hat mitgedacht.",
+      "example": "Im Team ist es wichtig, dass jeder mitdenkt.",
+      "exampleEn": "In a team it's important that everyone thinks along.",
+      "example2": "Der neue Kollege hat gut mitgedacht und einen Fehler entdeckt.",
+      "example2En": "The new colleague paid close attention and spotted a mistake."
+    },
+    {
+      "de": "miteinander",
+      "en": "with each other, together",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "with one another, together",
+          "de": "gemeinsam, einer mit dem anderen"
+        }
+      ],
+      "rule": "Wechselseitige Handlung von mindestens zwei Personen; oft mit Verben wie sprechen, arbeiten, leben.",
+      "example": "Die beiden Nachbarn reden schon lange nicht mehr miteinander.",
+      "exampleEn": "The two neighbors haven't spoken to each other in a long time.",
+      "example2": "Wir wollen den Abend miteinander verbringen.",
+      "example2En": "We want to spend the evening together."
+    },
+    {
+      "de": "miterleben",
+      "en": "to witness, to live through (something firsthand)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to witness/experience something personally as it happens",
+          "de": "etwas persönlich erleben, dabei sein"
+        }
+      ],
+      "rule": "trennbar: erlebt ... mit, erlebte ... mit, hat miterlebt.",
+      "example": "Meine Großeltern haben den Krieg als Kinder miterlebt.",
+      "exampleEn": "My grandparents experienced the war as children.",
+      "example2": "Ich konnte die Geburt meines Neffen live miterleben.",
+      "example2En": "I got to witness my nephew's birth live."
+    },
+    {
+      "de": "mitreden",
+      "en": "to join the conversation, to have a say",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to join in a discussion; to have a say in a decision",
+          "de": "sich an einem Gespräch beteiligen; eine Meinung äußern dürfen"
+        }
+      ],
+      "rule": "trennbar: redet ... mit, redete ... mit, hat mitgeredet.",
+      "example": "Bei diesem Thema kann ich leider nicht mitreden.",
+      "exampleEn": "Unfortunately I can't join in on this topic.",
+      "example2": "Die Mitarbeiter wollen bei wichtigen Entscheidungen mitreden.",
+      "example2En": "The employees want to have a say in important decisions."
+    },
+    {
+      "de": "das Mittelfeld",
+      "en": "midfield",
+      "pos": "noun",
+      "plural": "die Mittelfelder",
+      "meanings": [
+        {
+          "en": "midfield (in football/sports)",
+          "de": "der mittlere Bereich eines Spielfelds"
+        },
+        {
+          "en": "middle position/rank (in a ranking)",
+          "de": "ein mittlerer Platz in einer Rangliste"
+        }
+      ],
+      "rule": "Kompositum aus Mitte(l) + Feld; im Sport meist Singular.",
+      "example": "Er spielt im Mittelfeld und verteilt die Bälle.",
+      "exampleEn": "He plays in midfield and distributes the balls.",
+      "example2": "Unsere Mannschaft liegt in der Tabelle nur im Mittelfeld.",
+      "example2En": "Our team is only in the middle of the table."
+    },
+    {
+      "de": "mittelständisch",
+      "en": "medium-sized (business)",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to small and medium-sized enterprises",
+          "de": "zum Mittelstand gehörend, mittelgroß (Unternehmen)"
+        }
+      ],
+      "rule": "Wird fast nur für Firmen/Betriebe verwendet, von 'der Mittelstand' abgeleitet.",
+      "example": "Er arbeitet in einem mittelständischen Unternehmen.",
+      "exampleEn": "He works at a medium-sized company.",
+      "example2": "Viele mittelständische Betriebe bilden selbst aus.",
+      "example2En": "Many medium-sized businesses train apprentices themselves."
+    },
+    {
+      "de": "mitten",
+      "en": "in the middle",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in the middle/midst of (place or time)",
+          "de": "in der Mitte von etwas"
+        }
+      ],
+      "rule": "Immer mit Präposition: mitten in, mitten auf, mitten durch.",
+      "example": "Das Haus steht mitten im Wald.",
+      "exampleEn": "The house is right in the middle of the forest.",
+      "example2": "Er rief mich mitten in der Nacht an.",
+      "example2En": "He called me in the middle of the night."
+    },
+    {
+      "de": "die Moderation",
+      "en": "hosting, presenting (of a show/discussion)",
+      "pos": "noun",
+      "plural": "die Moderationen",
+      "meanings": [
+        {
+          "en": "the act of hosting/presenting a TV or radio show, event, or discussion",
+          "de": "das Leiten einer Sendung, Diskussion oder Veranstaltung"
+        }
+      ],
+      "rule": "Von moderieren abgeleitet; oft mit Genitiv: die Moderation der Sendung.",
+      "example": "Die Moderation der Talkshow übernimmt eine bekannte Journalistin.",
+      "exampleEn": "A well-known journalist will host the talk show.",
+      "example2": "Seine Moderation des Abends kam beim Publikum gut an.",
+      "example2En": "His hosting of the evening was well received by the audience."
+    },
+    {
+      "de": "die Modernisierung",
+      "en": "modernization",
+      "pos": "noun",
+      "plural": "die Modernisierungen",
+      "meanings": [
+        {
+          "en": "the process of making something more modern",
+          "de": "der Prozess, etwas moderner bzw. zeitgemäßer zu machen"
+        }
+      ],
+      "rule": "Von modernisieren abgeleitet.",
+      "example": "Die Modernisierung der Küche hat viel Geld gekostet.",
+      "exampleEn": "Modernizing the kitchen cost a lot of money.",
+      "example2": "Das Unternehmen investiert in die Modernisierung seiner Maschinen.",
+      "example2En": "The company is investing in modernizing its machines."
+    },
+    {
+      "de": "moralisch",
+      "en": "moral",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to moral principles, ethical",
+          "de": "die Moral betreffend, sittlich"
+        }
+      ],
+      "rule": "Keine unregelmäßige Steigerung: moralisch, moralischer, am moralischsten.",
+      "example": "Er hat sich moralisch korrekt verhalten.",
+      "exampleEn": "He behaved in a morally correct way.",
+      "example2": "Das ist eine moralische Frage, keine rechtliche.",
+      "example2En": "That's a moral question, not a legal one."
+    },
+    {
+      "de": "der Mord",
+      "en": "murder",
+      "pos": "noun",
+      "plural": "die Morde",
+      "meanings": [
+        {
+          "en": "murder, homicide",
+          "de": "das vorsätzliche Töten eines Menschen"
+        }
+      ],
+      "rule": "Oft mit Präposition an: der Mord an einer Person.",
+      "example": "Die Polizei ermittelt in einem Mordfall.",
+      "exampleEn": "The police are investigating a murder case.",
+      "example2": "Der Mord an dem Politiker schockierte das ganze Land.",
+      "example2En": "The murder of the politician shocked the whole country."
+    },
+    {
+      "de": "motiviert",
+      "en": "motivated",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "feeling enthusiastic and willing to do something",
+          "de": "voller Motivation, engagiert"
+        }
+      ],
+      "rule": "Partizip II von motivieren, als Adjektiv verwendet; regelmäßige Steigerung.",
+      "example": "Die neuen Kollegen sind sehr motiviert.",
+      "exampleEn": "The new colleagues are very motivated.",
+      "example2": "Nach dem Gespräch mit dem Chef war sie wieder motiviert.",
+      "example2En": "After talking with the boss, she was motivated again."
+    },
+    {
+      "de": "der Motor",
+      "en": "engine, motor",
+      "pos": "noun",
+      "plural": "die Motoren",
+      "meanings": [
+        {
+          "en": "engine/motor (of a vehicle or machine)",
+          "de": "der Antrieb eines Fahrzeugs oder einer Maschine"
+        }
+      ],
+      "rule": "Fremdwort auf -or bildet den Plural auf -en (wie Doktor–Doktoren, Traktor–Traktoren): der Motor – die Motoren.",
+      "example": "Der Motor springt bei kaltem Wetter schlecht an.",
+      "exampleEn": "The engine starts badly in cold weather.",
+      "example2": "Der Mechaniker repariert den Motor des Autos.",
+      "example2En": "The mechanic is repairing the car's engine."
+    },
+    {
+      "de": "die Motorhaube",
+      "en": "car hood/bonnet",
+      "pos": "noun",
+      "plural": "die Motorhauben",
+      "meanings": [
+        {
+          "en": "the hood/bonnet covering a car's engine",
+          "de": "die Abdeckung über dem Motor eines Autos"
+        }
+      ],
+      "rule": "Kompositum aus Motor + Haube.",
+      "example": "Er öffnete die Motorhaube, um den Ölstand zu prüfen.",
+      "exampleEn": "He opened the hood to check the oil level.",
+      "example2": "Auf der Motorhaube lag eine dünne Schicht Schnee.",
+      "example2En": "There was a thin layer of snow on the car's hood."
+    },
+    {
+      "de": "der Motorradfahrer / die Motorradfahrerin",
+      "en": "motorcyclist",
+      "pos": "noun",
+      "plural": "die Motorradfahrer / die Motorradfahrerinnen",
+      "meanings": [
+        {
+          "en": "person who rides a motorcycle",
+          "de": "Person, die Motorrad fährt"
+        }
+      ],
+      "rule": "Compound of Motorrad + Fahrer/in; plural same as singular for masculine form (der Motorradfahrer, die Motorradfahrer).",
+      "example": "Der Motorradfahrer trägt immer einen Helm.",
+      "exampleEn": "The motorcyclist always wears a helmet.",
+      "example2": "Auf der Landstraße war eine Motorradfahrerin unterwegs.",
+      "example2En": "A female motorcyclist was riding on the country road."
+    },
+    {
+      "de": "die Mülltonne",
+      "en": "garbage bin",
+      "pos": "noun",
+      "plural": "die Mülltonnen",
+      "meanings": [
+        {
+          "en": "large bin for household waste",
+          "de": "großer Behälter für Müll"
+        }
+      ],
+      "rule": "Compound noun: der Müll + die Tonne; gender follows die Tonne.",
+      "example": "Stell die Mülltonne an die Straße.",
+      "exampleEn": "Put the garbage bin out by the street.",
+      "example2": "Die Mülltonne ist schon wieder voll.",
+      "example2En": "The garbage bin is already full again."
+    },
+    {
+      "de": "die Mülltrennung",
+      "en": "waste separation",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "sorting waste into different categories for recycling",
+          "de": "getrenntes Sammeln von Müll nach Materialart"
+        }
+      ],
+      "rule": "Uncountable noun; compound of Müll + Trennung.",
+      "example": "In Deutschland ist Mülltrennung sehr wichtig.",
+      "exampleEn": "Waste separation is very important in Germany.",
+      "example2": "Die Mülltrennung funktioniert bei uns noch nicht gut.",
+      "example2En": "Waste separation doesn't work well at our place yet."
+    },
+    {
+      "de": "musikalisch",
+      "en": "musical",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having musical talent/ability",
+          "de": "begabt für Musik"
+        },
+        {
+          "en": "relating to music",
+          "de": "die Musik betreffend"
+        }
+      ],
+      "rule": "Regular adjective, no irregular comparison (musikalischer, am musikalischsten).",
+      "example": "Sie ist sehr musikalisch und spielt drei Instrumente.",
+      "exampleEn": "She is very musical and plays three instruments.",
+      "example2": "Das Konzert war ein musikalisches Highlight.",
+      "example2En": "The concert was a musical highlight."
+    },
+    {
+      "de": "die Muttersprache",
+      "en": "native language, mother tongue",
+      "pos": "noun",
+      "plural": "die Muttersprachen",
+      "meanings": [
+        {
+          "en": "the first language one learns",
+          "de": "die Sprache, die man von klein auf lernt"
+        }
+      ],
+      "rule": "Compound of Mutter + Sprache; often used with von/als: Deutsch als Muttersprache.",
+      "example": "Meine Muttersprache ist Arabisch.",
+      "exampleEn": "My native language is Arabic.",
+      "example2": "Er spricht Englisch wie seine Muttersprache.",
+      "example2En": "He speaks English as if it were his native language."
+    },
+    {
+      "de": "nachdem",
+      "en": "after (that)",
+      "pos": "conjunction",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "subordinating conjunction: after something happened",
+          "de": "zeitlich danach: nachdem etwas geschehen ist"
+        }
+      ],
+      "rule": "The nachdem-clause must be one tense step 'earlier' than the main clause: Perfekt + Präsens/Präteritum, or Plusquamperfekt + Präteritum, e.g. 'Nachdem ich gegessen hatte, ging ich spazieren.'",
+      "example": "Nachdem er gefrühstückt hatte, ging er zur Arbeit.",
+      "exampleEn": "After he had had breakfast, he went to work.",
+      "example2": "Nachdem sie angekommen ist, ruft sie mich an.",
+      "example2En": "After she arrives, she'll call me."
+    },
+    {
+      "de": "nachdenken",
+      "en": "to think about, to reflect",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to think carefully about something",
+          "de": "über etwas gründlich nachdenken"
+        }
+      ],
+      "rule": "Trennbar: denkt ... nach, dachte ... nach, hat nachgedacht; + über + Akkusativ.",
+      "example": "Ich muss über dein Angebot nachdenken.",
+      "exampleEn": "I have to think about your offer.",
+      "example2": "Er dachte lange über die Frage nach.",
+      "example2En": "He thought about the question for a long time."
+    },
+    {
+      "de": "nachdenklich",
+      "en": "thoughtful, pensive",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "deep in thought, reflective",
+          "de": "in Gedanken versunken"
+        }
+      ],
+      "rule": "Regular adjective (nachdenklicher, am nachdenklichsten); related to nachdenken.",
+      "example": "Nach dem Gespräch war sie sehr nachdenklich.",
+      "exampleEn": "After the conversation she was very thoughtful.",
+      "example2": "Er schaute nachdenklich aus dem Fenster.",
+      "example2En": "He looked pensively out of the window."
+    },
+    {
+      "de": "die Nachkriegszeit",
+      "en": "postwar period",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the period after a war, especially after WWII in Germany",
+          "de": "die Zeit nach einem Krieg"
+        }
+      ],
+      "rule": "Uncountable, compound of nach + Krieg + Zeit; usually used with 'die Nachkriegszeit'.",
+      "example": "In der Nachkriegszeit gab es wenig zu essen.",
+      "exampleEn": "In the postwar period there was little to eat.",
+      "example2": "Meine Großeltern haben die Nachkriegszeit noch erlebt.",
+      "example2En": "My grandparents still experienced the postwar period."
+    },
+    {
+      "de": "die Nachnahme",
+      "en": "cash on delivery",
+      "pos": "noun",
+      "plural": "die Nachnahmen",
+      "meanings": [
+        {
+          "en": "payment method where you pay upon delivery",
+          "de": "Bezahlung bei Lieferung der Ware"
+        }
+      ],
+      "rule": "Often used in the fixed phrase 'per Nachnahme' (by cash on delivery).",
+      "example": "Ich habe das Paket per Nachnahme bezahlt.",
+      "exampleEn": "I paid for the package by cash on delivery.",
+      "example2": "Nachnahme ist bei diesem Shop nicht möglich.",
+      "example2En": "Cash on delivery is not possible with this shop."
+    },
+    {
+      "de": "nachsehen",
+      "en": "to check, to look up; to watch someone go",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to check/look something up",
+          "de": "etwas kontrollieren oder überprüfen"
+        },
+        {
+          "en": "to watch someone leave, to gaze after someone",
+          "de": "jemandem mit den Augen folgen, während er sich entfernt"
+        }
+      ],
+      "rule": "Trennbar und unregelmäßig: sieht ... nach, sah ... nach, hat nachgesehen.",
+      "example": "Ich sehe kurz nach, ob die Tür zu ist.",
+      "exampleEn": "I'll quickly check whether the door is closed.",
+      "example2": "Sie sah dem Zug lange nach.",
+      "example2En": "She watched the train go for a long time."
+    },
+    {
+      "de": "der Nachteil",
+      "en": "disadvantage",
+      "pos": "noun",
+      "plural": "die Nachteile",
+      "meanings": [
+        {
+          "en": "a negative aspect or drawback",
+          "de": "ein negativer Aspekt einer Sache"
+        }
+      ],
+      "rule": "Opposite of der Vorteil; often used with 'Vor- und Nachteile'.",
+      "example": "Das hat auch einen großen Nachteil.",
+      "exampleEn": "That also has a big disadvantage.",
+      "example2": "Wir haben die Vor- und Nachteile verglichen.",
+      "example2En": "We compared the advantages and disadvantages."
+    },
+    {
+      "de": "der Nährstoff",
+      "en": "nutrient",
+      "pos": "noun",
+      "plural": "die Nährstoffe",
+      "meanings": [
+        {
+          "en": "substance that provides nourishment",
+          "de": "Stoff, der den Körper ernährt"
+        }
+      ],
+      "rule": "Compound of nähren + Stoff; often plural: Nährstoffe.",
+      "example": "Obst enthält viele wichtige Nährstoffe.",
+      "exampleEn": "Fruit contains many important nutrients.",
+      "example2": "Der Körper braucht verschiedene Nährstoffe.",
+      "example2En": "The body needs various nutrients."
+    },
+    {
+      "de": "das Nahrungsmittel",
+      "en": "food, foodstuff",
+      "pos": "noun",
+      "plural": "die Nahrungsmittel",
+      "meanings": [
+        {
+          "en": "any substance eaten as food",
+          "de": "etwas, das man isst"
+        }
+      ],
+      "rule": "Compound of Nahrung + Mittel; plural same as singular form.",
+      "example": "Gesunde Nahrungsmittel sind wichtig für den Körper.",
+      "exampleEn": "Healthy foods are important for the body.",
+      "example2": "Die Preise für Nahrungsmittel sind gestiegen.",
+      "example2En": "Food prices have risen."
+    },
+    {
+      "de": "naschen",
+      "en": "to snack on sweets, to nibble",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to eat small amounts of sweets/treats",
+          "de": "kleine Mengen Süßigkeiten essen"
+        }
+      ],
+      "rule": "Regular weak verb: nascht, naschte, hat genascht; often + von.",
+      "example": "Die Kinder naschen gern Schokolade.",
+      "exampleEn": "The children like to snack on chocolate.",
+      "example2": "Sie hat heimlich von der Torte genascht.",
+      "example2En": "She secretly nibbled some of the cake."
+    },
+    {
+      "de": "der Nationalsozialismus",
+      "en": "National Socialism, Nazism",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the ideology and regime of the Nazi party in Germany (1933–1945)",
+          "de": "die Ideologie und Herrschaft der NSDAP in Deutschland"
+        }
+      ],
+      "rule": "Uncountable abstract noun for the Nazi ideology/regime (1933–1945); always singular; not a proper name, just capitalized like all German nouns.",
+      "example": "Im Geschichtsunterricht sprechen wir über den Nationalsozialismus.",
+      "exampleEn": "In history class we talk about National Socialism.",
+      "example2": "Der Nationalsozialismus begann 1933 in Deutschland.",
+      "example2En": "National Socialism began in Germany in 1933."
+    },
+    {
+      "de": "die NATO",
+      "en": "NATO",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "North Atlantic Treaty Organization, a military alliance",
+          "de": "ein Verteidigungsbündnis westlicher Staaten"
+        }
+      ],
+      "rule": "Abbreviation, always used with feminine article die; no plural.",
+      "example": "Deutschland ist Mitglied der NATO.",
+      "exampleEn": "Germany is a member of NATO.",
+      "example2": "Die NATO wurde 1949 gegründet.",
+      "example2En": "NATO was founded in 1949."
+    },
+    {
+      "de": "die Naturkatastrophe",
+      "en": "natural disaster",
+      "pos": "noun",
+      "plural": "die Naturkatastrophen",
+      "meanings": [
+        {
+          "en": "a natural event causing great damage, e.g. earthquake, flood",
+          "de": "ein Naturereignis mit großem Schaden, z. B. Erdbeben, Überschwemmung"
+        }
+      ],
+      "rule": "Compound of Natur + Katastrophe.",
+      "example": "Das Erdbeben war eine schlimme Naturkatastrophe.",
+      "exampleEn": "The earthquake was a terrible natural disaster.",
+      "example2": "Nach der Naturkatastrophe kam viel Hilfe aus dem Ausland.",
+      "example2En": "After the natural disaster, a lot of help came from abroad."
+    },
+    {
+      "de": "das Naturprodukt",
+      "en": "natural product",
+      "pos": "noun",
+      "plural": "die Naturprodukte",
+      "meanings": [
+        {
+          "en": "a product made from natural materials, not artificial",
+          "de": "ein Produkt aus natürlichen Stoffen, nicht künstlich"
+        }
+      ],
+      "rule": "Neutrum, weil 'das Produkt' neutrum ist; Kompositum aus Natur + Produkt.",
+      "example": "Im Bioladen kauft sie nur Naturprodukte.",
+      "exampleEn": "At the organic shop she only buys natural products.",
+      "example2": "Diese Seife ist ein reines Naturprodukt.",
+      "example2En": "This soap is a pure natural product."
+    },
+    {
+      "de": "der Nebel",
+      "en": "fog; mist",
+      "pos": "noun",
+      "plural": "die Nebel",
+      "meanings": [
+        {
+          "en": "fog, mist in the air",
+          "de": "feine Wassertröpfchen in der Luft, die die Sicht verschlechtern"
+        }
+      ],
+      "rule": "Maskulin; oft mit 'dichter Nebel' (thick fog) oder 'im Nebel' (in the fog).",
+      "example": "Heute Morgen lag dichter Nebel über der Stadt.",
+      "exampleEn": "This morning thick fog lay over the city.",
+      "example2": "Bei Nebel sollte man langsam fahren.",
+      "example2En": "You should drive slowly in fog."
+    },
+    {
+      "de": "nebenbei",
+      "en": "on the side; incidentally",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in addition to the main activity, as a side thing",
+          "de": "zusätzlich zur Hauptsache, nicht als Hauptbeschäftigung"
+        },
+        {
+          "en": "by the way, incidentally",
+          "de": "beiläufig gesagt"
+        }
+      ],
+      "rule": "Unveränderliches Adverb; steht oft vor dem Verb oder am Satzende.",
+      "example": "Er studiert und arbeitet nebenbei als Kellner.",
+      "exampleEn": "He studies and works as a waiter on the side.",
+      "example2": "Nebenbei bemerkt, das Essen war ausgezeichnet.",
+      "example2En": "By the way, the food was excellent."
+    },
+    {
+      "de": "neblig",
+      "en": "foggy; misty",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "covered with or full of fog",
+          "de": "mit Nebel bedeckt"
+        }
+      ],
+      "rule": "Regelmäßige Komparation: neblig, nebliger, am nebligsten.",
+      "example": "Heute ist es sehr neblig, man sieht kaum etwas.",
+      "exampleEn": "Today it's very foggy, you can hardly see anything.",
+      "example2": "Im Herbst sind die Morgen oft neblig.",
+      "example2En": "In autumn the mornings are often foggy."
+    },
+    {
+      "de": "neugierig",
+      "en": "curious",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "eager to know or learn something",
+          "de": "interessiert daran, etwas Neues zu erfahren"
+        }
+      ],
+      "rule": "Regelmäßige Komparation: neugierig, neugieriger, am neugierigsten; oft mit 'auf + Akkusativ'.",
+      "example": "Die Kinder sind neugierig auf das neue Spielzeug.",
+      "exampleEn": "The children are curious about the new toy.",
+      "example2": "Sei nicht so neugierig, das geht dich nichts an!",
+      "example2En": "Don't be so nosy, that's none of your business!"
+    },
+    {
+      "de": "der Neuwagen",
+      "en": "new car",
+      "pos": "noun",
+      "plural": "die Neuwagen",
+      "meanings": [
+        {
+          "en": "a brand-new, unused car",
+          "de": "ein neues, noch nicht gefahrenes Auto"
+        }
+      ],
+      "rule": "Maskulin; Gegenteil: der Gebrauchtwagen.",
+      "example": "Er hat sich einen Neuwagen gekauft.",
+      "exampleEn": "He bought himself a new car.",
+      "example2": "Neuwagen sind teurer als Gebrauchtwagen.",
+      "example2En": "New cars are more expensive than used cars."
+    },
+    {
+      "de": "die Niederlage",
+      "en": "defeat; loss",
+      "pos": "noun",
+      "plural": "die Niederlagen",
+      "meanings": [
+        {
+          "en": "a loss in a competition, game or war",
+          "de": "eine verlorene Auseinandersetzung, z. B. im Sport oder Krieg"
+        }
+      ],
+      "rule": "Femininum; Gegenteil: der Sieg (victory).",
+      "example": "Die Mannschaft musste eine bittere Niederlage hinnehmen.",
+      "exampleEn": "The team had to accept a bitter defeat.",
+      "example2": "Nach der Niederlage war die Stimmung schlecht.",
+      "example2En": "After the defeat the mood was bad."
+    },
+    {
+      "de": "das Niveau",
+      "en": "level; standard",
+      "pos": "noun",
+      "plural": "die Niveaus",
+      "meanings": [
+        {
+          "en": "a level or standard of quality, skill or knowledge",
+          "de": "ein Grad an Qualität, Können oder Wissen"
+        }
+      ],
+      "rule": "Neutrum; aus dem Französischen, Aussprache 'Niwoh'; oft 'auf hohem/niedrigem Niveau'.",
+      "example": "Sein Deutsch ist schon auf einem hohen Niveau.",
+      "exampleEn": "His German is already at a high level.",
+      "example2": "Der Kurs ist für Anfänger, das Niveau ist nicht hoch.",
+      "example2En": "The course is for beginners, the level isn't high."
+    },
+    {
+      "de": "die Notunterkunft",
+      "en": "emergency shelter",
+      "pos": "noun",
+      "plural": "die Notunterkünfte",
+      "meanings": [
+        {
+          "en": "temporary accommodation in an emergency",
+          "de": "eine vorübergehende Unterkunft in einer Notsituation"
+        }
+      ],
+      "rule": "Femininum; Kompositum aus Not + Unterkunft.",
+      "example": "Nach der Flut fanden viele Menschen in einer Notunterkunft Platz.",
+      "exampleEn": "After the flood many people found space in an emergency shelter.",
+      "example2": "Die Stadt hat eine Notunterkunft für Obdachlose eingerichtet.",
+      "example2En": "The city set up an emergency shelter for the homeless."
+    },
+    {
+      "de": "das Nummernschild",
+      "en": "license plate",
+      "pos": "noun",
+      "plural": "die Nummernschilder",
+      "meanings": [
+        {
+          "en": "the plate on a vehicle showing its registration number",
+          "de": "das Schild am Auto mit dem amtlichen Kennzeichen"
+        }
+      ],
+      "rule": "Neutrum; Kompositum aus Nummer + Schild.",
+      "example": "Die Polizei hat sich das Nummernschild des Autos notiert.",
+      "exampleEn": "The police noted down the car's license plate.",
+      "example2": "Das Nummernschild war völlig verschmutzt.",
+      "example2En": "The license plate was completely dirty."
+    },
+    {
+      "de": "die Nuss",
+      "en": "nut",
+      "pos": "noun",
+      "plural": "die Nüsse",
+      "meanings": [
+        {
+          "en": "a hard-shelled edible fruit/seed (e.g. walnut, hazelnut)",
+          "de": "eine essbare Frucht mit harter Schale"
+        }
+      ],
+      "rule": "Femininum; Plural mit Umlaut: die Nüsse.",
+      "example": "Sie isst gern Nüsse als gesunden Snack.",
+      "exampleEn": "She likes to eat nuts as a healthy snack.",
+      "example2": "Der Kuchen wird mit gehackten Nüssen bestreut.",
+      "example2En": "The cake is sprinkled with chopped nuts."
+    }
+  ]
+}

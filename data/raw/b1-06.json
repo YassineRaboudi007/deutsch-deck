@@ -1,0 +1,941 @@
+{
+  "id": "b1-06",
+  "title": "B1 · E (6)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "einseitig",
+      "en": "one-sided; unilateral",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "one-sided, unbalanced",
+          "de": "nur eine Seite betreffend, nicht ausgewogen"
+        },
+        {
+          "en": "unilateral (decision, action)",
+          "de": "nur von einer Partei ausgehend"
+        }
+      ],
+      "rule": "Regular comparison: einseitig, einseitiger, am einseitigsten.",
+      "example": "Seine Ernährung ist ziemlich einseitig.",
+      "exampleEn": "His diet is quite one-sided.",
+      "example2": "Die Firma hat den Vertrag einseitig gekündigt.",
+      "example2En": "The company unilaterally terminated the contract."
+    },
+    {
+      "de": "einsetzen",
+      "en": "to insert; to use/deploy; (sich) to stand up for",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to insert, put in",
+          "de": "etwas an eine Stelle setzen/stecken"
+        },
+        {
+          "en": "to use, employ, deploy",
+          "de": "etwas/jemanden für einen Zweck verwenden"
+        },
+        {
+          "en": "sich einsetzen: to support, advocate for",
+          "de": "sich für etwas engagieren"
+        }
+      ],
+      "rule": "trennbar: setzt ... ein, setzte ein, hat eingesetzt; mit 'für' + Akkusativ bei 'sich einsetzen für'",
+      "example": "Bitte setzen Sie das fehlende Wort ein.",
+      "exampleEn": "Please insert the missing word.",
+      "example2": "Sie setzt sich für Umweltschutz ein.",
+      "example2En": "She stands up for environmental protection."
+    },
+    {
+      "de": "einsperren",
+      "en": "to lock up, to imprison",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to lock someone/something in/up",
+          "de": "jemanden/etwas irgendwo einschließen"
+        }
+      ],
+      "rule": "trennbar: sperrt ... ein, sperrte ein, hat eingesperrt",
+      "example": "Der Hund wurde im Garten eingesperrt.",
+      "exampleEn": "The dog was locked up in the garden.",
+      "example2": "Die Polizei hat den Dieb eingesperrt.",
+      "example2En": "The police locked up the thief."
+    },
+    {
+      "de": "einstellen",
+      "en": "to hire; to adjust/set; to stop/discontinue",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to hire, employ someone",
+          "de": "jemanden für eine Arbeit anstellen"
+        },
+        {
+          "en": "to adjust, set (a device)",
+          "de": "ein Gerät regulieren"
+        },
+        {
+          "en": "to stop, discontinue",
+          "de": "etwas beenden"
+        }
+      ],
+      "rule": "trennbar: stellt ... ein, stellte ein, hat eingestellt; reflexiv 'sich einstellen auf' + Akkusativ = sich anpassen",
+      "example": "Die Firma hat zehn neue Mitarbeiter eingestellt.",
+      "exampleEn": "The company hired ten new employees.",
+      "example2": "Kannst du den Wecker richtig einstellen?",
+      "example2En": "Can you set the alarm clock correctly?"
+    },
+    {
+      "de": "die Einstiegszeit",
+      "en": "boarding time",
+      "pos": "noun",
+      "plural": "die Einstiegszeiten",
+      "meanings": [
+        {
+          "en": "the time during which passengers board a vehicle",
+          "de": "die Zeit, in der man in ein Fahrzeug einsteigt"
+        }
+      ],
+      "rule": "zusammengesetzt aus 'Einstieg' (Nomen zu 'einsteigen') + 'Zeit'; meist im Zusammenhang mit Bus, Zug oder Flugzeug",
+      "example": "Die Einstiegszeit für den Bus beginnt fünf Minuten vor der Abfahrt.",
+      "exampleEn": "The boarding time for the bus starts five minutes before departure.",
+      "example2": "Bitte beachten Sie die Einstiegszeiten am Bahnsteig.",
+      "example2En": "Please note the boarding times on the platform."
+    },
+    {
+      "de": "das Eintrittsdatum",
+      "en": "date of entry, start date",
+      "pos": "noun",
+      "plural": "die Eintrittsdaten",
+      "meanings": [
+        {
+          "en": "the date on which someone starts (e.g. a job)",
+          "de": "das Datum, an dem man z. B. eine Arbeit beginnt"
+        }
+      ],
+      "rule": "zusammengesetzt aus 'Eintritt' + 'Datum'; oft auf Formularen bei Arbeitsverträgen",
+      "example": "Bitte geben Sie Ihr Eintrittsdatum im Vertrag an.",
+      "exampleEn": "Please state your start date in the contract.",
+      "example2": "Das Eintrittsdatum in den Verein war der 1. Januar.",
+      "example2En": "The date of entry into the club was January 1st."
+    },
+    {
+      "de": "die Einwanderung",
+      "en": "immigration",
+      "pos": "noun",
+      "plural": "die Einwanderungen",
+      "meanings": [
+        {
+          "en": "the act of immigrating into a country",
+          "de": "das dauerhafte Zuziehen in ein Land"
+        }
+      ],
+      "rule": "von 'einwandern' abgeleitetes Nomen; Gegenteil: die Auswanderung",
+      "example": "Die Einwanderung nach Deutschland hat zugenommen.",
+      "exampleEn": "Immigration to Germany has increased.",
+      "example2": "Das Land hat neue Gesetze zur Einwanderung beschlossen.",
+      "example2En": "The country has passed new immigration laws."
+    },
+    {
+      "de": "das Einzelzimmer",
+      "en": "single room",
+      "pos": "noun",
+      "plural": "die Einzelzimmer",
+      "meanings": [
+        {
+          "en": "a hotel room for one person",
+          "de": "ein Zimmer für eine Person"
+        }
+      ],
+      "rule": "Abkürzung: EZ; Gegenteil: das Doppelzimmer (DZ)",
+      "example": "Ich hätte gern ein Einzelzimmer mit Dusche.",
+      "exampleEn": "I would like a single room with a shower.",
+      "example2": "Das Einzelzimmer kostet 60 Euro pro Nacht.",
+      "example2En": "The single room costs 60 euros per night."
+    },
+    {
+      "de": "das Eishockey",
+      "en": "ice hockey",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "ice hockey, a team sport played on ice",
+          "de": "eine Mannschaftssportart auf dem Eis"
+        }
+      ],
+      "rule": "unzählbar, kein Plural; Sportart-Neutrum wie viele Sportarten auf -hockey",
+      "example": "Er spielt seit Jahren Eishockey im Verein.",
+      "exampleEn": "He has been playing ice hockey in a club for years.",
+      "example2": "Das Eishockeyspiel war sehr spannend.",
+      "example2En": "The ice hockey game was very exciting."
+    },
+    {
+      "de": "der Eiskunstlauf",
+      "en": "figure skating",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "figure skating, an artistic ice sport",
+          "de": "eine künstlerische Sportart auf dem Eis"
+        }
+      ],
+      "rule": "unzählbar, kein Plural; maskulin",
+      "example": "Sie trainiert jeden Tag Eiskunstlauf.",
+      "exampleEn": "She trains figure skating every day.",
+      "example2": "Im Fernsehen läuft heute ein Eiskunstlauf-Wettbewerb.",
+      "example2En": "There is a figure skating competition on TV today."
+    },
+    {
+      "de": "das Eiweiß",
+      "en": "egg white; protein",
+      "pos": "noun",
+      "plural": "die Eiweiße",
+      "meanings": [
+        {
+          "en": "egg white",
+          "de": "der weiße Teil des Eis"
+        },
+        {
+          "en": "protein (nutrient)",
+          "de": "ein wichtiger Nährstoff, z. B. in Fleisch oder Bohnen"
+        }
+      ],
+      "rule": "bei der Bedeutung 'Nährstoff' meist unzählbar (kein Plural); bei 'Eiweiß vom Ei' zählbar möglich",
+      "example": "Trenne das Eiweiß vom Eigelb.",
+      "exampleEn": "Separate the egg white from the yolk.",
+      "example2": "Fleisch enthält viel Eiweiß.",
+      "example2En": "Meat contains a lot of protein."
+    },
+    {
+      "de": "das Elektroauto",
+      "en": "electric car",
+      "pos": "noun",
+      "plural": "die Elektroautos",
+      "meanings": [
+        {
+          "en": "a car powered by electricity",
+          "de": "ein Auto mit Elektromotor statt Benzinmotor"
+        }
+      ],
+      "rule": "zusammengesetzt aus 'Elektro-' + 'Auto'; Plural auf -s wie bei 'Auto'",
+      "example": "Wir haben uns ein Elektroauto gekauft.",
+      "exampleEn": "We bought an electric car.",
+      "example2": "Elektroautos brauchen keine Tankstelle, sondern eine Ladestation.",
+      "example2En": "Electric cars don't need a gas station, but a charging station."
+    },
+    {
+      "de": "emotional",
+      "en": "emotional",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to feelings, emotional",
+          "de": "die Gefühle betreffend"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: emotional, emotionaler, am emotionalsten",
+      "example": "Der Abschied war sehr emotional.",
+      "exampleEn": "The farewell was very emotional.",
+      "example2": "Sie reagiert immer sehr emotional auf Kritik.",
+      "example2En": "She always reacts very emotionally to criticism."
+    },
+    {
+      "de": "der Empfang",
+      "en": "reception; reception desk; signal reception",
+      "pos": "noun",
+      "plural": "die Empfänge",
+      "meanings": [
+        {
+          "en": "reception desk (e.g. in a hotel)",
+          "de": "die Anmeldung, z. B. im Hotel"
+        },
+        {
+          "en": "reception, welcome (event)",
+          "de": "eine feierliche Begrüßung"
+        },
+        {
+          "en": "signal reception",
+          "de": "der Radio- oder Handyempfang"
+        }
+      ],
+      "rule": "maskulin; von 'empfangen' abgeleitet",
+      "example": "Bitte melden Sie sich am Empfang.",
+      "exampleEn": "Please check in at the reception desk.",
+      "example2": "Hier im Keller habe ich keinen Empfang.",
+      "example2En": "I have no reception here in the basement."
+    },
+    {
+      "de": "empfangen",
+      "en": "to receive; to welcome",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to receive (a signal, a letter, a guest)",
+          "de": "etwas bekommen, z. B. ein Signal"
+        },
+        {
+          "en": "to welcome, greet someone formally",
+          "de": "jemanden begrüßen"
+        }
+      ],
+      "rule": "unregelmäßig: empfängt, empfing, hat empfangen; nicht trennbar",
+      "example": "Wir empfangen hier über 50 Fernsehsender.",
+      "exampleEn": "We can receive over 50 TV channels here.",
+      "example2": "Der Bürgermeister empfing die Gäste persönlich.",
+      "example2En": "The mayor personally welcomed the guests."
+    },
+    {
+      "de": "enden",
+      "en": "to end, finish",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to come to an end, finish",
+          "de": "aufhören, zu Ende sein"
+        }
+      ],
+      "rule": "regelmäßig: endet, endete, hat geendet; intransitiv",
+      "example": "Der Film endet mit einem Happy End.",
+      "exampleEn": "The movie ends with a happy ending.",
+      "example2": "Die Veranstaltung endete um 22 Uhr.",
+      "example2En": "The event ended at 10 p.m."
+    },
+    {
+      "de": "die Energiekosten",
+      "en": "energy costs",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "costs for electricity, gas, heating etc.",
+          "de": "die Kosten für Strom, Gas oder Heizung"
+        }
+      ],
+      "rule": "nur im Plural gebräuchlich",
+      "example": "Die Energiekosten sind in diesem Jahr stark gestiegen.",
+      "exampleEn": "Energy costs have risen sharply this year.",
+      "example2": "Mit einer neuen Heizung sparen wir Energiekosten.",
+      "example2En": "With a new heating system we save on energy costs."
+    },
+    {
+      "de": "das Energiesparhaus",
+      "en": "energy-efficient house",
+      "pos": "noun",
+      "plural": "die Energiesparhäuser",
+      "meanings": [
+        {
+          "en": "a house built to consume little energy",
+          "de": "ein Haus, das wenig Energie verbraucht"
+        }
+      ],
+      "rule": "zusammengesetzt aus 'Energie' + 'sparen' + 'Haus'; Plural wie 'Haus' -> Häuser",
+      "example": "Sie wohnen in einem modernen Energiesparhaus.",
+      "exampleEn": "They live in a modern energy-efficient house.",
+      "example2": "Ein Energiesparhaus braucht wenig Heizöl.",
+      "example2En": "An energy-efficient house needs little heating oil."
+    },
+    {
+      "de": "die Energiesparlampe",
+      "en": "energy-saving lamp/bulb",
+      "pos": "noun",
+      "plural": "die Energiesparlampen",
+      "meanings": [
+        {
+          "en": "a light bulb that uses less electricity",
+          "de": "eine Glühbirne mit geringem Stromverbrauch"
+        }
+      ],
+      "rule": "zusammengesetzt aus 'Energie' + 'sparen' + 'Lampe'",
+      "example": "Wir haben alle Glühbirnen durch Energiesparlampen ersetzt.",
+      "exampleEn": "We replaced all light bulbs with energy-saving lamps.",
+      "example2": "Eine Energiesparlampe hält viel länger als eine normale Glühbirne.",
+      "example2En": "An energy-saving lamp lasts much longer than a normal bulb."
+    },
+    {
+      "de": "die Energieverschwendung",
+      "en": "energy waste",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "wasteful use of energy",
+          "de": "unnötiger, verschwenderischer Verbrauch von Energie"
+        }
+      ],
+      "rule": "Uncountable compound noun (Energie + Verschwendung); usually no plural.",
+      "example": "Das Licht brennt den ganzen Tag – das ist reine Energieverschwendung.",
+      "exampleEn": "The light is on all day – that's pure energy waste.",
+      "example2": "Wir wollen die Energieverschwendung in unserem Büro reduzieren.",
+      "example2En": "We want to reduce energy waste in our office."
+    },
+    {
+      "de": "englischsprachig",
+      "en": "English-speaking",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "English-speaking / in English",
+          "de": "auf Englisch sprechend oder geschrieben"
+        }
+      ],
+      "rule": "No irregular comparison; used attributively, e.g. 'englischsprachige Länder'.",
+      "example": "Sie hat einen englischsprachigen Roman gelesen.",
+      "exampleEn": "She read a novel written in English.",
+      "example2": "Kanada hat sowohl englischsprachige als auch französischsprachige Regionen.",
+      "example2En": "Canada has both English-speaking and French-speaking regions."
+    },
+    {
+      "de": "entnehmen",
+      "en": "to take out / to gather (from)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to take something out (of a container etc.)",
+          "de": "etwas aus etwas herausnehmen"
+        },
+        {
+          "en": "to gather/infer (from a text)",
+          "de": "aus einem Text oder einer Aussage schließen"
+        }
+      ],
+      "rule": "Irregular (nimmt-type): entnimmt, entnahm, hat entnommen. Governs Akkusativ (Sache) + Dativ (Quelle): etwas (Akk) einer Sache/einem Ort (Dat) entnehmen.",
+      "example": "Bitte entnehmen Sie dem Umschlag das Formular.",
+      "exampleEn": "Please take the form out of the envelope.",
+      "example2": "Dem Bericht kann man entnehmen, dass die Zahlen gestiegen sind.",
+      "example2En": "From the report one can gather that the figures have risen."
+    },
+    {
+      "de": "die Entscheidung",
+      "en": "decision",
+      "pos": "noun",
+      "plural": "die Entscheidungen",
+      "meanings": [
+        {
+          "en": "a decision",
+          "de": "das Entscheiden, ein Beschluss"
+        }
+      ],
+      "rule": "Common collocation: eine Entscheidung treffen (to make a decision).",
+      "example": "Wir müssen heute eine wichtige Entscheidung treffen.",
+      "exampleEn": "We have to make an important decision today.",
+      "example2": "Seine Entscheidung, die Stadt zu verlassen, hat alle überrascht.",
+      "example2En": "His decision to leave the city surprised everyone."
+    },
+    {
+      "de": "entspannend",
+      "en": "relaxing",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relaxing, soothing",
+          "de": "beruhigend, Stress abbauend"
+        }
+      ],
+      "rule": "Present participle of 'entspannen' used as adjective; regular comparison (entspannender, am entspannendsten).",
+      "example": "Ein Spaziergang im Wald ist sehr entspannend.",
+      "exampleEn": "A walk in the forest is very relaxing.",
+      "example2": "Nach der Arbeit finde ich ein warmes Bad entspannend.",
+      "example2En": "After work I find a warm bath relaxing."
+    },
+    {
+      "de": "entsprechen",
+      "en": "to correspond to / to meet (requirements)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to correspond to, match",
+          "de": "mit etwas übereinstimmen"
+        },
+        {
+          "en": "to meet/fulfil (expectations, requirements)",
+          "de": "Erwartungen oder Anforderungen erfüllen"
+        }
+      ],
+      "rule": "Irregular, + Dativ: entspricht, entsprach, hat entsprochen.",
+      "example": "Das Ergebnis entspricht nicht unseren Erwartungen.",
+      "exampleEn": "The result does not correspond to our expectations.",
+      "example2": "Die Wohnung entspricht genau meinen Vorstellungen.",
+      "example2En": "The apartment matches exactly what I had in mind."
+    },
+    {
+      "de": "entstehen",
+      "en": "to arise, come into being",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to arise, originate, be created",
+          "de": "neu gebildet werden, entwickeln"
+        }
+      ],
+      "rule": "Irregular, intransitive, Perfekt with 'sein': entsteht, entstand, ist entstanden.",
+      "example": "Durch den Unfall ist ein großer Schaden entstanden.",
+      "exampleEn": "A great deal of damage resulted from the accident.",
+      "example2": "So entstehen neue Ideen im Team.",
+      "example2En": "That's how new ideas arise in the team."
+    },
+    {
+      "de": "enttäuschen",
+      "en": "to disappoint",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to disappoint",
+          "de": "jemandes Erwartungen nicht erfüllen"
+        }
+      ],
+      "rule": "Regular weak verb; the adjective/participle 'enttäuscht' is often combined with 'von' (+ Dativ): 'enttäuscht sein von' = to be disappointed by/in.",
+      "example": "Der Film hat mich sehr enttäuscht.",
+      "exampleEn": "The movie disappointed me a lot.",
+      "example2": "Ich will meine Eltern nicht enttäuschen.",
+      "example2En": "I don't want to disappoint my parents."
+    },
+    {
+      "de": "die Enttäuschung",
+      "en": "disappointment",
+      "pos": "noun",
+      "plural": "die Enttäuschungen",
+      "meanings": [
+        {
+          "en": "disappointment",
+          "de": "das Gefühl, wenn Erwartungen nicht erfüllt werden"
+        }
+      ],
+      "rule": "Derived from enttäuschen; countable noun.",
+      "example": "Das verlorene Spiel war eine große Enttäuschung für die Mannschaft.",
+      "exampleEn": "The lost game was a big disappointment for the team.",
+      "example2": "Er konnte seine Enttäuschung kaum verbergen.",
+      "example2En": "He could hardly hide his disappointment."
+    },
+    {
+      "de": "entwickeln",
+      "en": "to develop",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to develop (a product, idea)",
+          "de": "etwas Neues schaffen oder verbessern"
+        },
+        {
+          "en": "to develop, evolve (reflexive: sich entwickeln)",
+          "de": "sich verändern, wachsen"
+        }
+      ],
+      "rule": "Regular weak verb; reflexive form 'sich entwickeln' = to evolve/grow.",
+      "example": "Die Firma hat ein neues Produkt entwickelt.",
+      "exampleEn": "The company developed a new product.",
+      "example2": "Das Kind hat sich in den letzten Jahren gut entwickelt.",
+      "example2En": "The child has developed well in recent years."
+    },
+    {
+      "de": "das Erdbeben",
+      "en": "earthquake",
+      "pos": "noun",
+      "plural": "die Erdbeben",
+      "meanings": [
+        {
+          "en": "earthquake",
+          "de": "eine starke Erschütterung der Erde"
+        }
+      ],
+      "rule": "Compound: Erde + Beben; plural same as singular form.",
+      "example": "Gestern gab es ein schweres Erdbeben in der Region.",
+      "exampleEn": "Yesterday there was a severe earthquake in the region.",
+      "example2": "Nach dem Erdbeben wurden viele Häuser zerstört.",
+      "example2En": "After the earthquake, many houses were destroyed."
+    },
+    {
+      "de": "die Erde",
+      "en": "earth, ground; the Earth (planet)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "soil, ground",
+          "de": "der Boden"
+        },
+        {
+          "en": "the planet Earth",
+          "de": "der Planet, auf dem wir leben"
+        }
+      ],
+      "rule": "Usually uncountable / used with definite article 'die Erde'; capitalised when meaning the planet.",
+      "example": "Die Pflanze braucht mehr Erde im Topf.",
+      "exampleEn": "The plant needs more soil in the pot.",
+      "example2": "Die Erde dreht sich um die Sonne.",
+      "example2En": "The Earth revolves around the sun."
+    },
+    {
+      "de": "die Erderwärmung",
+      "en": "global warming",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "global warming",
+          "de": "der Anstieg der Durchschnittstemperatur auf der Erde"
+        }
+      ],
+      "rule": "Compound noun, uncountable, no plural.",
+      "example": "Die Erderwärmung führt zu häufigeren Wetterextremen.",
+      "exampleEn": "Global warming leads to more frequent extreme weather.",
+      "example2": "Wissenschaftler warnen seit Jahren vor der Erderwärmung.",
+      "example2En": "Scientists have been warning about global warming for years."
+    },
+    {
+      "de": "das Ereignis",
+      "en": "event",
+      "pos": "noun",
+      "plural": "die Ereignisse",
+      "meanings": [
+        {
+          "en": "an event, occurrence",
+          "de": "etwas, das geschieht oder passiert"
+        }
+      ],
+      "rule": "Neuter noun; plural adds -se.",
+      "example": "Die Hochzeit war ein besonderes Ereignis für die ganze Familie.",
+      "exampleEn": "The wedding was a special event for the whole family.",
+      "example2": "In den Nachrichten wurde über das aktuelle Ereignis berichtet.",
+      "example2En": "The news reported on the current event."
+    },
+    {
+      "de": "erfolgreich",
+      "en": "successful",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "successful",
+          "de": "mit Erfolg, gelungen"
+        }
+      ],
+      "rule": "Regular comparison: erfolgreicher, am erfolgreichsten.",
+      "example": "Sie ist eine erfolgreiche Geschäftsfrau.",
+      "exampleEn": "She is a successful businesswoman.",
+      "example2": "Das Projekt wurde erfolgreich abgeschlossen.",
+      "example2En": "The project was completed successfully."
+    },
+    {
+      "de": "die Ergänzung",
+      "en": "addition, supplement",
+      "pos": "noun",
+      "plural": "die Ergänzungen",
+      "meanings": [
+        {
+          "en": "an addition, supplement, completion",
+          "de": "etwas, das hinzugefügt wird, um etwas vollständig zu machen"
+        }
+      ],
+      "rule": "Derived from 'ergänzen' (to add/complete); countable noun.",
+      "example": "Als Ergänzung zum Kurs empfehle ich dieses Buch.",
+      "exampleEn": "As a supplement to the course, I recommend this book.",
+      "example2": "Die neuen Mitarbeiter sind eine gute Ergänzung für unser Team.",
+      "example2En": "The new employees are a good addition to our team."
+    },
+    {
+      "de": "das Ergebnis",
+      "en": "result",
+      "pos": "noun",
+      "plural": "die Ergebnisse",
+      "meanings": [
+        {
+          "en": "result, outcome",
+          "de": "das, was am Ende herauskommt"
+        }
+      ],
+      "rule": "Neuter noun; plural adds -se; common collocation: zu einem Ergebnis kommen.",
+      "example": "Das Ergebnis der Prüfung war sehr gut.",
+      "exampleEn": "The exam result was very good.",
+      "example2": "Wir sind zu einem klaren Ergebnis gekommen.",
+      "example2En": "We reached a clear conclusion."
+    },
+    {
+      "de": "der Erhalt",
+      "en": "receipt; preservation",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "receipt (of something, formal)",
+          "de": "das Empfangen von etwas"
+        },
+        {
+          "en": "preservation, maintenance",
+          "de": "das Bewahren, Erhalten von etwas"
+        }
+      ],
+      "rule": "Masculine, uncountable noun; common formal phrase 'nach Erhalt Ihrer Nachricht'.",
+      "example": "Bitte bestätigen Sie den Erhalt der Ware.",
+      "exampleEn": "Please confirm receipt of the goods.",
+      "example2": "Der Verein setzt sich für den Erhalt des alten Gebäudes ein.",
+      "example2En": "The association is committed to preserving the old building."
+    },
+    {
+      "de": "erhältlich",
+      "en": "available; obtainable",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "available (for purchase)",
+          "de": "verfügbar, zu kaufen"
+        }
+      ],
+      "rule": "Meist prädikativ nach 'sein' verwendet (z. B. 'ist erhältlich'); kaum gesteigert.",
+      "example": "Das Produkt ist nur online erhältlich.",
+      "exampleEn": "The product is only available online.",
+      "example2": "Dieses Medikament ist rezeptfrei erhältlich.",
+      "example2En": "This medicine is available without a prescription."
+    },
+    {
+      "de": "erhöhen",
+      "en": "to raise; to increase",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to increase (prices, amount, rate)",
+          "de": "größer machen, steigern"
+        },
+        {
+          "en": "to raise physically (height)",
+          "de": "höher machen"
+        }
+      ],
+      "rule": "Regelmäßig: erhöht, erhöhte, hat erhöht; + Akkusativ.",
+      "example": "Die Firma erhöht die Preise ab Januar.",
+      "exampleEn": "The company is raising prices from January.",
+      "example2": "Er hat das Bett um zehn Zentimeter erhöht.",
+      "example2En": "He raised the bed by ten centimeters."
+    },
+    {
+      "de": "erinnern",
+      "en": "to remind; to remember",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to remind someone of something (+Akk + an+Akk)",
+          "de": "jemanden an etwas denken lassen"
+        },
+        {
+          "en": "sich erinnern = to remember (+an+Akk)",
+          "de": "sich an etwas zurückerinnern"
+        }
+      ],
+      "rule": "Regelmäßig: erinnert, erinnerte, hat erinnert. 'jemanden an etwas erinnern' vs. reflexiv 'sich an etwas erinnern'.",
+      "example": "Kannst du mich morgen an den Termin erinnern?",
+      "exampleEn": "Can you remind me about the appointment tomorrow?",
+      "example2": "Ich erinnere mich gut an meine Kindheit.",
+      "example2En": "I remember my childhood well."
+    },
+    {
+      "de": "die Erinnerung",
+      "en": "memory; reminder",
+      "pos": "noun",
+      "plural": "die Erinnerungen",
+      "meanings": [
+        {
+          "en": "memory, recollection",
+          "de": "das, woran man sich erinnert"
+        },
+        {
+          "en": "reminder (e.g. notice)",
+          "de": "Hinweis, der an etwas erinnert"
+        }
+      ],
+      "rule": "Feminin; mit 'an' + Akkusativ ('Erinnerung an den Urlaub').",
+      "example": "Ich habe schöne Erinnerungen an den Urlaub.",
+      "exampleEn": "I have nice memories of the vacation.",
+      "example2": "Die E-Mail ist nur eine Erinnerung an den Termin.",
+      "example2En": "The email is just a reminder of the appointment."
+    },
+    {
+      "de": "erkennen",
+      "en": "to recognize; to realize",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to recognize (a person or thing)",
+          "de": "wiedererkennen"
+        },
+        {
+          "en": "to realize, detect (a problem, fact)",
+          "de": "bemerken, feststellen"
+        }
+      ],
+      "rule": "Unregelmäßig: erkennt, erkannte, hat erkannt; + Akkusativ.",
+      "example": "Ich habe ihn sofort erkannt.",
+      "exampleEn": "I recognized him immediately.",
+      "example2": "Der Arzt hat die Krankheit früh erkannt.",
+      "example2En": "The doctor detected the illness early."
+    },
+    {
+      "de": "die Erklärung",
+      "en": "explanation; declaration",
+      "pos": "noun",
+      "plural": "die Erklärungen",
+      "meanings": [
+        {
+          "en": "explanation",
+          "de": "das Erklären, Begründung"
+        },
+        {
+          "en": "(official) declaration, statement",
+          "de": "offizielle Aussage"
+        }
+      ],
+      "rule": "Feminin; von 'erklären' abgeleitet.",
+      "example": "Der Lehrer gab eine klare Erklärung.",
+      "exampleEn": "The teacher gave a clear explanation.",
+      "example2": "Die Regierung gab eine offizielle Erklärung ab.",
+      "example2En": "The government issued an official declaration."
+    },
+    {
+      "de": "die Erlaubnis",
+      "en": "permission",
+      "pos": "noun",
+      "plural": "die Erlaubnisse",
+      "meanings": [
+        {
+          "en": "permission, authorization",
+          "de": "das Erlauben, Genehmigung"
+        }
+      ],
+      "rule": "Feminin; meist im Singular verwendet, oft ohne Artikel nach 'ohne' ('ohne Erlaubnis').",
+      "example": "Ich brauche die Erlaubnis meiner Eltern.",
+      "exampleEn": "I need my parents' permission.",
+      "example2": "Ohne Erlaubnis darfst du hier nicht parken.",
+      "example2En": "You are not allowed to park here without permission."
+    },
+    {
+      "de": "erleben",
+      "en": "to experience",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to experience, go through (an event, feeling)",
+          "de": "etwas persönlich mitmachen"
+        }
+      ],
+      "rule": "Regelmäßig: erlebt, erlebte, hat erlebt; + Akkusativ.",
+      "example": "Wir haben im Urlaub viel Schönes erlebt.",
+      "exampleEn": "We experienced many wonderful things on vacation.",
+      "example2": "Sie hat eine schwierige Zeit erlebt.",
+      "example2En": "She went through a difficult time."
+    },
+    {
+      "de": "erleichtern",
+      "en": "to make easier; to relieve",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to facilitate, make easier",
+          "de": "einfacher machen"
+        },
+        {
+          "en": "to relieve (of worry, burden)",
+          "de": "von einer Last befreien"
+        }
+      ],
+      "rule": "Regelmäßig: erleichtert, erleichterte, hat erleichtert; + Akkusativ.",
+      "example": "Der neue Computer erleichtert die Arbeit.",
+      "exampleEn": "The new computer makes the work easier.",
+      "example2": "Das Gespräch hat ihn sehr erleichtert.",
+      "example2En": "The conversation was a great relief to him."
+    },
+    {
+      "de": "ernähren",
+      "en": "to feed; to nourish",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to feed, provide for someone",
+          "de": "jemanden mit Nahrung versorgen"
+        },
+        {
+          "en": "sich ernähren = to eat, live on (+von)",
+          "de": "sich mit Nahrung versorgen"
+        }
+      ],
+      "rule": "Regelmäßig: ernährt, ernährte, hat ernährt; reflexiv 'sich ernähren von +Dativ'.",
+      "example": "Sie ernährt ihre Familie mit ihrem Gehalt.",
+      "exampleEn": "She supports her family with her salary.",
+      "example2": "Er ernährt sich gesund.",
+      "example2En": "He eats healthily."
+    },
+    {
+      "de": "die Ernährung",
+      "en": "nutrition; diet",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "nutrition, diet",
+          "de": "die Art, wie man sich ernährt"
+        }
+      ],
+      "rule": "Feminin, uncountable (kein Plural im Alltagsgebrauch).",
+      "example": "Gesunde Ernährung ist wichtig für den Körper.",
+      "exampleEn": "Healthy nutrition is important for the body.",
+      "example2": "Der Arzt empfiehlt eine ausgewogene Ernährung.",
+      "example2En": "The doctor recommends a balanced diet."
+    },
+    {
+      "de": "die Erstellung",
+      "en": "creation; preparation (of a document)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "creation, preparation (e.g. of a document, plan)",
+          "de": "das Erstellen, Anfertigen"
+        }
+      ],
+      "rule": "Feminin, meist Singular; von 'erstellen' abgeleitet.",
+      "example": "Die Erstellung des Berichts dauert zwei Wochen.",
+      "exampleEn": "Preparing the report takes two weeks.",
+      "example2": "Für die Erstellung der Rechnung brauchen wir Ihre Adresse.",
+      "example2En": "We need your address to create the invoice."
+    },
+    {
+      "de": "erwähnen",
+      "en": "to mention",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to mention, refer to briefly",
+          "de": "kurz sagen, nennen"
+        }
+      ],
+      "rule": "Regelmäßig: erwähnt, erwähnte, hat erwähnt; + Akkusativ.",
+      "example": "Er hat das Problem in der Besprechung erwähnt.",
+      "exampleEn": "He mentioned the problem in the meeting.",
+      "example2": "Sie hat nebenbei erwähnt, dass sie umzieht.",
+      "example2En": "She mentioned in passing that she is moving."
+    }
+  ]
+}

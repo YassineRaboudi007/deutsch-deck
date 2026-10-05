@@ -1,0 +1,889 @@
+{
+  "id": "a2-08",
+  "title": "A2 · G (8)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "gebraucht",
+      "en": "used; second-hand",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not new, previously owned",
+          "de": "nicht neu, schon benutzt"
+        }
+      ],
+      "rule": "Partizip II von 'gebrauchen' (benutzen) — nicht zu verwechseln mit dem gleich lautenden Partizip 'gebraucht' von 'brauchen' ('nötig haben'). In der Bedeutung 'gebraucht/second-hand' wird das Adjektiv kaum gesteigert (üblich ist 'neu' vs. 'gebraucht', nicht 'gebrauchter/am gebrauchtesten').",
+      "example": "Wir kaufen ein gebrauchtes Auto.",
+      "exampleEn": "We are buying a used car.",
+      "example2": "Die Bücher sind alle gebraucht, aber gut erhalten.",
+      "example2En": "The books are all second-hand but in good condition."
+    },
+    {
+      "de": "die Gebühr",
+      "en": "fee; charge",
+      "pos": "noun",
+      "plural": "die Gebühren",
+      "meanings": [
+        {
+          "en": "money paid for a service",
+          "de": "Geld, das man für eine Leistung bezahlt"
+        }
+      ],
+      "rule": "Feminin, regelmäßiger Plural auf -en.",
+      "example": "Für die Anmeldung fällt eine Gebühr an.",
+      "exampleEn": "There is a fee for registration.",
+      "example2": "Die Parkgebühren sind sehr hoch.",
+      "example2En": "The parking fees are very high."
+    },
+    {
+      "de": "die Geburt",
+      "en": "birth",
+      "pos": "noun",
+      "plural": "die Geburten",
+      "meanings": [
+        {
+          "en": "the act of being born",
+          "de": "das Geborenwerden"
+        }
+      ],
+      "rule": "Feminin, regelmäßiger Plural auf -en.",
+      "example": "Die Geburt ihres Sohnes war ein großes Glück.",
+      "exampleEn": "The birth of her son was a great joy.",
+      "example2": "Er war bei der Geburt dabei.",
+      "example2En": "He was present at the birth."
+    },
+    {
+      "de": "das Geburtsdatum",
+      "en": "date of birth",
+      "pos": "noun",
+      "plural": "die Geburtsdaten",
+      "meanings": [
+        {
+          "en": "the date on which someone was born",
+          "de": "das Datum, an dem jemand geboren wurde"
+        }
+      ],
+      "rule": "Zusammengesetztes Nomen: Geburt + Datum; Plural wie 'Daten'.",
+      "example": "Bitte geben Sie Ihr Geburtsdatum an.",
+      "exampleEn": "Please state your date of birth.",
+      "example2": "Mein Geburtsdatum steht im Pass.",
+      "example2En": "My date of birth is in my passport."
+    },
+    {
+      "de": "das Geburtsland",
+      "en": "country of birth",
+      "pos": "noun",
+      "plural": "die Geburtsländer",
+      "meanings": [
+        {
+          "en": "the country where someone was born",
+          "de": "das Land, in dem jemand geboren wurde"
+        }
+      ],
+      "rule": "Zusammengesetztes Nomen: Geburt + Land; Plural mit Umlaut: die Geburtsländer.",
+      "example": "Mein Geburtsland ist die Türkei.",
+      "exampleEn": "My country of birth is Turkey.",
+      "example2": "Sie besucht oft ihr Geburtsland.",
+      "example2En": "She often visits her country of birth."
+    },
+    {
+      "de": "der Geburtsname",
+      "en": "birth name",
+      "pos": "noun",
+      "plural": "die Geburtsnamen",
+      "meanings": [
+        {
+          "en": "name given at birth (esp. before marriage)",
+          "de": "Name, den man bei der Geburt bekommen hat"
+        }
+      ],
+      "rule": "Compound noun: die Geburt + der Name; gender follows der Name.",
+      "example": "Ihr Geburtsname ist Meier, jetzt heißt sie Schmidt.",
+      "exampleEn": "Her birth name is Meier, now she is called Schmidt.",
+      "example2": "Bitte tragen Sie Ihren Geburtsnamen im Formular ein.",
+      "example2En": "Please enter your birth name on the form."
+    },
+    {
+      "de": "der Geburtsort",
+      "en": "place of birth",
+      "pos": "noun",
+      "plural": "die Geburtsorte",
+      "meanings": [
+        {
+          "en": "town or city where someone was born",
+          "de": "Ort, an dem jemand geboren wurde"
+        }
+      ],
+      "rule": "Compound: die Geburt + der Ort; often required on official forms.",
+      "example": "Mein Geburtsort ist Hamburg.",
+      "exampleEn": "My place of birth is Hamburg.",
+      "example2": "Wo ist Ihr Geburtsort?",
+      "example2En": "Where is your place of birth?"
+    },
+    {
+      "de": "die Geburtsurkunde",
+      "en": "birth certificate",
+      "pos": "noun",
+      "plural": "die Geburtsurkunden",
+      "meanings": [
+        {
+          "en": "official document certifying a birth",
+          "de": "amtliches Dokument, das die Geburt bestätigt"
+        }
+      ],
+      "rule": "Compound: die Geburt + die Urkunde.",
+      "example": "Ich brauche eine Kopie meiner Geburtsurkunde.",
+      "exampleEn": "I need a copy of my birth certificate.",
+      "example2": "Die Geburtsurkunde bekommt man beim Standesamt.",
+      "example2En": "You get the birth certificate at the registry office."
+    },
+    {
+      "de": "das Gedicht",
+      "en": "poem",
+      "pos": "noun",
+      "plural": "die Gedichte",
+      "meanings": [
+        {
+          "en": "a piece of poetry",
+          "de": "literarischer Text in Versen"
+        }
+      ],
+      "rule": "Neuter noun with a Ge- prefix; there is no everyday verb 'gedichten' — the related verb is 'dichten' (to write poetry).",
+      "example": "Die Schüler lernen ein Gedicht auswendig.",
+      "exampleEn": "The students learn a poem by heart.",
+      "example2": "Er hat ihr ein Gedicht geschrieben.",
+      "example2En": "He wrote her a poem."
+    },
+    {
+      "de": "gefährden",
+      "en": "to endanger",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to put something/someone at risk",
+          "de": "in Gefahr bringen"
+        }
+      ],
+      "rule": "Regular weak verb: gefährdet, gefährdete, hat gefährdet; takes Akkusativ object.",
+      "example": "Rauchen gefährdet die Gesundheit.",
+      "exampleEn": "Smoking endangers your health.",
+      "example2": "Der Sturm gefährdet die Ernte.",
+      "example2En": "The storm is endangering the harvest."
+    },
+    {
+      "de": "der Gegensatz",
+      "en": "contrast; opposite",
+      "pos": "noun",
+      "plural": "die Gegensätze",
+      "meanings": [
+        {
+          "en": "opposite or contrary",
+          "de": "das Gegenteil"
+        },
+        {
+          "en": "contrast between things",
+          "de": "deutlicher Unterschied"
+        }
+      ],
+      "rule": "Often used with 'im Gegensatz zu' (+ Dativ) = 'in contrast to'.",
+      "example": "Im Gegensatz zu ihrer Schwester ist sie sehr ruhig.",
+      "exampleEn": "In contrast to her sister, she is very quiet.",
+      "example2": "Schwarz und Weiß sind ein starker Gegensatz.",
+      "example2En": "Black and white are a strong contrast."
+    },
+    {
+      "de": "gehören",
+      "en": "to belong to",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to be owned by someone",
+          "de": "jemandem als Eigentum zugeordnet sein"
+        },
+        {
+          "en": "to be part of / belong with",
+          "de": "zu etwas zählen, dazugehören"
+        }
+      ],
+      "rule": "Regular verb + Dativ: gehört, gehörte, hat gehört; 'Das Buch gehört mir' = it's mine.",
+      "example": "Das Auto gehört meinem Vater.",
+      "exampleEn": "The car belongs to my father.",
+      "example2": "Diese Frage gehört nicht zum Thema.",
+      "example2En": "This question doesn't belong to the topic."
+    },
+    {
+      "de": "der Geiger / die Geigerin",
+      "en": "violinist",
+      "pos": "noun",
+      "plural": "die Geiger / die Geigerinnen",
+      "meanings": [
+        {
+          "en": "a person who plays the violin",
+          "de": "jemand, der Geige spielt"
+        }
+      ],
+      "rule": "Agent noun from 'die Geige' (violin) + -er/-in.",
+      "example": "Der Geiger spielt heute Abend im Konzert.",
+      "exampleEn": "The violinist is playing in the concert tonight.",
+      "example2": "Sie ist eine bekannte Geigerin.",
+      "example2En": "She is a well-known violinist."
+    },
+    {
+      "de": "der Geldautomat",
+      "en": "ATM, cash machine",
+      "pos": "noun",
+      "plural": "die Geldautomaten",
+      "meanings": [
+        {
+          "en": "machine for withdrawing cash",
+          "de": "Automat, an dem man Geld abheben kann"
+        }
+      ],
+      "rule": "Compound: das Geld + der Automat; weak masculine noun (den/dem/des Geldautomaten).",
+      "example": "Ich hebe am Geldautomaten Bargeld ab.",
+      "exampleEn": "I withdraw cash at the ATM.",
+      "example2": "Der Geldautomat ist gerade außer Betrieb.",
+      "example2En": "The ATM is currently out of order."
+    },
+    {
+      "de": "die Geldbörse",
+      "en": "purse, wallet",
+      "pos": "noun",
+      "plural": "die Geldbörsen",
+      "meanings": [
+        {
+          "en": "small case for carrying money",
+          "de": "kleine Tasche für Geld"
+        }
+      ],
+      "rule": "Compound: das Geld + die Börse; synonym to der Geldbeutel/das Portemonnaie.",
+      "example": "Meine Geldbörse ist leer.",
+      "exampleEn": "My wallet is empty.",
+      "example2": "Sie hat ihre Geldbörse im Bus verloren.",
+      "example2En": "She lost her purse on the bus."
+    },
+    {
+      "de": "das Geldstück",
+      "en": "coin",
+      "pos": "noun",
+      "plural": "die Geldstücke",
+      "meanings": [
+        {
+          "en": "a single piece of coin money",
+          "de": "eine Münze"
+        }
+      ],
+      "rule": "Compound: das Geld + das Stück; synonym die Münze.",
+      "example": "Er suchte ein Geldstück für den Parkautomaten.",
+      "exampleEn": "He looked for a coin for the parking meter.",
+      "example2": "Das Geldstück ist auf den Boden gefallen.",
+      "example2En": "The coin fell on the floor."
+    },
+    {
+      "de": "gemischt",
+      "en": "mixed",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "consisting of different types combined",
+          "de": "aus verschiedenen Dingen bestehend"
+        }
+      ],
+      "rule": "Past participle of 'mischen' used as adjective; regular comparison (gemischter, am gemischtesten) though rarely compared.",
+      "example": "Ich hätte gern einen gemischten Salat.",
+      "exampleEn": "I'd like a mixed salad.",
+      "example2": "Wir sind eine gemischte Gruppe aus Männern und Frauen.",
+      "example2En": "We are a mixed group of men and women."
+    },
+    {
+      "de": "die Gemüselasagne",
+      "en": "vegetable lasagna",
+      "pos": "noun",
+      "plural": "die Gemüselasagnen",
+      "meanings": [
+        {
+          "en": "lasagna made with vegetables instead of meat",
+          "de": "Lasagne mit Gemüse statt Fleisch"
+        }
+      ],
+      "rule": "Compound: das Gemüse + die Lasagne; gender follows die Lasagne.",
+      "example": "Zum Mittagessen gibt es Gemüselasagne.",
+      "exampleEn": "For lunch there is vegetable lasagna.",
+      "example2": "Die Gemüselasagne schmeckt sehr gut.",
+      "example2En": "The vegetable lasagna tastes very good."
+    },
+    {
+      "de": "genehmigen",
+      "en": "to approve, to permit",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to officially allow or approve something",
+          "de": "offiziell erlauben"
+        }
+      ],
+      "rule": "Regular verb: genehmigt, genehmigte, hat genehmigt; often used passively 'genehmigt werden'.",
+      "example": "Der Chef hat meinen Urlaub genehmigt.",
+      "exampleEn": "The boss approved my vacation.",
+      "example2": "Der Bauantrag wurde genehmigt.",
+      "example2En": "The building application was approved."
+    },
+    {
+      "de": "genial",
+      "en": "brilliant, ingenious",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "extremely clever or outstanding",
+          "de": "sehr klug, außergewöhnlich gut"
+        }
+      ],
+      "rule": "Regular comparison: genial, genialer, am genialsten; colloquially also means 'awesome'.",
+      "example": "Das ist eine geniale Idee!",
+      "exampleEn": "That's a brilliant idea!",
+      "example2": "Einstein war ein genialer Wissenschaftler.",
+      "example2En": "Einstein was a brilliant scientist."
+    },
+    {
+      "de": "genießen",
+      "en": "to enjoy",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to take pleasure in something",
+          "de": "mit Freude erleben"
+        }
+      ],
+      "rule": "Irregular: genießt, genoss, hat genossen.",
+      "example": "Wir genießen den Urlaub am Meer.",
+      "exampleEn": "We are enjoying the vacation at the sea.",
+      "example2": "Er genießt die Ruhe am Abend.",
+      "example2En": "He enjoys the quiet in the evening."
+    },
+    {
+      "de": "genug",
+      "en": "enough",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "sufficient amount",
+          "de": "ausreichend"
+        }
+      ],
+      "rule": "Invariable; can follow noun/adjective: 'Geld genug' or precede: 'genug Geld'.",
+      "example": "Wir haben genug Zeit.",
+      "exampleEn": "We have enough time.",
+      "example2": "Ist das Essen genug für alle?",
+      "example2En": "Is the food enough for everyone?"
+    },
+    {
+      "de": "gepunktet",
+      "en": "dotted, polka-dotted",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having a pattern of dots",
+          "de": "mit Punkten gemustert"
+        }
+      ],
+      "rule": "Adjective built from 'der Punkt' (dot) in a participle-like ge-...-t pattern; not related to the verb 'punkten' (to score points in sports). Regular comparison, rarely used.",
+      "example": "Sie trägt ein gepunktetes Kleid.",
+      "exampleEn": "She is wearing a polka-dotted dress.",
+      "example2": "Ich mag die gepunktete Bluse.",
+      "example2En": "I like the dotted blouse."
+    },
+    {
+      "de": "das Gericht",
+      "en": "dish (food); court (law)",
+      "pos": "noun",
+      "plural": "die Gerichte",
+      "meanings": [
+        {
+          "en": "a dish/meal",
+          "de": "eine Speise"
+        },
+        {
+          "en": "a court of law",
+          "de": "eine staatliche Institution, die über Recht entscheidet"
+        }
+      ],
+      "rule": "Two unrelated meanings share one word; context decides. Plural die Gerichte for both.",
+      "example": "Das Gericht mit Reis schmeckt sehr gut.",
+      "exampleEn": "The dish with rice tastes very good.",
+      "example2": "Er muss morgen vor Gericht erscheinen.",
+      "example2En": "He has to appear in court tomorrow."
+    },
+    {
+      "de": "gesamt",
+      "en": "total; entire",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "total, whole",
+          "de": "ganz, insgesamt"
+        }
+      ],
+      "rule": "Used attributively before a noun; no irregular comparison (rarely compared).",
+      "example": "Die gesamte Familie kommt zur Feier.",
+      "exampleEn": "The whole family is coming to the party.",
+      "example2": "Wie hoch sind die gesamten Kosten?",
+      "example2En": "How high are the total costs?"
+    },
+    {
+      "de": "die Gesamtschule",
+      "en": "comprehensive school",
+      "pos": "noun",
+      "plural": "die Gesamtschulen",
+      "meanings": [
+        {
+          "en": "a comprehensive secondary school (combines school types)",
+          "de": "eine Schulform, die verschiedene Schularten vereint"
+        }
+      ],
+      "rule": "Compound noun: gesamt + Schule; gender follows die Schule.",
+      "example": "Meine Tochter geht auf eine Gesamtschule.",
+      "exampleEn": "My daughter goes to a comprehensive school.",
+      "example2": "An der Gesamtschule lernen Kinder mit unterschiedlichem Niveau zusammen.",
+      "example2En": "At the comprehensive school, children of different levels learn together."
+    },
+    {
+      "de": "die Geschichte",
+      "en": "story; history",
+      "pos": "noun",
+      "plural": "die Geschichten",
+      "meanings": [
+        {
+          "en": "a story/tale",
+          "de": "eine Erzählung"
+        },
+        {
+          "en": "history (the subject/past)",
+          "de": "die Vergangenheit, das Schulfach"
+        }
+      ],
+      "rule": "Plural die Geschichten is mainly used for 'stories'; 'history' as a subject is usually uncountable (kein Plural).",
+      "example": "Meine Oma erzählt gern Geschichten.",
+      "exampleEn": "My grandma likes to tell stories.",
+      "example2": "Er interessiert sich sehr für Geschichte.",
+      "example2En": "He is very interested in history."
+    },
+    {
+      "de": "das Geschirr",
+      "en": "dishes, crockery",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "dishes/crockery used for eating",
+          "de": "Teller, Tassen und Besteck zum Essen"
+        }
+      ],
+      "rule": "Uncountable (Singularwort ohne Plural); used with waschen/spülen.",
+      "example": "Kannst du bitte das Geschirr spülen?",
+      "exampleEn": "Can you please wash the dishes?",
+      "example2": "Nach dem Essen räumen wir das Geschirr weg.",
+      "example2En": "After eating, we put the dishes away."
+    },
+    {
+      "de": "das Geschlecht",
+      "en": "gender; sex",
+      "pos": "noun",
+      "plural": "die Geschlechter",
+      "meanings": [
+        {
+          "en": "biological sex / gender",
+          "de": "männlich oder weiblich"
+        }
+      ],
+      "rule": "Neuter noun; plural die Geschlechter used e.g. 'beide Geschlechter'.",
+      "example": "Bitte geben Sie Ihr Geschlecht im Formular an.",
+      "exampleEn": "Please state your gender on the form.",
+      "example2": "Das Geschlecht des Kindes ist noch nicht bekannt.",
+      "example2En": "The baby's sex is not yet known."
+    },
+    {
+      "de": "gesondert",
+      "en": "separate",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "separate, apart",
+          "de": "getrennt, extra"
+        }
+      ],
+      "rule": "Often used with werden/behandeln: 'gesondert behandeln' = treat separately; no irregular forms.",
+      "example": "Die Rechnung wird Ihnen gesondert zugeschickt.",
+      "exampleEn": "The invoice will be sent to you separately.",
+      "example2": "Dieser Fall muss gesondert geprüft werden.",
+      "example2En": "This case must be examined separately."
+    },
+    {
+      "de": "gestalten",
+      "en": "to design, shape",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to design/arrange something",
+          "de": "etwas planen und formen"
+        }
+      ],
+      "rule": "Regular weak verb: gestaltet, gestaltete, hat gestaltet; not separable.",
+      "example": "Wir gestalten die Party bunt und fröhlich.",
+      "exampleEn": "We are designing the party to be colorful and cheerful.",
+      "example2": "Sie hat ihr Zimmer sehr schön gestaltet.",
+      "example2En": "She has decorated her room very nicely."
+    },
+    {
+      "de": "gestreift",
+      "en": "striped",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having stripes",
+          "de": "mit Streifen"
+        }
+      ],
+      "rule": "Past participle of streifen used as adjective; regular comparison possible but rarely used.",
+      "example": "Er trägt ein gestreiftes Hemd.",
+      "exampleEn": "He is wearing a striped shirt.",
+      "example2": "Die gestreifte Tasche gefällt mir gut.",
+      "example2En": "I like the striped bag."
+    },
+    {
+      "de": "gesund",
+      "en": "healthy",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in good health / healthful",
+          "de": "nicht krank; gut für die Gesundheit"
+        }
+      ],
+      "rule": "Irregular comparison: gesund, gesünder, am gesündesten.",
+      "example": "Obst und Gemüse sind gesund.",
+      "exampleEn": "Fruit and vegetables are healthy.",
+      "example2": "Ich hoffe, du bist wieder gesund.",
+      "example2En": "I hope you are healthy again."
+    },
+    {
+      "de": "gesundheitlich",
+      "en": "health-related",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "concerning one's health",
+          "de": "die Gesundheit betreffend"
+        }
+      ],
+      "rule": "Usually used attributively, e.g. 'gesundheitliche Probleme'; no irregular comparison.",
+      "example": "Er hat gesundheitliche Probleme.",
+      "exampleEn": "He has health problems.",
+      "example2": "Aus gesundheitlichen Gründen kann sie nicht arbeiten.",
+      "example2En": "For health reasons she cannot work."
+    },
+    {
+      "de": "gewinnen",
+      "en": "to win",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to win a game/prize/competition",
+          "de": "einen Sieg oder Preis erhalten"
+        }
+      ],
+      "rule": "Irregular: gewinnt, gewann, hat gewonnen.",
+      "example": "Unsere Mannschaft hat das Spiel gewonnen.",
+      "exampleEn": "Our team won the game.",
+      "example2": "Sie hat im Lotto viel Geld gewonnen.",
+      "example2En": "She won a lot of money in the lottery."
+    },
+    {
+      "de": "das Gipsbein",
+      "en": "leg in a cast",
+      "pos": "noun",
+      "plural": "die Gipsbeine",
+      "meanings": [
+        {
+          "en": "a leg in a plaster cast",
+          "de": "ein Bein mit Gips nach einem Bruch"
+        }
+      ],
+      "rule": "Compound: Gips (plaster) + Bein (leg); neuter like Bein.",
+      "example": "Nach dem Unfall hat er ein Gipsbein.",
+      "exampleEn": "After the accident he has a leg in a cast.",
+      "example2": "Mit dem Gipsbein kann sie nicht gut laufen.",
+      "example2En": "With the leg in a cast she can't walk well."
+    },
+    {
+      "de": "die Girocard",
+      "en": "debit card",
+      "pos": "noun",
+      "plural": "die Girocards",
+      "meanings": [
+        {
+          "en": "a bank debit card for direct payment",
+          "de": "eine Bankkarte zum bargeldlosen Bezahlen"
+        }
+      ],
+      "rule": "Feminine loanword; often used at the checkout: 'mit Girocard bezahlen'.",
+      "example": "Ich bezahle mit meiner Girocard.",
+      "exampleEn": "I'll pay with my debit card.",
+      "example2": "Kann ich hier mit Girocard bezahlen?",
+      "example2En": "Can I pay by debit card here?"
+    },
+    {
+      "de": "das Girokonto",
+      "en": "checking account",
+      "pos": "noun",
+      "plural": "die Girokonten",
+      "meanings": [
+        {
+          "en": "a current/checking bank account",
+          "de": "ein Bankkonto für den laufenden Zahlungsverkehr"
+        }
+      ],
+      "rule": "Compound with das Konto; plural die Girokonten (like Konten).",
+      "example": "Ich habe ein Girokonto bei der Sparkasse.",
+      "exampleEn": "I have a checking account at the savings bank.",
+      "example2": "Das Gehalt wird auf mein Girokonto überwiesen.",
+      "example2En": "My salary is transferred to my checking account."
+    },
+    {
+      "de": "der Glascontainer",
+      "en": "glass recycling bin",
+      "pos": "noun",
+      "plural": "die Glascontainer",
+      "meanings": [
+        {
+          "en": "a public container for recycling glass",
+          "de": "ein Behälter zum Sammeln von Altglas"
+        }
+      ],
+      "rule": "Compound: Glas + Container; masculine like der Container; plural unchanged.",
+      "example": "Ich bringe die Flaschen zum Glascontainer.",
+      "exampleEn": "I'm taking the bottles to the glass recycling bin.",
+      "example2": "Der Glascontainer steht neben dem Supermarkt.",
+      "example2En": "The glass recycling bin is next to the supermarket."
+    },
+    {
+      "de": "glatt",
+      "en": "smooth; slippery",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "smooth (surface)",
+          "de": "nicht rau"
+        },
+        {
+          "en": "slippery (e.g. ice, road)",
+          "de": "rutschig"
+        }
+      ],
+      "rule": "Irregular comparison: glatt, glatter, am glattesten (double t stays).",
+      "example": "Der Tisch hat eine glatte Oberfläche.",
+      "exampleEn": "The table has a smooth surface.",
+      "example2": "Vorsicht, die Straße ist glatt!",
+      "example2En": "Careful, the road is slippery!"
+    },
+    {
+      "de": "die Glatze",
+      "en": "bald head",
+      "pos": "noun",
+      "plural": "die Glatzen",
+      "meanings": [
+        {
+          "en": "a bald head / baldness",
+          "de": "ein Kopf ohne Haare"
+        }
+      ],
+      "rule": "Common phrase: 'eine Glatze haben' = to be bald.",
+      "example": "Mein Opa hat eine Glatze.",
+      "exampleEn": "My grandpa is bald.",
+      "example2": "Er bekommt langsam eine Glatze.",
+      "example2En": "He is slowly going bald."
+    },
+    {
+      "de": "das Glück",
+      "en": "luck; happiness",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "luck, good fortune",
+          "de": "Zufall, der positiv ist"
+        },
+        {
+          "en": "happiness",
+          "de": "Gefühl von Freude und Zufriedenheit"
+        }
+      ],
+      "rule": "Uncountable noun, no plural. Common phrase: Glück haben (to be lucky).",
+      "example": "Wir hatten Glück mit dem Wetter.",
+      "exampleEn": "We were lucky with the weather.",
+      "example2": "Er lächelt vor Glück.",
+      "example2En": "He is smiling with happiness."
+    },
+    {
+      "de": "der Glückspfennig",
+      "en": "lucky penny",
+      "pos": "noun",
+      "plural": "die Glückspfennige",
+      "meanings": [
+        {
+          "en": "lucky penny (charm for good luck)",
+          "de": "Münze, die Glück bringen soll"
+        }
+      ],
+      "rule": "Compound noun: Glück + Pfennig. Often given as a small good-luck gift.",
+      "example": "Zum Geburtstag bekam sie einen Glückspfennig.",
+      "exampleEn": "She got a lucky penny for her birthday.",
+      "example2": "Ein Glückspfennig soll Glück bringen.",
+      "example2En": "A lucky penny is supposed to bring good luck."
+    },
+    {
+      "de": "das Gold",
+      "en": "gold",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "gold (the metal)",
+          "de": "gelbes Edelmetall"
+        },
+        {
+          "en": "gold medal",
+          "de": "Medaille aus Gold"
+        }
+      ],
+      "rule": "Uncountable noun, no plural.",
+      "example": "Der Ring ist aus Gold.",
+      "exampleEn": "The ring is made of gold.",
+      "example2": "Sie hat Gold bei der Olympiade gewonnen.",
+      "example2En": "She won gold at the Olympics."
+    },
+    {
+      "de": "googeln",
+      "en": "to google",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to search for something on Google/the internet",
+          "de": "im Internet mit Google suchen"
+        }
+      ],
+      "rule": "Regular weak verb, but as an -eln verb it drops the e in the ich-form: ich google (not googele), du googelst, er/sie googelt; Präteritum googelte; Perfekt hat gegoogelt.",
+      "example": "Ich google das Wort schnell.",
+      "exampleEn": "I'll quickly google the word.",
+      "example2": "Er hat das Restaurant gegoogelt.",
+      "example2En": "He googled the restaurant."
+    },
+    {
+      "de": "die Grafik",
+      "en": "graphic; diagram",
+      "pos": "noun",
+      "plural": "die Grafiken",
+      "meanings": [
+        {
+          "en": "graphic, illustration",
+          "de": "Bild oder Zeichnung"
+        },
+        {
+          "en": "chart, diagram",
+          "de": "Darstellung von Daten"
+        }
+      ],
+      "rule": "Feminine noun, plural -en.",
+      "example": "Die Grafik zeigt die Verkaufszahlen pro Monat.",
+      "exampleEn": "The chart shows the sales figures per month.",
+      "example2": "Auf der Webseite ist eine bunte Grafik.",
+      "example2En": "There is a colorful graphic on the website."
+    },
+    {
+      "de": "der Grafiker / die Grafikerin",
+      "en": "graphic designer",
+      "pos": "noun",
+      "plural": "die Grafiker / die Grafikerinnen",
+      "meanings": [
+        {
+          "en": "graphic designer",
+          "de": "Person, die beruflich Grafiken gestaltet"
+        }
+      ],
+      "rule": "Masculine -er / feminine -erin; plural same pattern.",
+      "example": "Er arbeitet als Grafiker bei einer Zeitung.",
+      "exampleEn": "He works as a graphic designer at a newspaper.",
+      "example2": "Die Grafikerin hat das Logo entworfen.",
+      "example2En": "The graphic designer designed the logo."
+    },
+    {
+      "de": "griechisch",
+      "en": "Greek",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "Greek (relating to Greece)",
+          "de": "aus Griechenland, zu Griechenland gehörend"
+        }
+      ],
+      "rule": "Lowercase adjective of nationality; noun form is Griechisch (the language) or der/die Grieche/Griechin (person).",
+      "example": "Wir essen heute griechisch.",
+      "exampleEn": "We're eating Greek food today.",
+      "example2": "Sie spricht ein bisschen Griechisch.",
+      "example2En": "She speaks a little Greek."
+    },
+    {
+      "de": "der Grill",
+      "en": "grill; barbecue",
+      "pos": "noun",
+      "plural": "die Grills",
+      "meanings": [
+        {
+          "en": "grill, barbecue (the appliance)",
+          "de": "Gerät zum Grillen"
+        }
+      ],
+      "rule": "Masculine noun, plural -s.",
+      "example": "Wir haben einen neuen Grill gekauft.",
+      "exampleEn": "We bought a new grill.",
+      "example2": "Der Fisch liegt auf dem Grill.",
+      "example2En": "The fish is on the grill."
+    },
+    {
+      "de": "die Grillkohle",
+      "en": "charcoal (for grilling)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "charcoal used for barbecuing",
+          "de": "Kohle zum Grillen"
+        }
+      ],
+      "rule": "Uncountable noun, no plural.",
+      "example": "Wir brauchen noch Grillkohle.",
+      "exampleEn": "We still need charcoal.",
+      "example2": "Die Grillkohle ist fast verbrannt.",
+      "example2En": "The charcoal has almost burned up."
+    }
+  ]
+}

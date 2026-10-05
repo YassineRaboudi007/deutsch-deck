@@ -1,0 +1,889 @@
+{
+  "id": "b1-07",
+  "title": "B1 · E–F (7)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "eskalieren",
+      "en": "to escalate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to escalate, intensify (a conflict, situation)",
+          "de": "sich verschärfen, schlimmer werden"
+        }
+      ],
+      "rule": "Regelmäßig, intransitiv mit 'sein': eskaliert, eskalierte, ist eskaliert.",
+      "example": "Der Streit ist schnell eskaliert.",
+      "exampleEn": "The argument escalated quickly.",
+      "example2": "Die Situation an der Grenze eskaliert weiter.",
+      "example2En": "The situation at the border keeps escalating."
+    },
+    {
+      "de": "der Esser / die Esserin",
+      "en": "eater",
+      "pos": "noun",
+      "plural": "die Esser / die Esserinnen",
+      "meanings": [
+        {
+          "en": "eater (person who eats, usually with an adjective)",
+          "de": "jemand, der isst (meist mit Adjektiv)"
+        }
+      ],
+      "rule": "Wird meist mit Adjektiv gebraucht, z. B. 'ein guter/schlechter Esser'.",
+      "example": "Mein Sohn ist ein schlechter Esser.",
+      "exampleEn": "My son is a poor eater.",
+      "example2": "Sie ist eine langsame Esserin.",
+      "example2En": "She is a slow eater."
+    },
+    {
+      "de": "die Euroeinführung",
+      "en": "introduction of the euro",
+      "pos": "noun",
+      "plural": "die Euroeinführungen",
+      "meanings": [
+        {
+          "en": "the introduction of the euro currency",
+          "de": "die Einführung des Euro als Währung"
+        }
+      ],
+      "rule": "Feminin, meist im Singular gebraucht (historisches Einzelereignis).",
+      "example": "Die Euroeinführung fand 2002 statt.",
+      "exampleEn": "The introduction of the euro took place in 2002.",
+      "example2": "Viele Menschen erinnern sich noch an die Euroeinführung.",
+      "example2En": "Many people still remember the introduction of the euro."
+    },
+    {
+      "de": "die Europäische Union (EU)",
+      "en": "the European Union",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the European Union, a political and economic union of European states",
+          "de": "der Zusammenschluss europäischer Staaten"
+        }
+      ],
+      "rule": "Feminin, Eigenname; kein Plural; Abkürzung 'die EU'.",
+      "example": "Deutschland ist Mitglied der Europäischen Union.",
+      "exampleEn": "Germany is a member of the European Union.",
+      "example2": "Die EU hat 27 Mitgliedsstaaten.",
+      "example2En": "The EU has 27 member states."
+    },
+    {
+      "de": "eventuell",
+      "en": "possibly; if applicable",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "possibly, perhaps",
+          "de": "vielleicht, möglicherweise"
+        }
+      ],
+      "rule": "Adverb, often modifies a whole sentence; not to be confused with English 'eventually' (= schließlich), a classic false friend.",
+      "example": "Ich komme eventuell etwas später.",
+      "exampleEn": "I might come a bit later.",
+      "example2": "Eventuell müssen wir den Termin verschieben.",
+      "example2En": "We may possibly have to postpone the appointment."
+    },
+    {
+      "de": "exotisch",
+      "en": "exotic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "exotic, unusual/foreign",
+          "de": "fremdartig, ungewöhnlich"
+        }
+      ],
+      "rule": "Regular adjective, no irregular comparison (exotischer, am exotischsten).",
+      "example": "Im Urlaub haben wir exotische Früchte probiert.",
+      "exampleEn": "On vacation we tried exotic fruits.",
+      "example2": "Bali klingt für viele wie ein exotisches Reiseziel.",
+      "example2En": "Bali sounds like an exotic travel destination to many."
+    },
+    {
+      "de": "der Experte / die Expertin",
+      "en": "expert",
+      "pos": "noun",
+      "plural": "die Experten / die Expertinnen",
+      "meanings": [
+        {
+          "en": "expert, specialist",
+          "de": "Fachmann/Fachfrau"
+        }
+      ],
+      "rule": "Weak masculine noun: den/dem/des Experten (except nominative).",
+      "example": "Er ist ein Experte für Klimafragen.",
+      "exampleEn": "He is an expert on climate issues.",
+      "example2": "Die Expertin erklärte die Ergebnisse der Studie.",
+      "example2En": "The expert explained the results of the study."
+    },
+    {
+      "de": "die Fähigkeit",
+      "en": "ability, skill",
+      "pos": "noun",
+      "plural": "die Fähigkeiten",
+      "meanings": [
+        {
+          "en": "ability, skill, capability",
+          "de": "Können, Talent"
+        }
+      ],
+      "rule": "Feminine noun ending in -keit, always die; often used with 'zu + Infinitiv' or 'die Fähigkeit, etwas zu tun'.",
+      "example": "Sie hat die Fähigkeit, gut zuzuhören.",
+      "exampleEn": "She has the ability to listen well.",
+      "example2": "Teamarbeit erfordert soziale Fähigkeiten.",
+      "example2En": "Teamwork requires social skills."
+    },
+    {
+      "de": "die Fahrerseite",
+      "en": "driver's side",
+      "pos": "noun",
+      "plural": "die Fahrerseiten",
+      "meanings": [
+        {
+          "en": "the driver's side (of a vehicle)",
+          "de": "die Seite des Autos, auf der der Fahrer sitzt"
+        }
+      ],
+      "rule": "Compound noun: der Fahrer + die Seite → die Fahrerseite.",
+      "example": "Die Tür auf der Fahrerseite klemmt.",
+      "exampleEn": "The door on the driver's side is jammed.",
+      "example2": "Das Auto wurde an der Fahrerseite beschädigt.",
+      "example2En": "The car was damaged on the driver's side."
+    },
+    {
+      "de": "fair",
+      "en": "fair",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "fair, just",
+          "de": "gerecht, anständig"
+        }
+      ],
+      "rule": "Regular adjective (fairer, am fairsten); often used in phrases like 'fairer Preis', 'fair spielen'.",
+      "example": "Der Preis für das Fahrrad war fair.",
+      "exampleEn": "The price for the bike was fair.",
+      "example2": "Wir sollten alle Mitarbeiter fair behandeln.",
+      "example2En": "We should treat all employees fairly."
+    },
+    {
+      "de": "falls",
+      "en": "in case, if",
+      "pos": "conjunction",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in case, if (conditional)",
+          "de": "für den Fall, dass; wenn"
+        }
+      ],
+      "rule": "Subordinating conjunction, sends the verb to the end of the clause, e.g. 'falls es regnet'.",
+      "example": "Falls es regnet, bleiben wir zu Hause.",
+      "exampleEn": "In case it rains, we'll stay home.",
+      "example2": "Ruf mich an, falls du Hilfe brauchst.",
+      "example2En": "Call me if you need help."
+    },
+    {
+      "de": "der Fan",
+      "en": "fan",
+      "pos": "noun",
+      "plural": "die Fans",
+      "meanings": [
+        {
+          "en": "fan (admirer/supporter)",
+          "de": "Anhänger, Bewunderer"
+        }
+      ],
+      "rule": "Masculine noun (loanword from English); plural simply adds -s.",
+      "example": "Er ist ein großer Fan von diesem Fußballverein.",
+      "exampleEn": "He is a big fan of this football club.",
+      "example2": "Die Fans warteten stundenlang auf ihr Idol.",
+      "example2En": "The fans waited for hours for their idol."
+    },
+    {
+      "de": "die Fantasie",
+      "en": "imagination, fantasy",
+      "pos": "noun",
+      "plural": "die Fantasien",
+      "meanings": [
+        {
+          "en": "imagination, creative fantasy",
+          "de": "Vorstellungskraft, Einbildungskraft"
+        },
+        {
+          "en": "a fantasy/daydream (specific imagined idea)",
+          "de": "eine erfundene Vorstellung"
+        }
+      ],
+      "rule": "Feminine noun; also spelled 'Phantasie' in older texts, but 'Fantasie' is current standard spelling.",
+      "example": "Kinder haben oft eine lebhafte Fantasie.",
+      "exampleEn": "Children often have a vivid imagination.",
+      "example2": "Das ist nur eine Fantasie von ihm, keine Realität.",
+      "example2En": "That's just a fantasy of his, not reality."
+    },
+    {
+      "de": "färben",
+      "en": "to dye, to color",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to dye or color something",
+          "de": "einer Sache eine Farbe geben"
+        }
+      ],
+      "rule": "Regular weak verb: färbt, färbte, hat gefärbt.",
+      "example": "Sie hat sich die Haare rot gefärbt.",
+      "exampleEn": "She dyed her hair red.",
+      "example2": "Die Blätter färben sich im Herbst gelb.",
+      "example2En": "The leaves turn yellow in autumn."
+    },
+    {
+      "de": "das Fax",
+      "en": "fax",
+      "pos": "noun",
+      "plural": "die Faxe",
+      "meanings": [
+        {
+          "en": "a fax (document or machine)",
+          "de": "ein per Faxgerät gesendetes Dokument"
+        }
+      ],
+      "rule": "Neuter noun; can also mean the machine in everyday speech, though 'Faxgerät' is more precise.",
+      "example": "Bitte schicken Sie mir das Formular per Fax.",
+      "exampleEn": "Please send me the form by fax.",
+      "example2": "Ich habe gerade ein Fax vom Finanzamt bekommen.",
+      "example2En": "I just received a fax from the tax office."
+    },
+    {
+      "de": "das Fertiggericht",
+      "en": "ready meal, convenience food",
+      "pos": "noun",
+      "plural": "die Fertiggerichte",
+      "meanings": [
+        {
+          "en": "a ready-made/pre-prepared meal",
+          "de": "ein bereits zubereitetes Essen zum Aufwärmen"
+        }
+      ],
+      "rule": "Compound: fertig (ready) + das Gericht (dish) → das Fertiggericht.",
+      "example": "Am Abend esse ich oft ein Fertiggericht aus dem Supermarkt.",
+      "exampleEn": "In the evening I often eat a ready meal from the supermarket.",
+      "example2": "Fertiggerichte enthalten häufig viel Salz.",
+      "example2En": "Ready meals often contain a lot of salt."
+    },
+    {
+      "de": "die Festanstellung",
+      "en": "permanent employment",
+      "pos": "noun",
+      "plural": "die Festanstellungen",
+      "meanings": [
+        {
+          "en": "a permanent job/position",
+          "de": "eine unbefristete Arbeitsstelle"
+        }
+      ],
+      "rule": "Compound: fest + die Anstellung; contrasts with 'befristete Stelle' (temporary job).",
+      "example": "Nach dem Praktikum bekam sie eine Festanstellung.",
+      "exampleEn": "After the internship she got a permanent position.",
+      "example2": "Er sucht schon lange eine Festanstellung.",
+      "example2En": "He has been looking for a permanent job for a long time."
+    },
+    {
+      "de": "festkleben",
+      "en": "to stick firmly, to glue on",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to be/become firmly stuck to something",
+          "de": "fest an etwas kleben"
+        },
+        {
+          "en": "to glue something firmly in place",
+          "de": "etwas fest ankleben"
+        }
+      ],
+      "rule": "Trennbar (separable): klebt fest, klebte fest. Intransitive (to be stuck): ist festgeklebt, e.g. 'Der Zettel ist festgeklebt.' Transitive (to glue something on): hat festgeklebt, e.g. 'Er hat den Zettel festgeklebt.'",
+      "example": "Der Kaugummi ist am Schuh festgeklebt.",
+      "exampleEn": "The chewing gum is stuck firmly to the shoe.",
+      "example2": "Er hat das Poster an der Wand festgeklebt.",
+      "example2En": "He glued the poster firmly to the wall."
+    },
+    {
+      "de": "festlegen",
+      "en": "to determine, to set, to fix",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to determine/set something (e.g. a date, rule)",
+          "de": "etwas bestimmen, verbindlich entscheiden"
+        },
+        {
+          "en": "sich festlegen: to commit oneself",
+          "de": "sich verbindlich entscheiden"
+        }
+      ],
+      "rule": "Trennbar (separable): legt fest, legte fest, hat festgelegt; reflexive form 'sich festlegen auf + Akkusativ'.",
+      "example": "Wir müssen einen Termin für das Treffen festlegen.",
+      "exampleEn": "We need to set a date for the meeting.",
+      "example2": "Er will sich noch nicht auf einen Plan festlegen.",
+      "example2En": "He doesn't want to commit to a plan yet."
+    },
+    {
+      "de": "fett",
+      "en": "fatty, greasy; bold",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "fatty, greasy (food)",
+          "de": "reich an Fett"
+        },
+        {
+          "en": "bold (typeface)",
+          "de": "fett gedruckt"
+        }
+      ],
+      "rule": "Regular adjective (fetter, am fettesten); 'fett gedruckt' or 'fett' alone = bold text.",
+      "example": "Das Essen im Imbiss war mir zu fett.",
+      "exampleEn": "The food at the snack bar was too greasy for me.",
+      "example2": "Wichtige Wörter sind im Text fett markiert.",
+      "example2En": "Important words are marked in bold in the text."
+    },
+    {
+      "de": "finanziell",
+      "en": "financial",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "financial, relating to money",
+          "de": "das Geld betreffend"
+        }
+      ],
+      "rule": "Regular adjective, no irregular comparison; often used adverbially: 'finanziell unterstützen'.",
+      "example": "Die Firma hat finanzielle Probleme.",
+      "exampleEn": "The company has financial problems.",
+      "example2": "Meine Eltern unterstützen mich finanziell beim Studium.",
+      "example2En": "My parents support me financially during my studies."
+    },
+    {
+      "de": "das Finanzwesen",
+      "en": "finance (sector), financial system",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the finance sector/system as a whole",
+          "de": "der Bereich von Geld, Banken und Wirtschaft"
+        }
+      ],
+      "rule": "Uncountable neuter noun (no plural); often used in professional/academic contexts, e.g. 'im Finanzwesen arbeiten'.",
+      "example": "Sie arbeitet im Finanzwesen einer großen Bank.",
+      "exampleEn": "She works in the finance department of a large bank.",
+      "example2": "Er hat Finanzwesen studiert.",
+      "example2En": "He studied finance."
+    },
+    {
+      "de": "der Firmensitz",
+      "en": "company headquarters",
+      "pos": "noun",
+      "plural": "die Firmensitze",
+      "meanings": [
+        {
+          "en": "registered office / headquarters of a company",
+          "de": "Ort, an dem eine Firma offiziell registriert ist"
+        }
+      ],
+      "rule": "Compound noun: die Firma + der Sitz; takes the article of Sitz (der).",
+      "example": "Der Firmensitz des Unternehmens ist in München.",
+      "exampleEn": "The company's headquarters is in Munich.",
+      "example2": "Die Firma hat ihren Firmensitz nach Berlin verlegt.",
+      "example2En": "The company moved its headquarters to Berlin."
+    },
+    {
+      "de": "fix",
+      "en": "fixed; quick",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "fixed, set (e.g. price, idea)",
+          "de": "fest, unveränderlich"
+        },
+        {
+          "en": "quick, fast (colloquial)",
+          "de": "schnell, flink"
+        }
+      ],
+      "rule": "No irregular comparison; in colloquial use 'fix' often means quick/fast ('mach fix!').",
+      "example": "Wir haben einen fixen Termin vereinbart.",
+      "exampleEn": "We agreed on a fixed appointment.",
+      "example2": "Mach das bitte fix, wir haben keine Zeit mehr.",
+      "example2En": "Please do that quickly, we have no more time."
+    },
+    {
+      "de": "fleischfrei",
+      "en": "meat-free",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "containing no meat",
+          "de": "ohne Fleisch"
+        }
+      ],
+      "rule": "No irregular comparison; often used for dishes/menus.",
+      "example": "Im Restaurant gibt es auch fleischfreie Gerichte.",
+      "exampleEn": "The restaurant also has meat-free dishes.",
+      "example2": "Sie isst seit einem Jahr fleischfrei.",
+      "example2En": "She has been eating meat-free for a year."
+    },
+    {
+      "de": "fleischlos",
+      "en": "meatless",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "without meat",
+          "de": "ohne Fleisch"
+        }
+      ],
+      "rule": "Synonym of 'fleischfrei'; no irregular comparison.",
+      "example": "Am Montag kochen wir immer fleischlos.",
+      "exampleEn": "On Mondays we always cook without meat.",
+      "example2": "Eine fleischlose Ernährung ist gesund.",
+      "example2En": "A meatless diet is healthy."
+    },
+    {
+      "de": "fließend",
+      "en": "fluent; flowing",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "fluent (language)",
+          "de": "ohne Schwierigkeiten, flüssig"
+        },
+        {
+          "en": "flowing (liquid)",
+          "de": "strömend, laufend"
+        }
+      ],
+      "rule": "Present participle of 'fließen' used as adjective; no irregular comparison.",
+      "example": "Sie spricht fließend Deutsch.",
+      "exampleEn": "She speaks German fluently.",
+      "example2": "Das Zimmer hat fließendes Wasser.",
+      "example2En": "The room has running water."
+    },
+    {
+      "de": "der Flüchtling",
+      "en": "refugee",
+      "pos": "noun",
+      "plural": "die Flüchtlinge",
+      "meanings": [
+        {
+          "en": "a person fleeing war, persecution or disaster",
+          "de": "jemand, der aus seinem Land fliehen musste"
+        }
+      ],
+      "rule": "Always masculine noun even for women; from 'fliehen' (to flee).",
+      "example": "Viele Flüchtlinge kamen in die Stadt.",
+      "exampleEn": "Many refugees came to the city.",
+      "example2": "Die Gemeinde hilft den Flüchtlingen bei der Wohnungssuche.",
+      "example2En": "The community helps the refugees find housing."
+    },
+    {
+      "de": "der Flug",
+      "en": "flight",
+      "pos": "noun",
+      "plural": "die Flüge",
+      "meanings": [
+        {
+          "en": "a journey by aircraft",
+          "de": "Reise mit dem Flugzeug"
+        }
+      ],
+      "rule": "From 'fliegen' (fliegt, flog, ist geflogen); masculine noun.",
+      "example": "Der Flug nach Rom dauert zwei Stunden.",
+      "exampleEn": "The flight to Rome takes two hours.",
+      "example2": "Wir haben einen günstigen Flug gebucht.",
+      "example2En": "We booked a cheap flight."
+    },
+    {
+      "de": "der Flugbegleiter / die Flugbegleiterin",
+      "en": "flight attendant",
+      "pos": "noun",
+      "plural": "die Flugbegleiter / die Flugbegleiterinnen",
+      "meanings": [
+        {
+          "en": "crew member who assists passengers on a plane",
+          "de": "Person, die Passagiere im Flugzeug betreut"
+        }
+      ],
+      "rule": "Compound of Flug + Begleiter/in; add -in for feminine form.",
+      "example": "Der Flugbegleiter bringt uns etwas zu trinken.",
+      "exampleEn": "The flight attendant brings us something to drink.",
+      "example2": "Die Flugbegleiterin erklärt die Sicherheitsregeln.",
+      "example2En": "The flight attendant explains the safety rules."
+    },
+    {
+      "de": "der Fluggast",
+      "en": "airline passenger",
+      "pos": "noun",
+      "plural": "die Fluggäste",
+      "meanings": [
+        {
+          "en": "a passenger travelling by plane",
+          "de": "Passagier, der fliegt"
+        }
+      ],
+      "rule": "Compound of Flug + Gast; masculine noun used for both genders.",
+      "example": "Alle Fluggäste müssen ihren Ausweis zeigen.",
+      "exampleEn": "All airline passengers must show their ID.",
+      "example2": "Der Fluggast wartet am Gate.",
+      "example2En": "The passenger is waiting at the gate."
+    },
+    {
+      "de": "die Fluggesellschaft",
+      "en": "airline (company)",
+      "pos": "noun",
+      "plural": "die Fluggesellschaften",
+      "meanings": [
+        {
+          "en": "a company that operates flights",
+          "de": "Firma, die Flüge anbietet"
+        }
+      ],
+      "rule": "Compound noun: Flug + Gesellschaft; takes article of Gesellschaft (die).",
+      "example": "Die Fluggesellschaft hat den Flug gestrichen.",
+      "exampleEn": "The airline cancelled the flight.",
+      "example2": "Welche Fluggesellschaft fliegt nach Athen?",
+      "example2En": "Which airline flies to Athens?"
+    },
+    {
+      "de": "der Föhn",
+      "en": "hairdryer; warm alpine wind",
+      "pos": "noun",
+      "plural": "die Föhne",
+      "meanings": [
+        {
+          "en": "a hairdryer",
+          "de": "Gerät zum Trocknen der Haare"
+        },
+        {
+          "en": "a warm dry wind coming down mountains (Alps)",
+          "de": "warmer, trockener Fallwind in den Alpen"
+        }
+      ],
+      "rule": "Masculine noun; also the verb 'föhnen' means to blow-dry hair.",
+      "example": "Ich trockne meine Haare mit dem Föhn.",
+      "exampleEn": "I dry my hair with the hairdryer.",
+      "example2": "Heute weht ein warmer Föhn von den Bergen.",
+      "example2En": "Today a warm foehn wind is blowing from the mountains."
+    },
+    {
+      "de": "fordern",
+      "en": "to demand",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to demand, to insist on something",
+          "de": "etwas nachdrücklich verlangen"
+        }
+      ],
+      "rule": "Regular weak verb: fordert, forderte, hat gefordert. Not reflexive, not separable. Don't confuse with 'fördern' (to promote/support).",
+      "example": "Die Mitarbeiter fordern mehr Gehalt.",
+      "exampleEn": "The employees are demanding more salary.",
+      "example2": "Der Chef fordert pünktliches Erscheinen.",
+      "example2En": "The boss demands punctual arrival."
+    },
+    {
+      "de": "fördern",
+      "en": "to promote, to support",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to promote, support, encourage (e.g. a person, talent, project)",
+          "de": "jemanden/etwas unterstützen, voranbringen"
+        },
+        {
+          "en": "to extract (e.g. coal, oil) - technical use",
+          "de": "Rohstoffe aus der Erde holen"
+        }
+      ],
+      "rule": "Regular weak verb: fördert, förderte, hat gefördert. Not to be confused with 'fordern' (to demand).",
+      "example": "Die Schule fördert besonders begabte Schüler.",
+      "exampleEn": "The school supports especially gifted students.",
+      "example2": "In der Region wird seit Jahren Kohle gefördert.",
+      "example2En": "Coal has been mined in the region for years."
+    },
+    {
+      "de": "die Formalität",
+      "en": "formality",
+      "pos": "noun",
+      "plural": "die Formalitäten",
+      "meanings": [
+        {
+          "en": "an official procedure or requirement",
+          "de": "vorgeschriebene Regel, amtliche Vorschrift"
+        }
+      ],
+      "rule": "Usually used in plural: 'die Formalitäten erledigen' (to deal with the formalities).",
+      "example": "Bei der Einreise müssen wir einige Formalitäten erledigen.",
+      "exampleEn": "At entry we need to complete a few formalities.",
+      "example2": "Die Anmeldung ist nur eine Formalität.",
+      "example2En": "The registration is just a formality."
+    },
+    {
+      "de": "förmlich",
+      "en": "formal",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "formal, polite in a stiff/official way",
+          "de": "steif, offiziell, nicht locker"
+        }
+      ],
+      "rule": "No irregular comparison; don't confuse with 'formell' (also formal, near-synonym).",
+      "example": "Er hat mich sehr förmlich begrüßt.",
+      "exampleEn": "He greeted me very formally.",
+      "example2": "Im Brief benutzte sie einen förmlichen Ton.",
+      "example2En": "In the letter she used a formal tone."
+    },
+    {
+      "de": "die Formulierung",
+      "en": "wording, phrasing",
+      "pos": "noun",
+      "plural": "die Formulierungen",
+      "meanings": [
+        {
+          "en": "the specific way something is expressed in words",
+          "de": "die Art, wie etwas ausgedrückt wird"
+        }
+      ],
+      "rule": "From verb 'formulieren' (to formulate); feminine noun ending in -ung.",
+      "example": "Die Formulierung des Satzes ist unklar.",
+      "exampleEn": "The wording of the sentence is unclear.",
+      "example2": "Bitte wählen Sie eine höflichere Formulierung.",
+      "example2En": "Please choose a more polite phrasing."
+    },
+    {
+      "de": "der Förster / die Försterin",
+      "en": "forester, forest ranger",
+      "pos": "noun",
+      "plural": "die Förster / die Försterinnen",
+      "meanings": [
+        {
+          "en": "a person who manages and protects a forest",
+          "de": "Person, die einen Wald pflegt und betreut"
+        }
+      ],
+      "rule": "Add -in for the feminine form; related to 'der Forst' (forest).",
+      "example": "Der Förster kontrolliert regelmäßig den Wald.",
+      "exampleEn": "The forester regularly inspects the forest.",
+      "example2": "Die Försterin zeigt den Kindern die Tiere im Wald.",
+      "example2En": "The forest ranger shows the children the animals in the forest."
+    },
+    {
+      "de": "die Fortbildung",
+      "en": "further training, professional development",
+      "pos": "noun",
+      "plural": "die Fortbildungen",
+      "meanings": [
+        {
+          "en": "training to improve or update professional skills",
+          "de": "Kurs oder Training zur beruflichen Weiterqualifizierung"
+        }
+      ],
+      "rule": "From 'sich fortbilden' (to continue one's education); feminine noun.",
+      "example": "Meine Firma bietet regelmäßige Fortbildungen an.",
+      "exampleEn": "My company offers regular training courses.",
+      "example2": "Er macht eine Fortbildung im Bereich IT.",
+      "example2En": "He is doing further training in IT."
+    },
+    {
+      "de": "die Fotokopie",
+      "en": "photocopy",
+      "pos": "noun",
+      "plural": "die Fotokopien",
+      "meanings": [
+        {
+          "en": "a copied reproduction of a document",
+          "de": "eine kopierte Seite eines Dokuments"
+        }
+      ],
+      "rule": "Compound of Foto + Kopie; makes plural with -n. Verb 'fotokopieren' = to photocopy.",
+      "example": "Kannst du bitte eine Fotokopie von meinem Ausweis machen?",
+      "exampleEn": "Can you please make a photocopy of my ID?",
+      "example2": "Die Fotokopie des Vertrags liegt im Ordner.",
+      "example2En": "The photocopy of the contract is in the folder."
+    },
+    {
+      "de": "die Fremdsprache",
+      "en": "foreign language",
+      "pos": "noun",
+      "plural": "die Fremdsprachen",
+      "meanings": [
+        {
+          "en": "a language other than one's native language",
+          "de": "eine Sprache, die nicht die Muttersprache ist"
+        }
+      ],
+      "rule": "Compound: fremd (foreign) + Sprache (language); regular feminine noun, plural -n.",
+      "example": "Englisch ist meine erste Fremdsprache.",
+      "exampleEn": "English is my first foreign language.",
+      "example2": "Er lernt seit einem Jahr eine neue Fremdsprache.",
+      "example2En": "He has been learning a new foreign language for a year."
+    },
+    {
+      "de": "die Freude",
+      "en": "joy, pleasure",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "a feeling of great happiness",
+          "de": "ein Gefühl von großem Glück"
+        }
+      ],
+      "rule": "Usually uncountable in this sense; 'Freude an/über etwas haben' = to take joy in something. Feminine noun.",
+      "example": "Die Kinder hatten große Freude am Geschenk.",
+      "exampleEn": "The children were delighted with the gift.",
+      "example2": "Es ist mir eine Freude, dich wiederzusehen.",
+      "example2En": "It is a pleasure for me to see you again."
+    },
+    {
+      "de": "der Freundeskreis",
+      "en": "circle of friends",
+      "pos": "noun",
+      "plural": "die Freundeskreise",
+      "meanings": [
+        {
+          "en": "a group of people who are friends with each other",
+          "de": "eine Gruppe von Menschen, die miteinander befreundet sind"
+        }
+      ],
+      "rule": "Compound: Freund(e) + Kreis; masculine noun, plural -e.",
+      "example": "Er hat einen großen Freundeskreis.",
+      "exampleEn": "He has a large circle of friends.",
+      "example2": "In meinem Freundeskreis sprechen wir oft über Politik.",
+      "example2En": "In my circle of friends we often talk about politics."
+    },
+    {
+      "de": "der Frieden",
+      "en": "peace",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "a state without war or conflict",
+          "de": "ein Zustand ohne Krieg oder Konflikt"
+        }
+      ],
+      "rule": "Usually uncountable; masculine noun. 'Frieden schließen' = to make peace.",
+      "example": "Die beiden Länder leben seit Jahrzehnten in Frieden.",
+      "exampleEn": "The two countries have lived in peace for decades.",
+      "example2": "Die beiden Staaten schlossen nach langen Verhandlungen endlich Frieden.",
+      "example2En": "The two states finally made peace after long negotiations."
+    },
+    {
+      "de": "friedlich",
+      "en": "peaceful",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "calm and without violence or conflict",
+          "de": "ruhig und ohne Gewalt oder Konflikt"
+        }
+      ],
+      "rule": "Regular adjective, comparison: friedlich, friedlicher, am friedlichsten.",
+      "example": "Die Demonstration verlief friedlich.",
+      "exampleEn": "The demonstration proceeded peacefully.",
+      "example2": "Sie führen ein friedliches Leben auf dem Land.",
+      "example2En": "They lead a peaceful life in the countryside."
+    },
+    {
+      "de": "die Frist",
+      "en": "deadline, time limit",
+      "pos": "noun",
+      "plural": "die Fristen",
+      "meanings": [
+        {
+          "en": "a fixed period of time by which something must be done",
+          "de": "ein festgelegter Zeitraum, in dem etwas erledigt werden muss"
+        }
+      ],
+      "rule": "Feminine noun, plural -en. Common phrase: 'eine Frist einhalten' (to meet a deadline).",
+      "example": "Die Frist für die Anmeldung endet am Freitag.",
+      "exampleEn": "The deadline for registration ends on Friday.",
+      "example2": "Bitte zahlen Sie die Rechnung innerhalb der Frist.",
+      "example2En": "Please pay the invoice within the deadline."
+    },
+    {
+      "de": "fristgerecht",
+      "en": "on time, within the deadline",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "done within the required time limit",
+          "de": "innerhalb der vorgeschriebenen Frist erledigt"
+        }
+      ],
+      "rule": "Compound adjective from Frist + gerecht; often used adverbially before a verb.",
+      "example": "Bitte reichen Sie die Unterlagen fristgerecht ein.",
+      "exampleEn": "Please submit the documents on time.",
+      "example2": "Er hat die Miete fristgerecht bezahlt.",
+      "example2En": "He paid the rent within the deadline."
+    },
+    {
+      "de": "fristlos",
+      "en": "without notice, immediate (dismissal)",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "happening immediately, without the usual notice period",
+          "de": "ohne die übliche Kündigungsfrist"
+        }
+      ],
+      "rule": "Compound: Frist + -los (without); mostly used with 'kündigen' (fristlose Kündigung = dismissal without notice).",
+      "example": "Er wurde fristlos entlassen.",
+      "exampleEn": "He was dismissed without notice.",
+      "example2": "Der Vermieter hat den Mietvertrag fristlos gekündigt.",
+      "example2En": "The landlord terminated the lease without notice."
+    },
+    {
+      "de": "die Frisur",
+      "en": "hairstyle",
+      "pos": "noun",
+      "plural": "die Frisuren",
+      "meanings": [
+        {
+          "en": "the way someone's hair is cut or styled",
+          "de": "die Art, wie jemandes Haare geschnitten oder gestylt sind"
+        }
+      ],
+      "rule": "Feminine noun, plural -en.",
+      "example": "Sie hat sich eine neue Frisur machen lassen.",
+      "exampleEn": "She had a new hairstyle done.",
+      "example2": "Seine Frisur passt gut zu seinem Gesicht.",
+      "example2En": "His hairstyle suits his face well."
+    }
+  ]
+}

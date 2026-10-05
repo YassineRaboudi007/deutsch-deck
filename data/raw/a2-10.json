@@ -1,0 +1,877 @@
+{
+  "id": "a2-10",
+  "title": "A2 · H–K (10)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "das Hufeisen",
+      "en": "horseshoe",
+      "pos": "noun",
+      "plural": "die Hufeisen",
+      "meanings": [
+        {
+          "en": "horseshoe",
+          "de": "Eisen unter dem Pferdehuf"
+        }
+      ],
+      "rule": "Neutrum; Plural ohne Endungsänderung: die Hufeisen.",
+      "example": "Das Pferd bekommt ein neues Hufeisen.",
+      "exampleEn": "The horse is getting a new horseshoe.",
+      "example2": "Ein Hufeisen soll Glück bringen.",
+      "example2En": "A horseshoe is said to bring luck."
+    },
+    {
+      "de": "die IBAN",
+      "en": "IBAN (bank account number)",
+      "pos": "noun",
+      "plural": "die IBANs",
+      "meanings": [
+        {
+          "en": "international bank account number",
+          "de": "internationale Kontonummer"
+        }
+      ],
+      "rule": "Abkürzung für 'International Bank Account Number'; feminines Genus wegen 'die Nummer'.",
+      "example": "Ich brauche Ihre IBAN für die Überweisung.",
+      "exampleEn": "I need your IBAN for the transfer.",
+      "example2": "Die IBAN steht auf der Bankkarte.",
+      "example2En": "The IBAN is printed on the bank card."
+    },
+    {
+      "de": "indirekt",
+      "en": "indirect",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "indirect, not direct",
+          "de": "nicht direkt"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: indirekt, indirekter, am indirektesten; Gegenteil von direkt.",
+      "example": "Das war eine indirekte Frage.",
+      "exampleEn": "That was an indirect question.",
+      "example2": "Wir sind auf einem indirekten Weg nach Hause gefahren.",
+      "example2En": "We drove home by an indirect route."
+    },
+    {
+      "de": "der Informatiker / die Informatikerin",
+      "en": "computer scientist, IT specialist",
+      "pos": "noun",
+      "plural": "die Informatiker / die Informatikerinnen",
+      "meanings": [
+        {
+          "en": "computer scientist / IT professional",
+          "de": "Fachperson für Informatik"
+        }
+      ],
+      "rule": "Berufsbezeichnung; weibliche Form mit -in.",
+      "example": "Mein Bruder ist Informatiker bei einer großen Firma.",
+      "exampleEn": "My brother is a computer scientist at a big company.",
+      "example2": "Die Informatikerin repariert unseren Computer.",
+      "example2En": "The IT specialist is fixing our computer."
+    },
+    {
+      "de": "informieren",
+      "en": "to inform",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to inform someone (about something)",
+          "de": "jemandem Informationen geben"
+        },
+        {
+          "en": "to inform oneself, find out",
+          "de": "sich Informationen holen"
+        }
+      ],
+      "rule": "regelmäßig: informiert, informierte, hat informiert; oft reflexiv 'sich informieren über + Akkusativ'.",
+      "example": "Der Lehrer informiert die Eltern über den Ausflug.",
+      "exampleEn": "The teacher informs the parents about the trip.",
+      "example2": "Ich möchte mich über den Kurs informieren.",
+      "example2En": "I would like to find out about the course."
+    },
+    {
+      "de": "die Innenstadt",
+      "en": "city centre, downtown",
+      "pos": "noun",
+      "plural": "die Innenstädte",
+      "meanings": [
+        {
+          "en": "city centre, downtown area",
+          "de": "Zentrum einer Stadt"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'innen' + 'Stadt'; Plural mit Umlaut: die Innenstädte.",
+      "example": "Wir fahren mit dem Bus in die Innenstadt.",
+      "exampleEn": "We are taking the bus to the city centre.",
+      "example2": "In der Innenstadt gibt es viele Geschäfte.",
+      "example2En": "There are many shops in the city centre."
+    },
+    {
+      "de": "die Integration",
+      "en": "integration",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "integration (into society)",
+          "de": "Eingliederung in eine Gemeinschaft"
+        }
+      ],
+      "rule": "Unzählbares Abstraktum, kein Plural üblich.",
+      "example": "Die Sprache ist wichtig für die Integration.",
+      "exampleEn": "Language is important for integration.",
+      "example2": "Der Verein unterstützt die Integration von Familien.",
+      "example2En": "The association supports the integration of families."
+    },
+    {
+      "de": "der Integrationskurs",
+      "en": "integration course",
+      "pos": "noun",
+      "plural": "die Integrationskurse",
+      "meanings": [
+        {
+          "en": "government-run integration course (language + civics)",
+          "de": "Kurs zum Deutschlernen und Kennenlernen der Gesellschaft"
+        }
+      ],
+      "rule": "Zusammensetzung Integration + Kurs; maskulin wie 'der Kurs'.",
+      "example": "Sie besucht gerade einen Integrationskurs.",
+      "exampleEn": "She is currently attending an integration course.",
+      "example2": "Der Integrationskurs dauert mehrere Monate.",
+      "example2En": "The integration course lasts several months."
+    },
+    {
+      "de": "der Integrationsverein",
+      "en": "integration association",
+      "pos": "noun",
+      "plural": "die Integrationsvereine",
+      "meanings": [
+        {
+          "en": "association/club that supports integration",
+          "de": "Verein, der Integration fördert"
+        }
+      ],
+      "rule": "Zusammensetzung Integration + Verein; maskulin wie 'der Verein'.",
+      "example": "Der Integrationsverein organisiert ein Fest für alle Familien.",
+      "exampleEn": "The integration association is organizing a festival for all families.",
+      "example2": "Ich helfe ehrenamtlich im Integrationsverein.",
+      "example2En": "I volunteer at the integration association."
+    },
+    {
+      "de": "interessieren",
+      "en": "to interest",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to interest someone",
+          "de": "jemandes Interesse wecken"
+        },
+        {
+          "en": "to be interested in something (sich interessieren für)",
+          "de": "Interesse an etwas haben"
+        }
+      ],
+      "rule": "regelmäßig: interessiert, interessierte, hat interessiert; reflexiv 'sich interessieren für + Akkusativ'.",
+      "example": "Musik interessiert mich sehr.",
+      "exampleEn": "Music interests me a lot.",
+      "example2": "Ich interessiere mich für Sport.",
+      "example2En": "I'm interested in sport."
+    },
+    {
+      "de": "international",
+      "en": "international",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "international",
+          "de": "zwischen mehreren Ländern"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung, wird aber selten gesteigert (eher absolut gebraucht).",
+      "example": "Er arbeitet für eine internationale Firma.",
+      "exampleEn": "He works for an international company.",
+      "example2": "Das Festival ist international bekannt.",
+      "example2En": "The festival is internationally known."
+    },
+    {
+      "de": "das Internet",
+      "en": "the internet",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the internet",
+          "de": "weltweites Computernetzwerk"
+        }
+      ],
+      "rule": "Unzählbar, meist mit Artikel 'das Internet', oft mit Präposition 'im Internet'.",
+      "example": "Ich suche Informationen im Internet.",
+      "exampleEn": "I'm looking for information on the internet.",
+      "example2": "Ohne Internet kann ich nicht arbeiten.",
+      "example2En": "I can't work without the internet."
+    },
+    {
+      "de": "der Internetzugang",
+      "en": "internet access",
+      "pos": "noun",
+      "plural": "die Internetzugänge",
+      "meanings": [
+        {
+          "en": "internet access / connection",
+          "de": "Möglichkeit, das Internet zu nutzen"
+        }
+      ],
+      "rule": "Zusammensetzung Internet + Zugang; maskulin wie 'der Zugang'.",
+      "example": "Das Hotel bietet kostenlosen Internetzugang.",
+      "exampleEn": "The hotel offers free internet access.",
+      "example2": "Wir haben zu Hause keinen schnellen Internetzugang.",
+      "example2En": "We don't have fast internet access at home."
+    },
+    {
+      "de": "der Interviewpartner / die Interviewpartnerin",
+      "en": "interviewee, interview partner",
+      "pos": "noun",
+      "plural": "die Interviewpartner / die Interviewpartnerinnen",
+      "meanings": [
+        {
+          "en": "the person being interviewed (interviewee)",
+          "de": "Person, die in einem Interview befragt wird"
+        }
+      ],
+      "rule": "Compound noun: Interview + Partner/in; feminine form adds -in. Refers to the person being interviewed, not the interviewer (der Interviewer).",
+      "example": "Mein Interviewpartner hat viele interessante Antworten gegeben.",
+      "exampleEn": "My interview partner gave many interesting answers.",
+      "example2": "Die Journalistin sucht einen neuen Interviewpartner.",
+      "example2En": "The journalist is looking for a new interviewee."
+    },
+    {
+      "de": "irgendwo",
+      "en": "somewhere",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "at some unspecified place",
+          "de": "an einem unbestimmten Ort"
+        }
+      ],
+      "rule": "Indefinite place adverb; formed from irgend- + wo. Compare irgendwohin (direction).",
+      "example": "Ich habe meinen Schlüssel irgendwo verloren.",
+      "exampleEn": "I lost my key somewhere.",
+      "example2": "Er wartet bestimmt irgendwo auf uns.",
+      "example2En": "He's definitely waiting for us somewhere."
+    },
+    {
+      "de": "jährlich",
+      "en": "yearly, annual",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "happening once a year",
+          "de": "einmal im Jahr"
+        }
+      ],
+      "rule": "Regular adjective/adverb; no irregular comparison. Related to das Jahr.",
+      "example": "Wir fahren jährlich in den Urlaub.",
+      "exampleEn": "We go on vacation every year.",
+      "example2": "Die jährliche Miete steigt um zwei Prozent.",
+      "example2En": "The annual rent is rising by two percent."
+    },
+    {
+      "de": "jederzeit",
+      "en": "anytime, at any time",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "at any time, whenever you like",
+          "de": "immer, zu jeder Zeit"
+        }
+      ],
+      "rule": "Fixed compound of jeder + Zeit; no inflection.",
+      "example": "Sie können mich jederzeit anrufen.",
+      "exampleEn": "You can call me anytime.",
+      "example2": "Der Vertrag kann jederzeit gekündigt werden.",
+      "example2En": "The contract can be cancelled at any time."
+    },
+    {
+      "de": "jemand",
+      "en": "someone, somebody",
+      "pos": "pronoun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "an unspecified person",
+          "de": "eine unbestimmte Person"
+        }
+      ],
+      "rule": "Indefinite pronoun; declines: jemand, jemanden (Akk.), jemandem (Dat.); opposite niemand.",
+      "example": "Hat jemand meinen Regenschirm gesehen?",
+      "exampleEn": "Has anyone seen my umbrella?",
+      "example2": "Ich möchte jemandem danken.",
+      "example2En": "I would like to thank someone."
+    },
+    {
+      "de": "jeweils",
+      "en": "each time, respectively",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in each case, each time",
+          "de": "in jedem einzelnen Fall"
+        }
+      ],
+      "rule": "Often used with numbers/quantities, e.g. 'jeweils zwei Stück' = two pieces each.",
+      "example": "Die Kurse finden jeweils montags statt.",
+      "exampleEn": "The courses take place each Monday.",
+      "example2": "Die Teilnehmer bekommen jeweils ein Buch.",
+      "example2En": "The participants each get one book."
+    },
+    {
+      "de": "jobben",
+      "en": "to work a (part-time/casual) job",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to do casual or part-time work, especially as a student",
+          "de": "eine Nebentätigkeit oder einen Ferienjob ausüben"
+        }
+      ],
+      "rule": "Regular weak verb: jobbt, jobbte, hat gejobbt. From English 'job'.",
+      "example": "Im Sommer jobbe ich in einem Café.",
+      "exampleEn": "In summer I work a part-time job in a café.",
+      "example2": "Er hat als Student oft gejobbt.",
+      "example2En": "As a student he often worked casual jobs."
+    },
+    {
+      "de": "der Junge",
+      "en": "boy",
+      "pos": "noun",
+      "plural": "die Jungen",
+      "meanings": [
+        {
+          "en": "a male child or youth",
+          "de": "männliches Kind oder männlicher Jugendlicher"
+        }
+      ],
+      "rule": "Weak masculine noun: den/dem/des Jungen in singular (except Nom.).",
+      "example": "Der kleine Junge spielt Fußball.",
+      "exampleEn": "The little boy is playing football.",
+      "example2": "Zwei Jungen warten vor der Schule.",
+      "example2En": "Two boys are waiting in front of the school."
+    },
+    {
+      "de": "der Kabelsalat",
+      "en": "tangle of cables",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "a messy tangle of cables/wires",
+          "de": "ein Durcheinander von Kabeln"
+        }
+      ],
+      "rule": "Compound noun Kabel + Salat (informal); usually used only in singular.",
+      "example": "Hinter dem Fernseher ist ein richtiger Kabelsalat.",
+      "exampleEn": "Behind the TV there's a real tangle of cables.",
+      "example2": "Ich möchte den Kabelsalat endlich aufräumen.",
+      "example2En": "I finally want to sort out the cable mess."
+    },
+    {
+      "de": "die Kamera",
+      "en": "camera",
+      "pos": "noun",
+      "plural": "die Kameras",
+      "meanings": [
+        {
+          "en": "a device for taking photos or video",
+          "de": "Gerät zum Fotografieren oder Filmen"
+        }
+      ],
+      "rule": "Feminine noun, plural in -s (foreign origin).",
+      "example": "Ich habe eine neue Kamera gekauft.",
+      "exampleEn": "I bought a new camera.",
+      "example2": "Die Kamera im Laden hat alles aufgenommen.",
+      "example2En": "The camera in the shop recorded everything."
+    },
+    {
+      "de": "kariert",
+      "en": "checkered, checked",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having a check/plaid pattern",
+          "de": "mit einem Muster aus Karos"
+        }
+      ],
+      "rule": "Regular adjective, from das Karo (square); no irregular comparison.",
+      "example": "Er trägt ein kariertes Hemd.",
+      "exampleEn": "He is wearing a checkered shirt.",
+      "example2": "Ich schreibe lieber auf kariertem Papier.",
+      "example2En": "I prefer to write on squared paper."
+    },
+    {
+      "de": "die Kategorie",
+      "en": "category",
+      "pos": "noun",
+      "plural": "die Kategorien",
+      "meanings": [
+        {
+          "en": "a group of things sharing characteristics",
+          "de": "eine Gruppe von ähnlichen Dingen"
+        }
+      ],
+      "rule": "Feminine noun; plural -n. Stress on the last syllable: Kategorie.",
+      "example": "In welche Kategorie passt dieses Produkt?",
+      "exampleEn": "Which category does this product fit into?",
+      "example2": "Es gibt verschiedene Kategorien im Wettbewerb.",
+      "example2En": "There are different categories in the competition."
+    },
+    {
+      "de": "kaufmännisch",
+      "en": "commercial, business-related",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to trade, business or commerce",
+          "de": "den Handel oder die Wirtschaft betreffend"
+        }
+      ],
+      "rule": "Derived from der Kaufmann; often in 'kaufmännische Ausbildung'.",
+      "example": "Sie macht eine kaufmännische Ausbildung.",
+      "exampleEn": "She is doing a commercial apprenticeship.",
+      "example2": "Er arbeitet im kaufmännischen Bereich der Firma.",
+      "example2En": "He works in the commercial department of the company."
+    },
+    {
+      "de": "der Kellerzugang",
+      "en": "access to the basement",
+      "pos": "noun",
+      "plural": "die Kellerzugänge",
+      "meanings": [
+        {
+          "en": "entrance or access to a cellar/basement",
+          "de": "Zugang oder Eingang zum Keller"
+        }
+      ],
+      "rule": "Compound noun Keller + Zugang; plural with umlaut like der Zugang → die Zugänge.",
+      "example": "Der Kellerzugang ist hinter dem Haus.",
+      "exampleEn": "The basement access is behind the house.",
+      "example2": "Bitte halten Sie den Kellerzugang frei.",
+      "example2En": "Please keep the basement access clear."
+    },
+    {
+      "de": "die Kenntnisse",
+      "en": "knowledge, skills",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "knowledge or skills in a field",
+          "de": "Wissen oder Fähigkeiten in einem Bereich"
+        }
+      ],
+      "rule": "Plural-only in this meaning (singular die Kenntnis has a narrower sense: 'a piece of knowledge/awareness'); often in compounds like 'Deutschkenntnisse'.",
+      "example": "Für den Job braucht man gute Englischkenntnisse.",
+      "exampleEn": "For the job you need good English skills.",
+      "example2": "Sie hat gute Kenntnisse in der Buchhaltung.",
+      "example2En": "She has good knowledge of bookkeeping."
+    },
+    {
+      "de": "das Kennwort",
+      "en": "password",
+      "pos": "noun",
+      "plural": "die Kennwörter",
+      "meanings": [
+        {
+          "en": "a secret word used to access something",
+          "de": "geheimes Wort zum Zugriff auf etwas"
+        }
+      ],
+      "rule": "Compound noun Kenn- + Wort; plural with umlaut like das Wort → die Wörter. Synonym: das Passwort.",
+      "example": "Ich habe mein Kennwort vergessen.",
+      "exampleEn": "I forgot my password.",
+      "example2": "Bitte geben Sie Ihr Kennwort ein.",
+      "example2En": "Please enter your password."
+    },
+    {
+      "de": "kennzeichnen",
+      "en": "to mark, to label",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to mark or label something clearly",
+          "de": "etwas deutlich markieren"
+        },
+        {
+          "en": "to characterize, to be typical of",
+          "de": "typisch sein für etwas"
+        }
+      ],
+      "rule": "Regular weak verb, inseparable (kenn- is not separable here): kennzeichnet, kennzeichnete, hat gekennzeichnet.",
+      "example": "Bitte kennzeichnen Sie die gefährlichen Waren.",
+      "exampleEn": "Please mark the dangerous goods.",
+      "example2": "Geduld kennzeichnet eine gute Lehrerin.",
+      "example2En": "Patience characterizes a good teacher."
+    },
+    {
+      "de": "die Kerze",
+      "en": "candle",
+      "pos": "noun",
+      "plural": "die Kerzen",
+      "meanings": [
+        {
+          "en": "candle",
+          "de": "Wachsstab mit Docht, der brennt"
+        }
+      ],
+      "rule": "Feminines Nomen; Plural auf -n.",
+      "example": "Sie zündet eine Kerze für den Geburtstagskuchen an.",
+      "exampleEn": "She lights a candle for the birthday cake.",
+      "example2": "Bei Stromausfall benutzen wir Kerzen.",
+      "example2En": "During a power outage we use candles."
+    },
+    {
+      "de": "das Kindergeld",
+      "en": "child benefit",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "state payment to parents for children",
+          "de": "staatliche Geldleistung für Eltern mit Kindern"
+        }
+      ],
+      "rule": "Neutrum; nur Singular (unzählbar), kein Plural.",
+      "example": "Die Familie bekommt jeden Monat Kindergeld.",
+      "exampleEn": "The family receives child benefit every month.",
+      "example2": "Man muss das Kindergeld beim Amt beantragen.",
+      "example2En": "You have to apply for child benefit at the office."
+    },
+    {
+      "de": "die Kindertagesstätte (Kita)",
+      "en": "daycare center",
+      "pos": "noun",
+      "plural": "die Kindertagesstätten",
+      "meanings": [
+        {
+          "en": "daycare / nursery for young children",
+          "de": "Einrichtung, die kleine Kinder tagsüber betreut"
+        }
+      ],
+      "rule": "Femininum; Abkürzung 'die Kita' ist im Alltag üblicher.",
+      "example": "Unser Sohn geht jeden Tag in die Kita.",
+      "exampleEn": "Our son goes to daycare every day.",
+      "example2": "Die Kindertagesstätte öffnet um sieben Uhr.",
+      "example2En": "The daycare center opens at seven o'clock."
+    },
+    {
+      "de": "der Kinderwagen",
+      "en": "baby stroller",
+      "pos": "noun",
+      "plural": "die Kinderwagen",
+      "meanings": [
+        {
+          "en": "pram / stroller for a baby",
+          "de": "Wagen, in dem man ein Baby schiebt"
+        }
+      ],
+      "rule": "Maskulinum; Plural bleibt unverändert (wie Singular).",
+      "example": "Sie schiebt den Kinderwagen durch den Park.",
+      "exampleEn": "She pushes the stroller through the park.",
+      "example2": "Der Kinderwagen passt nicht in den Aufzug.",
+      "example2En": "The stroller doesn't fit in the elevator."
+    },
+    {
+      "de": "die Kinokarte",
+      "en": "movie ticket",
+      "pos": "noun",
+      "plural": "die Kinokarten",
+      "meanings": [
+        {
+          "en": "ticket for the cinema",
+          "de": "Eintrittskarte für das Kino"
+        }
+      ],
+      "rule": "Femininum; Zusammensetzung aus Kino + Karte.",
+      "example": "Wir kaufen zwei Kinokarten für den neuen Film.",
+      "exampleEn": "We buy two movie tickets for the new film.",
+      "example2": "Die Kinokarte kostet zehn Euro.",
+      "example2En": "The movie ticket costs ten euros."
+    },
+    {
+      "de": "klagen",
+      "en": "to complain; to sue",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to complain",
+          "de": "sich beschweren"
+        },
+        {
+          "en": "to sue / file a lawsuit",
+          "de": "vor Gericht gehen"
+        }
+      ],
+      "rule": "regelmäßig: klagt, klagte, hat geklagt; 'klagen über + Akk.' = sich beschweren.",
+      "example": "Er klagt oft über Kopfschmerzen.",
+      "exampleEn": "He often complains about headaches.",
+      "example2": "Die Firma will gegen den Nachbarn klagen.",
+      "example2En": "The company wants to sue the neighbor."
+    },
+    {
+      "de": "die Klasse",
+      "en": "class; grade",
+      "pos": "noun",
+      "plural": "die Klassen",
+      "meanings": [
+        {
+          "en": "school class / grade",
+          "de": "Gruppe von Schülern oder Schulstufe"
+        },
+        {
+          "en": "quality class / category",
+          "de": "Kategorie, z. B. bei Qualität"
+        }
+      ],
+      "rule": "Femininum; Plural -n.",
+      "example": "Meine Tochter ist in der dritten Klasse.",
+      "exampleEn": "My daughter is in third grade.",
+      "example2": "Das Hotel gehört zur höchsten Klasse.",
+      "example2En": "The hotel belongs to the highest class."
+    },
+    {
+      "de": "die Klassenarbeit",
+      "en": "school test / exam",
+      "pos": "noun",
+      "plural": "die Klassenarbeiten",
+      "meanings": [
+        {
+          "en": "written test in school",
+          "de": "schriftliche Prüfung in der Schule"
+        }
+      ],
+      "rule": "Femininum; zusammengesetzt aus Klasse + Arbeit.",
+      "example": "Morgen schreiben wir eine Klassenarbeit in Mathe.",
+      "exampleEn": "Tomorrow we're writing a test in math.",
+      "example2": "Er hat die Klassenarbeit gut bestanden.",
+      "example2En": "He passed the test well."
+    },
+    {
+      "de": "der Klassenlehrer / die Klassenlehrerin",
+      "en": "class teacher (male) / class teacher (female)",
+      "pos": "noun",
+      "plural": "die Klassenlehrer / die Klassenlehrerinnen",
+      "meanings": [
+        {
+          "en": "teacher responsible for a class",
+          "de": "Lehrer(in), der/die für eine Klasse verantwortlich ist"
+        }
+      ],
+      "rule": "Maskulines 'der Klassenlehrer' bleibt im Plural unverändert (die Klassenlehrer); feminines 'die Klassenlehrerin' bildet den Plural mit -innen (die Klassenlehrerinnen).",
+      "example": "Unser Klassenlehrer heißt Herr Schmidt.",
+      "exampleEn": "Our class teacher is Mr. Schmidt.",
+      "example2": "Die Klassenlehrerin spricht heute mit den Eltern.",
+      "example2En": "The class teacher is talking with the parents today."
+    },
+    {
+      "de": "das Kleeblatt",
+      "en": "clover leaf",
+      "pos": "noun",
+      "plural": "die Kleeblätter",
+      "meanings": [
+        {
+          "en": "leaf of the clover plant",
+          "de": "Blatt der Kleepflanze"
+        }
+      ],
+      "rule": "Neutrum; Umlaut im Plural (Blatt → Blätter).",
+      "example": "Ein vierblättriges Kleeblatt bringt Glück.",
+      "exampleEn": "A four-leaf clover brings luck.",
+      "example2": "Im Garten wachsen viele Kleeblätter.",
+      "example2En": "Many clover leaves grow in the garden."
+    },
+    {
+      "de": "das Kleingeld",
+      "en": "small change (coins)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "coins / small change",
+          "de": "Münzen, kleine Geldbeträge"
+        }
+      ],
+      "rule": "Neutrum; unzählbar, kein Plural.",
+      "example": "Hast du Kleingeld für den Parkautomaten?",
+      "exampleEn": "Do you have small change for the parking meter?",
+      "example2": "Ich sammle mein Kleingeld in einer Dose.",
+      "example2En": "I collect my small change in a tin."
+    },
+    {
+      "de": "die Kleinmöbel (Pl.)",
+      "en": "small furniture (items)",
+      "pos": "noun",
+      "plural": "(Plural)",
+      "meanings": [
+        {
+          "en": "small pieces of furniture",
+          "de": "kleine Möbelstücke"
+        }
+      ],
+      "rule": "Nur im Plural gebräuchlich; kein Singular üblich.",
+      "example": "Im Geschäft gibt es viele Kleinmöbel für die Küche.",
+      "exampleEn": "The store has a lot of small furniture for the kitchen.",
+      "example2": "Wir brauchen noch ein paar Kleinmöbel für das Bad.",
+      "example2En": "We still need some small furniture pieces for the bathroom."
+    },
+    {
+      "de": "klicken",
+      "en": "to click",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to click (mouse/button)",
+          "de": "eine Taste oder Maus betätigen"
+        }
+      ],
+      "rule": "regelmäßig: klickt, klickte, hat geklickt; oft mit 'auf + Akk.'",
+      "example": "Klicken Sie auf den Button, um fortzufahren.",
+      "exampleEn": "Click the button to continue.",
+      "example2": "Er klickte versehentlich auf den falschen Link.",
+      "example2En": "He accidentally clicked the wrong link."
+    },
+    {
+      "de": "knackig",
+      "en": "crisp, crunchy",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "crisp / crunchy (food)",
+          "de": "frisch und fest, knackt beim Essen"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: knackig, knackiger, am knackigsten.",
+      "example": "Der Apfel ist schön knackig.",
+      "exampleEn": "The apple is nice and crisp.",
+      "example2": "Ich mag knackiges Gemüse im Salat.",
+      "example2En": "I like crunchy vegetables in the salad."
+    },
+    {
+      "de": "die Kneipe",
+      "en": "pub, bar",
+      "pos": "noun",
+      "plural": "die Kneipen",
+      "meanings": [
+        {
+          "en": "pub / small bar",
+          "de": "gemütliches Lokal, in dem man Bier trinkt"
+        }
+      ],
+      "rule": "Femininum; Plural -n.",
+      "example": "Wir treffen uns heute Abend in der Kneipe.",
+      "exampleEn": "We're meeting at the pub tonight.",
+      "example2": "Die Kneipe um die Ecke hat gutes Bier.",
+      "example2En": "The pub around the corner has good beer."
+    },
+    {
+      "de": "der Knöchel",
+      "en": "ankle",
+      "pos": "noun",
+      "plural": "die Knöchel",
+      "meanings": [
+        {
+          "en": "ankle",
+          "de": "Gelenk zwischen Bein und Fuß"
+        }
+      ],
+      "rule": "Maskulinum; Plural bleibt unverändert.",
+      "example": "Sie hat sich beim Laufen den Knöchel verletzt.",
+      "exampleEn": "She injured her ankle while running.",
+      "example2": "Der Knöchel ist geschwollen.",
+      "example2En": "The ankle is swollen."
+    },
+    {
+      "de": "der Kommentar",
+      "en": "comment",
+      "pos": "noun",
+      "plural": "die Kommentare",
+      "meanings": [
+        {
+          "en": "comment / remark",
+          "de": "Meinung oder Anmerkung zu etwas"
+        }
+      ],
+      "rule": "Maskulinum; Plural -e.",
+      "example": "Er schreibt einen Kommentar unter das Foto.",
+      "exampleEn": "He writes a comment under the photo.",
+      "example2": "Bitte keinen Kommentar dazu!",
+      "example2En": "No comment on that, please!"
+    },
+    {
+      "de": "die Kommode",
+      "en": "chest of drawers",
+      "pos": "noun",
+      "plural": "die Kommoden",
+      "meanings": [
+        {
+          "en": "chest of drawers / dresser",
+          "de": "Möbelstück mit mehreren Schubladen"
+        }
+      ],
+      "rule": "Femininum; Plural -n.",
+      "example": "Die Kommode steht im Schlafzimmer.",
+      "exampleEn": "The chest of drawers is in the bedroom.",
+      "example2": "Ich lege die Socken in die oberste Schublade der Kommode.",
+      "example2En": "I put the socks in the top drawer of the dresser."
+    },
+    {
+      "de": "die Kommunikation",
+      "en": "communication",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the exchange of information between people",
+          "de": "der Austausch von Informationen"
+        }
+      ],
+      "rule": "Usually uncountable (no plural in everyday use); from the verb 'kommunizieren'.",
+      "example": "Die Kommunikation zwischen den Kollegen ist wichtig.",
+      "exampleEn": "Communication between the colleagues is important.",
+      "example2": "Wir verbessern unsere Kommunikation per E-Mail.",
+      "example2En": "We are improving our communication by email."
+    },
+    {
+      "de": "kommunizieren",
+      "en": "to communicate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to exchange information with someone",
+          "de": "Informationen austauschen"
+        }
+      ],
+      "rule": "Regular weak verb: kommuniziert, kommunizierte, hat kommuniziert.",
+      "example": "Wir kommunizieren oft per Telefon.",
+      "exampleEn": "We often communicate by phone.",
+      "example2": "Sie kommuniziert gern mit Kunden.",
+      "example2En": "She likes communicating with customers."
+    }
+  ]
+}

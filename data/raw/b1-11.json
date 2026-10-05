@@ -1,0 +1,909 @@
+{
+  "id": "b1-11",
+  "title": "B1 · K–M (11)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "der Kunststoff",
+      "en": "plastic; synthetic material",
+      "pos": "noun",
+      "plural": "die Kunststoffe",
+      "meanings": [
+        {
+          "en": "plastic / synthetic material",
+          "de": "künstlich hergestelltes Material"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Kunst' + 'Stoff'; oft in Komposita wie 'Kunststoffflasche'.",
+      "example": "Die Flasche ist aus Kunststoff.",
+      "exampleEn": "The bottle is made of plastic.",
+      "example2": "Kunststoff lässt sich gut recyceln.",
+      "example2En": "Plastic can be recycled well."
+    },
+    {
+      "de": "kuscheln",
+      "en": "to cuddle, to snuggle",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to cuddle / snuggle",
+          "de": "zärtlich eng beieinander liegen"
+        }
+      ],
+      "rule": "regelmäßig; oft reflexiv: sich kuscheln (an jemanden).",
+      "example": "Das Kind kuschelt sich an seine Mutter.",
+      "exampleEn": "The child snuggles up to its mother.",
+      "example2": "Wir kuscheln gern auf dem Sofa.",
+      "example2En": "We like to cuddle on the sofa."
+    },
+    {
+      "de": "die Lage",
+      "en": "location; situation",
+      "pos": "noun",
+      "plural": "die Lagen",
+      "meanings": [
+        {
+          "en": "location / position",
+          "de": "Ort, wo sich etwas befindet"
+        },
+        {
+          "en": "situation",
+          "de": "Zustand, Umstände"
+        }
+      ],
+      "rule": "Feminines Nomen; 'in guter Lage' = gut gelegen.",
+      "example": "Die Wohnung hat eine zentrale Lage.",
+      "exampleEn": "The apartment has a central location.",
+      "example2": "Die wirtschaftliche Lage ist schwierig.",
+      "example2En": "The economic situation is difficult."
+    },
+    {
+      "de": "das Lager",
+      "en": "warehouse; camp",
+      "pos": "noun",
+      "plural": "die Lager",
+      "meanings": [
+        {
+          "en": "warehouse / storage",
+          "de": "Ort zum Aufbewahren von Waren"
+        },
+        {
+          "en": "camp",
+          "de": "Zeltplatz oder Unterkunft, z. B. für Flüchtlinge"
+        }
+      ],
+      "rule": "Neutrales Nomen; Plural bleibt 'die Lager' (unverändert).",
+      "example": "Die Ware ist im Lager.",
+      "exampleEn": "The goods are in the warehouse.",
+      "example2": "Die Flüchtlinge leben in einem Lager.",
+      "example2En": "The refugees live in a camp."
+    },
+    {
+      "de": "das Lagerfeuer",
+      "en": "campfire",
+      "pos": "noun",
+      "plural": "die Lagerfeuer",
+      "meanings": [
+        {
+          "en": "campfire",
+          "de": "Feuer im Freien, z. B. beim Zelten"
+        }
+      ],
+      "rule": "Kompositum aus 'Lager' + 'Feuer'; neutral.",
+      "example": "Wir haben am Lagerfeuer gesungen.",
+      "exampleEn": "We sang around the campfire.",
+      "example2": "Das Lagerfeuer brannte die ganze Nacht.",
+      "example2En": "The campfire burned all night."
+    },
+    {
+      "de": "laktosefrei",
+      "en": "lactose-free",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "lactose-free",
+          "de": "ohne Laktose (Milchzucker)"
+        }
+      ],
+      "rule": "Adjektiv, keine unregelmäßige Steigerung üblich.",
+      "example": "Ich trinke laktosefreie Milch.",
+      "exampleEn": "I drink lactose-free milk.",
+      "example2": "Das Restaurant bietet auch laktosefreie Gerichte an.",
+      "example2En": "The restaurant also offers lactose-free dishes."
+    },
+    {
+      "de": "landen",
+      "en": "to land",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to land (aircraft, boat)",
+          "de": "auf dem Boden ankommen"
+        },
+        {
+          "en": "to end up somewhere",
+          "de": "an einem bestimmten Ort ankommen"
+        }
+      ],
+      "rule": "Perfekt mit 'sein': ist gelandet; regelmäßig.",
+      "example": "Das Flugzeug landet um 18 Uhr.",
+      "exampleEn": "The plane lands at 6 pm.",
+      "example2": "Er ist im Gefängnis gelandet.",
+      "example2En": "He ended up in prison."
+    },
+    {
+      "de": "die Langeweile",
+      "en": "boredom",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "boredom",
+          "de": "Gefühl, wenn nichts Interessantes passiert"
+        }
+      ],
+      "rule": "Feminines Nomen, kein Plural; 'vor Langeweile' ist eine feste Wendung.",
+      "example": "Aus Langeweile hat er ferngesehen.",
+      "exampleEn": "Out of boredom he watched TV.",
+      "example2": "Die Kinder hatten große Langeweile.",
+      "example2En": "The children were very bored."
+    },
+    {
+      "de": "langfristig",
+      "en": "long-term",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "long-term",
+          "de": "über einen langen Zeitraum"
+        }
+      ],
+      "rule": "Gegensatz: kurzfristig; regelmäßige Steigerung.",
+      "example": "Langfristig lohnt sich die Investition.",
+      "exampleEn": "In the long term, the investment pays off.",
+      "example2": "Wir planen langfristig.",
+      "example2En": "We plan long-term."
+    },
+    {
+      "de": "der Lärm",
+      "en": "noise",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "noise",
+          "de": "laute, störende Geräusche"
+        }
+      ],
+      "rule": "Maskulines Nomen, kein Plural; 'Lärm machen'.",
+      "example": "Der Lärm von der Baustelle stört mich.",
+      "exampleEn": "The noise from the construction site bothers me.",
+      "example2": "Bitte macht nicht so viel Lärm!",
+      "example2En": "Please don't make so much noise!"
+    },
+    {
+      "de": "die Laune",
+      "en": "mood",
+      "pos": "noun",
+      "plural": "die Launen",
+      "meanings": [
+        {
+          "en": "mood",
+          "de": "momentane Gemütsverfassung"
+        }
+      ],
+      "rule": "Feminines Nomen; 'gute/schlechte Laune haben'.",
+      "example": "Heute hat sie gute Laune.",
+      "exampleEn": "Today she is in a good mood.",
+      "example2": "Unser Chef hat im Büro oft schlechte Laune.",
+      "example2En": "Our boss is often in a bad mood at the office."
+    },
+    {
+      "de": "die Lautsprecherdurchsage",
+      "en": "loudspeaker announcement",
+      "pos": "noun",
+      "plural": "die Lautsprecherdurchsagen",
+      "meanings": [
+        {
+          "en": "announcement over loudspeakers",
+          "de": "Mitteilung, die über Lautsprecher gemacht wird"
+        }
+      ],
+      "rule": "Kompositum aus 'Lautsprecher' + 'Durchsage'; feminin.",
+      "example": "Am Bahnhof hörten wir eine Lautsprecherdurchsage.",
+      "exampleEn": "At the station we heard a loudspeaker announcement.",
+      "example2": "Die Lautsprecherdurchsage kündigte die Verspätung an.",
+      "example2En": "The loudspeaker announcement announced the delay."
+    },
+    {
+      "de": "lebhaft",
+      "en": "lively, vivid",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "lively (person, place)",
+          "de": "voller Energie, aktiv"
+        },
+        {
+          "en": "vivid (memory, imagination)",
+          "de": "sehr klar und intensiv"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: lebhaft, lebhafter, am lebhaftesten.",
+      "example": "Das Kind ist sehr lebhaft.",
+      "exampleEn": "The child is very lively.",
+      "example2": "Ich erinnere mich noch lebhaft daran.",
+      "example2En": "I still remember it vividly."
+    },
+    {
+      "de": "die Leichtathletik",
+      "en": "athletics, track and field",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "athletics / track and field",
+          "de": "Sportarten wie Laufen, Springen, Werfen"
+        }
+      ],
+      "rule": "Feminines Nomen, kein Plural.",
+      "example": "Er treibt gern Leichtathletik.",
+      "exampleEn": "He likes doing athletics.",
+      "example2": "Die Leichtathletik-Weltmeisterschaft findet im Sommer statt.",
+      "example2En": "The athletics world championship takes place in summer."
+    },
+    {
+      "de": "leiden",
+      "en": "to suffer",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to suffer (from an illness)",
+          "de": "unter etwas Negativem leiden, z. B. einer Krankheit"
+        },
+        {
+          "en": "to not be able to stand someone",
+          "de": "jemanden nicht mögen (jemanden nicht leiden können)"
+        }
+      ],
+      "rule": "unregelmäßig: leidet, litt, hat gelitten; + unter/an + Dativ.",
+      "example": "Sie leidet unter Kopfschmerzen.",
+      "exampleEn": "She suffers from headaches.",
+      "example2": "Ich kann ihn nicht leiden.",
+      "example2En": "I can't stand him."
+    },
+    {
+      "de": "die Leine",
+      "en": "leash; line, rope",
+      "pos": "noun",
+      "plural": "die Leinen",
+      "meanings": [
+        {
+          "en": "leash (for a dog)",
+          "de": "Band, um ein Tier zu führen"
+        },
+        {
+          "en": "line, rope",
+          "de": "Schnur, z. B. Wäscheleine"
+        }
+      ],
+      "rule": "Feminines Nomen; 'den Hund an die Leine nehmen'.",
+      "example": "Der Hund muss an der Leine bleiben.",
+      "exampleEn": "The dog must stay on the leash.",
+      "example2": "Sie hängt die Wäsche auf die Leine.",
+      "example2En": "She hangs the laundry on the line."
+    },
+    {
+      "de": "leistungsgerecht",
+      "en": "performance-based",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "performance-based / commensurate with performance",
+          "de": "entsprechend der erbrachten Leistung"
+        }
+      ],
+      "rule": "Kompositum aus 'Leistung' + 'gerecht'; oft in 'leistungsgerechte Bezahlung'.",
+      "example": "Die Firma zahlt leistungsgerechte Gehälter.",
+      "exampleEn": "The company pays performance-based salaries.",
+      "example2": "Er wünscht sich eine leistungsgerechte Bezahlung.",
+      "example2En": "He wishes for pay commensurate with performance."
+    },
+    {
+      "de": "leiten",
+      "en": "to lead, to manage",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to lead / manage / direct",
+          "de": "die Verantwortung für etwas haben"
+        },
+        {
+          "en": "to conduct (electricity, heat)",
+          "de": "etwas, z. B. Strom, weiterleiten"
+        }
+      ],
+      "rule": "regelmäßig; + Akkusativ.",
+      "example": "Sie leitet die Abteilung seit zwei Jahren.",
+      "exampleEn": "She has been managing the department for two years.",
+      "example2": "Metall leitet Strom gut.",
+      "example2En": "Metal conducts electricity well."
+    },
+    {
+      "de": "lenken",
+      "en": "to steer; to guide/direct",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to steer (a vehicle)",
+          "de": "ein Fahrzeug steuern"
+        },
+        {
+          "en": "to direct/guide (attention, traffic)",
+          "de": "lenken = leiten, führen"
+        }
+      ],
+      "rule": "regelmäßig: lenkt, lenkte, hat gelenkt. Oft mit Akkusativ: etwas lenken.",
+      "example": "Er lenkt das Auto vorsichtig durch die engen Straßen.",
+      "exampleEn": "He steers the car carefully through the narrow streets.",
+      "example2": "Die Lehrerin versucht, die Aufmerksamkeit der Schüler auf das Thema zu lenken.",
+      "example2En": "The teacher tries to direct the students' attention to the topic."
+    },
+    {
+      "de": "der Leuchtturm",
+      "en": "lighthouse",
+      "pos": "noun",
+      "plural": "die Leuchttürme",
+      "meanings": [
+        {
+          "en": "lighthouse",
+          "de": "Turm mit Licht für Schiffe"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'leuchten' + 'Turm'; Plural mit Umlaut: die Leuchttürme.",
+      "example": "Der Leuchtturm zeigt den Schiffen den Weg in den Hafen.",
+      "exampleEn": "The lighthouse shows ships the way into the harbor.",
+      "example2": "Wir sind auf den Leuchtturm gestiegen und hatten eine tolle Aussicht.",
+      "example2En": "We climbed the lighthouse and had a great view."
+    },
+    {
+      "de": "die Lieblingsbeschäftigung",
+      "en": "favorite activity/pastime",
+      "pos": "noun",
+      "plural": "die Lieblingsbeschäftigungen",
+      "meanings": [
+        {
+          "en": "favorite hobby/pastime",
+          "de": "Hobby, das man am liebsten macht"
+        }
+      ],
+      "rule": "Zusammensetzung: Lieblings- + Beschäftigung; Genus vom Grundwort 'die Beschäftigung'.",
+      "example": "Lesen ist meine Lieblingsbeschäftigung am Wochenende.",
+      "exampleEn": "Reading is my favorite activity on weekends.",
+      "example2": "Was ist deine Lieblingsbeschäftigung in der Freizeit?",
+      "example2En": "What is your favorite pastime in your free time?"
+    },
+    {
+      "de": "lieferbar",
+      "en": "available; deliverable",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "available for delivery/in stock",
+          "de": "kann geliefert werden"
+        }
+      ],
+      "rule": "Adjektiv aus 'liefern' + '-bar'; oft mit 'sofort' oder 'ab Lager' kombiniert.",
+      "example": "Das Modell ist leider nicht mehr lieferbar.",
+      "exampleEn": "Unfortunately, that model is no longer available.",
+      "example2": "Die Ware ist sofort lieferbar.",
+      "example2En": "The item is available for immediate delivery."
+    },
+    {
+      "de": "die Lieferbedingung",
+      "en": "delivery condition/term",
+      "pos": "noun",
+      "plural": "die Lieferbedingungen",
+      "meanings": [
+        {
+          "en": "terms/conditions of delivery",
+          "de": "Bedingung, unter der geliefert wird"
+        }
+      ],
+      "rule": "Meist im Plural verwendet: die Lieferbedingungen (allgemeine Geschäftsbedingungen).",
+      "example": "Bitte lesen Sie die Lieferbedingungen vor der Bestellung.",
+      "exampleEn": "Please read the delivery terms before ordering.",
+      "example2": "Unsere Lieferbedingungen finden Sie auf der Rechnung.",
+      "example2En": "You can find our delivery conditions on the invoice."
+    },
+    {
+      "de": "die Lieferung",
+      "en": "delivery; shipment",
+      "pos": "noun",
+      "plural": "die Lieferungen",
+      "meanings": [
+        {
+          "en": "delivery/shipment of goods",
+          "de": "das Liefern von Waren"
+        }
+      ],
+      "rule": "Nominalisierung von 'liefern'; oft mit 'kostenlose Lieferung', 'Lieferung erfolgt...'.",
+      "example": "Die Lieferung kommt morgen zwischen 9 und 12 Uhr.",
+      "exampleEn": "The delivery arrives tomorrow between 9 and 12.",
+      "example2": "Bei Bestellungen über 50 Euro ist die Lieferung kostenlos.",
+      "example2En": "For orders over 50 euros, delivery is free."
+    },
+    {
+      "de": "die Luft",
+      "en": "air",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "air (the gas we breathe)",
+          "de": "Gasgemisch, das wir atmen"
+        }
+      ],
+      "rule": "Meist unzählbar, kein Plural im Alltagsgebrauch (Fachplural 'Lüfte' selten).",
+      "example": "Nach dem Regen ist die Luft angenehm frisch.",
+      "exampleEn": "After the rain, the air is pleasantly fresh.",
+      "example2": "Mach bitte das Fenster auf, ich brauche frische Luft.",
+      "example2En": "Please open the window, I need fresh air."
+    },
+    {
+      "de": "luftdurchlässig",
+      "en": "air-permeable; breathable",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "allowing air to pass through",
+          "de": "lässt Luft durch"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Luft' + 'durchlässig'; häufig bei Stoffen/Materialien.",
+      "example": "Der Sportstoff ist besonders luftdurchlässig.",
+      "exampleEn": "The sports fabric is especially breathable.",
+      "example2": "Eine luftdurchlässige Matratze verhindert Schwitzen.",
+      "example2En": "An air-permeable mattress prevents sweating."
+    },
+    {
+      "de": "lüften",
+      "en": "to air out; to ventilate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to air out a room",
+          "de": "frische Luft in einen Raum lassen"
+        }
+      ],
+      "rule": "regelmäßig: lüftet, lüftete, hat gelüftet. Nicht trennbar (Vorsicht: das verwandte Verb 'durchlüften' ist meist untrennbar: durchlüftet, nicht durchgelüftet).",
+      "example": "Wir sollten jeden Morgen kurz das Zimmer lüften.",
+      "exampleEn": "We should briefly air out the room every morning.",
+      "example2": "Nach dem Kochen lüftet sie immer die Küche.",
+      "example2En": "After cooking, she always ventilates the kitchen."
+    },
+    {
+      "de": "das Magazin",
+      "en": "magazine (publication)",
+      "pos": "noun",
+      "plural": "die Magazine",
+      "meanings": [
+        {
+          "en": "magazine (periodical)",
+          "de": "regelmäßig erscheinende Zeitschrift"
+        },
+        {
+          "en": "storeroom/warehouse",
+          "de": "Lagerraum"
+        }
+      ],
+      "rule": "Genus: das Magazin (Neutrum); Plural: die Magazine.",
+      "example": "Sie liest jeden Monat ein neues Magazin über Fotografie.",
+      "exampleEn": "She reads a new photography magazine every month.",
+      "example2": "Die Waren wurden im Magazin des Geschäfts gelagert.",
+      "example2En": "The goods were stored in the shop's storeroom."
+    },
+    {
+      "de": "der Manager / die Managerin",
+      "en": "manager",
+      "pos": "noun",
+      "plural": "die Manager / die Managerinnen",
+      "meanings": [
+        {
+          "en": "manager (business)",
+          "de": "Person, die ein Unternehmen oder einen Bereich leitet"
+        }
+      ],
+      "rule": "Maskulin: der Manager, Plural die Manager; feminin: die Managerin, Plural die Managerinnen.",
+      "example": "Der Manager trifft sich heute mit wichtigen Kunden.",
+      "exampleEn": "The manager is meeting with important clients today.",
+      "example2": "Die Managerin hat das Projekt erfolgreich geleitet.",
+      "example2En": "The manager (female) led the project successfully."
+    },
+    {
+      "de": "die Mannschaft",
+      "en": "team (sports/crew)",
+      "pos": "noun",
+      "plural": "die Mannschaften",
+      "meanings": [
+        {
+          "en": "sports team",
+          "de": "Gruppe von Sportlern, die zusammen spielt"
+        },
+        {
+          "en": "crew (ship, etc.)",
+          "de": "Besatzung"
+        }
+      ],
+      "rule": "Genus: die Mannschaft; Plural die Mannschaften.",
+      "example": "Unsere Mannschaft hat das Spiel gestern gewonnen.",
+      "exampleEn": "Our team won the game yesterday.",
+      "example2": "Die Mannschaft des Schiffes bestand aus zwanzig Leuten.",
+      "example2En": "The ship's crew consisted of twenty people."
+    },
+    {
+      "de": "der Maschinenbau",
+      "en": "mechanical engineering",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "mechanical engineering (field of study/industry)",
+          "de": "Fachgebiet, das sich mit dem Bau von Maschinen beschäftigt"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural; oft als Studienfach: Maschinenbau studieren.",
+      "example": "Mein Bruder studiert Maschinenbau an der Technischen Universität.",
+      "exampleEn": "My brother is studying mechanical engineering at the technical university.",
+      "example2": "Der Maschinenbau ist eine wichtige Branche in Deutschland.",
+      "example2En": "Mechanical engineering is an important industry in Germany."
+    },
+    {
+      "de": "die Massentierhaltung",
+      "en": "factory farming",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "intensive/factory farming of animals",
+          "de": "Haltung sehr vieler Tiere auf engem Raum"
+        }
+      ],
+      "rule": "Zusammensetzung: Massen- + Tierhaltung; unzählbar, kein Plural.",
+      "example": "Viele Menschen kritisieren die Massentierhaltung.",
+      "exampleEn": "Many people criticize factory farming.",
+      "example2": "Das Fleisch aus Massentierhaltung ist oft billiger.",
+      "example2En": "Meat from factory farming is often cheaper."
+    },
+    {
+      "de": "massiv",
+      "en": "solid; massive/severe",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "solid (material, no hollow inside)",
+          "de": "fest, nicht hohl"
+        },
+        {
+          "en": "massive/serious (problem, criticism)",
+          "de": "sehr stark, gravierend"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: massiv, massiver, am massivsten.",
+      "example": "Der Tisch ist aus massivem Holz gebaut.",
+      "exampleEn": "The table is built of solid wood.",
+      "example2": "Es gab massive Proteste gegen die neue Regelung.",
+      "example2En": "There were massive protests against the new regulation."
+    },
+    {
+      "de": "die Matratze",
+      "en": "mattress",
+      "pos": "noun",
+      "plural": "die Matratzen",
+      "meanings": [
+        {
+          "en": "mattress",
+          "de": "Unterlage zum Schlafen auf dem Bett"
+        }
+      ],
+      "rule": "Genus: die Matratze; Plural: die Matratzen.",
+      "example": "Die neue Matratze ist viel bequemer als die alte.",
+      "exampleEn": "The new mattress is much more comfortable than the old one.",
+      "example2": "Wir sollten die Matratze alle acht Jahre wechseln.",
+      "example2En": "We should replace the mattress every eight years."
+    },
+    {
+      "de": "die Mauer",
+      "en": "wall (outdoor/freestanding)",
+      "pos": "noun",
+      "plural": "die Mauern",
+      "meanings": [
+        {
+          "en": "wall (freestanding, e.g. garden wall, city wall)",
+          "de": "freistehende Wand, z. B. aus Stein"
+        }
+      ],
+      "rule": "Genus: die Mauer; Plural die Mauern. Unterschied zu 'die Wand' (Innenwand eines Raumes).",
+      "example": "Die alte Mauer umgibt den ganzen Garten.",
+      "exampleEn": "The old wall surrounds the whole garden.",
+      "example2": "Die Berliner Mauer fiel im Jahr 1989.",
+      "example2En": "The Berlin Wall fell in 1989."
+    },
+    {
+      "de": "der Mauerbau",
+      "en": "building of the (Berlin) Wall",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the construction of the Berlin Wall in 1961",
+          "de": "der Bau der Berliner Mauer 1961"
+        }
+      ],
+      "rule": "Kompositum aus Mauer + Bau; meist ohne Plural, historischer Begriff (1961).",
+      "example": "Der Mauerbau begann am 13. August 1961.",
+      "exampleEn": "The building of the Wall began on 13 August 1961.",
+      "example2": "Viele Familien wurden durch den Mauerbau getrennt.",
+      "example2En": "Many families were separated by the building of the Wall."
+    },
+    {
+      "de": "der Mauerfall",
+      "en": "fall of the (Berlin) Wall",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the fall of the Berlin Wall in 1989",
+          "de": "der Fall der Berliner Mauer 1989"
+        }
+      ],
+      "rule": "Kompositum aus Mauer + Fall; meist ohne Plural, historischer Begriff (1989).",
+      "example": "Der Mauerfall war ein wichtiges Ereignis der deutschen Geschichte.",
+      "exampleEn": "The fall of the Wall was an important event in German history.",
+      "example2": "Seit dem Mauerfall ist Berlin wieder eine Stadt.",
+      "example2En": "Since the fall of the Wall, Berlin has been one city again."
+    },
+    {
+      "de": "meckern",
+      "en": "to grumble, complain",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to complain / grumble about something",
+          "de": "sich beschweren, nörgeln"
+        }
+      ],
+      "rule": "regelmäßig (schwach): meckert, meckerte, hat gemeckert; oft mit 'über + Akkusativ'.",
+      "example": "Er meckert immer über das Wetter.",
+      "exampleEn": "He always grumbles about the weather.",
+      "example2": "Meckere nicht so viel, sondern hilf mir lieber!",
+      "example2En": "Stop complaining so much and help me instead!"
+    },
+    {
+      "de": "die Medizin",
+      "en": "medicine (science / medication)",
+      "pos": "noun",
+      "plural": "die Medizinen",
+      "meanings": [
+        {
+          "en": "the field of medicine",
+          "de": "die Wissenschaft von Krankheiten und Heilung"
+        },
+        {
+          "en": "a medicine, a drug",
+          "de": "das Medikament"
+        }
+      ],
+      "rule": "Als Fachbereich meist Singular ohne Plural; als 'Medikament' zählbar (die Medizinen).",
+      "example": "Sie studiert Medizin an der Universität.",
+      "exampleEn": "She is studying medicine at university.",
+      "example2": "Nimm die Medizin dreimal täglich nach dem Essen.",
+      "example2En": "Take the medicine three times a day after meals."
+    },
+    {
+      "de": "der Meerblick",
+      "en": "sea view",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "a view of the sea",
+          "de": "der Blick aufs Meer"
+        }
+      ],
+      "rule": "Kompositum aus Meer + Blick; meist ohne Plural, oft in Hotelbeschreibungen.",
+      "example": "Wir haben ein Zimmer mit Meerblick gebucht.",
+      "exampleEn": "We booked a room with a sea view.",
+      "example2": "Von der Terrasse aus hat man einen tollen Meerblick.",
+      "example2En": "From the terrace you have a great sea view."
+    },
+    {
+      "de": "das Meerschweinchen",
+      "en": "guinea pig",
+      "pos": "noun",
+      "plural": "die Meerschweinchen",
+      "meanings": [
+        {
+          "en": "a guinea pig (small pet rodent)",
+          "de": "ein kleines Haustier, ein Nagetier"
+        }
+      ],
+      "rule": "Diminutiv auf -chen, daher sächlich (das); Plural = Singular.",
+      "example": "Meine Tochter hat zwei Meerschweinchen als Haustiere.",
+      "exampleEn": "My daughter has two guinea pigs as pets.",
+      "example2": "Das Meerschweinchen frisst gern frisches Gemüse.",
+      "example2En": "The guinea pig likes to eat fresh vegetables."
+    },
+    {
+      "de": "die Mehrheit",
+      "en": "majority",
+      "pos": "noun",
+      "plural": "die Mehrheiten",
+      "meanings": [
+        {
+          "en": "the majority (of people/votes)",
+          "de": "der größere Teil, mehr als die Hälfte"
+        }
+      ],
+      "rule": "Oft mit Genitiv oder 'von': die Mehrheit der Wähler.",
+      "example": "Die Mehrheit der Bürger hat für das neue Gesetz gestimmt.",
+      "exampleEn": "The majority of citizens voted for the new law.",
+      "example2": "Bei der Wahl gewann die Partei die absolute Mehrheit.",
+      "example2En": "In the election, the party won an absolute majority."
+    },
+    {
+      "de": "die Mehrkosten",
+      "en": "extra costs",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "additional/extra costs",
+          "de": "zusätzliche Kosten"
+        }
+      ],
+      "rule": "Nur im Plural gebräuchlich; kein Singular.",
+      "example": "Die Renovierung verursachte unerwartete Mehrkosten.",
+      "exampleEn": "The renovation caused unexpected extra costs.",
+      "example2": "Wer trägt die Mehrkosten für den Versand?",
+      "example2En": "Who bears the extra costs for shipping?"
+    },
+    {
+      "de": "mehrmals",
+      "en": "several times",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "more than once, repeatedly",
+          "de": "mehrere Male, öfter"
+        }
+      ],
+      "rule": "Unveränderliches Adverb, keine Steigerung nötig.",
+      "example": "Ich habe ihn mehrmals angerufen, aber er hat nicht abgehoben.",
+      "exampleEn": "I called him several times, but he didn't pick up.",
+      "example2": "Sie hat den Text mehrmals gelesen, bevor sie ihn verstanden hat.",
+      "example2En": "She read the text several times before understanding it."
+    },
+    {
+      "de": "meistern",
+      "en": "to master, cope with",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to master / successfully deal with a difficult task",
+          "de": "eine schwierige Aufgabe erfolgreich bewältigen"
+        }
+      ],
+      "rule": "regelmäßig (schwach): meistert, meisterte, hat gemeistert; + Akkusativ.",
+      "example": "Sie hat alle Schwierigkeiten mit viel Geduld gemeistert.",
+      "exampleEn": "She mastered all difficulties with a lot of patience.",
+      "example2": "Er versucht, die neue Sprache schnell zu meistern.",
+      "example2En": "He is trying to master the new language quickly."
+    },
+    {
+      "de": "die Mentalität",
+      "en": "mentality",
+      "pos": "noun",
+      "plural": "die Mentalitäten",
+      "meanings": [
+        {
+          "en": "a way of thinking typical of a person or group",
+          "de": "die typische Denkweise einer Person oder Gruppe"
+        }
+      ],
+      "rule": "Meist Singular, Plural möglich bei Vergleich mehrerer Mentalitäten.",
+      "example": "Die Mentalität der Menschen ist von Land zu Land unterschiedlich.",
+      "exampleEn": "People's mentality differs from country to country.",
+      "example2": "Er hat eine sehr optimistische Mentalität.",
+      "example2En": "He has a very optimistic mentality."
+    },
+    {
+      "de": "merken",
+      "en": "to notice; to remember",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to notice, realize something",
+          "de": "etwas bemerken, wahrnehmen"
+        },
+        {
+          "en": "sich (Dat.) etwas merken: to memorize, keep in mind",
+          "de": "sich etwas einprägen"
+        }
+      ],
+      "rule": "regelmäßig (schwach): merkt, merkte, hat gemerkt; reflexiv 'sich etwas merken' + Akkusativ, Dativ-Reflexivpronomen.",
+      "example": "Ich habe gemerkt, dass etwas nicht stimmt.",
+      "exampleEn": "I noticed that something was wrong.",
+      "example2": "Kannst du dir diese Nummer merken?",
+      "example2En": "Can you remember this number?"
+    },
+    {
+      "de": "das Metall",
+      "en": "metal",
+      "pos": "noun",
+      "plural": "die Metalle",
+      "meanings": [
+        {
+          "en": "metal (material)",
+          "de": "ein hartes, glänzendes Material wie Eisen oder Gold"
+        }
+      ],
+      "rule": "Sächlich; Plural 'die Metalle' bezeichnet verschiedene Metallarten.",
+      "example": "Der Ring besteht aus einem seltenen Metall.",
+      "exampleEn": "The ring is made of a rare metal.",
+      "example2": "Eisen und Gold sind bekannte Metalle.",
+      "example2En": "Iron and gold are well-known metals."
+    },
+    {
+      "de": "die Mieterhöhung",
+      "en": "rent increase",
+      "pos": "noun",
+      "plural": "die Mieterhöhungen",
+      "meanings": [
+        {
+          "en": "an increase in rent",
+          "de": "eine Erhöhung der Miete"
+        }
+      ],
+      "rule": "Kompositum aus Miete + Erhöhung.",
+      "example": "Der Vermieter hat uns eine Mieterhöhung angekündigt.",
+      "exampleEn": "The landlord announced a rent increase to us.",
+      "example2": "Viele Mieter protestieren gegen die geplante Mieterhöhung.",
+      "example2En": "Many tenants are protesting against the planned rent increase."
+    },
+    {
+      "de": "der Mietspiegel",
+      "en": "local rent index",
+      "pos": "noun",
+      "plural": "die Mietspiegel",
+      "meanings": [
+        {
+          "en": "an official table showing average local rents",
+          "de": "eine Übersicht über ortsübliche Mieten"
+        }
+      ],
+      "rule": "Kompositum aus Miete + Spiegel; amtlicher Begriff aus dem Mietrecht.",
+      "example": "Der Vermieter orientiert sich am örtlichen Mietspiegel.",
+      "exampleEn": "The landlord goes by the local rent index.",
+      "example2": "Laut Mietspiegel ist die Miete hier zu hoch.",
+      "example2En": "According to the rent index, the rent here is too high."
+    }
+  ]
+}

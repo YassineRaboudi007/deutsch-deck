@@ -1,0 +1,929 @@
+{
+  "id": "b1-01",
+  "title": "B1 · A (1)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "abdecken",
+      "en": "to cover; to cover (costs/needs)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to cover something (physically)",
+          "de": "etwas zudecken/bedecken"
+        },
+        {
+          "en": "to cover (costs, needs, a topic)",
+          "de": "Kosten oder Bedarf decken"
+        }
+      ],
+      "rule": "trennbar: deckt ... ab, deckte ab, hat abgedeckt",
+      "example": "Die Versicherung deckt den Schaden ab.",
+      "exampleEn": "The insurance covers the damage.",
+      "example2": "Er deckt das Dach mit einer Plane ab.",
+      "example2En": "He covers the roof with a tarp."
+    },
+    {
+      "de": "abdrehen",
+      "en": "to turn off; to turn away",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to turn off (gas, water, a device)",
+          "de": "etwas ausschalten/abstellen"
+        },
+        {
+          "en": "to turn/veer away (direction)",
+          "de": "die Richtung ändern"
+        }
+      ],
+      "rule": "trennbar: dreht ... ab, drehte ab, hat abgedreht",
+      "example": "Bitte dreh das Gas ab!",
+      "exampleEn": "Please turn off the gas!",
+      "example2": "Das Flugzeug dreht nach Norden ab.",
+      "example2En": "The plane veers off to the north."
+    },
+    {
+      "de": "der Abfall",
+      "en": "waste, rubbish",
+      "pos": "noun",
+      "plural": "die Abfälle",
+      "meanings": [
+        {
+          "en": "waste/rubbish/trash",
+          "de": "Müll"
+        },
+        {
+          "en": "decline, decrease",
+          "de": "Rückgang, Verringerung"
+        }
+      ],
+      "rule": "maskulin; meist Singular für 'Müll', Plural 'Abfälle' bei mehreren Arten/Mengen",
+      "example": "Wirf den Abfall in die Tonne.",
+      "exampleEn": "Throw the rubbish in the bin.",
+      "example2": "Es gab einen Abfall der Temperatur.",
+      "example2En": "There was a drop in temperature."
+    },
+    {
+      "de": "der Abflug",
+      "en": "departure (of a flight)",
+      "pos": "noun",
+      "plural": "die Abflüge",
+      "meanings": [
+        {
+          "en": "flight departure",
+          "de": "Start eines Flugzeugs"
+        }
+      ],
+      "rule": "maskulin; Gegenteil von 'Ankunft'",
+      "example": "Der Abflug ist um 9 Uhr.",
+      "exampleEn": "The departure is at 9 o'clock.",
+      "example2": "Wir müssen zwei Stunden vor Abflug am Flughafen sein.",
+      "example2En": "We must be at the airport two hours before departure."
+    },
+    {
+      "de": "das Abgas",
+      "en": "exhaust fume, emission",
+      "pos": "noun",
+      "plural": "die Abgase",
+      "meanings": [
+        {
+          "en": "exhaust gas/emission",
+          "de": "Gas aus Motor oder Industrie"
+        }
+      ],
+      "rule": "neutrum; meist im Plural 'Abgase' verwendet",
+      "example": "Die Abgase der Autos belasten die Luft.",
+      "exampleEn": "Car exhaust fumes pollute the air.",
+      "example2": "Neue Filter reduzieren die Abgase.",
+      "example2En": "New filters reduce the emissions."
+    },
+    {
+      "de": "abhängig",
+      "en": "dependent",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "dependent on something/someone",
+          "de": "nicht unabhängig, auf etwas angewiesen"
+        }
+      ],
+      "rule": "+ von + Dativ (abhängig von); Gegenteil: unabhängig",
+      "example": "Der Erfolg ist abhängig vom Wetter.",
+      "exampleEn": "The success depends on the weather.",
+      "example2": "Er ist von seinen Eltern finanziell abhängig.",
+      "example2En": "He is financially dependent on his parents."
+    },
+    {
+      "de": "abheften",
+      "en": "to file (documents)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to file away (paperwork)",
+          "de": "Papiere in einer Mappe ablegen"
+        }
+      ],
+      "rule": "trennbar: heftet ... ab, heftete ab, hat abgeheftet",
+      "example": "Sie heftet die Rechnungen ab.",
+      "exampleEn": "She files the invoices.",
+      "example2": "Kannst du diese Briefe abheften?",
+      "example2En": "Can you file these letters?"
+    },
+    {
+      "de": "abnehmen",
+      "en": "to lose weight; to take off/remove; to decrease",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to lose weight",
+          "de": "weniger wiegen"
+        },
+        {
+          "en": "to take off/remove something",
+          "de": "etwas wegnehmen"
+        },
+        {
+          "en": "to decrease",
+          "de": "weniger werden"
+        }
+      ],
+      "rule": "trennbar, unregelmäßig: nimmt ... ab, nahm ab, hat abgenommen",
+      "example": "Sie hat fünf Kilo abgenommen.",
+      "exampleEn": "She has lost five kilos.",
+      "example2": "Er nimmt den Hörer ab.",
+      "example2En": "He picks up the receiver."
+    },
+    {
+      "de": "die Absage",
+      "en": "refusal, cancellation, rejection",
+      "pos": "noun",
+      "plural": "die Absagen",
+      "meanings": [
+        {
+          "en": "a rejection/decline (e.g. to an invitation, application)",
+          "de": "negative Antwort, Ablehnung"
+        },
+        {
+          "en": "cancellation of an event",
+          "de": "Stornierung einer Veranstaltung"
+        }
+      ],
+      "rule": "feminin; Gegenteil: die Zusage",
+      "example": "Ich habe eine Absage auf meine Bewerbung bekommen.",
+      "exampleEn": "I got a rejection for my application.",
+      "example2": "Wegen des Regens kam es zur Absage der Veranstaltung.",
+      "example2En": "Due to the rain, the event was cancelled."
+    },
+    {
+      "de": "abschicken",
+      "en": "to send off (a letter/email)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to send off/mail something",
+          "de": "etwas per Post oder E-Mail senden"
+        }
+      ],
+      "rule": "trennbar: schickt ... ab, schickte ab, hat abgeschickt",
+      "example": "Ich habe die Bewerbung schon abgeschickt.",
+      "exampleEn": "I already sent off the application.",
+      "example2": "Schick die E-Mail bitte heute noch ab.",
+      "example2En": "Please send the email off today."
+    },
+    {
+      "de": "absichtlich",
+      "en": "intentional, on purpose",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "done on purpose, deliberate",
+          "de": "mit Absicht, nicht aus Versehen"
+        }
+      ],
+      "rule": "Gegenteil: versehentlich, unabsichtlich",
+      "example": "Er hat das absichtlich gemacht.",
+      "exampleEn": "He did that on purpose.",
+      "example2": "Das war keine absichtliche Beleidigung.",
+      "example2En": "That was not an intentional insult."
+    },
+    {
+      "de": "absolvieren",
+      "en": "to complete, to graduate from",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to complete (training, studies, a course)",
+          "de": "eine Ausbildung oder Prüfung erfolgreich beenden"
+        }
+      ],
+      "rule": "nicht trennbar, kein 'ge-' im Partizip: absolviert, absolvierte, hat absolviert",
+      "example": "Sie hat ihr Studium erfolgreich absolviert.",
+      "exampleEn": "She successfully completed her studies.",
+      "example2": "Er muss noch ein Praktikum absolvieren.",
+      "example2En": "He still has to complete an internship."
+    },
+    {
+      "de": "absprechen",
+      "en": "to agree on, to arrange (together)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to agree on/coordinate something with others",
+          "de": "etwas gemeinsam vereinbaren"
+        }
+      ],
+      "rule": "trennbar, oft reflexiv 'sich absprechen (mit + Dativ)'; unregelmäßig: spricht ... ab, sprach ab, hat abgesprochen",
+      "example": "Wir müssen den Termin noch absprechen.",
+      "exampleEn": "We still need to agree on the appointment.",
+      "example2": "Sie sprechen sich mit den Kollegen ab.",
+      "example2En": "They coordinate with their colleagues."
+    },
+    {
+      "de": "der Abstellplatz",
+      "en": "parking space, storage space",
+      "pos": "noun",
+      "plural": "die Abstellplätze",
+      "meanings": [
+        {
+          "en": "a designated space for parking or storing something",
+          "de": "Platz zum Parken oder Abstellen von Gegenständen"
+        }
+      ],
+      "rule": "maskulin; oft für Fahrräder oder Autos",
+      "example": "Das Fahrrad steht auf dem Abstellplatz.",
+      "exampleEn": "The bike is in the storage space.",
+      "example2": "Die Wohnung hat einen eigenen Abstellplatz für das Auto.",
+      "example2En": "The apartment has its own parking space for the car."
+    },
+    {
+      "de": "der Abteilungsleiter / die Abteilungsleiterin",
+      "en": "department head, department manager",
+      "pos": "noun",
+      "plural": "die Abteilungsleiter / die Abteilungsleiterinnen",
+      "meanings": [
+        {
+          "en": "head of a department",
+          "de": "Person, die eine Abteilung leitet"
+        }
+      ],
+      "rule": "maskulin/feminin; weibliche Form mit -in",
+      "example": "Der Abteilungsleiter hat das Meeting geleitet.",
+      "exampleEn": "The department head led the meeting.",
+      "example2": "Sie ist Abteilungsleiterin im Personalbüro.",
+      "example2En": "She is the department manager in the HR office."
+    },
+    {
+      "de": "das Abwasser",
+      "en": "wastewater, sewage",
+      "pos": "noun",
+      "plural": "die Abwässer",
+      "meanings": [
+        {
+          "en": "used/dirty water, sewage",
+          "de": "gebrauchtes, schmutziges Wasser"
+        }
+      ],
+      "rule": "neutrum; meist Singular verwendet, Plural 'Abwässer' bei verschiedenen Arten",
+      "example": "Das Abwasser wird in der Kläranlage gereinigt.",
+      "exampleEn": "The wastewater is treated at the sewage plant.",
+      "example2": "Die Fabrik leitet ihr Abwasser in den Fluss.",
+      "example2En": "The factory discharges its wastewater into the river."
+    },
+    {
+      "de": "abwechslungsreich",
+      "en": "varied, full of variety",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "varied, diverse, not monotonous",
+          "de": "mit viel Abwechslung, nicht eintönig"
+        }
+      ],
+      "rule": "Gegenteil: eintönig, langweilig",
+      "example": "Mein Job ist sehr abwechslungsreich.",
+      "exampleEn": "My job is very varied.",
+      "example2": "Wir hatten einen abwechslungsreichen Urlaub.",
+      "example2En": "We had a varied vacation."
+    },
+    {
+      "de": "die Abwicklung",
+      "en": "processing, handling, settlement",
+      "pos": "noun",
+      "plural": "die Abwicklungen",
+      "meanings": [
+        {
+          "en": "the handling/processing of a transaction or task",
+          "de": "die Durchführung oder Erledigung eines Vorgangs"
+        }
+      ],
+      "rule": "feminin; oft in Geschäftskontexten (Abwicklung eines Auftrags)",
+      "example": "Die Abwicklung des Auftrags dauert drei Tage.",
+      "exampleEn": "Processing the order takes three days.",
+      "example2": "Die Bank kümmert sich um die Abwicklung der Zahlung.",
+      "example2En": "The bank takes care of the settlement of the payment."
+    },
+    {
+      "de": "achten",
+      "en": "to pay attention; to respect",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to pay attention to, watch out for",
+          "de": "auf etwas achten = aufpassen"
+        },
+        {
+          "en": "to respect, esteem someone",
+          "de": "jemanden respektieren"
+        }
+      ],
+      "rule": "'achten auf' + Akkusativ = aufpassen; 'jemanden achten' = respektieren. Regelmäßig: achtet, achtete, hat geachtet.",
+      "example": "Achte auf den Verkehr, bevor du die Straße überquerst.",
+      "exampleEn": "Watch out for traffic before you cross the street.",
+      "example2": "Die Kollegen achten ihn sehr, weil er immer fair ist.",
+      "example2En": "The colleagues respect him a lot because he is always fair."
+    },
+    {
+      "de": "die AGB",
+      "en": "general terms and conditions",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the standard contractual terms of a company",
+          "de": "Allgemeine Geschäftsbedingungen"
+        }
+      ],
+      "rule": "Abkürzung für 'Allgemeine Geschäftsbedingungen'; wird nur im Plural benutzt: 'die AGB'.",
+      "example": "Bitte lesen Sie die AGB, bevor Sie bestellen.",
+      "exampleEn": "Please read the terms and conditions before you order.",
+      "example2": "Mit dem Klick akzeptieren Sie unsere AGB.",
+      "example2En": "By clicking, you accept our terms and conditions."
+    },
+    {
+      "de": "aktiv",
+      "en": "active",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "physically or socially active, engaged",
+          "de": "tätig, nicht passiv"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: aktiv, aktiver, am aktivsten.",
+      "example": "Meine Oma ist auch mit 80 noch sehr aktiv.",
+      "exampleEn": "My grandma is still very active even at 80.",
+      "example2": "Er ist aktives Mitglied im Sportverein.",
+      "example2En": "He is an active member of the sports club."
+    },
+    {
+      "de": "akzeptieren",
+      "en": "to accept",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to accept, agree to",
+          "de": "annehmen, zustimmen"
+        }
+      ],
+      "rule": "Regelmäßig: akzeptiert, akzeptierte, hat akzeptiert. Oft mit Akkusativ.",
+      "example": "Der Laden akzeptiert nur Bargeld.",
+      "exampleEn": "The shop only accepts cash.",
+      "example2": "Ich akzeptiere deine Entscheidung.",
+      "example2En": "I accept your decision."
+    },
+    {
+      "de": "der Alkohol",
+      "en": "alcohol",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "alcohol (as a drink or substance)",
+          "de": "alkoholisches Getränk oder Stoff"
+        }
+      ],
+      "rule": "Meist unzählbar, kein Plural im Alltagsgebrauch.",
+      "example": "Er trinkt keinen Alkohol mehr.",
+      "exampleEn": "He doesn't drink alcohol anymore.",
+      "example2": "Alkohol am Steuer ist verboten.",
+      "example2En": "Drinking alcohol while driving is forbidden."
+    },
+    {
+      "de": "allerdings",
+      "en": "however, though",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "however, but (restricting a statement)",
+          "de": "aber, jedoch"
+        }
+      ],
+      "rule": "Adverb, steht oft im Mittelfeld oder am Satzanfang mit Inversion: 'Allerdings hat er recht.'",
+      "example": "Das Restaurant ist gut, allerdings etwas teuer.",
+      "exampleEn": "The restaurant is good, though a bit expensive.",
+      "example2": "Ich komme mit, allerdings erst später.",
+      "example2En": "I'll come along, but only later."
+    },
+    {
+      "de": "die Allergie",
+      "en": "allergy",
+      "pos": "noun",
+      "plural": "die Allergien",
+      "meanings": [
+        {
+          "en": "an allergic reaction to a substance",
+          "de": "Überempfindlichkeit gegen einen Stoff"
+        }
+      ],
+      "rule": "'Allergie gegen' + Akkusativ: eine Allergie gegen Nüsse.",
+      "example": "Sie hat eine Allergie gegen Katzenhaare.",
+      "exampleEn": "She has an allergy to cat hair.",
+      "example2": "Im Frühling werden viele Allergien schlimmer.",
+      "example2En": "Many allergies get worse in spring."
+    },
+    {
+      "de": "allergisch",
+      "en": "allergic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having an allergic reaction to something",
+          "de": "überempfindlich gegen etwas"
+        }
+      ],
+      "rule": "'allergisch gegen' + Akkusativ: allergisch gegen Pollen.",
+      "example": "Ich bin allergisch gegen Erdnüsse.",
+      "exampleEn": "I am allergic to peanuts.",
+      "example2": "Bist du allergisch gegen Hausstaub?",
+      "example2En": "Are you allergic to house dust?"
+    },
+    {
+      "de": "der Alliierte / die Alliierte",
+      "en": "ally; the Allies (pl.)",
+      "pos": "noun",
+      "plural": "die Alliierten",
+      "meanings": [
+        {
+          "en": "a member of an alliance, especially the Allies of WWII",
+          "de": "Mitglied eines Bündnisses, besonders die Siegermächte des Zweiten Weltkriegs"
+        }
+      ],
+      "rule": "Substantiviertes Adjektiv, dekliniert wie ein Adjektiv: der Alliierte, ein Alliierter, die Alliierten.",
+      "example": "Nach 1945 teilten die Alliierten Deutschland in Zonen.",
+      "exampleEn": "After 1945 the Allies divided Germany into zones.",
+      "example2": "Die Alliierten befreiten viele Länder.",
+      "example2En": "The Allies liberated many countries."
+    },
+    {
+      "de": "der Altenpfleger / die Altenpflegerin",
+      "en": "geriatric nurse, elderly caregiver",
+      "pos": "noun",
+      "plural": "die Altenpfleger / die Altenpflegerinnen",
+      "meanings": [
+        {
+          "en": "a person trained to care for elderly people",
+          "de": "Fachkraft, die alte Menschen pflegt"
+        }
+      ],
+      "rule": "Berufsbezeichnung; weibliche Form mit -in: die Altenpflegerin.",
+      "example": "Mein Bruder arbeitet als Altenpfleger im Seniorenheim.",
+      "exampleEn": "My brother works as a geriatric nurse in the nursing home.",
+      "example2": "Altenpflegerinnen haben einen anstrengenden, aber wichtigen Beruf.",
+      "example2En": "Geriatric nurses have a demanding but important job."
+    },
+    {
+      "de": "das Alter",
+      "en": "age",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "a person's age in years",
+          "de": "wie viele Jahre jemand alt ist"
+        },
+        {
+          "en": "old age, later stage of life",
+          "de": "das hohe Lebensalter"
+        }
+      ],
+      "rule": "Meist unzählbar; 'im Alter von' + Jahreszahl = at the age of.",
+      "example": "In welchem Alter bist du in die Schule gekommen?",
+      "exampleEn": "At what age did you start school?",
+      "example2": "Im Alter wird man oft ruhiger.",
+      "example2En": "In old age one often becomes calmer."
+    },
+    {
+      "de": "das Altöl",
+      "en": "waste oil, used oil",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "used motor or engine oil to be disposed of",
+          "de": "gebrauchtes Motoröl zur Entsorgung"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural. Wird oft im Kontext von Recycling benutzt.",
+      "example": "Altöl darf man nicht in den Abfluss schütten.",
+      "exampleEn": "You must not pour waste oil down the drain.",
+      "example2": "Die Werkstatt sammelt das Altöl in speziellen Behältern.",
+      "example2En": "The garage collects the waste oil in special containers."
+    },
+    {
+      "de": "das Altpapier",
+      "en": "waste paper, paper for recycling",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "used paper collected for recycling",
+          "de": "gebrauchtes Papier zum Recyceln"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural.",
+      "example": "Zeitungen gehören ins Altpapier.",
+      "exampleEn": "Newspapers belong in the paper recycling.",
+      "example2": "Am Mittwoch wird das Altpapier abgeholt.",
+      "example2En": "The waste paper is collected on Wednesday."
+    },
+    {
+      "de": "das Aluminium",
+      "en": "aluminium",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the light metal aluminium",
+          "de": "leichtes Metall"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural.",
+      "example": "Die Dose besteht aus Aluminium.",
+      "exampleEn": "The can is made of aluminium.",
+      "example2": "Aluminium lässt sich gut recyceln.",
+      "example2En": "Aluminium can be recycled well."
+    },
+    {
+      "de": "amtlich",
+      "en": "official",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "official, from an authority",
+          "de": "von einer Behörde stammend, offiziell"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung; oft mit Dokumenten/Behörden verbunden: amtliches Kennzeichen.",
+      "example": "Ich brauche eine amtliche Bescheinigung.",
+      "exampleEn": "I need an official certificate.",
+      "example2": "Das Auto hat noch kein amtliches Kennzeichen.",
+      "example2En": "The car doesn't have an official license plate yet."
+    },
+    {
+      "de": "die Amtssprache",
+      "en": "official language",
+      "pos": "noun",
+      "plural": "die Amtssprachen",
+      "meanings": [
+        {
+          "en": "the language officially used by a state or organization",
+          "de": "offiziell anerkannte Sprache eines Staates"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Amt' + 'Sprache'.",
+      "example": "Deutsch ist die Amtssprache in Österreich.",
+      "exampleEn": "German is the official language in Austria.",
+      "example2": "Die EU hat viele Amtssprachen.",
+      "example2En": "The EU has many official languages."
+    },
+    {
+      "de": "der Anbau",
+      "en": "cultivation; extension (building)",
+      "pos": "noun",
+      "plural": "die Anbauten",
+      "meanings": [
+        {
+          "en": "the growing of crops or plants",
+          "de": "das Anpflanzen von Pflanzen"
+        },
+        {
+          "en": "an extension added to a building",
+          "de": "zusätzlicher Gebäudeteil"
+        }
+      ],
+      "rule": "Zwei Bedeutungen: Landwirtschaft (meist Singular, kein Plural) oder Bauwesen (Plural: die Anbauten).",
+      "example": "Der Anbau von Gemüse braucht viel Wasser.",
+      "exampleEn": "Growing vegetables requires a lot of water.",
+      "example2": "Wir planen einen Anbau an unser Haus.",
+      "example2En": "We are planning an extension to our house."
+    },
+    {
+      "de": "andauernd",
+      "en": "continuous, constant",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "happening continuously or repeatedly, without stopping",
+          "de": "ständig, ohne Unterbrechung"
+        }
+      ],
+      "rule": "Von 'andauern' (dauern, anhalten) abgeleitetes Adjektiv/Adverb; oft mit negativem Unterton (Genervtsein).",
+      "example": "Das andauernde Klingeln nervt mich.",
+      "exampleEn": "The constant ringing annoys me.",
+      "example2": "Sie beschwert sich andauernd über das Wetter.",
+      "example2En": "She constantly complains about the weather."
+    },
+    {
+      "de": "anerkennen",
+      "en": "to recognize; to acknowledge",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to officially recognize (a qualification, status)",
+          "de": "offiziell akzeptieren"
+        },
+        {
+          "en": "to acknowledge/appreciate (effort, achievement)",
+          "de": "würdigen, schätzen"
+        }
+      ],
+      "rule": "trennbar: erkennt an, Präteritum: erkannte an, Perfekt: hat anerkannt (untrennbares -erkenn- bleibt zusammen im Partizip: anerkannt, kein 'ge-')",
+      "example": "Der Arbeitgeber erkennt mein Diplom aus dem Ausland an.",
+      "exampleEn": "My employer recognizes my diploma from abroad.",
+      "example2": "Der Chef hat ihre gute Arbeit anerkannt.",
+      "example2En": "The boss acknowledged her good work."
+    },
+    {
+      "de": "die Anerkennung",
+      "en": "recognition; appreciation",
+      "pos": "noun",
+      "plural": "die Anerkennungen",
+      "meanings": [
+        {
+          "en": "official recognition (of a qualification)",
+          "de": "offizielle Bestätigung"
+        },
+        {
+          "en": "appreciation, praise",
+          "de": "Würdigung, Lob"
+        }
+      ],
+      "rule": "von 'anerkennen' abgeleitetes Nomen; oft mit 'finden' (Anerkennung finden) oder 'bekommen'",
+      "example": "Die Anerkennung ihres Abschlusses hat drei Monate gedauert.",
+      "exampleEn": "The recognition of her degree took three months.",
+      "example2": "Er bekam viel Anerkennung für sein Projekt.",
+      "example2En": "He received a lot of appreciation for his project."
+    },
+    {
+      "de": "anfahren",
+      "en": "to start moving; to drive into (crash); to snap at someone",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to set off / start driving",
+          "de": "losfahren"
+        },
+        {
+          "en": "to hit/crash into (with a vehicle)",
+          "de": "mit dem Fahrzeug gegen etwas fahren"
+        },
+        {
+          "en": "to yell at / snap at someone",
+          "de": "jemanden grob ansprechen"
+        }
+      ],
+      "rule": "trennbar; fährt an, fuhr an, ist/hat angefahren (bei intransitivem 'losfahren': ist angefahren; bei transitivem 'anfahren' im Sinne von 'hit' und bei 'anschreien' mit Akkusativobjekt: hat angefahren)",
+      "example": "Der Bus fuhr langsam an.",
+      "exampleEn": "The bus slowly started moving.",
+      "example2": "Der Chef hat ihn wegen des Fehlers angefahren.",
+      "example2En": "The boss snapped at him because of the mistake."
+    },
+    {
+      "de": "der Anfang",
+      "en": "beginning, start",
+      "pos": "noun",
+      "plural": "die Anfänge",
+      "meanings": [
+        {
+          "en": "beginning, start",
+          "de": "Beginn"
+        }
+      ],
+      "rule": "Ausdruck: am Anfang (at the beginning); Gegenteil: das Ende",
+      "example": "Am Anfang war der Kurs sehr schwer.",
+      "exampleEn": "At the beginning, the course was very difficult.",
+      "example2": "Wir haben am Anfang des Monats die Miete bezahlt.",
+      "example2En": "We paid the rent at the beginning of the month."
+    },
+    {
+      "de": "anfangs",
+      "en": "at first, initially",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "at first, in the beginning",
+          "de": "zu Beginn, am Anfang"
+        }
+      ],
+      "rule": "Adverb, kein Artikel nötig; ähnlich wie 'am Anfang', aber steht direkt als Adverb im Satz",
+      "example": "Anfangs verstand ich kein Wort Deutsch.",
+      "exampleEn": "At first, I didn't understand a word of German.",
+      "example2": "Anfangs war die Arbeit stressig, jetzt ist es besser.",
+      "example2En": "Initially the job was stressful, now it's better."
+    },
+    {
+      "de": "anfassen",
+      "en": "to touch; to grab hold of",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to touch (with hands)",
+          "de": "berühren"
+        }
+      ],
+      "rule": "trennbar: fasst an, fasste an, hat angefasst",
+      "example": "Bitte die Bilder im Museum nicht anfassen.",
+      "exampleEn": "Please don't touch the pictures in the museum.",
+      "example2": "Er hat vorsichtig die heiße Pfanne angefasst.",
+      "example2En": "He carefully touched the hot pan."
+    },
+    {
+      "de": "angenehm",
+      "en": "pleasant, comfortable",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "pleasant, agreeable",
+          "de": "wohltuend, nett"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: angenehm, angenehmer, am angenehmsten; Gegenteil: unangenehm",
+      "example": "Das Wetter heute ist sehr angenehm.",
+      "exampleEn": "The weather today is very pleasant.",
+      "example2": "Es war ein angenehmes Gespräch mit ihr.",
+      "example2En": "It was a pleasant conversation with her."
+    },
+    {
+      "de": "anheben",
+      "en": "to lift up; to raise (prices, wages)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to lift up physically",
+          "de": "hochheben"
+        },
+        {
+          "en": "to raise (prices, salaries)",
+          "de": "erhöhen"
+        }
+      ],
+      "rule": "trennbar: hebt an, hob an, hat angehoben",
+      "example": "Zu zweit konnten sie den Schrank anheben.",
+      "exampleEn": "Together, the two of them managed to lift the cabinet.",
+      "example2": "Die Firma hat die Gehälter angehoben.",
+      "example2En": "The company raised the salaries."
+    },
+    {
+      "de": "ankündigen",
+      "en": "to announce",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to announce beforehand",
+          "de": "im Voraus mitteilen"
+        }
+      ],
+      "rule": "trennbar: kündigt an, kündigte an, hat angekündigt",
+      "example": "Der Lehrer hat die Prüfung schon letzte Woche angekündigt.",
+      "exampleEn": "The teacher already announced the exam last week.",
+      "example2": "Die Firma kündigt neue Produkte an.",
+      "example2En": "The company is announcing new products."
+    },
+    {
+      "de": "die Anlage",
+      "en": "facility, plant; attachment (email); investment",
+      "pos": "noun",
+      "plural": "die Anlagen",
+      "meanings": [
+        {
+          "en": "facility, installation, plant",
+          "de": "Einrichtung, technisches System"
+        },
+        {
+          "en": "attachment (to a letter/email)",
+          "de": "Beilage, beigefügtes Dokument"
+        },
+        {
+          "en": "investment (of money)",
+          "de": "Geldanlage"
+        }
+      ],
+      "rule": "mehrdeutiges Nomen; im Geschäftsbrief: 'siehe Anlage' = see attachment",
+      "example": "Die Firma hat eine neue Anlage zur Stromproduktion gebaut.",
+      "exampleEn": "The company built a new plant for electricity production.",
+      "example2": "Bitte beachten Sie die Anlage zu dieser E-Mail.",
+      "example2En": "Please note the attachment to this email."
+    },
+    {
+      "de": "anmachen",
+      "en": "to switch on; to flirt with someone (informal)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to switch on (light, device)",
+          "de": "einschalten"
+        },
+        {
+          "en": "to flirt with / hit on someone (umgangssprachlich)",
+          "de": "flirten mit jemandem"
+        }
+      ],
+      "rule": "trennbar: macht an, machte an, hat angemacht; 'einschalten' ist neutral, die Bedeutung 'flirten' ist umgangssprachlich",
+      "example": "Kannst du bitte das Licht anmachen?",
+      "exampleEn": "Can you please turn on the light?",
+      "example2": "Ein Typ hat sie in der Bar angemacht.",
+      "example2En": "A guy hit on her at the bar."
+    },
+    {
+      "de": "die Annahme",
+      "en": "assumption; acceptance",
+      "pos": "noun",
+      "plural": "die Annahmen",
+      "meanings": [
+        {
+          "en": "assumption, presumption",
+          "de": "Vermutung"
+        },
+        {
+          "en": "acceptance (of an offer, package)",
+          "de": "das Annehmen"
+        }
+      ],
+      "rule": "von 'annehmen' abgeleitet; 'in der Annahme, dass...' = assuming that...",
+      "example": "Meine Annahme war falsch.",
+      "exampleEn": "My assumption was wrong.",
+      "example2": "Die Annahme des Pakets erfolgt am Schalter.",
+      "example2En": "The acceptance of the package takes place at the counter."
+    },
+    {
+      "de": "annullieren",
+      "en": "to cancel, to annul",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to declare invalid, to cancel (a flight, contract, order)",
+          "de": "für ungültig erklären, stornieren"
+        }
+      ],
+      "rule": "regelmäßig: annulliert, annullierte, hat annulliert; wird häufig im Passiv verwendet (wird annulliert / ist annulliert worden)",
+      "example": "Die Fluggesellschaft hat den Flug wegen des Sturms annulliert.",
+      "exampleEn": "The airline cancelled the flight because of the storm.",
+      "example2": "Die Bestellung ist annulliert worden.",
+      "example2En": "The order has been annulled."
+    },
+    {
+      "de": "die Anprobe",
+      "en": "fitting (of clothes)",
+      "pos": "noun",
+      "plural": "die Anproben",
+      "meanings": [
+        {
+          "en": "trying on clothes, fitting",
+          "de": "das Anprobieren von Kleidung"
+        }
+      ],
+      "rule": "Nomen zu 'anprobieren'; typisch im Geschäft/beim Schneider",
+      "example": "Die Anprobe des Hochzeitskleides dauerte eine Stunde.",
+      "exampleEn": "The fitting of the wedding dress took an hour.",
+      "example2": "Haben Sie einen Termin für die Anprobe?",
+      "example2En": "Do you have an appointment for the fitting?"
+    }
+  ]
+}

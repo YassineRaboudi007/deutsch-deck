@@ -1,0 +1,889 @@
+{
+  "id": "a2-15",
+  "title": "A2 · R–S (15)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "die Rente",
+      "en": "pension",
+      "pos": "noun",
+      "plural": "die Renten",
+      "meanings": [
+        {
+          "en": "pension (retirement income)",
+          "de": "Geld, das man nach der Arbeit bekommt"
+        }
+      ],
+      "rule": "Feminin; oft in 'in Rente gehen' = to retire.",
+      "example": "Meine Oma bekommt jeden Monat ihre Rente.",
+      "exampleEn": "My grandma gets her pension every month.",
+      "example2": "Mein Opa geht nächstes Jahr in Rente.",
+      "example2En": "My grandpa is retiring next year."
+    },
+    {
+      "de": "reservieren",
+      "en": "to reserve, to book",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to reserve, book (a table, room, seat)",
+          "de": "einen Platz im Voraus bestellen"
+        }
+      ],
+      "rule": "Regelmäßig (schwach): reserviert, reservierte, hat reserviert.",
+      "example": "Ich möchte einen Tisch für zwei Personen reservieren.",
+      "exampleEn": "I would like to reserve a table for two.",
+      "example2": "Haben Sie das Zimmer schon reserviert?",
+      "example2En": "Have you already booked the room?"
+    },
+    {
+      "de": "die Reservierung",
+      "en": "reservation, booking",
+      "pos": "noun",
+      "plural": "die Reservierungen",
+      "meanings": [
+        {
+          "en": "reservation, booking",
+          "de": "das Reservieren, die gebuchte Sache"
+        }
+      ],
+      "rule": "Feminin; Nomen zu 'reservieren'.",
+      "example": "Ich habe eine Reservierung für 20 Uhr.",
+      "exampleEn": "I have a reservation for 8 pm.",
+      "example2": "Die Reservierung ist auf meinen Namen.",
+      "example2En": "The reservation is under my name."
+    },
+    {
+      "de": "der Respekt",
+      "en": "respect",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "respect",
+          "de": "Achtung vor einer Person"
+        }
+      ],
+      "rule": "Maskulin; unzählbar, kein Plural. Oft mit 'vor + Dativ'.",
+      "example": "Wir haben großen Respekt vor unserem Lehrer.",
+      "exampleEn": "We have great respect for our teacher.",
+      "example2": "Zeig etwas mehr Respekt!",
+      "example2En": "Show a bit more respect!"
+    },
+    {
+      "de": "der Restaurantfachmann / die Restaurantfachfrau",
+      "en": "restaurant specialist (trained server)",
+      "pos": "noun",
+      "plural": "die Restaurantfachleute",
+      "meanings": [
+        {
+          "en": "qualified restaurant professional (waiter/waitress with training)",
+          "de": "ausgebildete Fachkraft im Restaurant"
+        }
+      ],
+      "rule": "Maskulin/Feminin; Ausbildungsberuf. Plural meist 'Restaurantfachleute'.",
+      "example": "Er macht eine Ausbildung zum Restaurantfachmann.",
+      "exampleEn": "He is training to become a restaurant specialist.",
+      "example2": "Die Restaurantfachfrau berät die Gäste bei der Weinauswahl.",
+      "example2En": "The restaurant specialist advises guests on wine selection."
+    },
+    {
+      "de": "der Restmüll",
+      "en": "residual waste (general trash)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "general/residual waste (non-recyclable)",
+          "de": "Müll, der nicht recycelt wird"
+        }
+      ],
+      "rule": "Maskulin; unzählbar, kein Plural. Gegensatz zu Biomüll, Papiermüll.",
+      "example": "Die Tonne für Restmüll ist grau.",
+      "exampleEn": "The bin for residual waste is grey.",
+      "example2": "Bitte wirf keine Batterien in den Restmüll.",
+      "example2En": "Please do not throw batteries in the residual waste."
+    },
+    {
+      "de": "der Rettungswagen",
+      "en": "ambulance",
+      "pos": "noun",
+      "plural": "die Rettungswagen",
+      "meanings": [
+        {
+          "en": "ambulance",
+          "de": "Fahrzeug für Notfälle mit Verletzten oder Kranken"
+        }
+      ],
+      "rule": "Maskulin; Plural unverändert (der/die Rettungswagen).",
+      "example": "Der Rettungswagen kam schnell zum Unfallort.",
+      "exampleEn": "The ambulance arrived quickly at the accident scene.",
+      "example2": "Ruf sofort einen Rettungswagen!",
+      "example2En": "Call an ambulance immediately!"
+    },
+    {
+      "de": "rhythmisch",
+      "en": "rhythmic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "rhythmic",
+          "de": "mit einem regelmäßigen Rhythmus"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: rhythmisch, rhythmischer, am rhythmischsten.",
+      "example": "Die Musik hat einen rhythmischen Takt.",
+      "exampleEn": "The music has a rhythmic beat.",
+      "example2": "Sie tanzt sehr rhythmisch.",
+      "example2En": "She dances very rhythmically."
+    },
+    {
+      "de": "die Richtung",
+      "en": "direction",
+      "pos": "noun",
+      "plural": "die Richtungen",
+      "meanings": [
+        {
+          "en": "direction",
+          "de": "Weg, in den man geht oder fährt"
+        }
+      ],
+      "rule": "Feminin; 'Richtung' + Ort ohne Artikel wirkt wie eine Präposition (der Bus fährt Richtung Zentrum). Mit Artikel: 'in Richtung + Genitiv' (in Richtung des Zentrums).",
+      "example": "Gehen Sie in diese Richtung.",
+      "exampleEn": "Go in this direction.",
+      "example2": "Der Bus fährt in Richtung Stadtzentrum.",
+      "example2En": "The bus goes in the direction of the city center."
+    },
+    {
+      "de": "die Rolle",
+      "en": "role; roll",
+      "pos": "noun",
+      "plural": "die Rollen",
+      "meanings": [
+        {
+          "en": "role (in a film, play, situation)",
+          "de": "Funktion oder Part in einer Geschichte"
+        },
+        {
+          "en": "roll (of something, e.g. tape, toilet paper)",
+          "de": "aufgerolltes Material"
+        }
+      ],
+      "rule": "Feminin. 'eine Rolle spielen' = to play a role / to matter.",
+      "example": "Sie spielt die Hauptrolle im Film.",
+      "exampleEn": "She plays the lead role in the film.",
+      "example2": "Kannst du eine Rolle Toilettenpapier kaufen?",
+      "example2En": "Can you buy a roll of toilet paper?"
+    },
+    {
+      "de": "die Rückenmuskulatur",
+      "en": "back muscles",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "back muscles (muscular system of the back)",
+          "de": "Muskeln im Rücken"
+        }
+      ],
+      "rule": "Feminin; unzählbar, kein Plural. Kompositum aus 'Rücken' + 'Muskulatur'.",
+      "example": "Schwimmen stärkt die Rückenmuskulatur.",
+      "exampleEn": "Swimming strengthens the back muscles.",
+      "example2": "Meine Rückenmuskulatur tut nach dem Sport weh.",
+      "example2En": "My back muscles hurt after exercise."
+    },
+    {
+      "de": "die Rückfahrt",
+      "en": "return journey (trip back)",
+      "pos": "noun",
+      "plural": "die Rückfahrten",
+      "meanings": [
+        {
+          "en": "return trip, journey back (by vehicle)",
+          "de": "Fahrt zurück zum Ausgangspunkt"
+        }
+      ],
+      "rule": "Feminin; Gegensatz zu 'Hinfahrt'.",
+      "example": "Die Rückfahrt dauert zwei Stunden.",
+      "exampleEn": "The return journey takes two hours.",
+      "example2": "Wir haben ein Ticket für Hin- und Rückfahrt gekauft.",
+      "example2En": "We bought a round-trip ticket."
+    },
+    {
+      "de": "die Rückfrage",
+      "en": "follow-up question",
+      "pos": "noun",
+      "plural": "die Rückfragen",
+      "meanings": [
+        {
+          "en": "follow-up/clarifying question",
+          "de": "Frage zur Klärung"
+        }
+      ],
+      "rule": "Feminin; oft 'bei Rückfragen' = if you have any questions.",
+      "example": "Bei Rückfragen können Sie mich anrufen.",
+      "exampleEn": "If you have any questions, you can call me.",
+      "example2": "Ich habe noch eine Rückfrage zum Vertrag.",
+      "example2En": "I still have a follow-up question about the contract."
+    },
+    {
+      "de": "der Saal",
+      "en": "hall",
+      "pos": "noun",
+      "plural": "die Säle",
+      "meanings": [
+        {
+          "en": "a large room for events",
+          "de": "großer Raum für Veranstaltungen"
+        }
+      ],
+      "rule": "Plural mit Umlaut: der Saal, die Säle.",
+      "example": "Die Party findet im großen Saal statt.",
+      "exampleEn": "The party takes place in the big hall.",
+      "example2": "Im Saal sitzen hundert Leute.",
+      "example2En": "A hundred people are sitting in the hall."
+    },
+    {
+      "de": "das Schach",
+      "en": "chess",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the board game chess",
+          "de": "ein Brettspiel"
+        }
+      ],
+      "rule": "Uncountable noun, always singular; used with spielen: Schach spielen.",
+      "example": "Mein Opa spielt gern Schach.",
+      "exampleEn": "My grandpa likes to play chess.",
+      "example2": "Kannst du Schach spielen?",
+      "example2En": "Can you play chess?"
+    },
+    {
+      "de": "schaffen",
+      "en": "to manage / to create",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to manage to do something",
+          "de": "etwas erfolgreich tun"
+        },
+        {
+          "en": "to create",
+          "de": "herstellen, erschaffen"
+        }
+      ],
+      "rule": "Regular in the 'manage' sense (schafft, schaffte, geschafft); as 'create' it is irregular (schafft, schuf, geschaffen), but A2 mostly uses the regular 'manage to' meaning.",
+      "example": "Ich schaffe die Prüfung bestimmt.",
+      "exampleEn": "I'll definitely manage to pass the exam.",
+      "example2": "Wir haben die Arbeit heute geschafft.",
+      "example2En": "We finished the work today."
+    },
+    {
+      "de": "der Schaffner / die Schaffnerin",
+      "en": "conductor (train/bus)",
+      "pos": "noun",
+      "plural": "die Schaffner / die Schaffnerinnen",
+      "meanings": [
+        {
+          "en": "person who checks tickets on a train or bus",
+          "de": "Person, die im Zug oder Bus Fahrkarten kontrolliert"
+        }
+      ],
+      "rule": "Agent noun with -er suffix, regular (strong) masculine declension: der Schaffner, des Schaffners; feminine adds -in, plural -innen.",
+      "example": "Der Schaffner kontrolliert die Fahrkarten.",
+      "exampleEn": "The conductor checks the tickets.",
+      "example2": "Die Schaffnerin war sehr freundlich.",
+      "example2En": "The (female) conductor was very friendly."
+    },
+    {
+      "de": "der Schafskäse",
+      "en": "sheep's cheese / feta",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "cheese made from sheep's milk",
+          "de": "Käse aus Schafsmilch"
+        }
+      ],
+      "rule": "Uncountable noun, no plural.",
+      "example": "Im Salat ist Schafskäse.",
+      "exampleEn": "There's sheep's cheese in the salad.",
+      "example2": "Ich mag Schafskäse mit Tomaten.",
+      "example2En": "I like sheep's cheese with tomatoes."
+    },
+    {
+      "de": "scharf",
+      "en": "sharp / spicy",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "spicy (of food)",
+          "de": "stark gewürzt"
+        },
+        {
+          "en": "sharp (of a blade)",
+          "de": "schneidend, gut geschliffen"
+        }
+      ],
+      "rule": "Comparison: scharf, schärfer, am schärfsten (Umlaut in comparative).",
+      "example": "Das Curry ist sehr scharf.",
+      "exampleEn": "The curry is very spicy.",
+      "example2": "Das Messer ist scharf.",
+      "example2En": "The knife is sharp."
+    },
+    {
+      "de": "das Schaubild",
+      "en": "diagram / chart",
+      "pos": "noun",
+      "plural": "die Schaubilder",
+      "meanings": [
+        {
+          "en": "a diagram or chart showing information",
+          "de": "grafische Darstellung von Informationen"
+        }
+      ],
+      "rule": "Compound noun: schauen + Bild; plural adds -er.",
+      "example": "Das Schaubild zeigt die Zahlen von 2020.",
+      "exampleEn": "The chart shows the figures from 2020.",
+      "example2": "Sehen Sie sich das Schaubild genau an.",
+      "example2En": "Look at the diagram carefully."
+    },
+    {
+      "de": "schauen",
+      "en": "to look",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to look, to watch",
+          "de": "blicken, sehen"
+        }
+      ],
+      "rule": "Regular weak verb: schaut, schaute, geschaut. Common southern-German alternative to 'sehen/gucken'.",
+      "example": "Schau mal aus dem Fenster!",
+      "exampleEn": "Look out the window!",
+      "example2": "Wir schauen heute Abend einen Film.",
+      "example2En": "We're watching a movie tonight."
+    },
+    {
+      "de": "das Schaufenster",
+      "en": "shop window",
+      "pos": "noun",
+      "plural": "die Schaufenster",
+      "meanings": [
+        {
+          "en": "a display window of a shop",
+          "de": "Fenster eines Geschäfts zum Präsentieren von Waren"
+        }
+      ],
+      "rule": "Compound: schauen + Fenster; plural = singular (like Fenster).",
+      "example": "Sie schaut die Kleider im Schaufenster an.",
+      "exampleEn": "She's looking at the clothes in the shop window.",
+      "example2": "Das Schaufenster ist schön dekoriert.",
+      "example2En": "The shop window is nicely decorated."
+    },
+    {
+      "de": "der Schein",
+      "en": "note (money) / certificate",
+      "pos": "noun",
+      "plural": "die Scheine",
+      "meanings": [
+        {
+          "en": "a banknote",
+          "de": "Geldschein"
+        },
+        {
+          "en": "a certificate",
+          "de": "Bescheinigung, Zeugnis"
+        }
+      ],
+      "rule": "Plural regular -e; often in compounds: Geldschein, Führerschein.",
+      "example": "Hast du einen Zehn-Euro-Schein?",
+      "exampleEn": "Do you have a ten-euro note?",
+      "example2": "Er hat den Schein für den Kurs bekommen.",
+      "example2En": "He got the certificate for the course."
+    },
+    {
+      "de": "schick",
+      "en": "chic / stylish",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "stylish, elegant",
+          "de": "elegant, modisch"
+        }
+      ],
+      "rule": "Regular comparison: schick, schicker, am schicksten.",
+      "example": "Das ist ein schickes Kleid.",
+      "exampleEn": "That's a stylish dress.",
+      "example2": "Du siehst heute sehr schick aus.",
+      "example2En": "You look very stylish today."
+    },
+    {
+      "de": "schieben",
+      "en": "to push",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to push something",
+          "de": "etwas mit Kraft bewegen"
+        }
+      ],
+      "rule": "Irregular: schiebt, schob, hat geschoben.",
+      "example": "Kannst du das Fahrrad schieben?",
+      "exampleEn": "Can you push the bike?",
+      "example2": "Er schob den Wagen aus der Garage.",
+      "example2En": "He pushed the car out of the garage."
+    },
+    {
+      "de": "das Schild",
+      "en": "sign",
+      "pos": "noun",
+      "plural": "die Schilder",
+      "meanings": [
+        {
+          "en": "a sign or notice board",
+          "de": "Tafel mit Information"
+        }
+      ],
+      "rule": "Note: das Schild (sign, neuter) vs. der Schild (shield, masculine) - different genders, different meanings.",
+      "example": "Das Schild zeigt den Weg zum Bahnhof.",
+      "exampleEn": "The sign shows the way to the station.",
+      "example2": "An der Tür hängt ein Schild.",
+      "example2En": "There is a sign on the door."
+    },
+    {
+      "de": "schlachten",
+      "en": "to slaughter",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to kill an animal for meat",
+          "de": "ein Tier für Fleisch töten"
+        }
+      ],
+      "rule": "Regular weak verb: schlachtet, schlachtete, geschlachtet.",
+      "example": "Der Bauer schlachtet ein Schwein.",
+      "exampleEn": "The farmer slaughters a pig.",
+      "example2": "Früher hat man die Tiere selbst geschlachtet.",
+      "example2En": "In the past, people slaughtered the animals themselves."
+    },
+    {
+      "de": "schlafen gehen",
+      "en": "to go to bed",
+      "pos": "phrase",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to go to sleep / go to bed",
+          "de": "sich schlafen legen"
+        }
+      ],
+      "rule": "Fixed verb + infinitive construction (not a true separable verb); only 'gehen' is conjugated: ich gehe schlafen; perfect tense uses sein: ist schlafen gegangen.",
+      "example": "Ich gehe jetzt schlafen.",
+      "exampleEn": "I'm going to bed now.",
+      "example2": "Die Kinder sind schon schlafen gegangen.",
+      "example2En": "The children have already gone to bed."
+    },
+    {
+      "de": "schlagen",
+      "en": "to hit / to beat",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to hit, strike",
+          "de": "mit Kraft treffen"
+        },
+        {
+          "en": "to beat (in a game/sport)",
+          "de": "besiegen"
+        }
+      ],
+      "rule": "Irregular: schlägt, schlug, hat geschlagen.",
+      "example": "Er schlägt den Nagel in die Wand.",
+      "exampleEn": "He hammers the nail into the wall.",
+      "example2": "Unsere Mannschaft hat den Gegner geschlagen.",
+      "example2En": "Our team beat the opponent."
+    },
+    {
+      "de": "schlank",
+      "en": "slim",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "slim, slender (of a person)",
+          "de": "dünn, nicht dick"
+        }
+      ],
+      "rule": "Regular comparison: schlank, schlanker, am schlanksten.",
+      "example": "Sie ist sehr schlank.",
+      "exampleEn": "She is very slim.",
+      "example2": "Er möchte schlanker werden.",
+      "example2En": "He wants to become slimmer."
+    },
+    {
+      "de": "schließlich",
+      "en": "finally / after all",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "finally, in the end",
+          "de": "am Ende, zuletzt"
+        },
+        {
+          "en": "after all (giving a reason)",
+          "de": "immerhin, denn schließlich"
+        }
+      ],
+      "rule": "Not gradable; often used as a connector at the start or middle of a sentence.",
+      "example": "Schließlich hat er die Antwort gefunden.",
+      "exampleEn": "Finally he found the answer.",
+      "example2": "Du musst helfen, schließlich bist du sein Bruder.",
+      "example2En": "You have to help, after all you're his brother."
+    },
+    {
+      "de": "die Schmerztablette",
+      "en": "painkiller (pill)",
+      "pos": "noun",
+      "plural": "die Schmerztabletten",
+      "meanings": [
+        {
+          "en": "a tablet taken to relieve pain",
+          "de": "eine Tablette gegen Schmerzen"
+        }
+      ],
+      "rule": "Compound noun: Schmerz + Tablette; takes die like Tablette.",
+      "example": "Ich habe Kopfschmerzen und nehme eine Schmerztablette.",
+      "exampleEn": "I have a headache and I'm taking a painkiller.",
+      "example2": "Hast du eine Schmerztablette für mich?",
+      "example2En": "Do you have a painkiller for me?"
+    },
+    {
+      "de": "der Schmuck",
+      "en": "jewelry",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "jewelry, ornaments worn on the body",
+          "de": "Ringe, Ketten, Ohrringe usw."
+        }
+      ],
+      "rule": "Uncountable noun, no plural form (used only in singular).",
+      "example": "Sie trägt gern goldenen Schmuck.",
+      "exampleEn": "She likes to wear gold jewelry.",
+      "example2": "Der Schmuck war ein Geschenk von ihrer Oma.",
+      "example2En": "The jewelry was a gift from her grandmother."
+    },
+    {
+      "de": "das Schnäppchen",
+      "en": "bargain",
+      "pos": "noun",
+      "plural": "die Schnäppchen",
+      "meanings": [
+        {
+          "en": "something bought cheaply, a bargain",
+          "de": "ein günstiger Kauf"
+        }
+      ],
+      "rule": "Diminutive noun (-chen), always neuter; plural same as singular.",
+      "example": "Die Jacke war ein echtes Schnäppchen.",
+      "exampleEn": "The jacket was a real bargain.",
+      "example2": "Im Ausverkauf findet man oft Schnäppchen.",
+      "example2En": "You often find bargains during the sale."
+    },
+    {
+      "de": "das Schnitzel",
+      "en": "schnitzel (breaded cutlet)",
+      "pos": "noun",
+      "plural": "die Schnitzel",
+      "meanings": [
+        {
+          "en": "a thin breaded and fried cutlet of meat",
+          "de": "ein paniertes, gebratenes Stück Fleisch"
+        }
+      ],
+      "rule": "Neuter noun; plural identical to singular.",
+      "example": "Wir bestellen Schnitzel mit Pommes.",
+      "exampleEn": "We're ordering schnitzel with fries.",
+      "example2": "Das Schnitzel war sehr lecker.",
+      "example2En": "The schnitzel was very tasty."
+    },
+    {
+      "de": "der Schnupperkurs",
+      "en": "trial course, taster session",
+      "pos": "noun",
+      "plural": "die Schnupperkurse",
+      "meanings": [
+        {
+          "en": "a short introductory/trial course to try something out",
+          "de": "ein kurzer Kurs zum Ausprobieren"
+        }
+      ],
+      "rule": "Compound noun: schnuppern (to sniff/try out) + Kurs; masculine.",
+      "example": "Ich mache einen Schnupperkurs im Yogastudio.",
+      "exampleEn": "I'm doing a trial course at the yoga studio.",
+      "example2": "Der Schnupperkurs ist kostenlos.",
+      "example2En": "The taster session is free."
+    },
+    {
+      "de": "der Schnurrbart",
+      "en": "mustache",
+      "pos": "noun",
+      "plural": "die Schnurrbärte",
+      "meanings": [
+        {
+          "en": "facial hair above the upper lip",
+          "de": "Bart über der Oberlippe"
+        }
+      ],
+      "rule": "Compound noun: Schnurr + Bart, masculine like Bart.",
+      "example": "Mein Opa hat einen grauen Schnurrbart.",
+      "exampleEn": "My grandpa has a gray mustache.",
+      "example2": "Er rasiert sich nie den Schnurrbart ab.",
+      "example2En": "He never shaves off his mustache."
+    },
+    {
+      "de": "schonen",
+      "en": "to protect, to go easy on",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to spare/protect something from harm",
+          "de": "vorsichtig mit etwas umgehen"
+        },
+        {
+          "en": "(reflexive) to take it easy, rest",
+          "de": "sich ausruhen, sich nicht anstrengen"
+        }
+      ],
+      "rule": "Regular weak verb; also used reflexively: sich schonen.",
+      "example": "Nach der Operation muss er sich schonen.",
+      "exampleEn": "After the operation he has to take it easy.",
+      "example2": "Diese Creme schont die Haut.",
+      "example2En": "This cream is gentle on the skin."
+    },
+    {
+      "de": "der Schornsteinfeger / die Schornsteinfegerin",
+      "en": "chimney sweep",
+      "pos": "noun",
+      "plural": "die Schornsteinfeger / die Schornsteinfegerinnen",
+      "meanings": [
+        {
+          "en": "a person who cleans chimneys professionally",
+          "de": "jemand, der beruflich Schornsteine reinigt"
+        }
+      ],
+      "rule": "Compound noun: Schornstein + Feger; feminine adds -in.",
+      "example": "Der Schornsteinfeger kommt einmal im Jahr.",
+      "exampleEn": "The chimney sweep comes once a year.",
+      "example2": "Ein Schornsteinfeger bringt angeblich Glück.",
+      "example2En": "A chimney sweep is said to bring good luck."
+    },
+    {
+      "de": "schrecklich",
+      "en": "terrible, awful",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "very bad, terrible",
+          "de": "sehr schlimm"
+        },
+        {
+          "en": "(colloquial) very, extremely (intensifier)",
+          "de": "sehr (umgangssprachlich als Verstärkung)"
+        }
+      ],
+      "rule": "Regular comparison: schrecklich, schrecklicher, am schrecklichsten.",
+      "example": "Das Wetter war heute schrecklich.",
+      "exampleEn": "The weather was terrible today.",
+      "example2": "Ich bin schrecklich müde.",
+      "example2En": "I'm terribly tired."
+    },
+    {
+      "de": "der Schrei",
+      "en": "scream, shout",
+      "pos": "noun",
+      "plural": "die Schreie",
+      "meanings": [
+        {
+          "en": "a loud cry, scream",
+          "de": "ein lauter Ruf"
+        }
+      ],
+      "rule": "Related to the verb schreien; masculine noun.",
+      "example": "Plötzlich hörte ich einen lauten Schrei.",
+      "exampleEn": "Suddenly I heard a loud scream.",
+      "example2": "Ihr Schrei weckte das ganze Haus.",
+      "example2En": "Her scream woke up the whole house."
+    },
+    {
+      "de": "die Schuhgröße",
+      "en": "shoe size",
+      "pos": "noun",
+      "plural": "die Schuhgrößen",
+      "meanings": [
+        {
+          "en": "the size number of shoes",
+          "de": "die Größenangabe bei Schuhen"
+        }
+      ],
+      "rule": "Compound noun: Schuh + Größe; feminine like Größe.",
+      "example": "Welche Schuhgröße hast du?",
+      "exampleEn": "What shoe size do you have?",
+      "example2": "Meine Schuhgröße ist 42.",
+      "example2En": "My shoe size is 42."
+    },
+    {
+      "de": "die Schulform",
+      "en": "type of school",
+      "pos": "noun",
+      "plural": "die Schulformen",
+      "meanings": [
+        {
+          "en": "a category/type of school (e.g. Gymnasium, Realschule)",
+          "de": "eine Art von Schule"
+        }
+      ],
+      "rule": "Compound noun: Schule + Form; feminine like Form.",
+      "example": "In Deutschland gibt es verschiedene Schulformen.",
+      "exampleEn": "In Germany there are different types of schools.",
+      "example2": "Welche Schulform besucht dein Kind?",
+      "example2En": "Which type of school does your child attend?"
+    },
+    {
+      "de": "der Schulleiter / die Schulleiterin",
+      "en": "school principal",
+      "pos": "noun",
+      "plural": "die Schulleiter / die Schulleiterinnen",
+      "meanings": [
+        {
+          "en": "the head/director of a school",
+          "de": "der Chef/die Chefin einer Schule"
+        }
+      ],
+      "rule": "Compound: Schule + Leiter (leader); feminine adds -in.",
+      "example": "Der Schulleiter begrüßt die neuen Schüler.",
+      "exampleEn": "The principal welcomes the new students.",
+      "example2": "Die Schulleiterin hat heute eine Rede gehalten.",
+      "example2En": "The principal gave a speech today."
+    },
+    {
+      "de": "die Schulpflicht",
+      "en": "compulsory schooling",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "legal requirement to attend school",
+          "de": "die Pflicht, zur Schule zu gehen"
+        }
+      ],
+      "rule": "Uncountable noun, no plural; compound: Schule + Pflicht.",
+      "example": "In Deutschland gilt die Schulpflicht ab sechs Jahren.",
+      "exampleEn": "In Germany, compulsory schooling applies from age six.",
+      "example2": "Die Schulpflicht dauert meistens neun Jahre.",
+      "example2En": "Compulsory schooling usually lasts nine years."
+    },
+    {
+      "de": "das Schulsystem",
+      "en": "school system",
+      "pos": "noun",
+      "plural": "die Schulsysteme",
+      "meanings": [
+        {
+          "en": "the overall system of education/schools in a country",
+          "de": "das System der Schulen in einem Land"
+        }
+      ],
+      "rule": "Compound noun: Schule + System; neuter like System.",
+      "example": "Das Schulsystem in Deutschland ist kompliziert.",
+      "exampleEn": "The school system in Germany is complicated.",
+      "example2": "Jedes Bundesland hat ein etwas anderes Schulsystem.",
+      "example2En": "Every federal state has a slightly different school system."
+    },
+    {
+      "de": "die Schulzeit",
+      "en": "school days, time at school",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the period of one's life spent at school",
+          "de": "die Zeit, in der man zur Schule geht"
+        }
+      ],
+      "rule": "Usually uncountable (no plural); compound: Schule + Zeit.",
+      "example": "Ich denke oft an meine Schulzeit zurück.",
+      "exampleEn": "I often think back to my school days.",
+      "example2": "Wir sind seit der Schulzeit befreundet.",
+      "example2En": "We've been friends since our school days."
+    },
+    {
+      "de": "die Schüssel",
+      "en": "bowl",
+      "pos": "noun",
+      "plural": "die Schüsseln",
+      "meanings": [
+        {
+          "en": "a round container for food or liquids",
+          "de": "ein rundes Gefäß für Essen"
+        }
+      ],
+      "rule": "Feminine noun; plural adds -n.",
+      "example": "Sie mischt den Salat in einer großen Schüssel.",
+      "exampleEn": "She mixes the salad in a large bowl.",
+      "example2": "Stell die Schüssel bitte in den Schrank.",
+      "example2En": "Please put the bowl in the cupboard."
+    },
+    {
+      "de": "schwarzfahren",
+      "en": "to ride without a ticket, fare-dodge",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to use public transport without a valid ticket",
+          "de": "ohne gültigen Fahrschein fahren"
+        }
+      ],
+      "rule": "Trennbar (separable) und irregular: fährt schwarz, fuhr schwarz, ist schwarzgefahren.",
+      "example": "Er ist schwarzgefahren und musste eine Strafe zahlen.",
+      "exampleEn": "He rode without a ticket and had to pay a fine.",
+      "example2": "Schwarzfahren ist in Deutschland verboten.",
+      "example2En": "Fare-dodging is illegal in Germany."
+    },
+    {
+      "de": "die Schwellung",
+      "en": "swelling",
+      "pos": "noun",
+      "plural": "die Schwellungen",
+      "meanings": [
+        {
+          "en": "swelling (medical)",
+          "de": "das Anschwellen, z. B. nach einer Verletzung"
+        }
+      ],
+      "rule": "Von \"schwellen\" (anschwellen); häufig im medizinischen Kontext.",
+      "example": "Nach dem Sturz hatte er eine Schwellung am Knie.",
+      "exampleEn": "After the fall he had a swelling on his knee.",
+      "example2": "Die Schwellung geht mit Eis schneller zurück.",
+      "example2En": "The swelling goes down faster with ice."
+    }
+  ]
+}

@@ -1,0 +1,881 @@
+{
+  "id": "a2-13",
+  "title": "A2 · M–P (13)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "der Modeschmuck",
+      "en": "costume jewelry",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "inexpensive, non-precious jewelry",
+          "de": "günstiger Schmuck ohne Edelsteine"
+        }
+      ],
+      "rule": "Compound: Mode + Schmuck. Masculine, uncountable (no plural).",
+      "example": "Die Kette ist nur Modeschmuck, kein echtes Gold.",
+      "exampleEn": "The necklace is just costume jewelry, not real gold.",
+      "example2": "Modeschmuck ist meistens billiger als echter Schmuck.",
+      "example2En": "Costume jewelry is usually cheaper than real jewelry."
+    },
+    {
+      "de": "monatlich",
+      "en": "monthly",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "happening once a month, per month",
+          "de": "jeden Monat, einmal im Monat"
+        }
+      ],
+      "rule": "Regular adjective/adverb, no irregular comparison; from 'Monat'.",
+      "example": "Die Miete bezahle ich monatlich.",
+      "exampleEn": "I pay the rent monthly.",
+      "example2": "Wir treffen uns zu einem monatlichen Meeting.",
+      "example2En": "We meet for a monthly meeting."
+    },
+    {
+      "de": "die Müllabfuhr",
+      "en": "garbage collection; garbage truck service",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the service that collects household waste",
+          "de": "der Dienst, der den Müll abholt"
+        }
+      ],
+      "rule": "Compound: Müll + Abfuhr. Feminine, usually no plural (uncountable as a service).",
+      "example": "Die Müllabfuhr kommt jeden Montag.",
+      "exampleEn": "The garbage collection comes every Monday.",
+      "example2": "Stell die Tonne vor die Tür, die Müllabfuhr kommt bald.",
+      "example2En": "Put the bin outside, the garbage truck is coming soon."
+    },
+    {
+      "de": "die Münze",
+      "en": "coin",
+      "pos": "noun",
+      "plural": "die Münzen",
+      "meanings": [
+        {
+          "en": "a piece of metal money",
+          "de": "ein Geldstück aus Metall"
+        }
+      ],
+      "rule": "Feminine noun, plural -n.",
+      "example": "Ich habe keine Münzen für den Automaten.",
+      "exampleEn": "I don't have any coins for the machine.",
+      "example2": "Er sammelt alte Münzen.",
+      "example2En": "He collects old coins."
+    },
+    {
+      "de": "der Muskel",
+      "en": "muscle",
+      "pos": "noun",
+      "plural": "die Muskeln",
+      "meanings": [
+        {
+          "en": "body tissue that produces movement",
+          "de": "Körpergewebe, das Bewegung erzeugt"
+        }
+      ],
+      "rule": "Masculine noun; weak declension: der Muskel, des Muskels, plural die Muskeln.",
+      "example": "Nach dem Sport tun mir die Muskeln weh.",
+      "exampleEn": "After exercise my muscles hurt.",
+      "example2": "Er trainiert seine Muskeln im Fitnessstudio.",
+      "example2En": "He trains his muscles at the gym."
+    },
+    {
+      "de": "das Muster",
+      "en": "pattern; sample",
+      "pos": "noun",
+      "plural": "die Muster",
+      "meanings": [
+        {
+          "en": "pattern (design)",
+          "de": "das Design, die Verzierung"
+        },
+        {
+          "en": "sample/example",
+          "de": "das Beispiel, die Probe"
+        }
+      ],
+      "rule": "Neutrum; Plural bleibt unverändert: das Muster – die Muster.",
+      "example": "Der Stoff hat ein schönes Muster.",
+      "exampleEn": "The fabric has a nice pattern.",
+      "example2": "Können Sie mir ein Muster schicken?",
+      "example2En": "Can you send me a sample?"
+    },
+    {
+      "de": "die Nachbarschaft",
+      "en": "neighborhood",
+      "pos": "noun",
+      "plural": "die Nachbarschaften",
+      "meanings": [
+        {
+          "en": "neighborhood (area or the neighbors as a group)",
+          "de": "die Umgebung, die Nachbarn"
+        }
+      ],
+      "rule": "Femininum; von 'Nachbar' + Suffix '-schaft' (typisch feminin).",
+      "example": "Wir wohnen in einer ruhigen Nachbarschaft.",
+      "exampleEn": "We live in a quiet neighborhood.",
+      "example2": "Die ganze Nachbarschaft hat beim Fest mitgemacht.",
+      "example2En": "The whole neighborhood joined the festival."
+    },
+    {
+      "de": "die Nachbereitung",
+      "en": "follow-up work; review",
+      "pos": "noun",
+      "plural": "die Nachbereitungen",
+      "meanings": [
+        {
+          "en": "reviewing/finishing work after an event or lesson",
+          "de": "das Aufarbeiten im Nachhinein"
+        }
+      ],
+      "rule": "Femininum; Gegenteil von 'Vorbereitung'.",
+      "example": "Die Nachbereitung des Kurses dauert eine Stunde.",
+      "exampleEn": "The follow-up work for the course takes one hour.",
+      "example2": "Nach dem Meeting ist noch Nachbereitung nötig.",
+      "example2En": "After the meeting some follow-up work is still needed."
+    },
+    {
+      "de": "nachher",
+      "en": "afterwards",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "afterwards, later",
+          "de": "später, danach"
+        }
+      ],
+      "rule": "Unveränderliches Adverb, kein Adjektiv (keine Steigerung).",
+      "example": "Ich rufe dich nachher an.",
+      "exampleEn": "I'll call you afterwards.",
+      "example2": "Wir gehen erst einkaufen, nachher kochen wir.",
+      "example2En": "We'll go shopping first, then cook afterwards."
+    },
+    {
+      "de": "die Nachhilfe",
+      "en": "tutoring",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "private tutoring/extra lessons",
+          "de": "zusätzlicher Unterricht"
+        }
+      ],
+      "rule": "Femininum, meist unzählbar (kein Plural); oft in 'Nachhilfe geben/nehmen'.",
+      "example": "Mein Sohn bekommt Nachhilfe in Mathe.",
+      "exampleEn": "My son is getting tutoring in math.",
+      "example2": "Sie gibt Nachhilfe in Deutsch.",
+      "example2En": "She tutors German."
+    },
+    {
+      "de": "die Nachricht",
+      "en": "message; news",
+      "pos": "noun",
+      "plural": "die Nachrichten",
+      "meanings": [
+        {
+          "en": "a message (e.g. text)",
+          "de": "die Mitteilung"
+        },
+        {
+          "en": "the news (TV/radio)",
+          "de": "die Nachrichtensendung"
+        }
+      ],
+      "rule": "Femininum; Plural 'die Nachrichten' auch für 'news' (TV-Nachrichten).",
+      "example": "Ich habe dir eine Nachricht geschickt.",
+      "exampleEn": "I sent you a message.",
+      "example2": "Wir schauen um acht die Nachrichten.",
+      "example2En": "We watch the news at eight."
+    },
+    {
+      "de": "nachschauen",
+      "en": "to look up; to check",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to look something up (e.g. in a dictionary)",
+          "de": "nachsehen, kontrollieren"
+        }
+      ],
+      "rule": "trennbar: schaut ... nach, schaute nach, hat nachgeschaut.",
+      "example": "Ich muss das Wort im Wörterbuch nachschauen.",
+      "exampleEn": "I have to look up the word in the dictionary.",
+      "example2": "Schau bitte nach, ob die Tür zu ist.",
+      "example2En": "Please check whether the door is closed."
+    },
+    {
+      "de": "der Nachtisch",
+      "en": "dessert",
+      "pos": "noun",
+      "plural": "die Nachtische",
+      "meanings": [
+        {
+          "en": "dessert",
+          "de": "die Süßspeise nach dem Essen"
+        }
+      ],
+      "rule": "Maskulinum; Synonym: das Dessert.",
+      "example": "Zum Nachtisch gibt es Eis.",
+      "exampleEn": "For dessert there is ice cream.",
+      "example2": "Isst du gern etwas Süßes als Nachtisch?",
+      "example2En": "Do you like something sweet for dessert?"
+    },
+    {
+      "de": "nah",
+      "en": "near, close",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "near/close in distance or relationship",
+          "de": "nicht weit entfernt"
+        }
+      ],
+      "rule": "Unregelmäßige Steigerung: nah, näher, am nächsten.",
+      "example": "Die Schule ist ganz nah.",
+      "exampleEn": "The school is very close.",
+      "example2": "Unsere Wohnung liegt nah am Park.",
+      "example2En": "Our apartment is close to the park."
+    },
+    {
+      "de": "die Nähe",
+      "en": "proximity, vicinity",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "nearness, closeness",
+          "de": "die nahe Umgebung"
+        }
+      ],
+      "rule": "Femininum, kein Plural; oft in 'in der Nähe von'.",
+      "example": "Der Supermarkt ist in der Nähe.",
+      "exampleEn": "The supermarket is nearby.",
+      "example2": "Wir wohnen in der Nähe des Bahnhofs.",
+      "example2En": "We live near the train station."
+    },
+    {
+      "de": "nähen",
+      "en": "to sew",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to sew",
+          "de": "mit Nadel und Faden arbeiten"
+        }
+      ],
+      "rule": "Regelmäßig: näht, nähte, hat genäht.",
+      "example": "Meine Oma näht gern Kleider.",
+      "exampleEn": "My grandma likes to sew dresses.",
+      "example2": "Ich nähe mir eine neue Tasche.",
+      "example2En": "I'm sewing myself a new bag."
+    },
+    {
+      "de": "nämlich",
+      "en": "namely; because",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "namely (specifying)",
+          "de": "und zwar"
+        },
+        {
+          "en": "because, the reason is",
+          "de": "denn, aus dem Grund"
+        }
+      ],
+      "rule": "Unveränderliches Adverb/Konjunktionaladverb; steht oft nach dem Verb.",
+      "example": "Ich komme später, ich bin nämlich noch bei der Arbeit.",
+      "exampleEn": "I'm coming later, because I'm still at work.",
+      "example2": "Wir brauchen zwei Dinge, nämlich Brot und Milch.",
+      "example2En": "We need two things, namely bread and milk."
+    },
+    {
+      "de": "die Naturkosmetik",
+      "en": "natural cosmetics",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "cosmetics made from natural ingredients",
+          "de": "Kosmetik aus natürlichen Inhaltsstoffen"
+        }
+      ],
+      "rule": "Femininum, unzählbar (kein Plural).",
+      "example": "Sie kauft nur Naturkosmetik.",
+      "exampleEn": "She only buys natural cosmetics.",
+      "example2": "Naturkosmetik enthält keine künstlichen Duftstoffe.",
+      "example2En": "Natural cosmetics contain no artificial fragrances."
+    },
+    {
+      "de": "das Navigationsgerät",
+      "en": "navigation device (GPS)",
+      "pos": "noun",
+      "plural": "die Navigationsgeräte",
+      "meanings": [
+        {
+          "en": "GPS navigation device",
+          "de": "das Gerät zur Routenführung"
+        }
+      ],
+      "rule": "Neutrum; Kurzform 'das Navi' (die Navis) ist im Alltag üblicher.",
+      "example": "Ich benutze im Auto ein Navigationsgerät.",
+      "exampleEn": "I use a navigation device in the car.",
+      "example2": "Das Navi zeigt uns den kürzesten Weg.",
+      "example2En": "The GPS shows us the shortest way."
+    },
+    {
+      "de": "die Nebenwirkung",
+      "en": "side effect",
+      "pos": "noun",
+      "plural": "die Nebenwirkungen",
+      "meanings": [
+        {
+          "en": "side effect (usually of medicine)",
+          "de": "unerwünschte Wirkung eines Medikaments"
+        }
+      ],
+      "rule": "Femininum; oft im Plural bei Medikamenten: 'Nebenwirkungen'.",
+      "example": "Diese Tablette hat keine Nebenwirkungen.",
+      "exampleEn": "This pill has no side effects.",
+      "example2": "Lesen Sie den Beipackzettel wegen möglicher Nebenwirkungen.",
+      "example2En": "Read the package insert for possible side effects."
+    },
+    {
+      "de": "der Neffe",
+      "en": "nephew",
+      "pos": "noun",
+      "plural": "die Neffen",
+      "meanings": [
+        {
+          "en": "nephew",
+          "de": "der Sohn des Bruders/der Schwester"
+        }
+      ],
+      "rule": "Maskulinum, schwache Deklination: den/dem/des Neffen (nicht 'Neffe' im Akkusativ).",
+      "example": "Mein Neffe ist fünf Jahre alt.",
+      "exampleEn": "My nephew is five years old.",
+      "example2": "Wir besuchen unseren Neffen am Sonntag.",
+      "example2En": "We're visiting our nephew on Sunday."
+    },
+    {
+      "de": "nennen",
+      "en": "to name, to call",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to name/call someone or something",
+          "de": "einen Namen geben, bezeichnen"
+        },
+        {
+          "en": "to mention, state",
+          "de": "angeben, sagen"
+        }
+      ],
+      "rule": "Unregelmäßig: nennt, nannte, hat genannt.",
+      "example": "Sie nennt ihren Sohn immer 'Schatz'.",
+      "exampleEn": "She always calls her son 'sweetheart'.",
+      "example2": "Können Sie mir bitte Ihren Namen nennen?",
+      "example2En": "Could you please state your name?"
+    },
+    {
+      "de": "nervös",
+      "en": "nervous",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "nervous, anxious",
+          "de": "unruhig, aufgeregt"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: nervös, nervöser, am nervösesten.",
+      "example": "Vor der Prüfung war ich sehr nervös.",
+      "exampleEn": "I was very nervous before the exam.",
+      "example2": "Er wird nervös, wenn er fliegen muss.",
+      "example2En": "He gets nervous when he has to fly."
+    },
+    {
+      "de": "der Newsletter",
+      "en": "newsletter",
+      "pos": "noun",
+      "plural": "die Newsletter",
+      "meanings": [
+        {
+          "en": "email newsletter",
+          "de": "regelmäßige E-Mail mit Infos/Neuigkeiten"
+        }
+      ],
+      "rule": "Maskulin, aus dem Englischen; Plural bleibt meist gleich: der/die Newsletter.",
+      "example": "Ich habe den Newsletter von der Firma abonniert.",
+      "exampleEn": "I subscribed to the company's newsletter.",
+      "example2": "Der Newsletter kommt jeden Freitag per E-Mail.",
+      "example2En": "The newsletter arrives every Friday by email."
+    },
+    {
+      "de": "die Nichte",
+      "en": "niece",
+      "pos": "noun",
+      "plural": "die Nichten",
+      "meanings": [
+        {
+          "en": "niece",
+          "de": "Tochter des Bruders oder der Schwester"
+        }
+      ],
+      "rule": "Feminin; Gegenstück ist 'der Neffe' (Neffe).",
+      "example": "Meine Nichte ist erst fünf Jahre alt.",
+      "exampleEn": "My niece is only five years old.",
+      "example2": "Wir besuchen meine Nichte am Wochenende.",
+      "example2En": "We are visiting my niece this weekend."
+    },
+    {
+      "de": "niemand",
+      "en": "nobody, no one",
+      "pos": "pronoun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "no person, nobody",
+          "de": "keine Person"
+        }
+      ],
+      "rule": "Indefinitpronomen; kann dekliniert werden (niemand/niemandem/niemanden), Alltag oft unverändert.",
+      "example": "Niemand war zu Hause.",
+      "exampleEn": "Nobody was home.",
+      "example2": "Ich kenne hier niemanden.",
+      "example2En": "I don't know anyone here."
+    },
+    {
+      "de": "normal",
+      "en": "normal",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "usual, typical",
+          "de": "üblich, gewöhnlich"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: normal, normaler, am normalsten.",
+      "example": "Das ist ein ganz normaler Tag.",
+      "exampleEn": "That's a completely normal day.",
+      "example2": "Ist es normal, dass der Bus so oft verspätet ist?",
+      "example2En": "Is it normal for the bus to be late so often?"
+    },
+    {
+      "de": "normalerweise",
+      "en": "normally, usually",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "usually, as a rule",
+          "de": "in der Regel, meistens"
+        }
+      ],
+      "rule": "Adverb, keine Steigerung; steht oft am Satzanfang oder nach dem Verb.",
+      "example": "Normalerweise stehe ich um sieben Uhr auf.",
+      "exampleEn": "I normally get up at seven o'clock.",
+      "example2": "Der Zug kommt normalerweise pünktlich.",
+      "example2En": "The train is usually on time."
+    },
+    {
+      "de": "die Note",
+      "en": "grade, mark; (musical) note",
+      "pos": "noun",
+      "plural": "die Noten",
+      "meanings": [
+        {
+          "en": "school grade/mark",
+          "de": "Bewertung in der Schule"
+        },
+        {
+          "en": "musical note",
+          "de": "Zeichen für einen Ton in der Musik"
+        }
+      ],
+      "rule": "Feminin; Plural 'Noten' auch für 'sheet music'.",
+      "example": "Sie hat eine gute Note in Mathe bekommen.",
+      "exampleEn": "She got a good grade in math.",
+      "example2": "Er kann die Noten auf dem Klavier lesen.",
+      "example2En": "He can read the notes on the piano."
+    },
+    {
+      "de": "notieren",
+      "en": "to note down, to write down",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to write down, jot down",
+          "de": "aufschreiben"
+        }
+      ],
+      "rule": "Regelmäßiges Verb: notiert, notierte, hat notiert.",
+      "example": "Ich notiere mir die Telefonnummer.",
+      "exampleEn": "I'm noting down the phone number.",
+      "example2": "Bitte notieren Sie den Termin im Kalender.",
+      "example2En": "Please note the appointment in the calendar."
+    },
+    {
+      "de": "nötig",
+      "en": "necessary",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "necessary, needed",
+          "de": "notwendig, erforderlich"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: nötig, nötiger, am nötigsten; oft mit 'sein' + Infinitiv.",
+      "example": "Ist es nötig, den Arzt anzurufen?",
+      "exampleEn": "Is it necessary to call the doctor?",
+      "example2": "Das ist nicht nötig, danke.",
+      "example2En": "That's not necessary, thanks."
+    },
+    {
+      "de": "der Nulltarif",
+      "en": "free of charge (zero rate)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "free of charge, no cost",
+          "de": "kostenlos, ohne Bezahlung"
+        }
+      ],
+      "rule": "Maskulin; meist in der festen Wendung 'zum Nulltarif' (kostenlos). Kein üblicher Plural.",
+      "example": "Kinder fahren zum Nulltarif mit dem Bus.",
+      "exampleEn": "Children ride the bus free of charge.",
+      "example2": "Das Parken ist hier leider nicht zum Nulltarif.",
+      "example2En": "Parking here is unfortunately not free."
+    },
+    {
+      "de": "die Nummer",
+      "en": "number",
+      "pos": "noun",
+      "plural": "die Nummern",
+      "meanings": [
+        {
+          "en": "number (phone, size, etc.)",
+          "de": "Zahl, z. B. Telefonnummer"
+        }
+      ],
+      "rule": "Feminin; häufig in 'Telefonnummer', 'Hausnummer'.",
+      "example": "Kannst du mir deine Nummer geben?",
+      "exampleEn": "Can you give me your number?",
+      "example2": "Die Schuhe sind eine Nummer zu klein.",
+      "example2En": "The shoes are one size too small."
+    },
+    {
+      "de": "nutzen",
+      "en": "to use",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to use, make use of",
+          "de": "benutzen, verwenden"
+        }
+      ],
+      "rule": "Regelmäßiges Verb: nutzt, nutzte, hat genutzt; Akkusativobjekt.",
+      "example": "Wir nutzen den Computer für die Arbeit.",
+      "exampleEn": "We use the computer for work.",
+      "example2": "Er nutzt die Gelegenheit, um Deutsch zu üben.",
+      "example2En": "He uses the opportunity to practice German."
+    },
+    {
+      "de": "ob",
+      "en": "whether, if",
+      "pos": "conjunction",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "whether, if (in indirect questions)",
+          "de": "leitet indirekte Fragen ein"
+        }
+      ],
+      "rule": "Konjunktion, Verb steht am Satzende (Nebensatz).",
+      "example": "Ich weiß nicht, ob er kommt.",
+      "exampleEn": "I don't know whether he's coming.",
+      "example2": "Sie fragt, ob das Geschäft noch offen ist.",
+      "example2En": "She asks if the shop is still open."
+    },
+    {
+      "de": "oben",
+      "en": "above, upstairs, at the top",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "at the top, upstairs",
+          "de": "an höherer Stelle, im oberen Bereich"
+        }
+      ],
+      "rule": "Ortsadverb; Gegenteil 'unten'; Richtung: 'nach oben'.",
+      "example": "Das Badezimmer ist oben.",
+      "exampleEn": "The bathroom is upstairs.",
+      "example2": "Die Tasche steht oben auf dem Schrank.",
+      "example2En": "The bag is on top of the cupboard."
+    },
+    {
+      "de": "die Oberschule",
+      "en": "secondary school",
+      "pos": "noun",
+      "plural": "die Oberschulen",
+      "meanings": [
+        {
+          "en": "secondary/upper school",
+          "de": "weiterführende Schule"
+        }
+      ],
+      "rule": "Feminin; regionaler Begriff, ähnlich wie 'Gymnasium' oder 'weiterführende Schule'.",
+      "example": "Meine Tochter geht auf die Oberschule.",
+      "exampleEn": "My daughter goes to secondary school.",
+      "example2": "Nach der Grundschule kommt die Oberschule.",
+      "example2En": "After primary school comes secondary school."
+    },
+    {
+      "de": "der Ofen",
+      "en": "oven, stove",
+      "pos": "noun",
+      "plural": "die Öfen",
+      "meanings": [
+        {
+          "en": "oven",
+          "de": "Gerät zum Backen oder Heizen"
+        }
+      ],
+      "rule": "Maskulin; Plural mit Umlaut: die Öfen.",
+      "example": "Der Kuchen ist im Ofen.",
+      "exampleEn": "The cake is in the oven.",
+      "example2": "Im Winter heizen wir mit einem alten Ofen.",
+      "example2En": "In winter we heat with an old stove."
+    },
+    {
+      "de": "der Ohrring",
+      "en": "earring",
+      "pos": "noun",
+      "plural": "die Ohrringe",
+      "meanings": [
+        {
+          "en": "earring",
+          "de": "Schmuck fürs Ohr"
+        }
+      ],
+      "rule": "Maskulin; zusammengesetzt aus 'Ohr' + 'Ring'.",
+      "example": "Sie trägt goldene Ohrringe.",
+      "exampleEn": "She is wearing gold earrings.",
+      "example2": "Ich habe einen Ohrring verloren.",
+      "example2En": "I lost one earring."
+    },
+    {
+      "de": "olympisch",
+      "en": "Olympic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "Olympic",
+          "de": "zu den Olympischen Spielen gehörend"
+        }
+      ],
+      "rule": "Keine Steigerung üblich; großgeschrieben in der festen Wendung 'Olympische Spiele' (Eigenname), sonst klein wie in 'olympischer Rekord'.",
+      "example": "Die Olympischen Spiele finden alle vier Jahre statt.",
+      "exampleEn": "The Olympic Games take place every four years.",
+      "example2": "Er hat einen olympischen Rekord gebrochen.",
+      "example2En": "He broke an Olympic record."
+    },
+    {
+      "de": "das Online-Banking",
+      "en": "online banking",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "online banking",
+          "de": "Bankgeschäfte über das Internet erledigen"
+        }
+      ],
+      "rule": "Neutrum; unzählbar, kein Plural.",
+      "example": "Ich mache meine Überweisungen per Online-Banking.",
+      "exampleEn": "I do my transfers via online banking.",
+      "example2": "Das Online-Banking ist rund um die Uhr verfügbar.",
+      "example2En": "Online banking is available around the clock."
+    },
+    {
+      "de": "das Open-Air-Konzert",
+      "en": "open-air concert",
+      "pos": "noun",
+      "plural": "die Open-Air-Konzerte",
+      "meanings": [
+        {
+          "en": "outdoor music concert",
+          "de": "Konzert im Freien"
+        }
+      ],
+      "rule": "Zusammensetzung aus Englisch 'open air' und 'Konzert'; Plural mit -e.",
+      "example": "Im Sommer gehen wir oft zu einem Open-Air-Konzert.",
+      "exampleEn": "In summer we often go to an open-air concert.",
+      "example2": "Das Open-Air-Konzert war leider wegen Regen abgesagt.",
+      "example2En": "The open-air concert was unfortunately cancelled because of rain."
+    },
+    {
+      "de": "die Option",
+      "en": "option; choice",
+      "pos": "noun",
+      "plural": "die Optionen",
+      "meanings": [
+        {
+          "en": "a choice or possibility",
+          "de": "Möglichkeit, Wahl"
+        }
+      ],
+      "rule": "Feminines Substantiv auf -ion, Plural immer -en.",
+      "example": "Wir haben mehrere Optionen für den Urlaub.",
+      "exampleEn": "We have several options for the vacation.",
+      "example2": "Diese Option ist leider zu teuer.",
+      "example2En": "This option is unfortunately too expensive."
+    },
+    {
+      "de": "ordnungsgemäß",
+      "en": "in an orderly manner; properly",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "done correctly according to rules/regulations",
+          "de": "den Vorschriften entsprechend, vorschriftsmäßig"
+        }
+      ],
+      "rule": "Keine unregelmäßige Steigerung; wird meist adverbial gebraucht, oft mit Verben wie 'entsorgen', 'lagern', 'durchführen'.",
+      "example": "Bitte stellen Sie die Kisten ordnungsgemäß ins Lager.",
+      "exampleEn": "Please place the boxes properly in the storage room.",
+      "example2": "Der Müll muss ordnungsgemäß entsorgt werden.",
+      "example2En": "The waste must be disposed of properly."
+    },
+    {
+      "de": "die Parfümerie",
+      "en": "perfume shop",
+      "pos": "noun",
+      "plural": "die Parfümerien",
+      "meanings": [
+        {
+          "en": "a shop selling perfumes and cosmetics",
+          "de": "Geschäft für Parfüm und Kosmetik"
+        }
+      ],
+      "rule": "Feminines Substantiv auf -ie, Plural -ien.",
+      "example": "Ich kaufe mein Parfüm immer in dieser Parfümerie.",
+      "exampleEn": "I always buy my perfume at this perfume shop.",
+      "example2": "Die Parfümerie in der Innenstadt hat heute geschlossen.",
+      "example2En": "The perfume shop downtown is closed today."
+    },
+    {
+      "de": "passieren",
+      "en": "to happen",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to happen, occur",
+          "de": "geschehen"
+        },
+        {
+          "en": "to pass (a place, e.g. formal/technical)",
+          "de": "vorbeikommen an etwas"
+        }
+      ],
+      "rule": "Perfekt mit sein: ist passiert; meist unpersönlich: 'Was ist passiert?'",
+      "example": "Was ist gestern passiert?",
+      "exampleEn": "What happened yesterday?",
+      "example2": "Der Unfall ist an der Kreuzung passiert.",
+      "example2En": "The accident happened at the intersection."
+    },
+    {
+      "de": "das Pech",
+      "en": "bad luck",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "bad luck, misfortune",
+          "de": "Unglück"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural; oft in 'Pech haben'.",
+      "example": "Ich habe heute Pech gehabt, mein Auto ist kaputt.",
+      "exampleEn": "I had bad luck today, my car broke down.",
+      "example2": "So ein Pech, dass es regnet!",
+      "example2En": "What bad luck that it's raining!"
+    },
+    {
+      "de": "die Personalabteilung",
+      "en": "human resources department",
+      "pos": "noun",
+      "plural": "die Personalabteilungen",
+      "meanings": [
+        {
+          "en": "the HR department of a company",
+          "de": "Abteilung für Personalfragen"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Personal' + 'Abteilung'; Plural -en.",
+      "example": "Bitte wenden Sie sich an die Personalabteilung.",
+      "exampleEn": "Please contact the human resources department.",
+      "example2": "Die Personalabteilung bearbeitet meinen Vertrag.",
+      "example2En": "The HR department is processing my contract."
+    },
+    {
+      "de": "der Personalausweis",
+      "en": "identity card",
+      "pos": "noun",
+      "plural": "die Personalausweise",
+      "meanings": [
+        {
+          "en": "official ID card",
+          "de": "amtliches Ausweisdokument"
+        }
+      ],
+      "rule": "Maskulines Substantiv, Plural -e.",
+      "example": "Zeigen Sie bitte Ihren Personalausweis.",
+      "exampleEn": "Please show your identity card.",
+      "example2": "Ich habe meinen Personalausweis verloren.",
+      "example2En": "I lost my identity card."
+    },
+    {
+      "de": "das Personalbüro",
+      "en": "personnel office",
+      "pos": "noun",
+      "plural": "die Personalbüros",
+      "meanings": [
+        {
+          "en": "office handling personnel matters",
+          "de": "Büro für Personalfragen"
+        }
+      ],
+      "rule": "Neutrales Substantiv, Plural -s (wie 'Büro').",
+      "example": "Das Personalbüro ist im dritten Stock.",
+      "exampleEn": "The personnel office is on the third floor.",
+      "example2": "Ich habe einen Termin im Personalbüro.",
+      "example2En": "I have an appointment at the personnel office."
+    }
+  ]
+}

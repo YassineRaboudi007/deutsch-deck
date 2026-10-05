@@ -1,0 +1,893 @@
+{
+  "id": "b1-14",
+  "title": "B1 · R–S (14)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "das Radrennen",
+      "en": "cycle race",
+      "pos": "noun",
+      "plural": "die Radrennen",
+      "meanings": [
+        {
+          "en": "competitive race on bicycles",
+          "de": "sportlicher Wettkampf mit dem Fahrrad"
+        }
+      ],
+      "rule": "neuter compound noun: das Rad + das Rennen; plural unverändert (die Radrennen)",
+      "example": "Am Sonntag findet ein großes Radrennen statt.",
+      "exampleEn": "On Sunday there is a big cycle race.",
+      "example2": "Er trainiert jeden Tag für das Radrennen.",
+      "example2En": "He trains every day for the cycle race."
+    },
+    {
+      "de": "die Rangliste",
+      "en": "ranking list",
+      "pos": "noun",
+      "plural": "die Ranglisten",
+      "meanings": [
+        {
+          "en": "list ordering people/teams by performance",
+          "de": "Liste, die nach Leistung ordnet"
+        }
+      ],
+      "rule": "feminine compound noun: der Rang + die Liste",
+      "example": "Sie steht auf Platz eins der Rangliste.",
+      "exampleEn": "She is in first place on the ranking list.",
+      "example2": "Die Rangliste wird jede Woche aktualisiert.",
+      "example2En": "The ranking list is updated every week."
+    },
+    {
+      "de": "rasieren",
+      "en": "to shave",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to remove facial/body hair with a razor",
+          "de": "Barthaare mit einem Rasierer entfernen"
+        }
+      ],
+      "rule": "regelmäßig: rasiert, rasierte, hat rasiert; oft reflexiv 'sich rasieren' (Akkusativ)",
+      "example": "Er rasiert sich jeden Morgen.",
+      "exampleEn": "He shaves every morning.",
+      "example2": "Der Friseur hat ihm den Bart rasiert.",
+      "example2En": "The barber shaved his beard."
+    },
+    {
+      "de": "das Rätsel",
+      "en": "riddle, puzzle",
+      "pos": "noun",
+      "plural": "die Rätsel",
+      "meanings": [
+        {
+          "en": "a puzzling question or game",
+          "de": "eine schwierige Frage oder ein Denkspiel"
+        },
+        {
+          "en": "something mysterious, unsolved",
+          "de": "etwas Unerklärliches, Geheimnisvolles"
+        }
+      ],
+      "rule": "neuter noun; plural unverändert (die Rätsel)",
+      "example": "Die Kinder lösen gern Rätsel.",
+      "exampleEn": "The children like solving puzzles.",
+      "example2": "Sein Verschwinden bleibt ein Rätsel.",
+      "example2En": "His disappearance remains a mystery."
+    },
+    {
+      "de": "rechtzeitig",
+      "en": "on time, in time",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "happening at the right/planned time",
+          "de": "zur richtigen Zeit, nicht zu spät"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: rechtzeitig, rechtzeitiger, am rechtzeitigsten (selten gesteigert, meist nur im Positiv verwendet)",
+      "example": "Wir sind rechtzeitig am Flughafen angekommen.",
+      "exampleEn": "We arrived at the airport on time.",
+      "example2": "Bitte melde dich rechtzeitig, wenn du nicht kommen kannst.",
+      "example2En": "Please let us know in time if you can't come."
+    },
+    {
+      "de": "recyceln",
+      "en": "to recycle",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to process waste for reuse",
+          "de": "Abfall wiederverwerten"
+        }
+      ],
+      "rule": "regelmäßig: recycelt, recycelte, hat recycelt; Betonung auf der zweiten Silbe (re-CY-celn); 'ich'-Form verliert das e: ich recycle",
+      "example": "Wir recyceln Papier und Plastik.",
+      "exampleEn": "We recycle paper and plastic.",
+      "example2": "Diese Flaschen können recycelt werden.",
+      "example2En": "These bottles can be recycled."
+    },
+    {
+      "de": "reduzieren",
+      "en": "to reduce",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make smaller/less in amount",
+          "de": "verringern, kleiner machen"
+        }
+      ],
+      "rule": "regelmäßig: reduziert, reduzierte, hat reduziert; oft mit 'um' (um wie viel) oder 'auf' (auf wie viel)",
+      "example": "Die Firma hat die Preise reduziert.",
+      "exampleEn": "The company has reduced the prices.",
+      "example2": "Er versucht, seinen Zuckerkonsum zu reduzieren.",
+      "example2En": "He is trying to reduce his sugar consumption."
+    },
+    {
+      "de": "regeln",
+      "en": "to regulate, to arrange, to settle",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to organize/settle something",
+          "de": "etwas ordnen oder klären"
+        },
+        {
+          "en": "to control (e.g. traffic, a device)",
+          "de": "steuern, kontrollieren"
+        }
+      ],
+      "rule": "regelmäßig: regelt, regelte, hat geregelt",
+      "example": "Wir müssen noch die Details regeln.",
+      "exampleEn": "We still need to sort out the details.",
+      "example2": "Ein Polizist regelt den Verkehr an der Kreuzung.",
+      "example2En": "A police officer is directing traffic at the intersection."
+    },
+    {
+      "de": "die Regierung",
+      "en": "government",
+      "pos": "noun",
+      "plural": "die Regierungen",
+      "meanings": [
+        {
+          "en": "the group governing a country/state",
+          "de": "die politische Führung eines Landes"
+        }
+      ],
+      "rule": "feminine noun from 'regieren'; oft mit 'an der Regierung sein'",
+      "example": "Die Regierung hat neue Gesetze beschlossen.",
+      "exampleEn": "The government has passed new laws.",
+      "example2": "Seit zehn Jahren ist diese Partei an der Regierung.",
+      "example2En": "This party has been in government for ten years."
+    },
+    {
+      "de": "regulieren",
+      "en": "to regulate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to control or adjust something (e.g. by rules or technically)",
+          "de": "steuern, einstellen, durch Vorschriften kontrollieren"
+        }
+      ],
+      "rule": "regelmäßig: reguliert, regulierte, hat reguliert; oft technisch oder rechtlich verwendet",
+      "example": "Man kann die Temperatur am Thermostat regulieren.",
+      "exampleEn": "You can regulate the temperature on the thermostat.",
+      "example2": "Der Staat reguliert den Energiemarkt.",
+      "example2En": "The state regulates the energy market."
+    },
+    {
+      "de": "die Regulierung",
+      "en": "regulation",
+      "pos": "noun",
+      "plural": "die Regulierungen",
+      "meanings": [
+        {
+          "en": "the act or system of controlling/adjusting something",
+          "de": "das Steuern, Einstellen oder Kontrollieren durch Vorschriften"
+        }
+      ],
+      "rule": "feminine noun from 'regulieren'; oft in Wirtschafts- und Politikkontexten",
+      "example": "Die Regulierung des Marktes soll fairer werden.",
+      "exampleEn": "The regulation of the market is supposed to become fairer.",
+      "example2": "Neue Regulierungen sollen die Umwelt schützen.",
+      "example2En": "New regulations are meant to protect the environment."
+    },
+    {
+      "de": "der Reifen",
+      "en": "tire",
+      "pos": "noun",
+      "plural": "die Reifen",
+      "meanings": [
+        {
+          "en": "tire (of a vehicle)",
+          "de": "Gummiring am Rad eines Fahrzeugs"
+        }
+      ],
+      "rule": "Der Plural ist identisch mit dem Singular: der Reifen, die Reifen.",
+      "example": "Der Reifen meines Autos ist kaputt.",
+      "exampleEn": "My car's tire is flat.",
+      "example2": "Im Winter brauchst du andere Reifen.",
+      "example2En": "In winter you need different tires."
+    },
+    {
+      "de": "die Reihe",
+      "en": "row; series",
+      "pos": "noun",
+      "plural": "die Reihen",
+      "meanings": [
+        {
+          "en": "row (line of things/people)",
+          "de": "mehrere Personen oder Dinge nebeneinander"
+        },
+        {
+          "en": "series, sequence",
+          "de": "eine Abfolge von Dingen"
+        }
+      ],
+      "rule": "Feste Ausdrücke: 'in der ersten Reihe sitzen', 'eine Reihe von' (+ Dativ) = mehrere.",
+      "example": "Wir sitzen in der dritten Reihe.",
+      "exampleEn": "We are sitting in the third row.",
+      "example2": "Es gab eine Reihe von Problemen.",
+      "example2En": "There was a series of problems."
+    },
+    {
+      "de": "die Reinigungsfirma",
+      "en": "cleaning company",
+      "pos": "noun",
+      "plural": "die Reinigungsfirmen",
+      "meanings": [
+        {
+          "en": "company that cleans buildings/offices",
+          "de": "Firma, die putzt"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'reinigen' + 'Firma'; Genus vom letzten Bestandteil: die Firma.",
+      "example": "Die Reinigungsfirma putzt jeden Abend unser Büro.",
+      "exampleEn": "The cleaning company cleans our office every evening.",
+      "example2": "Wir haben eine neue Reinigungsfirma beauftragt.",
+      "example2En": "We hired a new cleaning company."
+    },
+    {
+      "de": "der Reinigungsvertrag",
+      "en": "cleaning contract",
+      "pos": "noun",
+      "plural": "die Reinigungsverträge",
+      "meanings": [
+        {
+          "en": "contract for cleaning services",
+          "de": "Vertrag über Reinigungsleistungen"
+        }
+      ],
+      "rule": "Zusammensetzung; Genus vom letzten Bestandteil: der Vertrag. Plural mit Umlaut: -verträge.",
+      "example": "Wir haben einen Reinigungsvertrag mit der Firma unterschrieben.",
+      "exampleEn": "We signed a cleaning contract with the company.",
+      "example2": "Der Reinigungsvertrag läuft ein Jahr.",
+      "example2En": "The cleaning contract runs for one year."
+    },
+    {
+      "de": "das Reisebüro",
+      "en": "travel agency",
+      "pos": "noun",
+      "plural": "die Reisebüros",
+      "meanings": [
+        {
+          "en": "travel agency",
+          "de": "Büro, das Reisen plant und verkauft"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Reise' + 'Büro'; Genus vom letzten Bestandteil: das Büro. Plural auf -s.",
+      "example": "Ich habe die Reise im Reisebüro gebucht.",
+      "exampleEn": "I booked the trip at the travel agency.",
+      "example2": "Das Reisebüro hat ein gutes Angebot für Spanien.",
+      "example2En": "The travel agency has a good deal for Spain."
+    },
+    {
+      "de": "der Reiseplan",
+      "en": "travel itinerary",
+      "pos": "noun",
+      "plural": "die Reisepläne",
+      "meanings": [
+        {
+          "en": "itinerary, travel plan",
+          "de": "Plan für eine Reise"
+        }
+      ],
+      "rule": "Zusammensetzung; Genus vom letzten Bestandteil: der Plan. Plural mit Umlaut: -pläne.",
+      "example": "Unser Reiseplan sieht drei Städte vor.",
+      "exampleEn": "Our travel itinerary includes three cities.",
+      "example2": "Kannst du mir den Reiseplan schicken?",
+      "example2En": "Can you send me the itinerary?"
+    },
+    {
+      "de": "die Reiseplanung",
+      "en": "trip planning",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the process of planning a trip",
+          "de": "das Planen einer Reise"
+        }
+      ],
+      "rule": "Meist unzählbar, kein Plural üblich.",
+      "example": "Die Reiseplanung hat viel Zeit gekostet.",
+      "exampleEn": "Planning the trip took a lot of time.",
+      "example2": "Bei der Reiseplanung helfen wir dir gern.",
+      "example2En": "We're happy to help you with trip planning."
+    },
+    {
+      "de": "reiten",
+      "en": "to ride (a horse)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to ride a horse",
+          "de": "auf einem Pferd sitzen und es lenken"
+        }
+      ],
+      "rule": "unregelmäßig: reitet, ritt, ist/hat geritten (mit 'sein' bei Richtungsangabe, mit 'haben' ohne).",
+      "example": "Sie reitet jeden Samstag auf dem Bauernhof.",
+      "exampleEn": "She rides a horse every Saturday on the farm.",
+      "example2": "Wir sind durch den Wald geritten.",
+      "example2En": "We rode through the forest."
+    },
+    {
+      "de": "die Reklamation",
+      "en": "complaint (about goods/services)",
+      "pos": "noun",
+      "plural": "die Reklamationen",
+      "meanings": [
+        {
+          "en": "complaint about a faulty product or bad service",
+          "de": "Beschwerde wegen eines Mangels"
+        }
+      ],
+      "rule": "Typisch: 'eine Reklamation einreichen/bearbeiten'.",
+      "example": "Ich möchte wegen dieses Geräts eine Reklamation einreichen.",
+      "exampleEn": "I would like to file a complaint about this device.",
+      "example2": "Die Firma bearbeitet die Reklamation innerhalb einer Woche.",
+      "example2En": "The company processes the complaint within a week."
+    },
+    {
+      "de": "die Reportage",
+      "en": "report, reportage",
+      "pos": "noun",
+      "plural": "die Reportagen",
+      "meanings": [
+        {
+          "en": "journalistic report/feature",
+          "de": "Bericht in Zeitung, Radio oder Fernsehen"
+        }
+      ],
+      "rule": "Aus dem Französischen, betont auf der letzten Silbe: Reporta-ge [ʒə].",
+      "example": "Im Fernsehen lief eine Reportage über Umweltschutz.",
+      "exampleEn": "There was a report on TV about environmental protection.",
+      "example2": "Er schreibt eine Reportage über das Leben in der Stadt.",
+      "example2En": "He is writing a feature about life in the city."
+    },
+    {
+      "de": "der Reporter / die Reporterin",
+      "en": "reporter",
+      "pos": "noun",
+      "plural": "die Reporter / die Reporterinnen",
+      "meanings": [
+        {
+          "en": "journalist who reports news",
+          "de": "Person, die für Zeitung, Radio oder TV berichtet"
+        }
+      ],
+      "rule": "Weibliche Form mit -in: die Reporterin, Plural die Reporterinnen.",
+      "example": "Der Reporter interviewt den Bürgermeister.",
+      "exampleEn": "The reporter is interviewing the mayor.",
+      "example2": "Die Reporterin berichtet live vom Unfallort.",
+      "example2En": "The reporter is reporting live from the accident scene."
+    },
+    {
+      "de": "die Republik",
+      "en": "republic",
+      "pos": "noun",
+      "plural": "die Republiken",
+      "meanings": [
+        {
+          "en": "republic (form of government)",
+          "de": "Staatsform ohne Monarchie"
+        }
+      ],
+      "rule": "Feste Wendung: 'die Bundesrepublik Deutschland'.",
+      "example": "Deutschland ist eine Republik.",
+      "exampleEn": "Germany is a republic.",
+      "example2": "Die Republik wurde 1949 gegründet.",
+      "example2En": "The republic was founded in 1949."
+    },
+    {
+      "de": "die Retoure",
+      "en": "return (of goods)",
+      "pos": "noun",
+      "plural": "die Retouren",
+      "meanings": [
+        {
+          "en": "returned item/shipment",
+          "de": "zurückgeschickte Ware"
+        }
+      ],
+      "rule": "Typisch beim Online-Einkauf: 'eine Retoure schicken'.",
+      "example": "Die Retoure ist gestern bei uns angekommen.",
+      "exampleEn": "The return arrived at our place yesterday.",
+      "example2": "Sie hat die Schuhe als Retoure zurückgeschickt.",
+      "example2En": "She sent the shoes back as a return."
+    },
+    {
+      "de": "der Retourenschein",
+      "en": "return label/slip",
+      "pos": "noun",
+      "plural": "die Retourenscheine",
+      "meanings": [
+        {
+          "en": "label/form used to send back goods",
+          "de": "Schein, mit dem man Ware zurückschickt"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Retoure' + 'Schein'; Genus vom letzten Bestandteil: der Schein.",
+      "example": "Leg den Retourenschein in das Paket.",
+      "exampleEn": "Put the return label in the package.",
+      "example2": "Ohne Retourenschein kann ich die Ware nicht zurückschicken.",
+      "example2En": "Without a return slip I can't send the item back."
+    },
+    {
+      "de": "retten",
+      "en": "to save, to rescue",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to rescue someone/something from danger",
+          "de": "jemanden/etwas aus Gefahr befreien"
+        }
+      ],
+      "rule": "regelmäßig: rettet, rettete, hat gerettet.",
+      "example": "Die Feuerwehr hat den Mann aus dem brennenden Haus gerettet.",
+      "exampleEn": "The fire brigade saved the man from the burning house.",
+      "example2": "Er konnte den Hund vor dem Ertrinken retten.",
+      "example2En": "He managed to save the dog from drowning."
+    },
+    {
+      "de": "der Richter / die Richterin",
+      "en": "judge",
+      "pos": "noun",
+      "plural": "die Richter / die Richterinnen",
+      "meanings": [
+        {
+          "en": "judge at a court",
+          "de": "Person, die vor Gericht entscheidet"
+        }
+      ],
+      "rule": "Weibliche Form mit -in: die Richterin.",
+      "example": "Der Richter verurteilte den Mann zu einer Geldstrafe.",
+      "exampleEn": "The judge sentenced the man to a fine.",
+      "example2": "Die Richterin hat das Urteil heute verkündet.",
+      "example2En": "The judge announced the verdict today."
+    },
+    {
+      "de": "romantisch",
+      "en": "romantic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "romantic (loving, emotionally beautiful)",
+          "de": "gefühlvoll, liebevoll"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: romantisch, romantischer, am romantischsten.",
+      "example": "Wir haben ein romantisches Abendessen zu zweit.",
+      "exampleEn": "We're having a romantic dinner for two.",
+      "example2": "Die kleine Stadt hat eine romantische Altstadt.",
+      "example2En": "The small town has a romantic old town."
+    },
+    {
+      "de": "das Rücklicht",
+      "en": "rear light, taillight",
+      "pos": "noun",
+      "plural": "die Rücklichter",
+      "meanings": [
+        {
+          "en": "rear/taillight of a vehicle",
+          "de": "Licht hinten am Auto oder Fahrrad"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Rück-' + 'Licht'; Genus vom letzten Bestandteil: das Licht.",
+      "example": "Dein Rücklicht ist kaputt.",
+      "exampleEn": "Your rear light is broken.",
+      "example2": "Bei Dunkelheit muss das Rücklicht am Fahrrad leuchten.",
+      "example2En": "In the dark, the bicycle's taillight must be lit."
+    },
+    {
+      "de": "die Rückscheibe",
+      "en": "rear window (car)",
+      "pos": "noun",
+      "plural": "die Rückscheiben",
+      "meanings": [
+        {
+          "en": "rear window of a vehicle",
+          "de": "das hintere Fenster eines Autos"
+        }
+      ],
+      "rule": "Kompositum aus dem Präfix 'Rück-' (verwandt mit 'zurück') + 'Scheibe'; Genus wie 'die Scheibe'.",
+      "example": "Die Rückscheibe des Autos ist beschlagen.",
+      "exampleEn": "The car's rear window is fogged up.",
+      "example2": "Kannst du die Rückscheibe sauber machen?",
+      "example2En": "Can you clean the rear window?"
+    },
+    {
+      "de": "die Rücksendung",
+      "en": "return shipment",
+      "pos": "noun",
+      "plural": "die Rücksendungen",
+      "meanings": [
+        {
+          "en": "sending something back (e.g. a package)",
+          "de": "das Zurücksenden einer Ware"
+        }
+      ],
+      "rule": "von 'zurücksenden'; oft im Online-Shopping-Kontext.",
+      "example": "Die Rücksendung des Pakets ist kostenlos.",
+      "exampleEn": "Returning the package is free of charge.",
+      "example2": "Bitte legen Sie das Formular der Rücksendung bei.",
+      "example2En": "Please enclose the form with the return shipment."
+    },
+    {
+      "de": "die Rücksicht",
+      "en": "consideration, regard",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "consideration/thoughtfulness towards others",
+          "de": "das Achten auf andere Menschen"
+        }
+      ],
+      "rule": "meist uncountable; feste Wendung: 'Rücksicht nehmen auf + Akkusativ'.",
+      "example": "Bitte nimm Rücksicht auf die Nachbarn.",
+      "exampleEn": "Please be considerate of the neighbors.",
+      "example2": "Im Straßenverkehr sollte man immer Rücksicht nehmen.",
+      "example2En": "In traffic you should always show consideration for others."
+    },
+    {
+      "de": "rückwärts",
+      "en": "backwards",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in a backward direction",
+          "de": "in Richtung nach hinten"
+        }
+      ],
+      "rule": "keine Steigerung; Gegenteil von 'vorwärts'.",
+      "example": "Er fährt das Auto rückwärts aus der Garage.",
+      "exampleEn": "He drives the car backwards out of the garage.",
+      "example2": "Kannst du von zehn rückwärts zählen?",
+      "example2En": "Can you count backwards from ten?"
+    },
+    {
+      "de": "die Ruhezeit",
+      "en": "rest period, quiet hours",
+      "pos": "noun",
+      "plural": "die Ruhezeiten",
+      "meanings": [
+        {
+          "en": "designated period of rest or quiet",
+          "de": "eine Zeit, in der Ruhe herrschen soll"
+        }
+      ],
+      "rule": "Kompositum aus 'Ruhe' + 'Zeit'; in Deutschland oft gesetzlich geregelt (z. B. Mittagsruhe).",
+      "example": "In der Ruhezeit darf man keine laute Musik hören.",
+      "exampleEn": "During quiet hours you're not allowed to play loud music.",
+      "example2": "Die Ruhezeit beginnt um 22 Uhr.",
+      "example2En": "Quiet hours start at 10 p.m."
+    },
+    {
+      "de": "die Runde",
+      "en": "round, lap",
+      "pos": "noun",
+      "plural": "die Runden",
+      "meanings": [
+        {
+          "en": "a lap or circuit (sports, race)",
+          "de": "eine Strecke im Kreis, z. B. beim Sport"
+        },
+        {
+          "en": "a round (of drinks, a game, negotiations)",
+          "de": "ein Durchgang, z. B. bei Getränken oder Verhandlungen"
+        }
+      ],
+      "rule": "feste Wendung: 'eine Runde drehen/laufen'; 'eine Runde ausgeben' (Getränke spendieren).",
+      "example": "Wir laufen noch eine Runde um den See.",
+      "exampleEn": "We're doing one more lap around the lake.",
+      "example2": "Er hat eine Runde Bier ausgegeben.",
+      "example2En": "He bought a round of beer."
+    },
+    {
+      "de": "rutschen",
+      "en": "to slip, to slide",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to slide or skid (on a surface)",
+          "de": "sich gleitend auf einer Oberfläche bewegen"
+        },
+        {
+          "en": "to slip and lose one's footing",
+          "de": "das Gleichgewicht verlieren und ausrutschen"
+        }
+      ],
+      "rule": "regelmäßig; Perfekt mit 'sein': ist gerutscht (Bewegung/Ortswechsel).",
+      "example": "Die Kinder rutschen gern die Rutsche runter.",
+      "exampleEn": "The children love sliding down the slide.",
+      "example2": "Pass auf, auf dem Eis kann man leicht rutschen!",
+      "example2En": "Be careful, it's easy to slip on the ice!"
+    },
+    {
+      "de": "der Sachbearbeiter / die Sachbearbeiterin",
+      "en": "clerk, case handler",
+      "pos": "noun",
+      "plural": "die Sachbearbeiter/innen",
+      "meanings": [
+        {
+          "en": "office employee responsible for handling a specific case or task",
+          "de": "jemand, der Aufgaben oder Anträge bei einer Behörde/Firma bearbeitet"
+        }
+      ],
+      "rule": "Kompositum aus 'Sache' + 'Bearbeiter'; typische Berufsbezeichnung in Ämtern und Firmen.",
+      "example": "Der Sachbearbeiter prüft Ihren Antrag.",
+      "exampleEn": "The case handler is reviewing your application.",
+      "example2": "Bitte wenden Sie sich an die zuständige Sachbearbeiterin.",
+      "example2En": "Please contact the responsible clerk."
+    },
+    {
+      "de": "der Sachschaden",
+      "en": "property damage",
+      "pos": "noun",
+      "plural": "die Sachschäden",
+      "meanings": [
+        {
+          "en": "damage to property or objects (not people)",
+          "de": "Schaden an Gegenständen oder Eigentum, kein Personenschaden"
+        }
+      ],
+      "rule": "Kompositum aus 'Sache' + 'Schaden'; Gegensatz: 'Personenschaden'.",
+      "example": "Bei dem Unfall entstand nur Sachschaden.",
+      "exampleEn": "The accident only caused property damage.",
+      "example2": "Der Sturm hat einen hohen Sachschaden verursacht.",
+      "example2En": "The storm caused extensive property damage."
+    },
+    {
+      "de": "der Sack",
+      "en": "sack, bag",
+      "pos": "noun",
+      "plural": "die Säcke",
+      "meanings": [
+        {
+          "en": "a large bag made of cloth, paper or plastic",
+          "de": "ein großer Beutel aus Stoff, Papier oder Plastik"
+        }
+      ],
+      "rule": "maskulin, Plural mit Umlaut: der Sack – die Säcke.",
+      "example": "Er trägt einen Sack Kartoffeln in den Keller.",
+      "exampleEn": "He carries a sack of potatoes into the cellar.",
+      "example2": "Wir brauchen noch einen Sack Zement.",
+      "example2En": "We still need a bag of cement."
+    },
+    {
+      "de": "der Sales Manager / die Sales Managerin",
+      "en": "sales manager",
+      "pos": "noun",
+      "plural": "die Sales Manager/innen",
+      "meanings": [
+        {
+          "en": "person responsible for managing sales activities",
+          "de": "jemand, der für den Verkauf/Vertrieb einer Firma zuständig ist"
+        }
+      ],
+      "rule": "englisches Lehnwort im Berufskontext; Genus folgt dem biologischen Geschlecht.",
+      "example": "Sie arbeitet als Sales Managerin bei einer großen Firma.",
+      "exampleEn": "She works as a sales manager at a large company.",
+      "example2": "Der Sales Manager präsentiert die neuen Verkaufszahlen.",
+      "example2En": "The sales manager presents the new sales figures."
+    },
+    {
+      "de": "sammeln",
+      "en": "to collect, to gather",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to collect objects as a hobby or systematically",
+          "de": "Dinge als Hobby oder systematisch zusammentragen"
+        },
+        {
+          "en": "to gather people or things together",
+          "de": "Personen oder Dinge an einem Ort zusammenbringen"
+        }
+      ],
+      "rule": "regelmäßig; Perfekt mit 'haben': hat gesammelt; auch reflexiv: 'sich sammeln' (sich versammeln).",
+      "example": "Mein Sohn sammelt Briefmarken.",
+      "exampleEn": "My son collects stamps.",
+      "example2": "Die Schüler sammeln sich vor dem Eingang.",
+      "example2En": "The students gather in front of the entrance."
+    },
+    {
+      "de": "die Sammelstelle",
+      "en": "collection point",
+      "pos": "noun",
+      "plural": "die Sammelstellen",
+      "meanings": [
+        {
+          "en": "a designated place where things (e.g. waste, donations) are collected",
+          "de": "ein Ort, an dem etwas (z. B. Müll oder Spenden) gesammelt wird"
+        }
+      ],
+      "rule": "Kompositum aus 'sammeln' + 'Stelle'.",
+      "example": "Alte Batterien bringt man zur Sammelstelle.",
+      "exampleEn": "You take old batteries to the collection point.",
+      "example2": "Die Sammelstelle für Kleidung ist am Marktplatz.",
+      "example2En": "The clothing collection point is at the market square."
+    },
+    {
+      "de": "sauber",
+      "en": "clean",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "clean, free of dirt",
+          "de": "ohne Schmutz"
+        },
+        {
+          "en": "neat, tidy, proper (figurative: honest)",
+          "de": "ordentlich, korrekt, ehrlich"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: sauber, sauberer, am saubersten.",
+      "example": "Die Küche ist endlich wieder sauber.",
+      "exampleEn": "The kitchen is finally clean again.",
+      "example2": "Er hat eine saubere Arbeit abgeliefert.",
+      "example2En": "He delivered a neat, proper piece of work."
+    },
+    {
+      "de": "die Sauberkeit",
+      "en": "cleanliness",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the state of being clean",
+          "de": "der Zustand, sauber zu sein"
+        }
+      ],
+      "rule": "von 'sauber' abgeleitetes Abstraktum; uncountable, kein Plural.",
+      "example": "In diesem Restaurant achtet man sehr auf Sauberkeit.",
+      "exampleEn": "This restaurant pays great attention to cleanliness.",
+      "example2": "Die Sauberkeit der Straßen hat sich verbessert.",
+      "example2En": "The cleanliness of the streets has improved."
+    },
+    {
+      "de": "sauer",
+      "en": "sour; angry",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "sour, acidic in taste",
+          "de": "mit saurem Geschmack, z. B. Zitrone"
+        },
+        {
+          "en": "(colloquial) angry, upset",
+          "de": "(umgangssprachlich) verärgert, wütend"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: sauer, saurer, am sauersten; umgangssprachlich: 'sauer sein auf jemanden' (+ Akkusativ).",
+      "example": "Die Zitrone schmeckt sehr sauer.",
+      "exampleEn": "The lemon tastes very sour.",
+      "example2": "Er ist sauer auf seinen Bruder.",
+      "example2En": "He's angry at his brother."
+    },
+    {
+      "de": "der Schaden",
+      "en": "damage, harm",
+      "pos": "noun",
+      "plural": "die Schäden",
+      "meanings": [
+        {
+          "en": "physical or material damage",
+          "de": "ein materieller oder körperlicher Schaden"
+        },
+        {
+          "en": "harm, disadvantage (figurative)",
+          "de": "ein Nachteil oder negative Folge"
+        }
+      ],
+      "rule": "Plural mit Umlaut: der Schaden – die Schäden; feste Wendung: 'einen Schaden verursachen/melden'.",
+      "example": "Der Unfall hat einen großen Schaden verursacht.",
+      "exampleEn": "The accident caused a lot of damage.",
+      "example2": "Rauchen kann der Gesundheit erheblichen Schaden zufügen.",
+      "example2En": "Smoking can cause significant harm to your health."
+    },
+    {
+      "de": "der Schadensfall",
+      "en": "case of damage/loss",
+      "pos": "noun",
+      "plural": "die Schadensfälle",
+      "meanings": [
+        {
+          "en": "an event causing damage or loss (esp. insurance)",
+          "de": "ein Ereignis, bei dem ein Schaden entsteht"
+        }
+      ],
+      "rule": "Compound noun (Schaden + Fall); gender follows der Fall. Common in insurance contexts: 'im Schadensfall'.",
+      "example": "Im Schadensfall müssen Sie die Versicherung sofort informieren.",
+      "exampleEn": "In the event of a claim, you must inform the insurance company immediately.",
+      "example2": "Der Schadensfall wurde von einem Gutachter geprüft.",
+      "example2En": "The case of damage was examined by an assessor."
+    },
+    {
+      "de": "schädigen",
+      "en": "to damage, to harm",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to cause harm or damage to someone/something",
+          "de": "jemandem/etwas Schaden zufügen"
+        }
+      ],
+      "rule": "Regular weak verb: schädigt, schädigte, hat geschädigt. Often + Akkusativ (jemanden/etwas schädigen).",
+      "example": "Rauchen schädigt die Gesundheit.",
+      "exampleEn": "Smoking damages your health.",
+      "example2": "Der Skandal hat das Image der Firma schwer geschädigt.",
+      "example2En": "The scandal severely damaged the company's image."
+    },
+    {
+      "de": "schädlich",
+      "en": "harmful",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "causing harm or damage",
+          "de": "Schaden verursachend"
+        }
+      ],
+      "rule": "Regular comparison: schädlich, schädlicher, am schädlichsten. Often used with 'für': schädlich für die Umwelt.",
+      "example": "Zu viel Zucker ist schädlich für die Zähne.",
+      "exampleEn": "Too much sugar is harmful to your teeth.",
+      "example2": "Die Abgase sind schädlich für die Umwelt.",
+      "example2En": "The exhaust fumes are harmful to the environment."
+    },
+    {
+      "de": "der Schadstoff",
+      "en": "pollutant, harmful substance",
+      "pos": "noun",
+      "plural": "die Schadstoffe",
+      "meanings": [
+        {
+          "en": "a substance that is harmful to health or the environment",
+          "de": "ein Stoff, der Gesundheit oder Umwelt schadet"
+        }
+      ],
+      "rule": "Compound: Schaden + Stoff → der Stoff (masculine).",
+      "example": "Das neue Auto stößt weniger Schadstoffe aus.",
+      "exampleEn": "The new car emits fewer pollutants.",
+      "example2": "Die Fabrik leitet Schadstoffe in den Fluss.",
+      "example2En": "The factory discharges pollutants into the river."
+    }
+  ]
+}

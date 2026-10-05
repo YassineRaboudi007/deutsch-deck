@@ -1,0 +1,925 @@
+{
+  "id": "a2-01",
+  "title": "A2 · A (1)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "die Abendkasse",
+      "en": "box office (evening)",
+      "pos": "noun",
+      "plural": "die Abendkassen",
+      "meanings": [
+        {
+          "en": "box office at a theater/concert where tickets are sold just before the event",
+          "de": "Kasse am Veranstaltungsort, kurz vor Beginn"
+        }
+      ],
+      "rule": "Compound noun: der Abend + die Kasse; gender follows the second part (die Kasse).",
+      "example": "Karten gibt es auch an der Abendkasse.",
+      "exampleEn": "Tickets are also available at the box office (on the evening).",
+      "example2": "Die Abendkasse öffnet eine Stunde vor der Vorstellung.",
+      "example2En": "The evening box office opens one hour before the performance."
+    },
+    {
+      "de": "abfahren",
+      "en": "to depart, leave",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to leave / depart (vehicle, train, person)",
+          "de": "losfahren, wegfahren"
+        }
+      ],
+      "rule": "Trennbar: fährt ab, fuhr ab, ist abgefahren. Perfekt mit sein.",
+      "example": "Der Zug fährt um 9 Uhr ab.",
+      "exampleEn": "The train departs at 9 o'clock.",
+      "example2": "Wir fahren morgen früh ab.",
+      "example2En": "We're leaving early tomorrow morning."
+    },
+    {
+      "de": "die Abfahrt",
+      "en": "departure",
+      "pos": "noun",
+      "plural": "die Abfahrten",
+      "meanings": [
+        {
+          "en": "departure (of a train, bus, etc.)",
+          "de": "das Abfahren, Beginn der Fahrt"
+        },
+        {
+          "en": "motorway exit / ski descent",
+          "de": "Ausfahrt von der Autobahn; Skiabfahrt"
+        }
+      ],
+      "rule": "Feminine noun, from abfahren. Often seen on timetables (Abfahrt/Ankunft).",
+      "example": "Die Abfahrt des Zuges ist um 9 Uhr.",
+      "exampleEn": "The train's departure is at 9 o'clock.",
+      "example2": "An der nächsten Abfahrt müssen wir die Autobahn verlassen.",
+      "example2En": "We have to leave the motorway at the next exit."
+    },
+    {
+      "de": "abgeben",
+      "en": "to hand in, drop off",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to hand in / submit (documents, homework)",
+          "de": "etwas bei jemandem lassen, einreichen"
+        },
+        {
+          "en": "to drop off (a person or thing)",
+          "de": "jemanden/etwas an einen Ort bringen"
+        }
+      ],
+      "rule": "Trennbar: gibt ab, gab ab, hat abgegeben. + Akkusativ (etwas abgeben).",
+      "example": "Ich muss die Prüfung bis Freitag abgeben.",
+      "exampleEn": "I have to hand in the exam by Friday.",
+      "example2": "Kannst du die Kinder in der Schule abgeben?",
+      "example2En": "Can you drop the kids off at school?"
+    },
+    {
+      "de": "abheben",
+      "en": "to withdraw (money); to take off",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to withdraw money from an account",
+          "de": "Geld vom Konto nehmen"
+        },
+        {
+          "en": "to take off (plane)",
+          "de": "in die Luft steigen"
+        },
+        {
+          "en": "to pick up / answer the phone receiver",
+          "de": "den Hörer hochnehmen"
+        }
+      ],
+      "rule": "Trennbar: hebt ab, hob ab, hat abgehoben. Unregelmäßig (heben).",
+      "example": "Ich möchte 100 Euro vom Konto abheben.",
+      "exampleEn": "I'd like to withdraw 100 euros from my account.",
+      "example2": "Das Flugzeug hebt pünktlich ab.",
+      "example2En": "The plane takes off on time."
+    },
+    {
+      "de": "abholen",
+      "en": "to pick up, collect",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to pick up / collect a person or thing",
+          "de": "jemanden/etwas holen, wegbringen"
+        }
+      ],
+      "rule": "Trennbar: holt ab, holte ab, hat abgeholt. + Akkusativ.",
+      "example": "Ich hole dich um 8 Uhr vom Bahnhof ab.",
+      "exampleEn": "I'll pick you up from the station at 8 o'clock.",
+      "example2": "Kannst du das Paket abholen?",
+      "example2En": "Can you pick up the package?"
+    },
+    {
+      "de": "das Abitur",
+      "en": "school-leaving exam (Abi)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the German secondary school final exam qualifying for university",
+          "de": "Abschlussprüfung am Gymnasium"
+        }
+      ],
+      "rule": "Uncountable, no plural. Short form: das Abi (umgangssprachlich).",
+      "example": "Sie macht nächstes Jahr ihr Abitur.",
+      "exampleEn": "She's taking her school-leaving exam (Abitur) next year.",
+      "example2": "Nach dem Abi möchte er studieren.",
+      "example2En": "After his Abitur, he wants to study at university."
+    },
+    {
+      "de": "ablegen",
+      "en": "to take off, lay down; to take (a test)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to take off / lay down (coat, item)",
+          "de": "etwas weglegen, ausziehen"
+        },
+        {
+          "en": "to take/sit an exam",
+          "de": "eine Prüfung machen"
+        }
+      ],
+      "rule": "Trennbar: legt ab, legte ab, hat abgelegt.",
+      "example": "Bitte legen Sie Ihren Mantel ab.",
+      "exampleEn": "Please take off your coat.",
+      "example2": "Er hat die Prüfung erfolgreich abgelegt.",
+      "example2En": "He passed the exam successfully."
+    },
+    {
+      "de": "ablehnen",
+      "en": "to reject, decline",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to reject / refuse / decline something",
+          "de": "nein zu etwas sagen, etwas nicht annehmen"
+        }
+      ],
+      "rule": "Trennbar: lehnt ab, lehnte ab, hat abgelehnt. + Akkusativ.",
+      "example": "Er hat das Angebot abgelehnt.",
+      "exampleEn": "He declined the offer.",
+      "example2": "Meine Bewerbung wurde abgelehnt.",
+      "example2En": "My application was rejected."
+    },
+    {
+      "de": "ablesen",
+      "en": "to read off (a meter/display)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to read off a value from a meter, display, or paper",
+          "de": "einen Wert von etwas lesen"
+        }
+      ],
+      "rule": "Trennbar: liest ab, las ab, hat abgelesen. Unregelmäßig (lesen).",
+      "example": "Der Techniker liest den Stromzähler ab.",
+      "exampleEn": "The technician reads off the electricity meter.",
+      "example2": "Sie las die Rede vom Blatt ab.",
+      "example2En": "She read the speech off the page."
+    },
+    {
+      "de": "die Ablesung",
+      "en": "meter reading",
+      "pos": "noun",
+      "plural": "die Ablesungen",
+      "meanings": [
+        {
+          "en": "the act of reading a meter/display",
+          "de": "das Ablesen, z. B. des Zählers"
+        }
+      ],
+      "rule": "Feminine noun from ablesen; common in utility bills (Zählerablesung).",
+      "example": "Die Ablesung des Wasserzählers findet einmal im Jahr statt.",
+      "exampleEn": "The water meter reading takes place once a year.",
+      "example2": "Bitte notieren Sie das Datum der Ablesung.",
+      "example2En": "Please note down the date of the reading."
+    },
+    {
+      "de": "abmelden",
+      "en": "to deregister, sign off (sich)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to deregister / cancel (a service, registration)",
+          "de": "etwas offiziell beenden lassen"
+        },
+        {
+          "en": "sich abmelden: to log off / register one's departure",
+          "de": "sich offiziell als weggehend melden"
+        }
+      ],
+      "rule": "Trennbar, oft reflexiv (sich abmelden): meldet ab, meldete ab, hat abgemeldet.",
+      "example": "Ich muss mein Auto abmelden.",
+      "exampleEn": "I have to deregister my car.",
+      "example2": "Sie hat sich am Computer abgemeldet.",
+      "example2En": "She logged off at the computer."
+    },
+    {
+      "de": "die Abmeldung",
+      "en": "deregistration, cancellation",
+      "pos": "noun",
+      "plural": "die Abmeldungen",
+      "meanings": [
+        {
+          "en": "official deregistration or cancellation of something",
+          "de": "das Abmelden, offizielle Beendigung"
+        }
+      ],
+      "rule": "Feminine noun from abmelden; opposite of die Anmeldung.",
+      "example": "Die Abmeldung beim Einwohnermeldeamt ist kostenlos.",
+      "exampleEn": "Deregistering at the residents' registration office is free.",
+      "example2": "Er hat die Abmeldung seines Autos vergessen.",
+      "example2En": "He forgot to deregister his car."
+    },
+    {
+      "de": "abschalten",
+      "en": "to switch off, turn off",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to switch off / turn off a device",
+          "de": "ein Gerät ausschalten"
+        },
+        {
+          "en": "to switch off mentally, relax",
+          "de": "sich entspannen, nicht mehr an Arbeit denken"
+        }
+      ],
+      "rule": "Trennbar: schaltet ab, schaltete ab, hat abgeschaltet.",
+      "example": "Bitte schalte den Computer ab.",
+      "exampleEn": "Please switch off the computer.",
+      "example2": "Am Wochenende kann ich gut abschalten.",
+      "example2En": "On the weekend I can really switch off/relax."
+    },
+    {
+      "de": "abschließen",
+      "en": "to lock; to complete, finish",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to lock (a door)",
+          "de": "eine Tür mit einem Schlüssel schließen"
+        },
+        {
+          "en": "to complete / finish (a course, contract)",
+          "de": "etwas beenden, zu Ende bringen"
+        }
+      ],
+      "rule": "Trennbar: schließt ab, schloss ab, hat abgeschlossen. Unregelmäßig (schließen).",
+      "example": "Hast du die Tür abgeschlossen?",
+      "exampleEn": "Did you lock the door?",
+      "example2": "Sie hat ihr Studium letztes Jahr abgeschlossen.",
+      "example2En": "She finished her degree last year."
+    },
+    {
+      "de": "der Abschluss",
+      "en": "completion, graduation; conclusion",
+      "pos": "noun",
+      "plural": "die Abschlüsse",
+      "meanings": [
+        {
+          "en": "a qualification / graduation / diploma",
+          "de": "ein Zeugnis, ein erfolgreiches Ende der Ausbildung"
+        },
+        {
+          "en": "the end/conclusion of something",
+          "de": "das Ende von etwas"
+        }
+      ],
+      "rule": "Masculine noun from abschließen.",
+      "example": "Er hat einen guten Schulabschluss.",
+      "exampleEn": "He has a good school-leaving qualification.",
+      "example2": "Zum Abschluss sagte die Lehrerin noch etwas.",
+      "example2En": "At the end, the teacher said something more."
+    },
+    {
+      "de": "absetzen",
+      "en": "to drop off; to deduct",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to drop off (a passenger); to put down",
+          "de": "jemanden aussteigen lassen; etwas hinstellen"
+        },
+        {
+          "en": "to deduct (from taxes)",
+          "de": "von der Steuer abziehen"
+        }
+      ],
+      "rule": "Trennbar: setzt ab, setzte ab, hat abgesetzt.",
+      "example": "Er hat mich am Bahnhof abgesetzt.",
+      "exampleEn": "He dropped me off at the station.",
+      "example2": "Man kann die Kosten von der Steuer absetzen.",
+      "example2En": "You can deduct the costs from your taxes."
+    },
+    {
+      "de": "abstellen",
+      "en": "to put down, park; to turn off",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to put down / park (a bike, bag)",
+          "de": "etwas irgendwohin stellen"
+        },
+        {
+          "en": "to turn off / switch off (water, gas, engine)",
+          "de": "etwas ausschalten, stoppen"
+        }
+      ],
+      "rule": "Trennbar: stellt ab, stellte ab, hat abgestellt.",
+      "example": "Stell dein Fahrrad bitte hier ab.",
+      "exampleEn": "Please park your bike here.",
+      "example2": "Vergiss nicht, das Wasser abzustellen.",
+      "example2En": "Don't forget to turn off the water."
+    },
+    {
+      "de": "die Abteilung",
+      "en": "department",
+      "pos": "noun",
+      "plural": "die Abteilungen",
+      "meanings": [
+        {
+          "en": "department (in a company, store, hospital)",
+          "de": "Bereich einer Firma, eines Kaufhauses o. Ä."
+        }
+      ],
+      "rule": "Feminine noun, plural with -en. Often used with 'in der Abteilung für...'.",
+      "example": "Ich arbeite in der Abteilung für Marketing.",
+      "exampleEn": "I work in the marketing department.",
+      "example2": "Wo finde ich die Abteilung für Schuhe?",
+      "example2En": "Where can I find the shoe department?"
+    },
+    {
+      "de": "das Accessoire",
+      "en": "accessory",
+      "pos": "noun",
+      "plural": "die Accessoires",
+      "meanings": [
+        {
+          "en": "fashion accessory (bag, jewelry, scarf, etc.)",
+          "de": "modischer Zusatzartikel wie Tasche, Schmuck, Schal"
+        }
+      ],
+      "rule": "Neuter noun (from French): das Accessoire, plural die Accessoires. Usually used in the plural in everyday speech. Pronounced roughly [akse-SWAR].",
+      "example": "Im Schaufenster liegen schöne Accessoires.",
+      "exampleEn": "There are beautiful accessories in the shop window.",
+      "example2": "Sie kauft gern Accessoires wie Taschen und Gürtel.",
+      "example2En": "She likes buying accessories like bags and belts."
+    },
+    {
+      "de": "afrikanisch",
+      "en": "African",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to Africa",
+          "de": "aus Afrika, zu Afrika gehörend"
+        }
+      ],
+      "rule": "Adjective of origin; like other nationality/continent adjectives (deutsch, amerikanisch) it is not normally used in the comparative/superlative. Always written lowercase, unlike the noun 'Afrika'.",
+      "example": "Wir essen heute in einem afrikanischen Restaurant.",
+      "exampleEn": "We're eating at an African restaurant today.",
+      "example2": "Sie hört gern afrikanische Musik.",
+      "example2En": "She likes listening to African music."
+    },
+    {
+      "de": "aggressiv",
+      "en": "aggressive",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "aggressive, hostile in behavior",
+          "de": "feindselig, angriffslustig"
+        }
+      ],
+      "rule": "Regular adjective: aggressiv, aggressiver, am aggressivsten.",
+      "example": "Der Hund wird aggressiv, wenn Fremde kommen.",
+      "exampleEn": "The dog gets aggressive when strangers come.",
+      "example2": "Er war im Streit sehr aggressiv.",
+      "example2En": "He was very aggressive during the argument."
+    },
+    {
+      "de": "ähnlich",
+      "en": "similar",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "similar, alike",
+          "de": "fast gleich, vergleichbar"
+        }
+      ],
+      "rule": "Regular adjective; used with + Dativ: 'ähnlich sein/sehen + Dativ'. ähnlich, ähnlicher, am ähnlichsten.",
+      "example": "Das Kleid ist ähnlich wie meins.",
+      "exampleEn": "The dress is similar to mine.",
+      "example2": "Sie sieht ihrer Mutter sehr ähnlich.",
+      "example2En": "She looks a lot like her mother."
+    },
+    {
+      "de": "die Aktivität",
+      "en": "activity",
+      "pos": "noun",
+      "plural": "die Aktivitäten",
+      "meanings": [
+        {
+          "en": "activity, thing one does",
+          "de": "Tätigkeit, Beschäftigung"
+        }
+      ],
+      "rule": "Feminine noun, plural -en; often used in plural for hobbies/events ('Freizeitaktivitäten').",
+      "example": "Im Urlaub machen wir viele Aktivitäten.",
+      "exampleEn": "On vacation we do a lot of activities.",
+      "example2": "Welche Aktivitäten bietet der Verein an?",
+      "example2En": "What activities does the club offer?"
+    },
+    {
+      "de": "aktuell",
+      "en": "current, up to date",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "current, present-day",
+          "de": "gegenwärtig, im Moment gültig"
+        },
+        {
+          "en": "topical, relevant right now",
+          "de": "von aktuellem Interesse"
+        }
+      ],
+      "rule": "Regular adjective: aktuell, aktueller, am aktuellsten. False friend: does NOT mean 'actual' (= tatsächlich).",
+      "example": "Das ist der aktuelle Stand der Dinge.",
+      "exampleEn": "That's the current state of affairs.",
+      "example2": "Dieses Thema ist im Moment sehr aktuell.",
+      "example2En": "This topic is very topical right now."
+    },
+    {
+      "de": "die Akupunktur",
+      "en": "acupuncture",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "acupuncture (medical treatment)",
+          "de": "Heilmethode mit Nadeln"
+        }
+      ],
+      "rule": "Feminine noun, usually uncountable (no plural in everyday use).",
+      "example": "Gegen die Rückenschmerzen macht sie Akupunktur.",
+      "exampleEn": "She's doing acupuncture for her back pain.",
+      "example2": "Der Arzt hat mir Akupunktur empfohlen.",
+      "example2En": "The doctor recommended acupuncture to me."
+    },
+    {
+      "de": "alle",
+      "en": "all, everyone",
+      "pos": "pronoun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "all (of them), everyone",
+          "de": "jeder, alle Personen/Dinge"
+        },
+        {
+          "en": "finished, used up (colloquial)",
+          "de": "nichts mehr davon da, aufgebraucht"
+        }
+      ],
+      "rule": "Indefinite pronoun/determiner; declined like an adjective (alle, allen, aller). Colloquial: 'alle sein' = to be all gone.",
+      "example": "Alle Schüler waren heute da.",
+      "exampleEn": "All the students were there today.",
+      "example2": "Die Milch ist alle.",
+      "example2En": "The milk is all gone."
+    },
+    {
+      "de": "die Alternative",
+      "en": "alternative",
+      "pos": "noun",
+      "plural": "die Alternativen",
+      "meanings": [
+        {
+          "en": "alternative, other option",
+          "de": "andere Möglichkeit"
+        }
+      ],
+      "rule": "Feminine noun, plural -n. Often with 'zu + Dativ': 'eine Alternative zu...'.",
+      "example": "Gibt es eine Alternative zu diesem Termin?",
+      "exampleEn": "Is there an alternative to this appointment?",
+      "example2": "Fahrrad ist eine gute Alternative zum Auto.",
+      "example2En": "The bicycle is a good alternative to the car."
+    },
+    {
+      "de": "das Altglas",
+      "en": "used glass (for recycling)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "glass collected for recycling",
+          "de": "gebrauchtes Glas zum Recyceln"
+        }
+      ],
+      "rule": "Neuter noun, uncountable, no plural. Compound of alt + Glas.",
+      "example": "Wir bringen das Altglas zum Container.",
+      "exampleEn": "We take the used glass to the recycling container.",
+      "example2": "Flaschen gehören in den Altglas-Container.",
+      "example2En": "Bottles belong in the glass recycling container."
+    },
+    {
+      "de": "das Amt",
+      "en": "office, authority",
+      "pos": "noun",
+      "plural": "die Ämter",
+      "meanings": [
+        {
+          "en": "government office, public authority",
+          "de": "Behörde"
+        },
+        {
+          "en": "official post, position",
+          "de": "öffentliches Amt, Funktion"
+        }
+      ],
+      "rule": "Neuter noun, plural with umlaut: die Ämter.",
+      "example": "Ich muss zum Amt, um den Pass zu verlängern.",
+      "exampleEn": "I have to go to the office to renew my passport.",
+      "example2": "Sie übernimmt ein wichtiges Amt in der Stadt.",
+      "example2En": "She's taking on an important office in the city."
+    },
+    {
+      "de": "das Amtsdeutsch",
+      "en": "official/bureaucratic German",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "formal, bureaucratic style of German used in official documents",
+          "de": "komplizierte Sprache in Ämtern und Formularen"
+        }
+      ],
+      "rule": "Neuter noun, uncountable, no plural. Compound: Amt + Deutsch.",
+      "example": "Das Formular ist voller Amtsdeutsch.",
+      "exampleEn": "The form is full of bureaucratic German.",
+      "example2": "Amtsdeutsch ist oft schwer zu verstehen.",
+      "example2En": "Official German is often hard to understand."
+    },
+    {
+      "de": "anbieten",
+      "en": "to offer",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to offer (something to someone)",
+          "de": "jemandem etwas zur Verfügung stellen"
+        }
+      ],
+      "rule": "Trennbar: bietet ... an; unregelmäßig: bietet an, bot an, hat angeboten. Oft mit + Dativ (Person) + Akkusativ (Sache).",
+      "example": "Der Kellner bietet uns die Karte an.",
+      "exampleEn": "The waiter offers us the menu.",
+      "example2": "Kann ich dir einen Kaffee anbieten?",
+      "example2En": "Can I offer you a coffee?"
+    },
+    {
+      "de": "ändern",
+      "en": "to change, alter",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to change, modify something",
+          "de": "etwas anders machen"
+        },
+        {
+          "en": "(sich ändern) to change, alter oneself/itself",
+          "de": "anders werden"
+        }
+      ],
+      "rule": "Regelmäßig: ändert, änderte, hat geändert. Auch reflexiv: sich ändern.",
+      "example": "Wir müssen den Termin ändern.",
+      "exampleEn": "We have to change the appointment.",
+      "example2": "Das Wetter ändert sich schnell.",
+      "example2En": "The weather changes quickly."
+    },
+    {
+      "de": "anders",
+      "en": "different(ly)",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "different, in another way",
+          "de": "nicht gleich, auf andere Weise"
+        }
+      ],
+      "rule": "Adverb, invariable (no endings). Often with 'als': 'anders als'.",
+      "example": "Heute ist alles anders als sonst.",
+      "exampleEn": "Today everything is different than usual.",
+      "example2": "Er denkt anders über das Thema.",
+      "example2En": "He thinks differently about the topic."
+    },
+    {
+      "de": "anerkannt",
+      "en": "recognized, accepted",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "officially recognized, accepted",
+          "de": "offiziell akzeptiert"
+        }
+      ],
+      "rule": "Partizip II von 'anerkennen' als Adjektiv gebraucht; anerkannt, anerkannter, am anerkanntesten.",
+      "example": "Ihr Abschluss ist in Deutschland anerkannt.",
+      "exampleEn": "Her degree is recognized in Germany.",
+      "example2": "Er ist ein anerkannter Experte auf seinem Gebiet.",
+      "example2En": "He's a recognized expert in his field."
+    },
+    {
+      "de": "der Anfänger / die Anfängerin",
+      "en": "beginner",
+      "pos": "noun",
+      "plural": "die Anfänger / die Anfängerinnen",
+      "meanings": [
+        {
+          "en": "beginner, someone new to something",
+          "de": "jemand, der etwas gerade erst lernt"
+        }
+      ],
+      "rule": "Maskulin: der Anfänger, Plural die Anfänger; feminin: die Anfängerin, Plural die Anfängerinnen.",
+      "example": "Der Kurs ist für Anfänger geeignet.",
+      "exampleEn": "The course is suitable for beginners.",
+      "example2": "Als Anfängerin macht sie noch viele Fehler.",
+      "example2En": "As a beginner, she still makes a lot of mistakes."
+    },
+    {
+      "de": "anfordern",
+      "en": "to request; to order (formally)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to request something officially",
+          "de": "etwas offiziell verlangen/bestellen"
+        }
+      ],
+      "rule": "trennbar: fordert ... an, forderte an, hat angefordert",
+      "example": "Ich fordere die Unterlagen per E-Mail an.",
+      "exampleEn": "I request the documents by email.",
+      "example2": "Der Arzt fordert ein Blutbild an.",
+      "example2En": "The doctor orders a blood test."
+    },
+    {
+      "de": "angeben",
+      "en": "to state, indicate; to show off",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to state/indicate (information)",
+          "de": "eine Information nennen"
+        },
+        {
+          "en": "to show off, brag",
+          "de": "prahlen"
+        }
+      ],
+      "rule": "trennbar, irregular: gibt ... an, gab an, hat angegeben",
+      "example": "Bitte geben Sie Ihre Adresse an.",
+      "exampleEn": "Please state your address.",
+      "example2": "Er gibt gern mit seinem neuen Auto an.",
+      "example2En": "He likes to show off with his new car."
+    },
+    {
+      "de": "die Angst",
+      "en": "fear",
+      "pos": "noun",
+      "plural": "die Ängste",
+      "meanings": [
+        {
+          "en": "fear, anxiety",
+          "de": "das Gefühl von Furcht"
+        }
+      ],
+      "rule": "Redewendung: Angst haben vor + Dativ",
+      "example": "Ich habe Angst vor Spinnen.",
+      "exampleEn": "I'm afraid of spiders.",
+      "example2": "Keine Angst, alles wird gut.",
+      "example2En": "Don't worry, everything will be fine."
+    },
+    {
+      "de": "anhaben",
+      "en": "to wear, to have on",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to be wearing (clothes)",
+          "de": "Kleidung tragen"
+        }
+      ],
+      "rule": "trennbar, irregular: hat ... an, hatte an, hat angehabt",
+      "example": "Sie hat heute ein rotes Kleid an.",
+      "exampleEn": "She is wearing a red dress today.",
+      "example2": "Was hattest du gestern an?",
+      "example2En": "What were you wearing yesterday?"
+    },
+    {
+      "de": "anklicken",
+      "en": "to click on",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to click on something (computer)",
+          "de": "mit der Maus klicken"
+        }
+      ],
+      "rule": "trennbar, regelmäßig: klickt ... an, klickte an, hat angeklickt; transitiv (etwas anklicken) - kein 'auf' nötig, anders als bei 'auf etwas klicken'",
+      "example": "Klicken Sie den Button an.",
+      "exampleEn": "Click on the button.",
+      "example2": "Er hat versehentlich den falschen Link angeklickt.",
+      "example2En": "He accidentally clicked the wrong link."
+    },
+    {
+      "de": "ankommen",
+      "en": "to arrive",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to arrive (at a place)",
+          "de": "an einem Ort eintreffen"
+        },
+        {
+          "en": "to depend on, to matter",
+          "de": "wichtig sein, abhängen von"
+        }
+      ],
+      "rule": "trennbar, irregular: kommt ... an, kam an, ist angekommen; 'es kommt darauf an' = it depends",
+      "example": "Der Zug kommt um neun Uhr an.",
+      "exampleEn": "The train arrives at nine o'clock.",
+      "example2": "Es kommt darauf an, wie viel Zeit wir haben.",
+      "example2En": "It depends on how much time we have."
+    },
+    {
+      "de": "ankreuzen",
+      "en": "to tick, to check (a box)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to mark with a cross/tick",
+          "de": "ein Kreuz machen"
+        }
+      ],
+      "rule": "trennbar, regelmäßig: kreuzt ... an, kreuzte an, hat angekreuzt",
+      "example": "Kreuzen Sie die richtige Antwort an.",
+      "exampleEn": "Tick the correct answer.",
+      "example2": "Ich habe versehentlich zwei Felder angekreuzt.",
+      "example2En": "I accidentally checked two boxes."
+    },
+    {
+      "de": "die Ankunft",
+      "en": "arrival",
+      "pos": "noun",
+      "plural": "die Ankünfte",
+      "meanings": [
+        {
+          "en": "arrival",
+          "de": "das Eintreffen"
+        }
+      ],
+      "rule": "Gegenteil: die Abfahrt/der Abflug",
+      "example": "Die Ankunft des Fluges verspätet sich.",
+      "exampleEn": "The flight's arrival is delayed.",
+      "example2": "Bei Ankunft bitte am Schalter melden.",
+      "example2En": "Please report to the counter upon arrival."
+    },
+    {
+      "de": "der Anruf",
+      "en": "phone call",
+      "pos": "noun",
+      "plural": "die Anrufe",
+      "meanings": [
+        {
+          "en": "a telephone call",
+          "de": "ein Telefonat"
+        }
+      ],
+      "rule": "Verb dazu: anrufen (trennbar)",
+      "example": "Ich habe einen wichtigen Anruf verpasst.",
+      "exampleEn": "I missed an important phone call.",
+      "example2": "Danke für Ihren Anruf.",
+      "example2En": "Thank you for your call."
+    },
+    {
+      "de": "der Anrufer / die Anruferin",
+      "en": "caller",
+      "pos": "noun",
+      "plural": "die Anrufer / die Anruferinnen",
+      "meanings": [
+        {
+          "en": "person who calls",
+          "de": "jemand, der anruft"
+        }
+      ],
+      "rule": "maskuline/feminine Form je nach Geschlecht",
+      "example": "Der Anrufer wollte seinen Namen nicht nennen.",
+      "exampleEn": "The caller didn't want to give his name.",
+      "example2": "Die Anruferin bat um Rückruf.",
+      "example2En": "The caller (female) asked for a callback."
+    },
+    {
+      "de": "der Anschluss",
+      "en": "connection",
+      "pos": "noun",
+      "plural": "die Anschlüsse",
+      "meanings": [
+        {
+          "en": "connection (train, phone, internet)",
+          "de": "eine Verbindung"
+        }
+      ],
+      "rule": "häufig: Anschluss verpassen/haben",
+      "example": "Wir haben den Anschluss in Köln verpasst.",
+      "exampleEn": "We missed the connection in Cologne.",
+      "example2": "Haben Sie einen Internetanschluss zu Hause?",
+      "example2En": "Do you have an internet connection at home?"
+    },
+    {
+      "de": "der Anschlusszug",
+      "en": "connecting train",
+      "pos": "noun",
+      "plural": "die Anschlusszüge",
+      "meanings": [
+        {
+          "en": "train that connects to another train",
+          "de": "ein Zug, der Anschluss bietet"
+        }
+      ],
+      "rule": "Zusammensetzung aus Anschluss + Zug",
+      "example": "Der Anschlusszug wartet auf Gleis 3.",
+      "exampleEn": "The connecting train is waiting on platform 3.",
+      "example2": "Wir haben den Anschlusszug knapp geschafft.",
+      "example2En": "We just barely caught the connecting train."
+    },
+    {
+      "de": "die Anschrift",
+      "en": "address",
+      "pos": "noun",
+      "plural": "die Anschriften",
+      "meanings": [
+        {
+          "en": "postal address",
+          "de": "die Adresse"
+        }
+      ],
+      "rule": "formelles Synonym für 'Adresse'",
+      "example": "Bitte geben Sie Ihre Anschrift an.",
+      "exampleEn": "Please provide your address.",
+      "example2": "Die Anschrift auf dem Brief war falsch.",
+      "example2En": "The address on the letter was wrong."
+    },
+    {
+      "de": "der Ansprechpartner / die Ansprechpartnerin",
+      "en": "contact person",
+      "pos": "noun",
+      "plural": "die Ansprechpartner / die Ansprechpartnerinnen",
+      "meanings": [
+        {
+          "en": "the person to contact for something",
+          "de": "die zuständige Kontaktperson"
+        }
+      ],
+      "rule": "oft im Büro-/Formularkontext: 'Ihr Ansprechpartner ist...'",
+      "example": "Frau Müller ist Ihre Ansprechpartnerin für Fragen.",
+      "exampleEn": "Mrs. Müller is your contact person for questions.",
+      "example2": "Wer ist der Ansprechpartner in dieser Abteilung?",
+      "example2En": "Who is the contact person in this department?"
+    }
+  ]
+}

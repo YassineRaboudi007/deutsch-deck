@@ -1,0 +1,913 @@
+{
+  "id": "a2-18",
+  "title": "A2 · T–U (18)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "das Tier",
+      "en": "animal",
+      "pos": "noun",
+      "plural": "die Tiere",
+      "meanings": [
+        {
+          "en": "a living creature, not human or plant",
+          "de": "ein Lebewesen, kein Mensch und keine Pflanze"
+        }
+      ],
+      "rule": "Neuter noun; common plural die Tiere.",
+      "example": "Im Zoo gibt es viele verschiedene Tiere.",
+      "exampleEn": "There are many different animals at the zoo.",
+      "example2": "Hast du zu Hause ein Tier?",
+      "example2En": "Do you have a pet (animal) at home?"
+    },
+    {
+      "de": "der Tierpfleger / die Tierpflegerin",
+      "en": "animal keeper; zookeeper",
+      "pos": "noun",
+      "plural": "die Tierpfleger / die Tierpflegerinnen",
+      "meanings": [
+        {
+          "en": "a person who cares for animals professionally",
+          "de": "eine Person, die beruflich Tiere pflegt"
+        }
+      ],
+      "rule": "Compound Tier + Pfleger; female form adds -in.",
+      "example": "Der Tierpfleger füttert die Löwen im Zoo.",
+      "exampleEn": "The zookeeper feeds the lions at the zoo.",
+      "example2": "Sie arbeitet als Tierpflegerin in einer Tierklinik.",
+      "example2En": "She works as an animal keeper in a veterinary clinic."
+    },
+    {
+      "de": "tippen",
+      "en": "to type; to tap",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to write using a keyboard",
+          "de": "mit der Tastatur schreiben"
+        },
+        {
+          "en": "to tap lightly with a finger",
+          "de": "leicht mit dem Finger berühren"
+        }
+      ],
+      "rule": "Regular weak verb: tippt, tippte, hat getippt.",
+      "example": "Sie tippt den Text schnell in den Computer.",
+      "exampleEn": "She types the text quickly into the computer.",
+      "example2": "Er hat ihr auf die Schulter getippt.",
+      "example2En": "He tapped her on the shoulder."
+    },
+    {
+      "de": "der Tippfehler",
+      "en": "typo",
+      "pos": "noun",
+      "plural": "die Tippfehler",
+      "meanings": [
+        {
+          "en": "a small mistake made while typing",
+          "de": "ein kleiner Fehler beim Tippen"
+        }
+      ],
+      "rule": "Compound: tippen + Fehler; plural unchanged (der/die Tippfehler).",
+      "example": "In der E-Mail ist ein Tippfehler.",
+      "exampleEn": "There's a typo in the email.",
+      "example2": "Ich korrigiere schnell die Tippfehler im Text.",
+      "example2En": "I'm quickly correcting the typos in the text."
+    },
+    {
+      "de": "die Tischdecke",
+      "en": "tablecloth",
+      "pos": "noun",
+      "plural": "die Tischdecken",
+      "meanings": [
+        {
+          "en": "a cloth covering a table",
+          "de": "ein Tuch, das einen Tisch bedeckt"
+        }
+      ],
+      "rule": "Compound: Tisch + Decke; gender follows die Decke.",
+      "example": "Sie legt eine weiße Tischdecke auf den Tisch.",
+      "exampleEn": "She puts a white tablecloth on the table.",
+      "example2": "Die Tischdecke ist beim Essen schmutzig geworden.",
+      "example2En": "The tablecloth got dirty during the meal."
+    },
+    {
+      "de": "die Tischdekoration",
+      "en": "table decoration",
+      "pos": "noun",
+      "plural": "die Tischdekorationen",
+      "meanings": [
+        {
+          "en": "decorative items arranged on a table",
+          "de": "Dekoration, die auf dem Tisch angeordnet wird"
+        }
+      ],
+      "rule": "Compound: Tisch + Dekoration; often used for parties or celebrations.",
+      "example": "Für die Feier kaufen wir eine schöne Tischdekoration.",
+      "exampleEn": "For the party we're buying nice table decorations.",
+      "example2": "Blumen sind eine beliebte Tischdekoration.",
+      "example2En": "Flowers are a popular table decoration."
+    },
+    {
+      "de": "der Tischler / die Tischlerin",
+      "en": "carpenter; joiner",
+      "pos": "noun",
+      "plural": "die Tischler / die Tischlerinnen",
+      "meanings": [
+        {
+          "en": "a craftsperson who makes things from wood",
+          "de": "ein Handwerker, der aus Holz Dinge herstellt"
+        }
+      ],
+      "rule": "From Tisch (table); female form adds -in.",
+      "example": "Der Tischler baut einen neuen Schrank.",
+      "exampleEn": "The carpenter is building a new cupboard.",
+      "example2": "Sie hat eine Ausbildung als Tischlerin gemacht.",
+      "example2En": "She trained as a carpenter."
+    },
+    {
+      "de": "der Toaster",
+      "en": "toaster",
+      "pos": "noun",
+      "plural": "die Toaster",
+      "meanings": [
+        {
+          "en": "an appliance for toasting bread",
+          "de": "ein Gerät zum Rösten von Brot"
+        }
+      ],
+      "rule": "Masculine loanword from English; plural unchanged (die Toaster).",
+      "example": "Der Toaster ist kaputt, das Brot wird nicht braun.",
+      "exampleEn": "The toaster is broken, the bread doesn't turn brown.",
+      "example2": "Ich mache mir morgens Toast im Toaster.",
+      "example2En": "In the morning I make toast in the toaster."
+    },
+    {
+      "de": "die Tonne",
+      "en": "ton; bin/barrel",
+      "pos": "noun",
+      "plural": "die Tonnen",
+      "meanings": [
+        {
+          "en": "unit of weight (1000 kg)",
+          "de": "Gewichtseinheit (1000 kg)"
+        },
+        {
+          "en": "large container/bin for waste",
+          "de": "großer Behälter, z. B. für Müll"
+        }
+      ],
+      "rule": "Feminine noun; die Tonne, die Tonnen. Context decides meaning (weight vs. container).",
+      "example": "Der Laster transportiert zehn Tonnen Kies.",
+      "exampleEn": "The truck is carrying ten tons of gravel.",
+      "example2": "Wirf das Papier in die blaue Tonne.",
+      "example2En": "Throw the paper into the blue bin."
+    },
+    {
+      "de": "der Trainer / die Trainerin",
+      "en": "coach, trainer",
+      "pos": "noun",
+      "plural": "die Trainer / die Trainerinnen",
+      "meanings": [
+        {
+          "en": "sports coach or fitness trainer",
+          "de": "Person, die Sportler trainiert"
+        }
+      ],
+      "rule": "Masculine der Trainer, feminine die Trainerin; plural die Trainer/die Trainerinnen.",
+      "example": "Unser Trainer ist sehr streng.",
+      "exampleEn": "Our coach is very strict.",
+      "example2": "Die Trainerin zeigt uns neue Übungen.",
+      "example2En": "The coach (female) shows us new exercises."
+    },
+    {
+      "de": "trainieren",
+      "en": "to train, to practise",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to exercise physically",
+          "de": "Sport treiben, üben"
+        },
+        {
+          "en": "to coach/train someone",
+          "de": "jemanden ausbilden"
+        }
+      ],
+      "rule": "Regular weak verb: trainiert, trainierte, hat trainiert.",
+      "example": "Ich trainiere dreimal pro Woche im Fitnessstudio.",
+      "exampleEn": "I train three times a week at the gym.",
+      "example2": "Er trainiert die Jugendmannschaft.",
+      "example2En": "He coaches the youth team."
+    },
+    {
+      "de": "das Training",
+      "en": "training, practice",
+      "pos": "noun",
+      "plural": "die Trainings",
+      "meanings": [
+        {
+          "en": "physical/sports practice session",
+          "de": "regelmäßige Übung, z. B. im Sport"
+        }
+      ],
+      "rule": "Neuter noun; das Training, die Trainings (sometimes used uncountable, no plural needed).",
+      "example": "Das Training beginnt um 18 Uhr.",
+      "exampleEn": "Training starts at 6 p.m.",
+      "example2": "Nach dem Training bin ich immer müde.",
+      "example2En": "After training I'm always tired."
+    },
+    {
+      "de": "träumen",
+      "en": "to dream",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to dream while sleeping",
+          "de": "im Schlaf träumen"
+        },
+        {
+          "en": "to dream/wish for something (daydream)",
+          "de": "sich etwas wünschen"
+        }
+      ],
+      "rule": "Regular weak verb: träumt, träumte, hat geträumt. 'von + Dativ' = to dream of/about.",
+      "example": "Ich habe von meiner Familie geträumt.",
+      "exampleEn": "I dreamed about my family.",
+      "example2": "Sie träumt von einer Reise nach Japan.",
+      "example2En": "She dreams of a trip to Japan."
+    },
+    {
+      "de": "traurig",
+      "en": "sad",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "feeling or showing sadness",
+          "de": "unglücklich, nicht fröhlich"
+        }
+      ],
+      "rule": "Regular comparison: traurig, trauriger, am traurigsten.",
+      "example": "Er ist traurig, weil sein Hund krank ist.",
+      "exampleEn": "He is sad because his dog is sick.",
+      "example2": "Das ist eine traurige Geschichte.",
+      "example2En": "That is a sad story."
+    },
+    {
+      "de": "der Treffpunkt",
+      "en": "meeting point",
+      "pos": "noun",
+      "plural": "die Treffpunkte",
+      "meanings": [
+        {
+          "en": "agreed place where people meet",
+          "de": "vereinbarter Ort zum Treffen"
+        }
+      ],
+      "rule": "Masculine noun; compound of treffen + Punkt. der Treffpunkt, die Treffpunkte.",
+      "example": "Der Treffpunkt ist vor dem Bahnhof.",
+      "exampleEn": "The meeting point is in front of the station.",
+      "example2": "Wir haben einen Treffpunkt für morgen vereinbart.",
+      "example2En": "We agreed on a meeting point for tomorrow."
+    },
+    {
+      "de": "treiben",
+      "en": "to do (sport); to drift",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to do/practise (a sport)",
+          "de": "eine Tätigkeit ausüben, z. B. Sport treiben"
+        },
+        {
+          "en": "to drift, to be carried along",
+          "de": "sich ohne eigene Kraft bewegen"
+        }
+      ],
+      "rule": "Irregular: treibt, trieb, hat/ist getrieben (hat + Sport treiben; ist when about drifting). Common phrase: Sport treiben.",
+      "example": "Ich treibe jeden Tag Sport.",
+      "exampleEn": "I do sports every day.",
+      "example2": "Das Boot ist auf dem See getrieben.",
+      "example2En": "The boat drifted on the lake."
+    },
+    {
+      "de": "trennen",
+      "en": "to separate, to split up",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to separate/divide things",
+          "de": "etwas auseinandernehmen, teilen"
+        },
+        {
+          "en": "sich trennen: to break up/separate (people)",
+          "de": "sich von jemandem trennen"
+        }
+      ],
+      "rule": "Regular weak verb: trennt, trennte, hat getrennt. Reflexive 'sich trennen (von + Dativ)' = to break up with.",
+      "example": "Bitte trennen Sie den Müll.",
+      "exampleEn": "Please separate the waste/recycling.",
+      "example2": "Meine Eltern haben sich letztes Jahr getrennt.",
+      "example2En": "My parents separated last year."
+    },
+    {
+      "de": "die Treppe",
+      "en": "stairs, staircase",
+      "pos": "noun",
+      "plural": "die Treppen",
+      "meanings": [
+        {
+          "en": "set of steps between floors",
+          "de": "Stufen, die nach oben/unten führen"
+        }
+      ],
+      "rule": "Feminine noun; die Treppe, die Treppen.",
+      "example": "Die Treppe führt in den ersten Stock.",
+      "exampleEn": "The stairs lead to the first floor.",
+      "example2": "Sei vorsichtig auf der Treppe!",
+      "example2En": "Be careful on the stairs!"
+    },
+    {
+      "de": "das Treppenhaus",
+      "en": "stairwell, staircase (of a building)",
+      "pos": "noun",
+      "plural": "die Treppenhäuser",
+      "meanings": [
+        {
+          "en": "the enclosed area containing the staircase in a building",
+          "de": "Bereich im Gebäude mit der Treppe"
+        }
+      ],
+      "rule": "Neuter compound noun (die Treppe + das Haus); das Treppenhaus, die Treppenhäuser.",
+      "example": "Das Fahrrad steht im Treppenhaus.",
+      "exampleEn": "The bicycle is in the stairwell.",
+      "example2": "Im Treppenhaus ist es sehr dunkel.",
+      "example2En": "It's very dark in the stairwell."
+    },
+    {
+      "de": "der Trick",
+      "en": "trick",
+      "pos": "noun",
+      "plural": "die Tricks",
+      "meanings": [
+        {
+          "en": "a clever technique or method",
+          "de": "cleverer Kniff, Methode"
+        },
+        {
+          "en": "a magic trick or prank",
+          "de": "Zaubertrick, Streich"
+        }
+      ],
+      "rule": "Masculine noun; der Trick, die Tricks (from English, common loanword).",
+      "example": "Kennst du einen Trick zum Deutschlernen?",
+      "exampleEn": "Do you know a trick for learning German?",
+      "example2": "Der Zauberer zeigt einen neuen Trick.",
+      "example2En": "The magician shows a new trick."
+    },
+    {
+      "de": "trotzdem",
+      "en": "nevertheless, anyway",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "despite that, still",
+          "de": "obwohl das so ist, dennoch"
+        }
+      ],
+      "rule": "Adverb used to connect two contrasting ideas; often triggers inversion: 'Es regnet, trotzdem gehe ich raus.'",
+      "example": "Es regnet, trotzdem gehe ich spazieren.",
+      "exampleEn": "It's raining, but I'm going for a walk anyway.",
+      "example2": "Er war krank, trotzdem ist er zur Arbeit gegangen.",
+      "example2En": "He was sick, but he went to work anyway."
+    },
+    {
+      "de": "turnen",
+      "en": "to do gymnastics",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to practise gymnastics",
+          "de": "gymnastische Übungen machen"
+        }
+      ],
+      "rule": "Regular weak verb: turnt, turnte, hat geturnt.",
+      "example": "Die Kinder turnen in der Sporthalle.",
+      "exampleEn": "The children do gymnastics in the gym.",
+      "example2": "Sie turnt seit drei Jahren im Verein.",
+      "example2En": "She has been doing gymnastics in a club for three years."
+    },
+    {
+      "de": "die Tüte",
+      "en": "bag, paper/plastic bag",
+      "pos": "noun",
+      "plural": "die Tüten",
+      "meanings": [
+        {
+          "en": "small bag made of paper or plastic",
+          "de": "kleiner Beutel aus Papier oder Plastik"
+        }
+      ],
+      "rule": "Feminine noun; die Tüte, die Tüten.",
+      "example": "Ich brauche eine Tüte für die Äpfel.",
+      "exampleEn": "I need a bag for the apples.",
+      "example2": "Sie trägt die Einkäufe in einer Tüte.",
+      "example2En": "She carries the groceries in a bag."
+    },
+    {
+      "de": "die Übelkeit",
+      "en": "nausea",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "feeling of sickness/wanting to vomit",
+          "de": "Gefühl, sich übergeben zu müssen"
+        }
+      ],
+      "rule": "Feminine noun, usually uncountable; die Übelkeit (no plural).",
+      "example": "Sie hat Übelkeit und Kopfschmerzen.",
+      "exampleEn": "She has nausea and a headache.",
+      "example2": "Nach der Fahrt spürte ich starke Übelkeit.",
+      "example2En": "After the ride I felt strong nausea."
+    },
+    {
+      "de": "üben",
+      "en": "to practise",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to practise/train a skill",
+          "de": "eine Fähigkeit trainieren"
+        }
+      ],
+      "rule": "Regular weak verb: übt, übte, hat geübt.",
+      "example": "Ich übe jeden Tag Klavier.",
+      "exampleEn": "I practise piano every day.",
+      "example2": "Wir üben die neuen Wörter zusammen.",
+      "example2En": "We practise the new words together."
+    },
+    {
+      "de": "der Überfall",
+      "en": "assault, raid, robbery",
+      "pos": "noun",
+      "plural": "die Überfälle",
+      "meanings": [
+        {
+          "en": "a sudden violent attack or robbery",
+          "de": "plötzlicher, gewaltsamer Angriff, z. B. Raubüberfall"
+        }
+      ],
+      "rule": "Masculine noun; der Überfall, die Überfälle. Related verb: überfallen (jemanden überfallen).",
+      "example": "Die Polizei ermittelt wegen eines Überfalls auf die Bank.",
+      "exampleEn": "The police are investigating a bank robbery.",
+      "example2": "Bei dem Überfall wurde niemand verletzt.",
+      "example2En": "No one was injured in the assault."
+    },
+    {
+      "de": "überfallen",
+      "en": "to attack; to raid",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to attack someone suddenly",
+          "de": "plötzlich angreifen"
+        },
+        {
+          "en": "to rob (a bank, shop)",
+          "de": "ausrauben"
+        }
+      ],
+      "rule": "untrennbar, unregelmäßig: überfällt, überfiel, hat überfallen; + Akkusativ",
+      "example": "Zwei Männer haben die Bank überfallen.",
+      "exampleEn": "Two men robbed the bank.",
+      "example2": "Ein Mann hat sie nachts auf der Straße überfallen.",
+      "example2En": "A man attacked her on the street at night."
+    },
+    {
+      "de": "überlasten",
+      "en": "to overload",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to put too much weight/load on something",
+          "de": "zu stark belasten"
+        },
+        {
+          "en": "to overburden a person",
+          "de": "jemanden zu sehr beanspruchen"
+        }
+      ],
+      "rule": "untrennbar, regelmäßig: überlastet, überlastete, hat überlastet; + Akkusativ",
+      "example": "Bitte den Aufzug nicht überlasten.",
+      "exampleEn": "Please do not overload the elevator.",
+      "example2": "Die viele Arbeit überlastet die Mitarbeiter.",
+      "example2En": "The heavy workload is overburdening the employees."
+    },
+    {
+      "de": "übernehmen",
+      "en": "to take over; to take on",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to take over (a job, business, task)",
+          "de": "eine Aufgabe/Firma übernehmen"
+        },
+        {
+          "en": "sich übernehmen: to overexert oneself",
+          "de": "sich zu viel zumuten"
+        }
+      ],
+      "rule": "untrennbar, unregelmäßig: übernimmt, übernahm, hat übernommen; + Akkusativ; reflexiv: sich übernehmen",
+      "example": "Meine Tochter übernimmt den Familienbetrieb.",
+      "exampleEn": "My daughter is taking over the family business.",
+      "example2": "Er hat sich mit der Arbeit übernommen.",
+      "example2En": "He overexerted himself with the work."
+    },
+    {
+      "de": "die Überraschung",
+      "en": "surprise",
+      "pos": "noun",
+      "plural": "die Überraschungen",
+      "meanings": [
+        {
+          "en": "an unexpected event or gift",
+          "de": "etwas Unerwartetes"
+        }
+      ],
+      "rule": "feminin; von überraschen abgeleitet",
+      "example": "Das Geschenk war eine schöne Überraschung.",
+      "exampleEn": "The gift was a lovely surprise.",
+      "example2": "Zur Überraschung aller hat er gewonnen.",
+      "example2En": "To everyone's surprise, he won."
+    },
+    {
+      "de": "die Überschrift",
+      "en": "heading; headline",
+      "pos": "noun",
+      "plural": "die Überschriften",
+      "meanings": [
+        {
+          "en": "a title above a text or article",
+          "de": "Titel über einem Text"
+        }
+      ],
+      "rule": "feminin; steht über einem Text (Zeitungsartikel, Kapitel)",
+      "example": "Der Artikel hat eine lange Überschrift.",
+      "exampleEn": "The article has a long headline.",
+      "example2": "Lies zuerst die Überschrift.",
+      "example2En": "First read the heading."
+    },
+    {
+      "de": "übersenden",
+      "en": "to send (formally)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to send something, esp. by post/mail (formal)",
+          "de": "etwas schicken (formell)"
+        }
+      ],
+      "rule": "untrennbar, unregelmäßig: übersendet, übersandte/übersendete, hat übersandt/übersendet; + Dativ (Person) + Akkusativ (Sache)",
+      "example": "Wir übersenden Ihnen die Unterlagen per Post.",
+      "exampleEn": "We are sending you the documents by mail.",
+      "example2": "Bitte übersenden Sie uns eine Kopie des Vertrags.",
+      "example2En": "Please send us a copy of the contract."
+    },
+    {
+      "de": "die Übersiedlung",
+      "en": "relocation; move",
+      "pos": "noun",
+      "plural": "die Übersiedlungen",
+      "meanings": [
+        {
+          "en": "moving to a new (often distant) place to live",
+          "de": "Umzug an einen neuen Wohnort"
+        }
+      ],
+      "rule": "feminin; formeller als Umzug, oft bei Wohnortwechsel ins Ausland",
+      "example": "Nach der Übersiedlung nach Berlin war alles neu.",
+      "exampleEn": "After the move to Berlin everything was new.",
+      "example2": "Die Übersiedlung der Familie dauerte Monate.",
+      "example2En": "The family's relocation took months."
+    },
+    {
+      "de": "die Überwachungskamera",
+      "en": "surveillance camera",
+      "pos": "noun",
+      "plural": "die Überwachungskameras",
+      "meanings": [
+        {
+          "en": "a camera used to monitor an area for security",
+          "de": "Kamera zur Kontrolle eines Bereichs"
+        }
+      ],
+      "rule": "feminin; Kompositum aus Überwachung + Kamera",
+      "example": "Im Supermarkt hängt eine Überwachungskamera.",
+      "exampleEn": "There is a surveillance camera in the supermarket.",
+      "example2": "Die Überwachungskamera hat den Dieb gefilmt.",
+      "example2En": "The surveillance camera filmed the thief."
+    },
+    {
+      "de": "überweisen",
+      "en": "to transfer (money); to refer (a patient)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to transfer money to an account",
+          "de": "Geld auf ein Konto schicken"
+        },
+        {
+          "en": "to refer a patient to a specialist",
+          "de": "einen Patienten an einen Arzt verweisen"
+        }
+      ],
+      "rule": "untrennbar, unregelmäßig: überweist, überwies, hat überwiesen; + Akkusativ (Geld/Patient) + an/auf",
+      "example": "Ich überweise dir das Geld heute noch.",
+      "exampleEn": "I'll transfer you the money today.",
+      "example2": "Der Arzt hat mich an einen Facharzt überwiesen.",
+      "example2En": "The doctor referred me to a specialist."
+    },
+    {
+      "de": "die Überweisung",
+      "en": "bank transfer; referral",
+      "pos": "noun",
+      "plural": "die Überweisungen",
+      "meanings": [
+        {
+          "en": "a transfer of money",
+          "de": "das Überweisen von Geld"
+        },
+        {
+          "en": "a referral to a specialist doctor",
+          "de": "Verweis an einen Facharzt"
+        }
+      ],
+      "rule": "feminin; von überweisen abgeleitet",
+      "example": "Die Überweisung dauert zwei Werktage.",
+      "exampleEn": "The bank transfer takes two working days.",
+      "example2": "Ich brauche eine Überweisung zum Augenarzt.",
+      "example2En": "I need a referral to the eye doctor."
+    },
+    {
+      "de": "das Überweisungsformular",
+      "en": "bank transfer form",
+      "pos": "noun",
+      "plural": "die Überweisungsformulare",
+      "meanings": [
+        {
+          "en": "a paper form used to make a bank transfer",
+          "de": "Formular für eine Banküberweisung"
+        }
+      ],
+      "rule": "neutral; Kompositum aus Überweisung + Formular",
+      "example": "Füllen Sie bitte das Überweisungsformular aus.",
+      "exampleEn": "Please fill out the bank transfer form.",
+      "example2": "Das Überweisungsformular liegt am Schalter.",
+      "example2En": "The transfer form is at the counter."
+    },
+    {
+      "de": "übrigens",
+      "en": "by the way",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "used to add an extra remark",
+          "de": "nebenbei bemerkt"
+        }
+      ],
+      "rule": "unveränderlich; leitet oft einen neuen, zusätzlichen Gedanken ein",
+      "example": "Übrigens, hast du meine Nachricht bekommen?",
+      "exampleEn": "By the way, did you get my message?",
+      "example2": "Das Restaurant ist übrigens sehr gut.",
+      "example2En": "The restaurant, by the way, is very good."
+    },
+    {
+      "de": "umfangreich",
+      "en": "extensive; comprehensive",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "large in scope or content",
+          "de": "sehr groß, viel umfassend"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: umfangreich, umfangreicher, am umfangreichsten",
+      "example": "Das Buch hat ein umfangreiches Register.",
+      "exampleEn": "The book has an extensive index.",
+      "example2": "Die Renovierung war sehr umfangreich.",
+      "example2En": "The renovation was very extensive."
+    },
+    {
+      "de": "die Umfrage",
+      "en": "survey; poll",
+      "pos": "noun",
+      "plural": "die Umfragen",
+      "meanings": [
+        {
+          "en": "a survey of people's opinions",
+          "de": "Befragung von Personen zu einem Thema"
+        }
+      ],
+      "rule": "feminin; oft mit machen: eine Umfrage machen",
+      "example": "Wir machen eine Umfrage zur Kundenzufriedenheit.",
+      "exampleEn": "We are conducting a customer satisfaction survey.",
+      "example2": "Laut einer Umfrage sind viele Leute zufrieden.",
+      "example2En": "According to a survey, many people are satisfied."
+    },
+    {
+      "de": "die Umkleide",
+      "en": "changing room",
+      "pos": "noun",
+      "plural": "die Umkleiden",
+      "meanings": [
+        {
+          "en": "a room to change clothes, e.g. in a shop or gym",
+          "de": "Raum zum Umziehen"
+        }
+      ],
+      "rule": "feminin; Kurzform von Umkleidekabine/Umkleideraum",
+      "example": "Die Umkleide ist links neben der Kasse.",
+      "exampleEn": "The changing room is to the left of the checkout.",
+      "example2": "In der Umkleide kannst du die Hose anprobieren.",
+      "example2En": "You can try on the trousers in the changing room."
+    },
+    {
+      "de": "umknicken",
+      "en": "to sprain (ankle); to fold over",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to twist one's ankle",
+          "de": "sich den Fuß verdrehen"
+        },
+        {
+          "en": "to bend/fold over (an object)",
+          "de": "etwas Dünnes umbiegen"
+        }
+      ],
+      "rule": "trennbar: knickt ... um, knickte um, ist/hat umgeknickt (Person: ist; Gegenstand: hat)",
+      "example": "Ich bin beim Joggen umgeknickt.",
+      "exampleEn": "I twisted my ankle while jogging.",
+      "example2": "Er hat die Ecke der Seite umgeknickt.",
+      "example2En": "He folded over the corner of the page."
+    },
+    {
+      "de": "umschreiben",
+      "en": "to rewrite",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to rewrite a text",
+          "de": "einen Text neu/anders schreiben"
+        }
+      ],
+      "rule": "trennbar (um·schreiben, betont auf 'um'): schreibt um, schrieb um, hat umgeschrieben; Achtung: umschreíben (untrennbar) = paraphrasieren, anderes Wort",
+      "example": "Ich muss den Brief noch einmal umschreiben.",
+      "exampleEn": "I still have to rewrite the letter.",
+      "example2": "Sie hat den Aufsatz komplett umgeschrieben.",
+      "example2En": "She rewrote the essay completely."
+    },
+    {
+      "de": "umsteigen",
+      "en": "to change (trains/buses)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to change from one train/bus to another",
+          "de": "von einem Zug/Bus in einen anderen wechseln"
+        }
+      ],
+      "rule": "trennbar: steigt ... um, stieg um, ist umgestiegen; + in + Akkusativ",
+      "example": "In München müssen wir umsteigen.",
+      "exampleEn": "We have to change trains in Munich.",
+      "example2": "Sie ist in den Bus 12 umgestiegen.",
+      "example2En": "She changed to bus number 12."
+    },
+    {
+      "de": "die Umwelt",
+      "en": "environment",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the natural world (nature, ecology)",
+          "de": "die Natur, in der wir leben"
+        }
+      ],
+      "rule": "Usually used in singular, uncountable (no plural). Common in compounds: der Umweltschutz, umweltfreundlich.",
+      "example": "Wir müssen die Umwelt schützen.",
+      "exampleEn": "We have to protect the environment.",
+      "example2": "Plastiktüten sind schlecht für die Umwelt.",
+      "example2En": "Plastic bags are bad for the environment."
+    },
+    {
+      "de": "umziehen",
+      "en": "to move (house); to change clothes",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to move to a new home",
+          "de": "in eine neue Wohnung ziehen"
+        },
+        {
+          "en": "to change one's clothes (sich umziehen)",
+          "de": "sich andere Kleidung anziehen"
+        }
+      ],
+      "rule": "trennbar: zieht ... um, zog um, ist umgezogen (move house). Reflexive 'sich umziehen' (change clothes) uses 'haben' in Perfekt: hat sich umgezogen.",
+      "example": "Wir ziehen nächsten Monat nach Berlin um.",
+      "exampleEn": "We are moving to Berlin next month.",
+      "example2": "Ich muss mich noch umziehen, bevor wir gehen.",
+      "example2En": "I still need to change clothes before we leave."
+    },
+    {
+      "de": "der Umzug",
+      "en": "move, relocation",
+      "pos": "noun",
+      "plural": "die Umzüge",
+      "meanings": [
+        {
+          "en": "the act of moving house",
+          "de": "das Umziehen in eine neue Wohnung"
+        }
+      ],
+      "rule": "Related to the verb 'umziehen'. Can also mean a parade/procession, but in this deck focus on 'moving house'.",
+      "example": "Der Umzug hat den ganzen Tag gedauert.",
+      "exampleEn": "The move took the whole day.",
+      "example2": "Für den Umzug brauchen wir viele Kartons.",
+      "example2En": "We need a lot of boxes for the move."
+    },
+    {
+      "de": "der Umzugskarton",
+      "en": "moving box",
+      "pos": "noun",
+      "plural": "die Umzugskartons",
+      "meanings": [
+        {
+          "en": "a cardboard box used for moving house",
+          "de": "ein Karton, in den man Sachen für den Umzug packt"
+        }
+      ],
+      "rule": "Compound noun: Umzug + Karton. Plural takes -s like 'Karton(s)'.",
+      "example": "Ich packe meine Bücher in einen Umzugskarton.",
+      "exampleEn": "I'm packing my books into a moving box.",
+      "example2": "Wir brauchen noch zehn Umzugskartons.",
+      "example2En": "We still need ten more moving boxes."
+    },
+    {
+      "de": "unbürokratisch",
+      "en": "unbureaucratic, uncomplicated",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "done without complicated formalities",
+          "de": "ohne viel Bürokratie, einfach und schnell"
+        }
+      ],
+      "rule": "Negation of 'bürokratisch' with prefix 'un-'. Regular comparison: unbürokratisch, unbürokratischer, am unbürokratischsten.",
+      "example": "Die Beratung war schnell und unbürokratisch.",
+      "exampleEn": "The consultation was quick and uncomplicated.",
+      "example2": "Können Sie mir unbürokratisch helfen?",
+      "example2En": "Can you help me without a lot of red tape?"
+    },
+    {
+      "de": "unfair",
+      "en": "unfair",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not fair or just",
+          "de": "nicht gerecht"
+        }
+      ],
+      "rule": "Negation of 'fair' with 'un-'. Regular comparison: unfair, unfairer, am unfairsten.",
+      "example": "Das Spiel war sehr unfair.",
+      "exampleEn": "The game was very unfair.",
+      "example2": "Ich finde die Regel unfair.",
+      "example2En": "I think the rule is unfair."
+    }
+  ]
+}

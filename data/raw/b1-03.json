@@ -1,0 +1,913 @@
+{
+  "id": "b1-03",
+  "title": "B1 · A–B (3)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "die Auswanderung",
+      "en": "emigration",
+      "pos": "noun",
+      "plural": "die Auswanderungen",
+      "meanings": [
+        {
+          "en": "act of emigrating",
+          "de": "das Verlassen des eigenen Landes, um woanders zu leben"
+        }
+      ],
+      "rule": "opposite of Einwanderung (immigration).",
+      "example": "Die Auswanderung nach Amerika war für viele ein großer Schritt.",
+      "exampleEn": "Emigration to America was a big step for many.",
+      "example2": "Nach der Auswanderung musste die Familie eine neue Sprache lernen.",
+      "example2En": "After emigrating, the family had to learn a new language."
+    },
+    {
+      "de": "der Auszug",
+      "en": "move-out; excerpt",
+      "pos": "noun",
+      "plural": "die Auszüge",
+      "meanings": [
+        {
+          "en": "moving out (of an apartment)",
+          "de": "das Verlassen einer Wohnung"
+        },
+        {
+          "en": "excerpt, extract (from a text)",
+          "de": "Teil eines Textes"
+        }
+      ],
+      "rule": "related verb: ausziehen; compound: Kontoauszug (bank statement).",
+      "example": "Der Auszug aus der alten Wohnung war stressig.",
+      "exampleEn": "Moving out of the old apartment was stressful.",
+      "example2": "Wir lesen heute einen Auszug aus dem Roman.",
+      "example2En": "Today we're reading an excerpt from the novel."
+    },
+    {
+      "de": "der Autofahrer / die Autofahrerin",
+      "en": "driver (of a car)",
+      "pos": "noun",
+      "plural": "die Autofahrer / die Autofahrerinnen",
+      "meanings": [
+        {
+          "en": "person who drives a car",
+          "de": "jemand, der Auto fährt"
+        }
+      ],
+      "rule": "compound: Auto + Fahrer; feminine adds -in.",
+      "example": "Der Autofahrer hielt an der roten Ampel.",
+      "exampleEn": "The driver stopped at the red light.",
+      "example2": "Viele Autofahrerinnen nutzen jetzt ein Navigationsgerät.",
+      "example2En": "Many female drivers now use a navigation device."
+    },
+    {
+      "de": "die Automarke",
+      "en": "car brand",
+      "pos": "noun",
+      "plural": "die Automarken",
+      "meanings": [
+        {
+          "en": "brand/make of a car",
+          "de": "Hersteller eines Autos"
+        }
+      ],
+      "rule": "compound: Auto + Marke.",
+      "example": "Welche Automarke findest du am zuverlässigsten?",
+      "exampleEn": "Which car brand do you find the most reliable?",
+      "example2": "BMW und Audi sind bekannte deutsche Automarken.",
+      "example2En": "BMW and Audi are well-known German car brands."
+    },
+    {
+      "de": "das Autorennen",
+      "en": "car race",
+      "pos": "noun",
+      "plural": "die Autorennen",
+      "meanings": [
+        {
+          "en": "motor race, car racing event",
+          "de": "ein Wettbewerb, bei dem Autos möglichst schnell fahren"
+        }
+      ],
+      "rule": "compound: Auto + Rennen (neuter, follows das Rennen).",
+      "example": "Am Sonntag schauen wir uns das Autorennen im Fernsehen an.",
+      "exampleEn": "On Sunday we're watching the car race on TV.",
+      "example2": "Das Autorennen wurde wegen Regen verschoben.",
+      "example2En": "The car race was postponed because of rain."
+    },
+    {
+      "de": "das Autoteil",
+      "en": "car part",
+      "pos": "noun",
+      "plural": "die Autoteile",
+      "meanings": [
+        {
+          "en": "component of a car",
+          "de": "ein Teil eines Autos"
+        }
+      ],
+      "rule": "compound: Auto + Teil (neuter, follows das Teil).",
+      "example": "Wir bestellen die Autoteile online.",
+      "exampleEn": "We order the car parts online.",
+      "example2": "Der Mechaniker musste ein defektes Autoteil austauschen.",
+      "example2En": "The mechanic had to replace a defective car part."
+    },
+    {
+      "de": "die Autoversicherung",
+      "en": "car insurance",
+      "pos": "noun",
+      "plural": "die Autoversicherungen",
+      "meanings": [
+        {
+          "en": "insurance policy for a car",
+          "de": "Versicherung für ein Auto"
+        }
+      ],
+      "rule": "Compound noun: Auto + Versicherung; takes the article of Versicherung (die).",
+      "example": "Die Autoversicherung kostet jedes Jahr mehr.",
+      "exampleEn": "The car insurance costs more every year.",
+      "example2": "Ohne Autoversicherung darfst du nicht fahren.",
+      "example2En": "You are not allowed to drive without car insurance."
+    },
+    {
+      "de": "der Bachelor",
+      "en": "bachelor's degree",
+      "pos": "noun",
+      "plural": "die Bachelors",
+      "meanings": [
+        {
+          "en": "first academic degree at university",
+          "de": "erster akademischer Abschluss"
+        }
+      ],
+      "rule": "Plural is 'die Bachelors' (English-style -s plural, as in Duden); no article change, always der Bachelor.",
+      "example": "Sie hat ihren Bachelor in Biologie gemacht.",
+      "exampleEn": "She got her bachelor's degree in biology.",
+      "example2": "Nach dem Bachelor will er einen Master machen.",
+      "example2En": "After the bachelor's degree he wants to do a master's."
+    },
+    {
+      "de": "das Balkongeländer",
+      "en": "balcony railing",
+      "pos": "noun",
+      "plural": "die Balkongeländer",
+      "meanings": [
+        {
+          "en": "railing around a balcony",
+          "de": "Geländer um einen Balkon"
+        }
+      ],
+      "rule": "Compound: Balkon + Geländer; neuter like Geländer.",
+      "example": "Das Balkongeländer ist ganz rostig.",
+      "exampleEn": "The balcony railing is completely rusty.",
+      "example2": "Bitte lehn dich nicht so weit über das Balkongeländer.",
+      "example2En": "Please don't lean so far over the balcony railing."
+    },
+    {
+      "de": "der Bankeinzug",
+      "en": "direct debit / bank withdrawal",
+      "pos": "noun",
+      "plural": "die Bankeinzüge",
+      "meanings": [
+        {
+          "en": "automatic payment taken from a bank account",
+          "de": "automatische Abbuchung vom Konto"
+        }
+      ],
+      "rule": "Compound: Bank + Einzug; often used as 'per Bankeinzug bezahlen'.",
+      "example": "Ich bezahle meine Miete per Bankeinzug.",
+      "exampleEn": "I pay my rent by direct debit.",
+      "example2": "Der Bankeinzug erfolgt jeweils am Monatsersten.",
+      "example2En": "The direct debit takes place on the first of every month."
+    },
+    {
+      "de": "die Bearbeitung",
+      "en": "processing; editing",
+      "pos": "noun",
+      "plural": "die Bearbeitungen",
+      "meanings": [
+        {
+          "en": "processing of a request/document",
+          "de": "das Bearbeiten eines Antrags o. Ä."
+        },
+        {
+          "en": "editing/adaptation of a text or work",
+          "de": "das Überarbeiten eines Textes/Werkes"
+        }
+      ],
+      "rule": "Noun from the verb bearbeiten; often in 'in Bearbeitung' (being processed).",
+      "example": "Ihr Antrag ist noch in Bearbeitung.",
+      "exampleEn": "Your application is still being processed.",
+      "example2": "Das Buch ist eine Bearbeitung des Originaltextes.",
+      "example2En": "The book is an adaptation of the original text."
+    },
+    {
+      "de": "bedenklich",
+      "en": "worrying, questionable",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "causing concern or doubt",
+          "de": "besorgniserregend, fragwürdig"
+        }
+      ],
+      "rule": "Regular comparison: bedenklich, bedenklicher, am bedenklichsten.",
+      "example": "Sein Gesundheitszustand ist bedenklich.",
+      "exampleEn": "His state of health is worrying.",
+      "example2": "Ich finde diese Entwicklung bedenklich.",
+      "example2En": "I find this development questionable."
+    },
+    {
+      "de": "die Bedingung",
+      "en": "condition",
+      "pos": "noun",
+      "plural": "die Bedingungen",
+      "meanings": [
+        {
+          "en": "requirement that must be fulfilled",
+          "de": "Voraussetzung, die erfüllt werden muss"
+        },
+        {
+          "en": "(often plural) circumstances",
+          "de": "Umstände, z. B. Arbeitsbedingungen"
+        }
+      ],
+      "rule": "Common phrase: unter der Bedingung, dass ...",
+      "example": "Eine Bedingung für den Job ist gutes Englisch.",
+      "exampleEn": "A condition for the job is good English.",
+      "example2": "Die Arbeitsbedingungen in der Firma sind gut.",
+      "example2En": "The working conditions at the company are good."
+    },
+    {
+      "de": "befestigen",
+      "en": "to fasten, attach",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to fix something firmly in place",
+          "de": "etwas fest anbringen"
+        }
+      ],
+      "rule": "Regular weak verb: befestigt, befestigte, hat befestigt; often + an/auf + Dativ.",
+      "example": "Er befestigt das Regal an der Wand.",
+      "exampleEn": "He attaches the shelf to the wall.",
+      "example2": "Die Schrauben befestigen das Schild sicher.",
+      "example2En": "The screws fasten the sign securely."
+    },
+    {
+      "de": "befragen",
+      "en": "to question, interview, survey",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to ask someone questions, especially formally",
+          "de": "jemandem Fragen stellen, z. B. bei einer Umfrage"
+        }
+      ],
+      "rule": "Regular weak verb: befragt, befragte, hat befragt; + Akkusativ (jemanden befragen).",
+      "example": "Die Forscher befragten 500 Personen.",
+      "exampleEn": "The researchers surveyed 500 people.",
+      "example2": "Die Polizei hat den Zeugen befragt.",
+      "example2En": "The police questioned the witness."
+    },
+    {
+      "de": "begeistern",
+      "en": "to enthuse, thrill",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to fill someone with enthusiasm",
+          "de": "jemanden sehr erfreuen, mitreißen"
+        },
+        {
+          "en": "sich begeistern (für) = to be enthusiastic about",
+          "de": "sich für etwas sehr interessieren"
+        }
+      ],
+      "rule": "Regular weak verb: begeistert, begeisterte, hat begeistert; often reflexive: sich begeistern für + Akkusativ.",
+      "example": "Der Film hat alle Zuschauer begeistert.",
+      "exampleEn": "The film thrilled all the viewers.",
+      "example2": "Sie begeistert sich schon lange für Musik.",
+      "example2En": "She has been enthusiastic about music for a long time."
+    },
+    {
+      "de": "beglaubigen",
+      "en": "to certify, authenticate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to officially confirm a document is genuine/a correct copy",
+          "de": "amtlich bestätigen, dass etwas echt/korrekt ist"
+        }
+      ],
+      "rule": "Regular weak verb: beglaubigt, beglaubigte, hat beglaubigt; often with 'lassen': eine Kopie beglaubigen lassen (have a copy certified).",
+      "example": "Ich musste meine Kopie beim Amt beglaubigen lassen.",
+      "exampleEn": "I had to get my copy certified at the office.",
+      "example2": "Ein Notar beglaubigt das Dokument.",
+      "example2En": "A notary certifies the document."
+    },
+    {
+      "de": "die Beglaubigung",
+      "en": "certification, authentication",
+      "pos": "noun",
+      "plural": "die Beglaubigungen",
+      "meanings": [
+        {
+          "en": "official confirmation that a document is genuine/correct",
+          "de": "amtliche Bestätigung der Echtheit eines Dokuments"
+        }
+      ],
+      "rule": "Noun from beglaubigen; often 'eine Beglaubigung brauchen/beantragen'.",
+      "example": "Für den Antrag brauchen Sie eine Beglaubigung.",
+      "exampleEn": "For the application you need a certification.",
+      "example2": "Die Beglaubigung kostet zehn Euro.",
+      "example2En": "The certification costs ten euros."
+    },
+    {
+      "de": "die Begleitperson",
+      "en": "companion, escort",
+      "pos": "noun",
+      "plural": "die Begleitpersonen",
+      "meanings": [
+        {
+          "en": "a person who accompanies someone else",
+          "de": "eine Person, die jemanden begleitet"
+        }
+      ],
+      "rule": "Compound: Begleit- + Person; used e.g. in tickets/appointments for someone accompanying a person.",
+      "example": "Kinder brauchen für die Fahrt eine Begleitperson.",
+      "exampleEn": "Children need a companion for the trip.",
+      "example2": "Er durfte eine Begleitperson zum Arzttermin mitbringen.",
+      "example2En": "He was allowed to bring a companion to the doctor's appointment."
+    },
+    {
+      "de": "behalten",
+      "en": "to keep",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to keep, retain something",
+          "de": "etwas nicht weggeben, bei sich behalten"
+        },
+        {
+          "en": "to keep in mind/memory",
+          "de": "sich an etwas erinnern"
+        }
+      ],
+      "rule": "Irregular: er behält, behielt, hat behalten (no 'ge-' prefix since be- is inseparable).",
+      "example": "Du kannst den Stift behalten.",
+      "exampleEn": "You can keep the pen.",
+      "example2": "Ich kann mir seinen Namen einfach nicht behalten.",
+      "example2En": "I simply cannot remember his name."
+    },
+    {
+      "de": "der Behälter",
+      "en": "container",
+      "pos": "noun",
+      "plural": "die Behälter",
+      "meanings": [
+        {
+          "en": "a container for holding things",
+          "de": "Gefäß zum Aufbewahren von Dingen"
+        }
+      ],
+      "rule": "Plural unchanged: der Behälter, die Behälter.",
+      "example": "Der Behälter ist voller Wasser.",
+      "exampleEn": "The container is full of water.",
+      "example2": "Wirf die Batterien in den Behälter.",
+      "example2En": "Throw the batteries into the container."
+    },
+    {
+      "de": "behaupten",
+      "en": "to claim, assert",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to state something as true (often disputable)",
+          "de": "etwas als wahr darstellen, ohne Beweis"
+        },
+        {
+          "en": "sich behaupten = to assert/hold one's own",
+          "de": "sich durchsetzen, standhalten"
+        }
+      ],
+      "rule": "Regular weak verb: behauptet, behauptete, hat behauptet.",
+      "example": "Er behauptet, dass er nichts wusste.",
+      "exampleEn": "He claims he knew nothing.",
+      "example2": "Die Firma konnte sich am Markt behaupten.",
+      "example2En": "The company managed to hold its own in the market."
+    },
+    {
+      "de": "beherrschen",
+      "en": "to master, control",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to have mastered a skill or language",
+          "de": "etwas sehr gut können"
+        },
+        {
+          "en": "to control/dominate",
+          "de": "kontrollieren, dominieren"
+        }
+      ],
+      "rule": "Regular weak verb: beherrscht, beherrschte, hat beherrscht; sich beherrschen = to control oneself.",
+      "example": "Sie beherrscht drei Fremdsprachen.",
+      "exampleEn": "She has mastered three foreign languages.",
+      "example2": "Er konnte sich vor Wut kaum beherrschen.",
+      "example2En": "He could hardly control himself out of anger."
+    },
+    {
+      "de": "beilegen",
+      "en": "to enclose; to settle",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to enclose something with a letter/document",
+          "de": "etwas einem Brief/Dokument hinzufügen"
+        },
+        {
+          "en": "to settle a dispute",
+          "de": "einen Streit beenden"
+        }
+      ],
+      "rule": "Trennbar: legt bei, legte bei, hat beigelegt.",
+      "example": "Bitte legen Sie eine Kopie Ihres Ausweises bei.",
+      "exampleEn": "Please enclose a copy of your ID.",
+      "example2": "Die beiden Firmen haben den Streit beigelegt.",
+      "example2En": "The two companies settled the dispute."
+    },
+    {
+      "de": "belasten",
+      "en": "to burden; to strain",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to put a physical or financial load on something",
+          "de": "eine Last auf etwas legen (z.B. Konto)"
+        },
+        {
+          "en": "to cause emotional/mental strain",
+          "de": "psychisch oder emotional schwer machen"
+        }
+      ],
+      "rule": "regelmäßig: belastet, belastete, hat belastet. Oft mit Akkusativ: jemanden/etwas belasten.",
+      "example": "Die hohen Kosten belasten unser Budget stark.",
+      "exampleEn": "The high costs put a heavy strain on our budget.",
+      "example2": "Der Streit mit ihrer Familie belastet sie sehr.",
+      "example2En": "The argument with her family weighs heavily on her."
+    },
+    {
+      "de": "die Belastung",
+      "en": "burden; strain; load",
+      "pos": "noun",
+      "plural": "die Belastungen",
+      "meanings": [
+        {
+          "en": "a physical or financial load",
+          "de": "eine Last, z.B. finanziell"
+        },
+        {
+          "en": "emotional or mental stress",
+          "de": "psychischer Druck"
+        }
+      ],
+      "rule": "Nomen zu 'belasten'; oft mit Genitiv oder 'für': die Belastung für die Familie.",
+      "example": "Die finanzielle Belastung durch die Miete ist hoch.",
+      "exampleEn": "The financial burden of the rent is high.",
+      "example2": "Die Prüfungen waren eine große Belastung für sie.",
+      "example2En": "The exams were a great strain for her."
+    },
+    {
+      "de": "beleidigen",
+      "en": "to insult",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to say something offensive to someone",
+          "de": "jemanden verbal verletzen"
+        }
+      ],
+      "rule": "regelmäßig: beleidigt, beleidigte, hat beleidigt. + Akkusativ: jemanden beleidigen.",
+      "example": "Er hat seinen Kollegen vor allen beleidigt.",
+      "exampleEn": "He insulted his colleague in front of everyone.",
+      "example2": "Ich wollte dich nicht beleidigen, das tut mir leid.",
+      "example2En": "I didn't mean to insult you, I'm sorry."
+    },
+    {
+      "de": "die Beleidigung",
+      "en": "insult",
+      "pos": "noun",
+      "plural": "die Beleidigungen",
+      "meanings": [
+        {
+          "en": "an offensive remark or act",
+          "de": "eine verletzende Äußerung"
+        }
+      ],
+      "rule": "Nomen zu 'beleidigen'; kann auch juristischer Begriff sein (Straftat).",
+      "example": "Das war eine klare Beleidigung.",
+      "exampleEn": "That was a clear insult.",
+      "example2": "Er hat ihn wegen Beleidigung angezeigt.",
+      "example2En": "He reported him to the police for insult, a criminal offense in Germany."
+    },
+    {
+      "de": "beliebt",
+      "en": "popular",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "liked by many people",
+          "de": "von vielen Leuten gemocht"
+        }
+      ],
+      "rule": "+ bei: beliebt bei den Kollegen. Komparation regelmäßig: beliebter, am beliebtesten.",
+      "example": "Sie ist bei ihren Schülern sehr beliebt.",
+      "exampleEn": "She is very popular with her students.",
+      "example2": "Dieses Restaurant ist sehr beliebt.",
+      "example2En": "This restaurant is very popular."
+    },
+    {
+      "de": "benötigen",
+      "en": "to need; to require",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to need something",
+          "de": "etwas brauchen"
+        }
+      ],
+      "rule": "regelmäßig: benötigt, benötigte, hat benötigt. formeller als 'brauchen', + Akkusativ.",
+      "example": "Für den Antrag benötigen Sie Ihren Personalausweis.",
+      "exampleEn": "For the application you need your ID card.",
+      "example2": "Wir benötigen mehr Zeit für das Projekt.",
+      "example2En": "We need more time for the project."
+    },
+    {
+      "de": "das Benzin",
+      "en": "petrol; gasoline",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "fuel used for cars",
+          "de": "Kraftstoff für Autos"
+        }
+      ],
+      "rule": "unzählbar, kein Plural.",
+      "example": "Das Auto braucht bald Benzin.",
+      "exampleEn": "The car needs petrol soon.",
+      "example2": "Benzin ist in letzter Zeit teurer geworden.",
+      "example2En": "Petrol has become more expensive recently."
+    },
+    {
+      "de": "beobachten",
+      "en": "to observe; to watch",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to watch someone/something carefully over time",
+          "de": "aufmerksam anschauen"
+        }
+      ],
+      "rule": "regelmäßig: beobachtet, beobachtete, hat beobachtet. + Akkusativ.",
+      "example": "Die Polizei hat das Haus tagelang beobachtet.",
+      "exampleEn": "The police observed the house for days.",
+      "example2": "Ich habe beobachtet, dass er sich verändert hat.",
+      "example2En": "I have observed that he has changed."
+    },
+    {
+      "de": "berechtigt",
+      "en": "justified; entitled",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having the right to do something",
+          "de": "ein Recht auf etwas habend"
+        },
+        {
+          "en": "justified, valid (of a claim/criticism)",
+          "de": "gerechtfertigt, begründet"
+        }
+      ],
+      "rule": "oft mit 'zu': berechtigt zu etwas; Partizip von 'berechtigen'.",
+      "example": "Nur Mitarbeiter sind berechtigt, den Raum zu betreten.",
+      "exampleEn": "Only employees are entitled to enter the room.",
+      "example2": "Seine Kritik war völlig berechtigt.",
+      "example2En": "His criticism was entirely justified."
+    },
+    {
+      "de": "bereits",
+      "en": "already",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "already (by this time)",
+          "de": "schon"
+        }
+      ],
+      "rule": "Synonym für 'schon', etwas formeller, oft in schriftlicher Sprache.",
+      "example": "Er ist bereits um sechs Uhr aufgestanden.",
+      "exampleEn": "He already got up at six o'clock.",
+      "example2": "Wir haben die Tickets bereits gekauft.",
+      "example2En": "We have already bought the tickets."
+    },
+    {
+      "de": "berufen",
+      "en": "to appoint; to cite/refer to",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to appoint someone to a position",
+          "de": "jemanden in ein Amt einsetzen"
+        },
+        {
+          "en": "sich berufen auf: to refer to/invoke something",
+          "de": "sich auf etwas beziehen"
+        }
+      ],
+      "rule": "unregelmäßig: beruft, berief, hat berufen. Reflexiv: sich berufen auf + Akkusativ.",
+      "example": "Sie wurde zur Professorin berufen.",
+      "exampleEn": "She was appointed professor.",
+      "example2": "Er berief sich auf seine Rechte.",
+      "example2En": "He invoked his rights."
+    },
+    {
+      "de": "die Berufsbezeichnung",
+      "en": "job title",
+      "pos": "noun",
+      "plural": "die Berufsbezeichnungen",
+      "meanings": [
+        {
+          "en": "official name of a profession",
+          "de": "offizieller Name eines Berufs"
+        }
+      ],
+      "rule": "Kompositum: der Beruf + die Bezeichnung.",
+      "example": "Ingenieur ist eine geschützte Berufsbezeichnung.",
+      "exampleEn": "Engineer is a protected job title.",
+      "example2": "Welche Berufsbezeichnung steht auf deiner Visitenkarte?",
+      "example2En": "Which job title is on your business card?"
+    },
+    {
+      "de": "die Berufserfahrung",
+      "en": "work experience",
+      "pos": "noun",
+      "plural": "die Berufserfahrungen",
+      "meanings": [
+        {
+          "en": "practical experience gained in a job",
+          "de": "praktische Erfahrung im Beruf"
+        }
+      ],
+      "rule": "Kompositum: der Beruf + die Erfahrung; oft im Singular verwendet.",
+      "example": "Für diese Stelle brauchen Sie mindestens drei Jahre Berufserfahrung.",
+      "exampleEn": "For this position you need at least three years of work experience.",
+      "example2": "Sie hat viel Berufserfahrung im Marketing.",
+      "example2En": "She has a lot of work experience in marketing."
+    },
+    {
+      "de": "das Berufsleben",
+      "en": "working life",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the period/context of one's professional career",
+          "de": "die Zeit, in der man arbeitet"
+        }
+      ],
+      "rule": "Kompositum: der Beruf + das Leben; meist Singular, kein Plural.",
+      "example": "Nach dem Studium beginnt das Berufsleben.",
+      "exampleEn": "After graduation, working life begins.",
+      "example2": "Sie ist seit zehn Jahren im Berufsleben.",
+      "example2En": "She has been in working life for ten years."
+    },
+    {
+      "de": "die Berufstätigkeit",
+      "en": "employment; professional activity",
+      "pos": "noun",
+      "plural": "die Berufstätigkeiten",
+      "meanings": [
+        {
+          "en": "the fact/state of being employed",
+          "de": "das Ausüben eines Berufs"
+        }
+      ],
+      "rule": "Kompositum: der Beruf + die Tätigkeit; oft Singular.",
+      "example": "Neben ihrer Berufstätigkeit studiert sie abends.",
+      "exampleEn": "Besides her job, she studies in the evenings.",
+      "example2": "Die Berufstätigkeit von Frauen ist heute selbstverständlich.",
+      "example2En": "Women's employment is taken for granted today."
+    },
+    {
+      "de": "die Besatzungszone",
+      "en": "occupation zone",
+      "pos": "noun",
+      "plural": "die Besatzungszonen",
+      "meanings": [
+        {
+          "en": "a territory controlled by occupying forces (historical, e.g. post-WWII Germany)",
+          "de": "ein von Besatzungsmächten kontrolliertes Gebiet"
+        }
+      ],
+      "rule": "Kompositum: die Besatzung + die Zone; historischer Begriff (Nachkriegsdeutschland 1945-1949).",
+      "example": "Nach 1945 wurde Deutschland in vier Besatzungszonen geteilt.",
+      "exampleEn": "After 1945 Germany was divided into four occupation zones.",
+      "example2": "Die amerikanische Besatzungszone lag im Süden.",
+      "example2En": "The American occupation zone was in the south."
+    },
+    {
+      "de": "beschädigen",
+      "en": "to damage",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to cause physical damage to an object",
+          "de": "etwas kaputt machen"
+        }
+      ],
+      "rule": "regelmäßig: beschädigt, beschädigte, hat beschädigt. + Akkusativ.",
+      "example": "Beim Transport wurde das Paket beschädigt.",
+      "exampleEn": "The package was damaged during transport.",
+      "example2": "Der Sturm hat das Dach beschädigt.",
+      "example2En": "The storm damaged the roof."
+    },
+    {
+      "de": "beschädigt",
+      "en": "damaged",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "damaged, broken",
+          "de": "kaputt, mit Schaden"
+        }
+      ],
+      "rule": "Partizip II von 'beschädigen'; wird oft als Adjektiv vor Nomen benutzt (das beschädigte Auto).",
+      "example": "Das Paket kam beschädigt an.",
+      "exampleEn": "The package arrived damaged.",
+      "example2": "Sie hat einen beschädigten Koffer bekommen.",
+      "example2En": "She got a damaged suitcase."
+    },
+    {
+      "de": "bescheinigen",
+      "en": "to certify, to confirm in writing",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to confirm/certify officially",
+          "de": "schriftlich bestätigen"
+        }
+      ],
+      "rule": "regelmäßig; bescheinigt, bescheinigte, hat bescheinigt; + Dativ (Person) + Akkusativ (Sache) – jemandem etwas bescheinigen (z. B. 'Der Arzt bescheinigt ihm die Krankheit.').",
+      "example": "Der Arzt bescheinigt ihm die Krankheit.",
+      "exampleEn": "The doctor certifies his illness.",
+      "example2": "Die Firma bescheinigt den Erhalt der Zahlung.",
+      "example2En": "The company confirms receipt of the payment."
+    },
+    {
+      "de": "beschimpfen",
+      "en": "to insult, to verbally abuse",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to call someone bad names",
+          "de": "jemanden böse Wörter nennen"
+        }
+      ],
+      "rule": "regelmäßig; beschimpft, beschimpfte, hat beschimpft; + Akkusativ",
+      "example": "Er hat seinen Nachbarn beschimpft.",
+      "exampleEn": "He insulted his neighbor.",
+      "example2": "Bitte beschimpf mich nicht so!",
+      "example2En": "Please don't insult me like that!"
+    },
+    {
+      "de": "die Beschimpfung",
+      "en": "insult, verbal abuse",
+      "pos": "noun",
+      "plural": "die Beschimpfungen",
+      "meanings": [
+        {
+          "en": "an insulting remark or act",
+          "de": "böse Äußerung, Beleidigung"
+        }
+      ],
+      "rule": "Nomen von 'beschimpfen'; oft im Plural für mehrere Beleidigungen benutzt.",
+      "example": "Die Beschimpfung des Kollegen war nicht in Ordnung.",
+      "exampleEn": "The insulting of the colleague was not okay.",
+      "example2": "Bei dem Streit gab es viele Beschimpfungen.",
+      "example2En": "There were many insults during the argument."
+    },
+    {
+      "de": "beschweren",
+      "en": "to complain; to weigh down",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "(sich beschweren) to complain",
+          "de": "sich reflexiv: Kritik äußern"
+        },
+        {
+          "en": "to weigh down, make heavy",
+          "de": "schwer machen"
+        }
+      ],
+      "rule": "regelmäßig; beschwert, beschwerte, hat beschwert; 'sich beschweren' + über + Akkusativ (reflexiv)",
+      "example": "Sie hat sich über den Lärm beschwert.",
+      "exampleEn": "She complained about the noise.",
+      "example2": "Steine beschweren das Zelt bei Wind.",
+      "example2En": "Stones weigh down the tent in the wind."
+    },
+    {
+      "de": "besiegen",
+      "en": "to defeat, to beat",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to win against someone",
+          "de": "jemanden im Wettkampf/Krieg schlagen"
+        },
+        {
+          "en": "to overcome (a feeling, difficulty)",
+          "de": "etwas überwinden (z. B. eine Angst)"
+        }
+      ],
+      "rule": "regelmäßig; besiegt, besiegte, hat besiegt; + Akkusativ",
+      "example": "Unsere Mannschaft hat das andere Team besiegt.",
+      "exampleEn": "Our team defeated the other team.",
+      "example2": "Er wollte seine Angst besiegen.",
+      "example2En": "He wanted to overcome his fear."
+    },
+    {
+      "de": "das Besprechungszimmer",
+      "en": "meeting room",
+      "pos": "noun",
+      "plural": "die Besprechungszimmer",
+      "meanings": [
+        {
+          "en": "room used for meetings",
+          "de": "Raum für Besprechungen"
+        }
+      ],
+      "rule": "Kompositum aus 'Besprechung' + 'Zimmer' (mit Fugen-s); sächlich wie 'das Zimmer'.",
+      "example": "Das Meeting findet im Besprechungszimmer statt.",
+      "exampleEn": "The meeting takes place in the meeting room.",
+      "example2": "Können Sie das Besprechungszimmer reservieren?",
+      "example2En": "Can you reserve the meeting room?"
+    },
+    {
+      "de": "die Bestellhotline",
+      "en": "order hotline, phone ordering line",
+      "pos": "noun",
+      "plural": "die Bestellhotlines",
+      "meanings": [
+        {
+          "en": "phone number for placing orders",
+          "de": "Telefonnummer zum Bestellen"
+        }
+      ],
+      "rule": "Kompositum aus dem Verbstamm 'bestell-' (von 'bestellen') + 'Hotline'; weiblich wie 'die Hotline'.",
+      "example": "Rufen Sie unsere Bestellhotline an, um zu bestellen.",
+      "exampleEn": "Call our order hotline to place an order.",
+      "example2": "Die Bestellhotline ist von 8 bis 18 Uhr erreichbar.",
+      "example2En": "The order hotline is available from 8 am to 6 pm."
+    },
+    {
+      "de": "der Betrag",
+      "en": "amount (of money)",
+      "pos": "noun",
+      "plural": "die Beträge",
+      "meanings": [
+        {
+          "en": "a sum of money",
+          "de": "eine Geldsumme"
+        }
+      ],
+      "rule": "maskulin; Plural mit Umlaut: die Beträge.",
+      "example": "Bitte überweisen Sie den Betrag bis Freitag.",
+      "exampleEn": "Please transfer the amount by Friday.",
+      "example2": "Der Betrag auf der Rechnung ist falsch.",
+      "example2En": "The amount on the invoice is wrong."
+    }
+  ]
+}

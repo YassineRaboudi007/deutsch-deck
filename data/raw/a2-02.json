@@ -1,0 +1,917 @@
+{
+  "id": "a2-02",
+  "title": "A2 · A (2)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "der Antrag",
+      "en": "application, request form",
+      "pos": "noun",
+      "plural": "die Anträge",
+      "meanings": [
+        {
+          "en": "formal application/request",
+          "de": "ein offizielles Gesuch"
+        }
+      ],
+      "rule": "Redewendung: einen Antrag stellen",
+      "example": "Sie hat einen Antrag auf Kindergeld gestellt.",
+      "exampleEn": "She submitted an application for child benefit.",
+      "example2": "Der Antrag muss bis Freitag eingereicht werden.",
+      "example2En": "The application must be submitted by Friday."
+    },
+    {
+      "de": "der Antragsteller / die Antragstellerin",
+      "en": "applicant",
+      "pos": "noun",
+      "plural": "die Antragsteller / die Antragstellerinnen",
+      "meanings": [
+        {
+          "en": "person who submits an application",
+          "de": "jemand, der einen Antrag stellt"
+        }
+      ],
+      "rule": "Zusammensetzung aus Antrag + Steller/in",
+      "example": "Der Antragsteller muss alle Dokumente vorlegen.",
+      "exampleEn": "The applicant must present all documents.",
+      "example2": "Die Antragstellerin wartet auf eine Antwort.",
+      "example2En": "The applicant (female) is waiting for a reply."
+    },
+    {
+      "de": "die Anweisung",
+      "en": "instruction",
+      "pos": "noun",
+      "plural": "die Anweisungen",
+      "meanings": [
+        {
+          "en": "an instruction or order",
+          "de": "eine Handlungsvorgabe"
+        }
+      ],
+      "rule": "Redewendung: Anweisungen befolgen/geben",
+      "example": "Bitte folgen Sie den Anweisungen auf dem Bildschirm.",
+      "exampleEn": "Please follow the instructions on the screen.",
+      "example2": "Der Chef gab klare Anweisungen.",
+      "example2En": "The boss gave clear instructions."
+    },
+    {
+      "de": "die Apfelschorle",
+      "en": "apple juice spritzer",
+      "pos": "noun",
+      "plural": "die Apfelschorlen",
+      "meanings": [
+        {
+          "en": "apple juice mixed with sparkling water",
+          "de": "Getränk aus Apfelsaft und Mineralwasser"
+        }
+      ],
+      "rule": "Compound of Apfel + Schorle; feminine because Schorle is feminine.",
+      "example": "Ich trinke eine Apfelschorle zum Essen.",
+      "exampleEn": "I drink an apple juice spritzer with the meal.",
+      "example2": "Zwei Apfelschorlen, bitte!",
+      "example2En": "Two apple juice spritzers, please!"
+    },
+    {
+      "de": "die App",
+      "en": "app",
+      "pos": "noun",
+      "plural": "die Apps",
+      "meanings": [
+        {
+          "en": "mobile application",
+          "de": "kleines Programm für Smartphone oder Tablet"
+        }
+      ],
+      "rule": "Loanword from English; feminine like 'die Applikation'.",
+      "example": "Ich habe eine neue App auf mein Handy geladen.",
+      "exampleEn": "I downloaded a new app onto my phone.",
+      "example2": "Mit dieser App kann man Fahrkarten kaufen.",
+      "example2En": "With this app you can buy tickets."
+    },
+    {
+      "de": "der Appetit",
+      "en": "appetite",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "desire to eat",
+          "de": "Lust, etwas zu essen"
+        }
+      ],
+      "rule": "Uncountable; common phrase 'Guten Appetit!' = 'Enjoy your meal!'",
+      "example": "Guten Appetit!",
+      "exampleEn": "Enjoy your meal!",
+      "example2": "Ich habe heute keinen Appetit.",
+      "example2En": "I have no appetite today."
+    },
+    {
+      "de": "der Arbeitgeber / die Arbeitgeberin",
+      "en": "employer",
+      "pos": "noun",
+      "plural": "die Arbeitgeber / die Arbeitgeberinnen",
+      "meanings": [
+        {
+          "en": "person or company that employs someone",
+          "de": "Person oder Firma, die jemanden beschäftigt"
+        }
+      ],
+      "rule": "Compound: Arbeit + Geber (one who gives work); masculine form der Arbeitgeber, feminine die Arbeitgeberin.",
+      "example": "Mein Arbeitgeber zahlt pünktlich das Gehalt.",
+      "exampleEn": "My employer pays the salary on time.",
+      "example2": "Die Firma ist ein guter Arbeitgeber.",
+      "example2En": "The company is a good employer."
+    },
+    {
+      "de": "die Arbeitsagentur",
+      "en": "employment agency",
+      "pos": "noun",
+      "plural": "die Arbeitsagenturen",
+      "meanings": [
+        {
+          "en": "public office that helps people find jobs",
+          "de": "staatliche Behörde für Arbeitssuche"
+        }
+      ],
+      "rule": "Compound Arbeit + Agentur; refers especially to the German Bundesagentur für Arbeit.",
+      "example": "Ich habe einen Termin bei der Arbeitsagentur.",
+      "exampleEn": "I have an appointment at the employment agency.",
+      "example2": "Die Arbeitsagentur hilft bei der Jobsuche.",
+      "example2En": "The employment agency helps with the job search."
+    },
+    {
+      "de": "der Arbeitsauftrag",
+      "en": "work order; task assignment",
+      "pos": "noun",
+      "plural": "die Arbeitsaufträge",
+      "meanings": [
+        {
+          "en": "a specific task or job assignment",
+          "de": "konkrete Aufgabe, die man erledigen soll"
+        }
+      ],
+      "rule": "Compound Arbeit + Auftrag; masculine like Auftrag.",
+      "example": "Der Chef gibt mir einen neuen Arbeitsauftrag.",
+      "exampleEn": "The boss gives me a new work assignment.",
+      "example2": "Bitte lesen Sie den Arbeitsauftrag genau.",
+      "example2En": "Please read the task assignment carefully."
+    },
+    {
+      "de": "der Arbeitsbeginn",
+      "en": "start of work",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the time work starts",
+          "de": "Uhrzeit, zu der die Arbeit beginnt"
+        }
+      ],
+      "rule": "Compound Arbeit + Beginn; usually uncountable, used with a time.",
+      "example": "Der Arbeitsbeginn ist um acht Uhr.",
+      "exampleEn": "Work starts at eight o'clock.",
+      "example2": "Bitte seien Sie pünktlich zum Arbeitsbeginn.",
+      "example2En": "Please be on time for the start of work."
+    },
+    {
+      "de": "die Arbeitserlaubnis",
+      "en": "work permit",
+      "pos": "noun",
+      "plural": "die Arbeitserlaubnisse",
+      "meanings": [
+        {
+          "en": "official permission to work",
+          "de": "offizielle Genehmigung, in einem Land zu arbeiten"
+        }
+      ],
+      "rule": "Compound Arbeit + Erlaubnis; feminine like Erlaubnis; nouns ending in -nis double the s in the plural (Erlaubnis → Erlaubnisse).",
+      "example": "Für diese Stelle brauche ich eine Arbeitserlaubnis.",
+      "exampleEn": "For this job I need a work permit.",
+      "example2": "Ohne Arbeitserlaubnis darf sie nicht arbeiten.",
+      "example2En": "Without a work permit she is not allowed to work."
+    },
+    {
+      "de": "das Arbeitslosengeld",
+      "en": "unemployment benefit",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "government payment to unemployed people",
+          "de": "Geld vom Staat für Arbeitslose"
+        }
+      ],
+      "rule": "Compound arbeitslos + Geld; neuter like Geld; uncountable.",
+      "example": "Er bekommt seit drei Monaten Arbeitslosengeld.",
+      "exampleEn": "He has been receiving unemployment benefit for three months.",
+      "example2": "Man muss das Arbeitslosengeld beantragen.",
+      "example2En": "You have to apply for unemployment benefit."
+    },
+    {
+      "de": "der Arbeitsplatz",
+      "en": "workplace; job",
+      "pos": "noun",
+      "plural": "die Arbeitsplätze",
+      "meanings": [
+        {
+          "en": "the place where one works",
+          "de": "Ort, an dem man arbeitet"
+        },
+        {
+          "en": "a job position",
+          "de": "Stelle / Beschäftigung"
+        }
+      ],
+      "rule": "Compound Arbeit + Platz; masculine like Platz.",
+      "example": "Mein Arbeitsplatz ist im dritten Stock.",
+      "exampleEn": "My workplace is on the third floor.",
+      "example2": "Die Firma hat viele Arbeitsplätze geschaffen.",
+      "example2En": "The company has created many jobs."
+    },
+    {
+      "de": "der Arbeitsschutz",
+      "en": "occupational safety",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "rules and measures to protect workers",
+          "de": "Regeln zum Schutz der Arbeitnehmer"
+        }
+      ],
+      "rule": "Compound Arbeit + Schutz; uncountable.",
+      "example": "Der Arbeitsschutz ist in dieser Fabrik sehr wichtig.",
+      "exampleEn": "Occupational safety is very important in this factory.",
+      "example2": "Wir tragen Helme wegen des Arbeitsschutzes.",
+      "example2En": "We wear helmets because of occupational safety rules."
+    },
+    {
+      "de": "die Arbeitsvermittlung",
+      "en": "job placement (service)",
+      "pos": "noun",
+      "plural": "die Arbeitsvermittlungen",
+      "meanings": [
+        {
+          "en": "a service that helps match people with jobs",
+          "de": "Vermittlung von Arbeitsstellen"
+        }
+      ],
+      "rule": "Compound Arbeit + Vermittlung; feminine like Vermittlung.",
+      "example": "Die Arbeitsvermittlung hat mir eine neue Stelle vermittelt.",
+      "exampleEn": "The job placement service found me a new position.",
+      "example2": "Er sucht Hilfe bei der Arbeitsvermittlung.",
+      "example2En": "He is looking for help from the job placement service."
+    },
+    {
+      "de": "der Arbeitsvertrag",
+      "en": "employment contract",
+      "pos": "noun",
+      "plural": "die Arbeitsverträge",
+      "meanings": [
+        {
+          "en": "legal agreement between employer and employee",
+          "de": "Vertrag zwischen Arbeitgeber und Arbeitnehmer"
+        }
+      ],
+      "rule": "Compound Arbeit + Vertrag; masculine like Vertrag.",
+      "example": "Ich habe meinen Arbeitsvertrag unterschrieben.",
+      "exampleEn": "I signed my employment contract.",
+      "example2": "Der Arbeitsvertrag dauert zwei Jahre.",
+      "example2En": "The employment contract runs for two years."
+    },
+    {
+      "de": "die Architektur",
+      "en": "architecture",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the art and science of designing buildings",
+          "de": "Baukunst, Gestaltung von Gebäuden"
+        }
+      ],
+      "rule": "Uncountable in the general sense; stress on the last syllable (Architektúr).",
+      "example": "Sie interessiert sich sehr für Architektur.",
+      "exampleEn": "She is very interested in architecture.",
+      "example2": "Die Architektur der Stadt ist sehr alt.",
+      "example2En": "The architecture of the city is very old."
+    },
+    {
+      "de": "die Armut",
+      "en": "poverty",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the state of being poor",
+          "de": "Zustand, wenig Geld zu haben"
+        }
+      ],
+      "rule": "Uncountable abstract noun derived from the adjective 'arm' (poor); feminine gender, no plural.",
+      "example": "Viele Menschen leben in Armut.",
+      "exampleEn": "Many people live in poverty.",
+      "example2": "Die Regierung will die Armut bekämpfen.",
+      "example2En": "The government wants to fight poverty."
+    },
+    {
+      "de": "asiatisch",
+      "en": "Asian",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to Asia",
+          "de": "aus Asien, zu Asien gehörend"
+        }
+      ],
+      "rule": "Regular adjective, no irregular comparison; lowercase unlike the noun 'Asien'.",
+      "example": "Wir essen gern asiatisches Essen.",
+      "exampleEn": "We like eating Asian food.",
+      "example2": "Er hat einen asiatischen Freund.",
+      "example2En": "He has an Asian friend."
+    },
+    {
+      "de": "die Aubergine",
+      "en": "eggplant, aubergine",
+      "pos": "noun",
+      "plural": "die Auberginen",
+      "meanings": [
+        {
+          "en": "a purple vegetable (eggplant)",
+          "de": "violettes Gemüse"
+        }
+      ],
+      "rule": "French loanword; feminine; pronounced with soft 'g' like in French (Auberschine).",
+      "example": "Ich kaufe zwei Auberginen für das Gericht.",
+      "exampleEn": "I buy two eggplants for the dish.",
+      "example2": "Auberginen schmecken gut gegrillt.",
+      "example2En": "Eggplants taste good grilled."
+    },
+    {
+      "de": "der Aufenthalt",
+      "en": "stay; residence",
+      "pos": "noun",
+      "plural": "die Aufenthalte",
+      "meanings": [
+        {
+          "en": "stay (period of time somewhere)",
+          "de": "das Verweilen an einem Ort"
+        },
+        {
+          "en": "stopover (e.g. on a journey)",
+          "de": "kurzer Zwischenstopp, z. B. bei einer Reise"
+        }
+      ],
+      "rule": "Abgeleitet vom Verb sich aufhalten (= sich an einem Ort befinden) – kein Kompositum. Oft mit Dauerangabe: 'ein Aufenthalt von drei Tagen'.",
+      "example": "Wir hatten einen Aufenthalt von zwei Wochen in Berlin.",
+      "exampleEn": "We had a stay of two weeks in Berlin.",
+      "example2": "Der Zug hat in Köln zehn Minuten Aufenthalt.",
+      "example2En": "The train has a ten-minute stopover in Cologne."
+    },
+    {
+      "de": "die Aufenthaltserlaubnis",
+      "en": "residence permit",
+      "pos": "noun",
+      "plural": "die Aufenthaltserlaubnisse",
+      "meanings": [
+        {
+          "en": "official permit to live in a country",
+          "de": "offizielle Erlaubnis, in einem Land zu wohnen"
+        }
+      ],
+      "rule": "Compound noun: Aufenthalt + Erlaubnis; gender follows die Erlaubnis.",
+      "example": "Sie braucht eine Aufenthaltserlaubnis für Deutschland.",
+      "exampleEn": "She needs a residence permit for Germany.",
+      "example2": "Die Aufenthaltserlaubnis gilt für zwei Jahre.",
+      "example2En": "The residence permit is valid for two years."
+    },
+    {
+      "de": "aufheben",
+      "en": "to pick up; to keep; to cancel",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to pick something up from the ground",
+          "de": "etwas vom Boden nehmen"
+        },
+        {
+          "en": "to keep/save something for later",
+          "de": "etwas für später aufbewahren"
+        },
+        {
+          "en": "to cancel/abolish (a rule, law)",
+          "de": "eine Regel oder ein Gesetz ungültig machen"
+        }
+      ],
+      "rule": "Trennbar, unregelmäßig: hebt ... auf, hob auf, hat aufgehoben.",
+      "example": "Kannst du den Schlüssel aufheben?",
+      "exampleEn": "Can you pick up the key?",
+      "example2": "Ich hebe die Rechnung für die Steuer auf.",
+      "example2En": "I'm keeping the receipt for taxes."
+    },
+    {
+      "de": "aufhören",
+      "en": "to stop",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to stop doing something",
+          "de": "etwas nicht mehr tun"
+        }
+      ],
+      "rule": "Trennbar: hört ... auf, hörte auf, hat aufgehört. Oft mit 'mit + Dativ' oder 'zu + Infinitiv'.",
+      "example": "Hör auf zu reden!",
+      "exampleEn": "Stop talking!",
+      "example2": "Der Regen hat endlich aufgehört.",
+      "example2En": "The rain has finally stopped."
+    },
+    {
+      "de": "die Auflistung",
+      "en": "listing; list",
+      "pos": "noun",
+      "plural": "die Auflistungen",
+      "meanings": [
+        {
+          "en": "a listing/enumeration of items",
+          "de": "eine Liste von Dingen"
+        }
+      ],
+      "rule": "Von auflisten (trennbar) abgeleitetes Nomen.",
+      "example": "Bitte schicken Sie mir eine Auflistung aller Kosten.",
+      "exampleEn": "Please send me a listing of all costs.",
+      "example2": "Die Auflistung der Termine liegt auf dem Tisch.",
+      "example2En": "The list of appointments is on the table."
+    },
+    {
+      "de": "aufpassen",
+      "en": "to pay attention; to watch out",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to pay attention/be careful",
+          "de": "vorsichtig sein, konzentriert sein"
+        },
+        {
+          "en": "to look after (someone/something)",
+          "de": "auf jemanden/etwas achten"
+        }
+      ],
+      "rule": "Trennbar: passt ... auf, passte auf, hat aufgepasst. Oft mit 'auf + Akkusativ'.",
+      "example": "Pass auf, die Straße ist glatt!",
+      "exampleEn": "Watch out, the street is slippery!",
+      "example2": "Kannst du auf meine Tasche aufpassen?",
+      "example2En": "Can you watch my bag?"
+    },
+    {
+      "de": "aufrufen",
+      "en": "to call out; to call up",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to call someone's name/number (e.g. in a waiting room)",
+          "de": "jemandes Namen oder Nummer laut nennen"
+        },
+        {
+          "en": "to call up/open (e.g. a website)",
+          "de": "eine Internetseite öffnen"
+        }
+      ],
+      "rule": "Trennbar, unregelmäßig: ruft ... auf, rief auf, hat aufgerufen.",
+      "example": "Der Arzt hat meinen Namen aufgerufen.",
+      "exampleEn": "The doctor called out my name.",
+      "example2": "Ich rufe die Webseite auf meinem Handy auf.",
+      "example2En": "I'm calling up the website on my phone."
+    },
+    {
+      "de": "aufschließen",
+      "en": "to unlock",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to unlock a door/lock with a key",
+          "de": "eine Tür oder ein Schloss mit einem Schlüssel öffnen"
+        }
+      ],
+      "rule": "Trennbar, unregelmäßig: schließt ... auf, schloss auf, hat aufgeschlossen.",
+      "example": "Kannst du bitte die Tür aufschließen?",
+      "exampleEn": "Can you please unlock the door?",
+      "example2": "Er schloss das Büro morgens immer auf.",
+      "example2En": "He always unlocked the office in the morning."
+    },
+    {
+      "de": "der Aufzug",
+      "en": "elevator; lift",
+      "pos": "noun",
+      "plural": "die Aufzüge",
+      "meanings": [
+        {
+          "en": "elevator/lift",
+          "de": "Fahrstuhl in einem Gebäude"
+        }
+      ],
+      "rule": "Synonym: der Fahrstuhl. Von aufziehen abgeleitet.",
+      "example": "Wir nehmen den Aufzug in den fünften Stock.",
+      "exampleEn": "We take the elevator to the fifth floor.",
+      "example2": "Der Aufzug ist heute leider kaputt.",
+      "example2En": "The elevator is unfortunately broken today."
+    },
+    {
+      "de": "der Ausbildungsplatz",
+      "en": "apprenticeship position",
+      "pos": "noun",
+      "plural": "die Ausbildungsplätze",
+      "meanings": [
+        {
+          "en": "a training/apprenticeship position at a company",
+          "de": "eine Stelle für eine berufliche Ausbildung"
+        }
+      ],
+      "rule": "Kompositum aus Ausbildung + Platz.",
+      "example": "Er sucht einen Ausbildungsplatz als Elektriker.",
+      "exampleEn": "He is looking for an apprenticeship as an electrician.",
+      "example2": "Die Firma bietet drei Ausbildungsplätze an.",
+      "example2En": "The company offers three apprenticeship positions."
+    },
+    {
+      "de": "ausblenden",
+      "en": "to hide; to fade out",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to hide/remove from view (e.g. on a screen)",
+          "de": "etwas nicht mehr anzeigen, z. B. am Bildschirm"
+        }
+      ],
+      "rule": "Trennbar: blendet ... aus, blendete aus, hat ausgeblendet.",
+      "example": "Ich blende die Werbung auf der Seite aus.",
+      "exampleEn": "I hide the ads on the page.",
+      "example2": "Man kann die Spalte in der Tabelle ausblenden.",
+      "example2En": "You can hide the column in the table."
+    },
+    {
+      "de": "ausdrucken",
+      "en": "to print out",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to print a document on paper",
+          "de": "ein Dokument auf Papier drucken"
+        }
+      ],
+      "rule": "Trennbar: druckt ... aus, druckte aus, hat ausgedruckt.",
+      "example": "Kannst du mir die Rechnung ausdrucken?",
+      "exampleEn": "Can you print out the invoice for me?",
+      "example2": "Ich habe den Fahrplan ausgedruckt.",
+      "example2En": "I printed out the timetable."
+    },
+    {
+      "de": "ausfallen",
+      "en": "to be cancelled; to fall out",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to be cancelled (e.g. a class, event)",
+          "de": "nicht stattfinden"
+        },
+        {
+          "en": "to fall out (e.g. hair)",
+          "de": "z. B. Haare: herausfallen"
+        }
+      ],
+      "rule": "Trennbar, unregelmäßig: fällt ... aus, fiel aus, ist ausgefallen.",
+      "example": "Der Unterricht fällt morgen aus.",
+      "exampleEn": "Class is cancelled tomorrow.",
+      "example2": "Nach der Krankheit sind ihr die Haare ausgefallen.",
+      "example2En": "After the illness her hair fell out."
+    },
+    {
+      "de": "der Ausflug",
+      "en": "excursion; trip",
+      "pos": "noun",
+      "plural": "die Ausflüge",
+      "meanings": [
+        {
+          "en": "a short trip/excursion",
+          "de": "eine kurze Reise, z. B. für einen Tag"
+        }
+      ],
+      "rule": "Von ausfliegen; feststehende Wendung: einen Ausflug machen.",
+      "example": "Am Wochenende machen wir einen Ausflug in die Berge.",
+      "exampleEn": "On the weekend we're going on a trip to the mountains.",
+      "example2": "Der Ausflug mit der Schule war sehr lustig.",
+      "example2En": "The school trip was a lot of fun."
+    },
+    {
+      "de": "ausführen",
+      "en": "to carry out; to take out",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to carry out/execute (a task, order)",
+          "de": "eine Aufgabe oder einen Auftrag erledigen"
+        },
+        {
+          "en": "to take out (e.g. a dog, someone for dinner)",
+          "de": "jemanden/etwas mit nach draußen nehmen"
+        }
+      ],
+      "rule": "Trennbar: führt ... aus, führte aus, hat ausgeführt.",
+      "example": "Er hat den Auftrag genau ausgeführt.",
+      "exampleEn": "He carried out the order exactly.",
+      "example2": "Sie führt jeden Abend den Hund aus.",
+      "example2En": "She takes the dog out every evening."
+    },
+    {
+      "de": "ausgeben",
+      "en": "to spend (money); to give out",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to spend money",
+          "de": "Geld für etwas verwenden"
+        },
+        {
+          "en": "to give out/distribute",
+          "de": "etwas verteilen, austeilen"
+        }
+      ],
+      "rule": "Trennbar, unregelmäßig: gibt ... aus, gab aus, hat ausgegeben.",
+      "example": "Ich habe zu viel Geld für Kleidung ausgegeben.",
+      "exampleEn": "I spent too much money on clothes.",
+      "example2": "Die Lehrerin gibt die Arbeitsblätter aus.",
+      "example2En": "The teacher hands out the worksheets."
+    },
+    {
+      "de": "ausgezeichnet",
+      "en": "excellent",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "excellent, very good",
+          "de": "sehr gut"
+        }
+      ],
+      "rule": "Wird meist nicht gesteigert, da es selbst schon eine sehr hohe Qualität ausdrückt (ausgezeichnet, ausgezeichneter, am ausgezeichnetsten – selten verwendet). Auch Partizip II von 'auszeichnen' (jemanden/etwas mit etwas auszeichnen).",
+      "example": "Das Essen im Restaurant war ausgezeichnet.",
+      "exampleEn": "The food at the restaurant was excellent.",
+      "example2": "Sie spricht ausgezeichnet Deutsch.",
+      "example2En": "She speaks excellent German."
+    },
+    {
+      "de": "der Ausgleich",
+      "en": "balance; compensation",
+      "pos": "noun",
+      "plural": "die Ausgleiche",
+      "meanings": [
+        {
+          "en": "compensation/balancing (out) of a difference",
+          "de": "das Ausgleichen eines Unterschieds"
+        },
+        {
+          "en": "equalizer (sport)",
+          "de": "Tor oder Punkt, der den Spielstand ausgleicht"
+        }
+      ],
+      "rule": "Von ausgleichen abgeleitet. Feste Wendung: zum Ausgleich (als Kompensation).",
+      "example": "Sport ist für mich ein guter Ausgleich zur Arbeit.",
+      "exampleEn": "Sport is a good balance for me against work.",
+      "example2": "In der letzten Minute gelang ihm der Ausgleich.",
+      "example2En": "In the last minute he scored the equalizer."
+    },
+    {
+      "de": "der Aushilfsjob",
+      "en": "temp job; casual/part-time job",
+      "pos": "noun",
+      "plural": "die Aushilfsjobs",
+      "meanings": [
+        {
+          "en": "a temporary or casual job, often to earn extra money",
+          "de": "eine vorübergehende Arbeit, oft als Nebenjob"
+        }
+      ],
+      "rule": "Compound noun: Aushilfe (help/stand-in) + Job; masculine like 'der Job'.",
+      "example": "Ich habe im Sommer einen Aushilfsjob im Supermarkt.",
+      "exampleEn": "I have a temp job at the supermarket in summer.",
+      "example2": "Der Aushilfsjob war gut für mein Studium.",
+      "example2En": "The temp job was good alongside my studies."
+    },
+    {
+      "de": "das Ausland",
+      "en": "abroad; foreign countries",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "foreign countries, abroad (opposite of Inland)",
+          "de": "fremde Länder, nicht das eigene Land"
+        }
+      ],
+      "rule": "Uncountable, no plural. Used with prepositions: 'im Ausland' (abroad), 'ins Ausland' (to abroad).",
+      "example": "Meine Schwester lebt im Ausland.",
+      "exampleEn": "My sister lives abroad.",
+      "example2": "Er fliegt nächste Woche ins Ausland.",
+      "example2En": "He is flying abroad next week."
+    },
+    {
+      "de": "das Ausländeramt",
+      "en": "immigration office",
+      "pos": "noun",
+      "plural": "die Ausländerämter",
+      "meanings": [
+        {
+          "en": "the office that handles residence permits for foreigners",
+          "de": "das Amt, das für Aufenthaltstitel von Ausländern zuständig ist"
+        }
+      ],
+      "rule": "Older/informal term; official term today is often 'Ausländerbehörde'. Compound: Ausländer + Amt.",
+      "example": "Ich muss zum Ausländeramt, um meine Papiere zu verlängern.",
+      "exampleEn": "I have to go to the immigration office to extend my papers.",
+      "example2": "Das Ausländeramt hat heute geschlossen.",
+      "example2En": "The immigration office is closed today."
+    },
+    {
+      "de": "die Ausländerbehörde",
+      "en": "immigration authority",
+      "pos": "noun",
+      "plural": "die Ausländerbehörden",
+      "meanings": [
+        {
+          "en": "the government authority responsible for foreigners' residence matters",
+          "de": "die Behörde, die für Aufenthaltsfragen von Ausländern zuständig ist"
+        }
+      ],
+      "rule": "Compound noun: Ausländer + Behörde (die); official term used in most German cities.",
+      "example": "Die Ausländerbehörde prüft meinen Antrag.",
+      "exampleEn": "The immigration authority is checking my application.",
+      "example2": "Ich habe einen Termin bei der Ausländerbehörde.",
+      "example2En": "I have an appointment at the immigration authority."
+    },
+    {
+      "de": "ausmachen",
+      "en": "to turn off; to arrange/agree on; to matter",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to switch off (light, TV, etc.)",
+          "de": "ausschalten"
+        },
+        {
+          "en": "to arrange or agree on something",
+          "de": "vereinbaren"
+        },
+        {
+          "en": "to matter, to make a difference",
+          "de": "eine Rolle spielen, wichtig sein"
+        }
+      ],
+      "rule": "Trennbar (separable): macht ... aus, machte ... aus, hat ... ausgemacht.",
+      "example": "Kannst du bitte das Licht ausmachen?",
+      "exampleEn": "Can you please turn off the light?",
+      "example2": "Macht es dir etwas aus, wenn ich rauche?",
+      "example2En": "Does it bother you if I smoke?"
+    },
+    {
+      "de": "ausreichend",
+      "en": "sufficient; enough",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "enough, sufficient in quantity or quality",
+          "de": "genug, genügend"
+        }
+      ],
+      "rule": "Regular comparison: ausreichend, ausreichender, am ausreichendsten (rarely used in comparative forms).",
+      "example": "Wir haben ausreichend Essen für alle.",
+      "exampleEn": "We have enough food for everyone.",
+      "example2": "Seine Deutschkenntnisse sind ausreichend.",
+      "example2En": "His German skills are sufficient."
+    },
+    {
+      "de": "die Ausrüstung",
+      "en": "equipment; gear",
+      "pos": "noun",
+      "plural": "die Ausrüstungen",
+      "meanings": [
+        {
+          "en": "equipment or gear needed for an activity",
+          "de": "die Geräte oder Sachen, die man für eine Tätigkeit braucht"
+        }
+      ],
+      "rule": "Usually singular in everyday use, though a plural form exists for different sets of equipment.",
+      "example": "Für die Wanderung brauchen wir gute Ausrüstung.",
+      "exampleEn": "We need good equipment for the hike.",
+      "example2": "Die Ausrüstung der Feuerwehr ist sehr modern.",
+      "example2En": "The fire department's equipment is very modern."
+    },
+    {
+      "de": "aussehen",
+      "en": "to look (like); to appear",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to look a certain way, to appear",
+          "de": "einen bestimmten Eindruck machen, erscheinen"
+        }
+      ],
+      "rule": "Trennbar; irregular: sieht ... aus, sah ... aus, hat ... ausgesehen.",
+      "example": "Du siehst heute müde aus.",
+      "exampleEn": "You look tired today.",
+      "example2": "Das Essen sieht sehr lecker aus.",
+      "example2En": "The food looks very delicious."
+    },
+    {
+      "de": "der Außendienst",
+      "en": "field service; sales representative role",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "work done outside the office, e.g. sales visits",
+          "de": "Arbeit außerhalb des Büros, z. B. beim Kunden"
+        }
+      ],
+      "rule": "Usually uncountable; opposite of 'Innendienst'. Often used as 'im Außendienst arbeiten'.",
+      "example": "Er arbeitet im Außendienst als Vertreter.",
+      "exampleEn": "He works in field service as a sales rep.",
+      "example2": "Der Außendienst besucht die Kunden vor Ort.",
+      "example2En": "The field team visits customers on site."
+    },
+    {
+      "de": "außer",
+      "en": "except; besides; out of",
+      "pos": "preposition",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "except, apart from",
+          "de": "ausgenommen"
+        },
+        {
+          "en": "out of (a state), e.g. außer Betrieb",
+          "de": "nicht mehr in einem Zustand, z. B. außer Betrieb"
+        }
+      ],
+      "rule": "Governs Dativ; e.g. 'außer mir', 'außer dem Chef'.",
+      "example": "Alle waren da, außer Tom.",
+      "exampleEn": "Everyone was there except Tom.",
+      "example2": "Der Aufzug ist außer Betrieb.",
+      "example2En": "The elevator is out of service."
+    },
+    {
+      "de": "die Aussicht",
+      "en": "view; prospect",
+      "pos": "noun",
+      "plural": "die Aussichten",
+      "meanings": [
+        {
+          "en": "a scenic view",
+          "de": "der Blick auf die Landschaft"
+        },
+        {
+          "en": "a prospect or chance for the future",
+          "de": "eine Chance oder Möglichkeit für die Zukunft"
+        }
+      ],
+      "rule": "Compound: aus + Sicht; 'Aussicht auf etwas haben' = to have a chance/prospect of something.",
+      "example": "Von hier hat man eine schöne Aussicht auf die Berge.",
+      "exampleEn": "From here you have a beautiful view of the mountains.",
+      "example2": "Er hat gute Aussichten auf den Job.",
+      "example2En": "He has good prospects for the job."
+    },
+    {
+      "de": "aussteigen",
+      "en": "to get out/off (a vehicle); to quit",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to get off/out of a vehicle (bus, train, car)",
+          "de": "ein Fahrzeug verlassen"
+        },
+        {
+          "en": "to quit, to withdraw from something",
+          "de": "bei etwas nicht mehr mitmachen"
+        }
+      ],
+      "rule": "Trennbar, uses 'sein' as auxiliary: steigt ... aus, stieg ... aus, ist ... ausgestiegen.",
+      "example": "Ich steige an der nächsten Haltestelle aus.",
+      "exampleEn": "I'm getting off at the next stop.",
+      "example2": "Er ist aus dem Projekt ausgestiegen.",
+      "example2En": "He dropped out of the project."
+    }
+  ]
+}

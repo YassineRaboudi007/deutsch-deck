@@ -1,0 +1,909 @@
+{
+  "id": "b1-08",
+  "title": "B1 · F–H (8)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "der Frust",
+      "en": "frustration",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "a feeling of being annoyed or discouraged",
+          "de": "ein Gefühl von Ärger oder Enttäuschung"
+        }
+      ],
+      "rule": "Informal shortened form of 'Frustration'; masculine noun, uncountable.",
+      "example": "Nach der Absage war der Frust groß.",
+      "exampleEn": "After the rejection, the frustration was great.",
+      "example2": "Sie hat ihren Frust beim Joggen abgebaut.",
+      "example2En": "She worked off her frustration by jogging."
+    },
+    {
+      "de": "frustriert",
+      "en": "frustrated",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "feeling annoyed or discouraged because of failure or obstacles",
+          "de": "verärgert oder entmutigt wegen Misserfolgs oder Hindernissen"
+        }
+      ],
+      "rule": "Past participle of 'frustrieren' used as adjective; regular comparison.",
+      "example": "Er ist frustriert, weil das Projekt nicht funktioniert.",
+      "exampleEn": "He is frustrated because the project isn't working.",
+      "example2": "Nach dem verlorenen Spiel waren alle frustriert.",
+      "example2En": "After the lost game, everyone was frustrated."
+    },
+    {
+      "de": "führen",
+      "en": "to lead; to run/manage; to carry (goods)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to lead or guide someone/something",
+          "de": "jemanden oder etwas leiten oder anführen"
+        },
+        {
+          "en": "to manage or run a business or organization",
+          "de": "ein Geschäft oder eine Organisation leiten"
+        },
+        {
+          "en": "to stock/carry (of a shop)",
+          "de": "eine Ware im Sortiment haben"
+        }
+      ],
+      "rule": "Regular weak verb: führt, führte, hat geführt. Often + Akkusativ; 'ein Geschäft führen' = to run a shop.",
+      "example": "Der Guide führt die Touristen durch die Stadt.",
+      "exampleEn": "The guide leads the tourists through the city.",
+      "example2": "Dieser Laden führt keine Bio-Produkte.",
+      "example2En": "This shop doesn't carry organic products."
+    },
+    {
+      "de": "das Führungszeugnis",
+      "en": "certificate of good conduct",
+      "pos": "noun",
+      "plural": "die Führungszeugnisse",
+      "meanings": [
+        {
+          "en": "an official document showing a person has no criminal record",
+          "de": "ein amtliches Dokument, das belegt, dass jemand nicht vorbestraft ist"
+        }
+      ],
+      "rule": "Compound: Führung + Zeugnis; neuter noun, often required 'polizeiliches Führungszeugnis' for job applications.",
+      "example": "Für die Stelle braucht sie ein polizeiliches Führungszeugnis.",
+      "exampleEn": "For the job she needs a certificate of good conduct.",
+      "example2": "Er hat das Führungszeugnis beim Amt beantragt.",
+      "example2En": "He applied for the certificate of good conduct at the office."
+    },
+    {
+      "de": "furchtbar",
+      "en": "terrible, awful",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "very bad or unpleasant",
+          "de": "sehr schlecht oder unangenehm"
+        },
+        {
+          "en": "used colloquially to intensify (extremely)",
+          "de": "umgangssprachlich verstärkend: sehr"
+        }
+      ],
+      "rule": "Regular adjective, comparison: furchtbar, furchtbarer, am furchtbarsten; often used as intensifying adverb ('furchtbar müde').",
+      "example": "Das Wetter war heute furchtbar.",
+      "exampleEn": "The weather was terrible today.",
+      "example2": "Ich bin furchtbar müde.",
+      "example2En": "I am terribly tired."
+    },
+    {
+      "de": "der Fußballclub",
+      "en": "football club",
+      "pos": "noun",
+      "plural": "die Fußballclubs",
+      "meanings": [
+        {
+          "en": "a club organized around playing football",
+          "de": "ein Verein, der Fußball spielt"
+        }
+      ],
+      "rule": "Compound: Fußball + Club; masculine noun, plural -s (loanword Club). Also spelled 'Fußballklub'.",
+      "example": "Mein Sohn spielt in einem Fußballclub.",
+      "exampleEn": "My son plays in a football club.",
+      "example2": "Der Fußballclub sucht neue Mitglieder.",
+      "example2En": "The football club is looking for new members."
+    },
+    {
+      "de": "füttern",
+      "en": "to feed (an animal or baby)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to give food to an animal or a baby",
+          "de": "einem Tier oder Baby Futter/Essen geben"
+        }
+      ],
+      "rule": "Regular weak verb: füttert, fütterte, hat gefüttert. + Akkusativ.",
+      "example": "Sie füttert jeden Morgen die Katze.",
+      "exampleEn": "She feeds the cat every morning.",
+      "example2": "Er füttert das Baby mit einem Löffel.",
+      "example2En": "He feeds the baby with a spoon."
+    },
+    {
+      "de": "der Gang",
+      "en": "walk/gait; corridor; gear (car)",
+      "pos": "noun",
+      "plural": "die Gänge",
+      "meanings": [
+        {
+          "en": "way of walking",
+          "de": "die Art zu gehen"
+        },
+        {
+          "en": "corridor/hallway",
+          "de": "der Flur"
+        },
+        {
+          "en": "gear in a car",
+          "de": "die Schaltstufe im Auto"
+        }
+      ],
+      "rule": "Masculine noun; plural die Gänge. Common in fixed phrases: 'in Gang setzen' (to start something), 'den ersten Gang einlegen' (to put it in first gear).",
+      "example": "Der Gang zum Bahnhof dauert zehn Minuten.",
+      "exampleEn": "The walk to the station takes ten minutes.",
+      "example2": "Bitte leg den zweiten Gang ein.",
+      "example2En": "Please put it into second gear."
+    },
+    {
+      "de": "garantieren",
+      "en": "to guarantee",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to guarantee something",
+          "de": "für etwas sicher einstehen"
+        }
+      ],
+      "rule": "Regular weak verb; garantiert, garantierte, hat garantiert. Often used with 'für' + Akkusativ: garantieren für etwas.",
+      "example": "Der Hersteller garantiert die Qualität des Produkts.",
+      "exampleEn": "The manufacturer guarantees the quality of the product.",
+      "example2": "Ich kann dir nicht garantieren, dass alles klappt.",
+      "example2En": "I can't guarantee you that everything will work out."
+    },
+    {
+      "de": "der Gastarbeiter / die Gastarbeiterin",
+      "en": "guest worker (foreign labor migrant)",
+      "pos": "noun",
+      "plural": "die Gastarbeiter / die Gastarbeiterinnen",
+      "meanings": [
+        {
+          "en": "a foreign worker, especially historical migrant labor in Germany",
+          "de": "ein ausländischer Arbeitnehmer"
+        }
+      ],
+      "rule": "Compound of Gast + Arbeiter; historical term from the 1950s-70s German labor migration programs.",
+      "example": "Viele Gastarbeiter kamen in den 1960er-Jahren nach Deutschland.",
+      "exampleEn": "Many guest workers came to Germany in the 1960s.",
+      "example2": "Seine Großmutter war Gastarbeiterin in einer Fabrik.",
+      "example2En": "His grandmother was a guest worker in a factory."
+    },
+    {
+      "de": "das Gate",
+      "en": "gate (airport)",
+      "pos": "noun",
+      "plural": "die Gates",
+      "meanings": [
+        {
+          "en": "airport boarding gate",
+          "de": "der Flugsteig"
+        }
+      ],
+      "rule": "Neuter loanword from English; plural die Gates. Common in airport/travel context.",
+      "example": "Der Flug nach Berlin startet an Gate 12.",
+      "exampleEn": "The flight to Berlin departs from gate 12.",
+      "example2": "Wir müssen noch schnell zum Gate laufen.",
+      "example2En": "We still have to hurry to the gate."
+    },
+    {
+      "de": "der Gebrauchtwagen",
+      "en": "used car",
+      "pos": "noun",
+      "plural": "die Gebrauchtwagen",
+      "meanings": [
+        {
+          "en": "a second-hand car",
+          "de": "ein bereits benutztes Auto"
+        }
+      ],
+      "rule": "Compound noun: gebraucht (used) + Wagen (car); masculine, plural unchanged (die Gebrauchtwagen).",
+      "example": "Er hat einen günstigen Gebrauchtwagen gekauft.",
+      "exampleEn": "He bought a cheap used car.",
+      "example2": "Der Gebrauchtwagenhändler bietet eine Garantie an.",
+      "example2En": "The used-car dealer offers a warranty."
+    },
+    {
+      "de": "der Gedanke",
+      "en": "thought, idea",
+      "pos": "noun",
+      "plural": "die Gedanken",
+      "meanings": [
+        {
+          "en": "a thought or idea",
+          "de": "eine Idee im Kopf"
+        }
+      ],
+      "rule": "Masculine, irregular (n-declension): Akkusativ/Dativ den/dem Gedanken, Genitiv des Gedankens; plural die Gedanken.",
+      "example": "Ich kann meine Gedanken nicht ordnen.",
+      "exampleEn": "I can't organize my thoughts.",
+      "example2": "Das ist ein guter Gedanke!",
+      "example2En": "That's a good idea!"
+    },
+    {
+      "de": "die Geduld",
+      "en": "patience",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the ability to wait calmly",
+          "de": "die Fähigkeit, ruhig zu warten"
+        }
+      ],
+      "rule": "Feminine, uncountable noun (no plural). Common phrase: Geduld haben (to have patience).",
+      "example": "Hab noch etwas Geduld, es dauert nicht mehr lange.",
+      "exampleEn": "Have a little more patience, it won't take much longer.",
+      "example2": "Mit Kindern braucht man viel Geduld.",
+      "example2En": "You need a lot of patience with children."
+    },
+    {
+      "de": "geduldig",
+      "en": "patient",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "able to wait calmly without complaint",
+          "de": "mit Geduld, ruhig wartend"
+        }
+      ],
+      "rule": "Regular adjective, regular comparison: geduldig, geduldiger, am geduldigsten.",
+      "example": "Die Lehrerin ist sehr geduldig mit den Schülern.",
+      "exampleEn": "The teacher is very patient with the students.",
+      "example2": "Sei geduldig, das Essen ist gleich fertig.",
+      "example2En": "Be patient, the food will be ready soon."
+    },
+    {
+      "de": "das Gefühl",
+      "en": "feeling, emotion",
+      "pos": "noun",
+      "plural": "die Gefühle",
+      "meanings": [
+        {
+          "en": "an emotion",
+          "de": "eine Emotion"
+        },
+        {
+          "en": "a sense/intuition about something",
+          "de": "eine Vorahnung oder Ahnung"
+        }
+      ],
+      "rule": "Neuter noun; plural die Gefühle. Common phrase: ein gutes/schlechtes Gefühl haben.",
+      "example": "Sie zeigt ihre Gefühle nicht gern.",
+      "exampleEn": "She doesn't like to show her feelings.",
+      "example2": "Ich habe das Gefühl, dass etwas nicht stimmt.",
+      "example2En": "I have a feeling that something is wrong."
+    },
+    {
+      "de": "der Gegenstand",
+      "en": "object, item; subject/topic",
+      "pos": "noun",
+      "plural": "die Gegenstände",
+      "meanings": [
+        {
+          "en": "a physical object",
+          "de": "ein Ding, eine Sache"
+        },
+        {
+          "en": "the subject or topic of discussion",
+          "de": "das Thema einer Diskussion"
+        }
+      ],
+      "rule": "Masculine noun; plural die Gegenstände. In formal contexts: Gegenstand der Diskussion (subject of discussion).",
+      "example": "Bitte legen Sie alle Gegenstände auf den Tisch.",
+      "exampleEn": "Please put all objects on the table.",
+      "example2": "Das war der Gegenstand unseres Gesprächs.",
+      "example2En": "That was the subject of our conversation."
+    },
+    {
+      "de": "der Gegenvorschlag",
+      "en": "counterproposal",
+      "pos": "noun",
+      "plural": "die Gegenvorschläge",
+      "meanings": [
+        {
+          "en": "an alternative proposal made in response to another",
+          "de": "ein alternativer Vorschlag als Antwort auf einen anderen"
+        }
+      ],
+      "rule": "Compound: Gegen- (counter-) + Vorschlag (proposal); masculine, plural die Gegenvorschläge.",
+      "example": "Die Kollegin machte einen Gegenvorschlag zum Zeitplan.",
+      "exampleEn": "The colleague made a counterproposal to the schedule.",
+      "example2": "Wir sollten über seinen Gegenvorschlag nachdenken.",
+      "example2En": "We should think about his counterproposal."
+    },
+    {
+      "de": "der Gegner / die Gegnerin",
+      "en": "opponent, adversary",
+      "pos": "noun",
+      "plural": "die Gegner / die Gegnerinnen",
+      "meanings": [
+        {
+          "en": "a person who opposes or competes against someone",
+          "de": "jemand, der gegen jemanden kämpft oder konkurriert"
+        }
+      ],
+      "rule": "Masculine/feminine pair noun; plural die Gegner / die Gegnerinnen. Used in sports, debates, politics.",
+      "example": "Im Finale trifft er auf einen starken Gegner.",
+      "exampleEn": "In the final he faces a strong opponent.",
+      "example2": "Sie ist eine entschiedene Gegnerin dieses Plans.",
+      "example2En": "She is a firm opponent of this plan."
+    },
+    {
+      "de": "das Gehalt",
+      "en": "salary",
+      "pos": "noun",
+      "plural": "die Gehälter",
+      "meanings": [
+        {
+          "en": "the fixed monthly pay from an employer",
+          "de": "das monatliche Einkommen von der Arbeit"
+        }
+      ],
+      "rule": "Neuter noun; irregular plural die Gehälter (umlaut). Do not confuse with 'der Gehalt' (content/proportion, e.g. Fettgehalt), which is a different, masculine word.",
+      "example": "Ihr Gehalt wurde dieses Jahr erhöht.",
+      "exampleEn": "Her salary was raised this year.",
+      "example2": "Das Gehalt wird am Monatsende überwiesen.",
+      "example2En": "The salary is transferred at the end of the month."
+    },
+    {
+      "de": "die Gehaltsvorstellung",
+      "en": "salary expectation",
+      "pos": "noun",
+      "plural": "die Gehaltsvorstellungen",
+      "meanings": [
+        {
+          "en": "the salary an applicant expects or requests",
+          "de": "das gewünschte Gehalt eines Bewerbers"
+        }
+      ],
+      "rule": "Compound: Gehalt + Vorstellung; feminine, plural die Gehaltsvorstellungen. Typical in job applications: 'Bitte geben Sie Ihre Gehaltsvorstellung an.'",
+      "example": "Bitte nennen Sie Ihre Gehaltsvorstellung im Anschreiben.",
+      "exampleEn": "Please state your salary expectation in the cover letter.",
+      "example2": "Seine Gehaltsvorstellung war dem Chef zu hoch.",
+      "example2En": "His salary expectation was too high for the boss."
+    },
+    {
+      "de": "die Gemeinsamkeit",
+      "en": "common ground, similarity",
+      "pos": "noun",
+      "plural": "die Gemeinsamkeiten",
+      "meanings": [
+        {
+          "en": "something two people or things have in common",
+          "de": "etwas, das zwei Personen oder Dinge gemeinsam haben"
+        }
+      ],
+      "rule": "Feminine noun; plural die Gemeinsamkeiten. Often used: Gemeinsamkeiten haben/finden.",
+      "example": "Die beiden Freunde haben viele Gemeinsamkeiten.",
+      "exampleEn": "The two friends have a lot in common.",
+      "example2": "Wir suchten nach Gemeinsamkeiten zwischen den Kulturen.",
+      "example2En": "We looked for similarities between the cultures."
+    },
+    {
+      "de": "der Gemeinschaftsraum",
+      "en": "common room, shared space",
+      "pos": "noun",
+      "plural": "die Gemeinschaftsräume",
+      "meanings": [
+        {
+          "en": "a shared room used by a group, e.g. in a dorm or building",
+          "de": "ein gemeinsam genutzter Raum"
+        }
+      ],
+      "rule": "Compound: Gemeinschaft + Raum; masculine, plural die Gemeinschaftsräume.",
+      "example": "Im Wohnheim gibt es einen Gemeinschaftsraum mit Küche.",
+      "exampleEn": "There is a common room with a kitchen in the dorm.",
+      "example2": "Abends treffen sich die Bewohner im Gemeinschaftsraum.",
+      "example2En": "In the evening the residents meet in the common room."
+    },
+    {
+      "de": "der Gemüsehändler / die Gemüsehändlerin",
+      "en": "vegetable seller, greengrocer",
+      "pos": "noun",
+      "plural": "die Gemüsehändler / die Gemüsehändlerinnen",
+      "meanings": [
+        {
+          "en": "a person who sells vegetables",
+          "de": "jemand, der Gemüse verkauft"
+        }
+      ],
+      "rule": "Compound: Gemüse + Händler/Händlerin; plural die Gemüsehändler / die Gemüsehändlerinnen.",
+      "example": "Der Gemüsehändler auf dem Markt hat frisches Obst.",
+      "exampleEn": "The greengrocer at the market has fresh fruit.",
+      "example2": "Ich kaufe mein Gemüse immer bei der Gemüsehändlerin nebenan.",
+      "example2En": "I always buy my vegetables from the greengrocer next door."
+    },
+    {
+      "de": "das Gepäck",
+      "en": "luggage, baggage",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "bags and suitcases for travel",
+          "de": "Koffer und Taschen für die Reise"
+        }
+      ],
+      "rule": "Neuter, uncountable noun (no plural). Common compounds: Handgepäck (carry-on), Gepäckaufgabe (baggage check-in).",
+      "example": "Wir müssen unser Gepäck am Schalter aufgeben.",
+      "exampleEn": "We have to check in our luggage at the counter.",
+      "example2": "Er hat sein Gepäck am Flughafen verloren.",
+      "example2En": "He lost his luggage at the airport."
+    },
+    {
+      "de": "die Gepäckausgabe",
+      "en": "baggage claim",
+      "pos": "noun",
+      "plural": "die Gepäckausgaben",
+      "meanings": [
+        {
+          "en": "place where luggage is returned to passengers",
+          "de": "Ort, an dem man sein Gepäck nach dem Flug/der Fahrt abholt"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Gepäck' + 'Ausgabe'; meist am Flughafen oder Bahnhof.",
+      "example": "Wir warten am Flughafen auf die Gepäckausgabe.",
+      "exampleEn": "We are waiting at the airport for baggage claim.",
+      "example2": "Die Koffer kommen erst nach 20 Minuten zur Gepäckausgabe.",
+      "example2En": "The suitcases only arrive at baggage claim after 20 minutes."
+    },
+    {
+      "de": "das Gepäckband",
+      "en": "baggage carousel",
+      "pos": "noun",
+      "plural": "die Gepäckbänder",
+      "meanings": [
+        {
+          "en": "conveyor belt that carries luggage to passengers",
+          "de": "Förderband, auf dem das Gepäck ankommt"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Gepäck' + 'Band'; Plural mit Umlaut: die Gepäckbänder.",
+      "example": "Mein Koffer dreht sich schon auf dem Gepäckband.",
+      "exampleEn": "My suitcase is already going around on the baggage carousel.",
+      "example2": "Stell dich nicht zu nah ans Gepäckband.",
+      "example2En": "Don't stand too close to the baggage carousel."
+    },
+    {
+      "de": "der Geruch",
+      "en": "smell; odor",
+      "pos": "noun",
+      "plural": "die Gerüche",
+      "meanings": [
+        {
+          "en": "smell/odor (neutral or pleasant)",
+          "de": "das, was man riecht"
+        },
+        {
+          "en": "bad smell/stench",
+          "de": "unangenehmer Geruch"
+        }
+      ],
+      "rule": "Plural mit Umlaut: die Gerüche; von 'riechen' abgeleitet.",
+      "example": "Der Geruch von frischem Brot kommt aus der Küche.",
+      "exampleEn": "The smell of fresh bread is coming from the kitchen.",
+      "example2": "Im Treppenhaus hängt ein seltsamer Geruch.",
+      "example2En": "There's a strange smell in the stairwell."
+    },
+    {
+      "de": "die Geschäftsbedingungen",
+      "en": "terms and conditions",
+      "pos": "noun",
+      "plural": "die Geschäftsbedingungen",
+      "meanings": [
+        {
+          "en": "contractual terms of a company (often 'Allgemeine Geschäftsbedingungen', AGB)",
+          "de": "vertragliche Bedingungen eines Unternehmens"
+        }
+      ],
+      "rule": "Nur Plural gebräuchlich; oft als Abkürzung AGB (Allgemeine Geschäftsbedingungen).",
+      "example": "Bitte lesen Sie unsere Geschäftsbedingungen, bevor Sie bestellen.",
+      "exampleEn": "Please read our terms and conditions before you order.",
+      "example2": "Mit dem Klick akzeptieren Sie die Geschäftsbedingungen.",
+      "example2En": "By clicking, you accept the terms and conditions."
+    },
+    {
+      "de": "der Geschäftsführer / die Geschäftsführerin",
+      "en": "managing director; CEO",
+      "pos": "noun",
+      "plural": "die Geschäftsführer / die Geschäftsführerinnen",
+      "meanings": [
+        {
+          "en": "person who manages/runs a company",
+          "de": "Person, die eine Firma leitet"
+        }
+      ],
+      "rule": "Movierung mit -in für die weibliche Form; abgeleitet von 'Geschäft' + 'führen'.",
+      "example": "Der Geschäftsführer hat die neue Strategie vorgestellt.",
+      "exampleEn": "The managing director presented the new strategy.",
+      "example2": "Frau Klein ist seit einem Jahr Geschäftsführerin der Firma.",
+      "example2En": "Ms. Klein has been the managing director of the company for a year."
+    },
+    {
+      "de": "die Geschäftsführung",
+      "en": "management; executive board",
+      "pos": "noun",
+      "plural": "die Geschäftsführungen",
+      "meanings": [
+        {
+          "en": "act of managing a business",
+          "de": "das Leiten eines Unternehmens"
+        },
+        {
+          "en": "the management team/leadership of a company",
+          "de": "die Leitung einer Firma als Personengruppe"
+        }
+      ],
+      "rule": "Meist Singular verwendet, auch wenn mehrere Personen gemeint sind.",
+      "example": "Die Geschäftsführung trifft sich jeden Montag.",
+      "exampleEn": "The management meets every Monday.",
+      "example2": "Er ist seit Jahren in der Geschäftsführung tätig.",
+      "example2En": "He has worked in management for years."
+    },
+    {
+      "de": "der Geschmack",
+      "en": "taste; flavor",
+      "pos": "noun",
+      "plural": "die Geschmäcker",
+      "meanings": [
+        {
+          "en": "flavor of food or drink",
+          "de": "wie etwas schmeckt"
+        },
+        {
+          "en": "personal taste/preference (style)",
+          "de": "persönlicher Stil oder Vorliebe"
+        }
+      ],
+      "rule": "Plural mit Umlaut: die Geschmäcker; von 'schmecken' abgeleitet.",
+      "example": "Die Suppe hat einen leicht scharfen Geschmack.",
+      "exampleEn": "The soup has a slightly spicy taste.",
+      "example2": "Das ist nicht mein Geschmack, aber schön gemacht.",
+      "example2En": "That's not my taste, but it's well made."
+    },
+    {
+      "de": "gesetzlich",
+      "en": "legal; statutory",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "required or defined by law",
+          "de": "vom Gesetz vorgeschrieben oder geregelt"
+        }
+      ],
+      "rule": "Keine unregelmäßige Steigerung; oft in Verbindung mit Substantiven wie 'gesetzliche Pflicht', 'gesetzlicher Feiertag'.",
+      "example": "Der 1. Mai ist ein gesetzlicher Feiertag.",
+      "exampleEn": "May 1st is a legal holiday.",
+      "example2": "Arbeitnehmer haben ein gesetzliches Recht auf Urlaub.",
+      "example2En": "Employees have a legal right to vacation."
+    },
+    {
+      "de": "gestattet sein",
+      "en": "to be permitted/allowed",
+      "pos": "phrase",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to be officially permitted",
+          "de": "erlaubt sein"
+        }
+      ],
+      "rule": "Formelles Register, oft auf Schildern; 'gestattet' ist Partizip II von 'gestatten' (+ Dativ der Person).",
+      "example": "Hier ist das Rauchen nicht gestattet.",
+      "exampleEn": "Smoking is not permitted here.",
+      "example2": "Der Zutritt ist nur Mitarbeitern gestattet.",
+      "example2En": "Entry is only permitted for employees."
+    },
+    {
+      "de": "das Gesundheitszeugnis",
+      "en": "health certificate",
+      "pos": "noun",
+      "plural": "die Gesundheitszeugnisse",
+      "meanings": [
+        {
+          "en": "official document confirming good health, often required for work with food",
+          "de": "amtliches Dokument, das die Gesundheit bestätigt, z. B. für Arbeit mit Lebensmitteln"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Gesundheit' + 'Zeugnis'; oft im Gastgewerbe nötig (§43 Infektionsschutzgesetz).",
+      "example": "Für die Arbeit in der Küche braucht sie ein Gesundheitszeugnis.",
+      "exampleEn": "For work in the kitchen, she needs a health certificate.",
+      "example2": "Das Gesundheitszeugnis ist beim Gesundheitsamt zu beantragen.",
+      "example2En": "The health certificate must be applied for at the health department."
+    },
+    {
+      "de": "das Getreide",
+      "en": "grain; cereal",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "cereal crops such as wheat, rye, oats",
+          "de": "Pflanzen wie Weizen, Roggen, Hafer"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural; Kollektivbegriff für Feldfrüchte wie Weizen und Roggen.",
+      "example": "Das Getreide wird im Sommer geerntet.",
+      "exampleEn": "The grain is harvested in summer.",
+      "example2": "Brot wird aus Getreide hergestellt.",
+      "example2En": "Bread is made from grain."
+    },
+    {
+      "de": "gewährleisten",
+      "en": "to guarantee; to ensure",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to guarantee something (formal)",
+          "de": "formell: sicherstellen, garantieren"
+        }
+      ],
+      "rule": "Regelmäßig, untrennbar: gewährleistet, gewährleistete, hat gewährleistet; formelles Register (kein trennbares Verb, kein 'ge-' im Partizip).",
+      "example": "Der Hersteller gewährleistet die Sicherheit des Produkts.",
+      "exampleEn": "The manufacturer guarantees the safety of the product.",
+      "example2": "Wir können einen pünktlichen Beginn leider nicht gewährleisten.",
+      "example2En": "Unfortunately, we cannot guarantee a punctual start."
+    },
+    {
+      "de": "die Gewohnheit",
+      "en": "habit",
+      "pos": "noun",
+      "plural": "die Gewohnheiten",
+      "meanings": [
+        {
+          "en": "a regular, repeated behavior",
+          "de": "etwas, das man regelmäßig tut"
+        }
+      ],
+      "rule": "Von 'gewohnt sein' abgeleitet; feste Wendung: 'aus Gewohnheit'.",
+      "example": "Er trinkt aus Gewohnheit jeden Morgen Kaffee.",
+      "exampleEn": "He drinks coffee every morning out of habit.",
+      "example2": "Schlechte Gewohnheiten sind schwer zu ändern.",
+      "example2En": "Bad habits are hard to change."
+    },
+    {
+      "de": "das Gewürz",
+      "en": "spice; seasoning",
+      "pos": "noun",
+      "plural": "die Gewürze",
+      "meanings": [
+        {
+          "en": "substance used to flavor food",
+          "de": "etwas, das Speisen würzt, z. B. Pfeffer, Salz"
+        }
+      ],
+      "rule": "Von 'würzen' abgeleitet; regelmäßiger Plural die Gewürze.",
+      "example": "Pfeffer und Salz sind die wichtigsten Gewürze.",
+      "exampleEn": "Pepper and salt are the most important spices.",
+      "example2": "Das Gericht braucht noch etwas mehr Gewürz.",
+      "example2En": "The dish needs a bit more seasoning."
+    },
+    {
+      "de": "giftig",
+      "en": "poisonous; toxic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "harmful if eaten, touched or inhaled",
+          "de": "gefährlich, weil es Gift enthält"
+        },
+        {
+          "en": "figuratively: spiteful, venomous (words, remarks)",
+          "de": "übertragen: bösartig, gehässig (z. B. eine Bemerkung)"
+        }
+      ],
+      "rule": "Keine unregelmäßige Steigerung: giftig, giftiger, am giftigsten.",
+      "example": "Dieser Pilz ist giftig und darf nicht gegessen werden.",
+      "exampleEn": "This mushroom is poisonous and must not be eaten.",
+      "example2": "Sie machte eine giftige Bemerkung über ihren Kollegen.",
+      "example2En": "She made a spiteful remark about her colleague."
+    },
+    {
+      "de": "gleichzeitig",
+      "en": "simultaneous; at the same time",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "happening at the same time",
+          "de": "zur selben Zeit (geschehend)"
+        }
+      ],
+      "rule": "Wird oft als Adverb gebraucht; keine unregelmäßige Steigerung.",
+      "example": "Sie kann nicht telefonieren und gleichzeitig kochen.",
+      "exampleEn": "She can't talk on the phone and cook at the same time.",
+      "example2": "Beide Ereignisse fanden gleichzeitig statt.",
+      "example2En": "Both events took place simultaneously."
+    },
+    {
+      "de": "glutenfrei",
+      "en": "gluten-free",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "containing no gluten",
+          "de": "ohne Gluten (Klebereiweiß in Getreide)"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Gluten' + '-frei'; keine unregelmäßige Steigerung.",
+      "example": "Sie isst nur glutenfreies Brot.",
+      "exampleEn": "She only eats gluten-free bread.",
+      "example2": "Gibt es hier auch glutenfreie Nudeln?",
+      "example2En": "Do you also have gluten-free pasta here?"
+    },
+    {
+      "de": "das Golf",
+      "en": "golf",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the sport of golf",
+          "de": "Ballsportart auf dem Golfplatz"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural; Achtung: 'der Golf' bedeutet dagegen 'gulf/bay' (Genus unterscheidet die Bedeutung).",
+      "example": "Am Wochenende spielt er gern Golf.",
+      "exampleEn": "He likes to play golf on weekends.",
+      "example2": "Sie hat einen Kurs genommen, um Golf zu lernen.",
+      "example2En": "She took a course to learn golf."
+    },
+    {
+      "de": "die Grenze",
+      "en": "border; limit",
+      "pos": "noun",
+      "plural": "die Grenzen",
+      "meanings": [
+        {
+          "en": "border (between countries)",
+          "de": "Landesgrenze"
+        },
+        {
+          "en": "limit (of ability, tolerance)",
+          "de": "das Äußerste, Limit"
+        }
+      ],
+      "rule": "Feminine noun, plural -n. 'an der Grenze' (at the border); 'an seine Grenzen kommen' (to reach one's limits).",
+      "example": "Wir fahren morgen über die Grenze nach Polen.",
+      "exampleEn": "Tomorrow we're driving across the border into Poland.",
+      "example2": "Irgendwann sind auch meine Kräfte an ihre Grenzen gekommen.",
+      "example2En": "At some point even my strength reached its limits."
+    },
+    {
+      "de": "gründen",
+      "en": "to found, to establish",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to found/establish (a company, organization)",
+          "de": "etwas neu schaffen, ins Leben rufen"
+        }
+      ],
+      "rule": "Regular weak verb: gründet, gründete, hat gegründet. Often with Akkusativ: eine Firma gründen.",
+      "example": "Die beiden Freunde haben zusammen eine Firma gegründet.",
+      "exampleEn": "The two friends founded a company together.",
+      "example2": "1949 wurde die Bundesrepublik Deutschland gegründet.",
+      "example2En": "In 1949 the Federal Republic of Germany was founded."
+    },
+    {
+      "de": "grundsätzlich",
+      "en": "fundamental(ly); in principle",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "fundamental/basic",
+          "de": "im Prinzip, im Grunde"
+        },
+        {
+          "en": "as a rule, generally",
+          "de": "generell, prinzipiell"
+        }
+      ],
+      "rule": "Regular adjective/adverb, no irregular comparison. Often used as a sentence adverb: 'Grundsätzlich bin ich einverstanden.'",
+      "example": "Das ist eine grundsätzliche Frage, die wir klären müssen.",
+      "exampleEn": "That is a fundamental question we need to clarify.",
+      "example2": "Ich trinke grundsätzlich keinen Alkohol.",
+      "example2En": "As a rule, I don't drink alcohol."
+    },
+    {
+      "de": "der Gutschein",
+      "en": "voucher, coupon",
+      "pos": "noun",
+      "plural": "die Gutscheine",
+      "meanings": [
+        {
+          "en": "voucher / gift certificate",
+          "de": "ein Papier, mit dem man etwas kostenlos oder billiger bekommt"
+        }
+      ],
+      "rule": "Masculine noun, plural -e. Compound: Geschenkgutschein (gift voucher).",
+      "example": "Zum Geburtstag hat sie mir einen Gutschein für das Kino geschenkt.",
+      "exampleEn": "For my birthday she gave me a voucher for the cinema.",
+      "example2": "Diesen Gutschein kann man nur online einlösen.",
+      "example2En": "This voucher can only be redeemed online."
+    },
+    {
+      "de": "die Haftpflicht",
+      "en": "liability",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "legal liability (for damages)",
+          "de": "gesetzliche Pflicht, für einen Schaden zu zahlen"
+        }
+      ],
+      "rule": "Feminine noun, usually uncountable. In everyday speech, 'Haftpflicht' is often used as a short form of 'Haftpflichtversicherung'.",
+      "example": "Der Verursacher eines Unfalls trägt die Haftpflicht für den entstandenen Schaden.",
+      "exampleEn": "The person who caused the accident bears liability for the resulting damage.",
+      "example2": "Die Haftpflicht des Mieters ist im Vertrag geregelt.",
+      "example2En": "The tenant's liability is regulated in the contract."
+    },
+    {
+      "de": "die Haftpflichtversicherung",
+      "en": "liability insurance",
+      "pos": "noun",
+      "plural": "die Haftpflichtversicherungen",
+      "meanings": [
+        {
+          "en": "liability insurance",
+          "de": "eine Versicherung, die für Schäden zahlt, die man anderen zufügt"
+        }
+      ],
+      "rule": "Feminine noun, plural -en. Common types: Kfz-Haftpflichtversicherung (car), Privathaftpflichtversicherung (personal).",
+      "example": "Jeder Autobesitzer braucht eine Haftpflichtversicherung.",
+      "exampleEn": "Every car owner needs liability insurance.",
+      "example2": "Meine Haftpflichtversicherung hat den Schaden am fremden Auto bezahlt.",
+      "example2En": "My liability insurance paid for the damage to the other car."
+    },
+    {
+      "de": "der Hagel",
+      "en": "hail",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "hail (ice pellets falling as precipitation)",
+          "de": "kleine Eiskörner, die bei einem Gewitter vom Himmel fallen"
+        }
+      ],
+      "rule": "Masculine noun, uncountable (no plural). Related verb: hageln (es hagelt).",
+      "example": "Gestern gab es ein Gewitter mit starkem Hagel.",
+      "exampleEn": "Yesterday there was a thunderstorm with heavy hail.",
+      "example2": "Der Hagel hat viele Autos beschädigt.",
+      "example2En": "The hail damaged many cars."
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "id": "b1-13",
+  "title": "B1 · O–Q (13)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "objektiv",
+      "en": "objective",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "based on facts, not influenced by personal feelings",
+          "de": "sachlich, ohne persönliche Meinung"
+        }
+      ],
+      "rule": "Regelmäßige Komparation: objektiv, objektiver, am objektivsten; Gegenteil: subjektiv.",
+      "example": "Der Journalist versucht, objektiv zu berichten.",
+      "exampleEn": "The journalist tries to report objectively.",
+      "example2": "Es ist schwer, in dieser Sache objektiv zu bleiben.",
+      "example2En": "It's hard to stay objective in this matter."
+    },
+    {
+      "de": "die Obstschale",
+      "en": "fruit bowl",
+      "pos": "noun",
+      "plural": "die Obstschalen",
+      "meanings": [
+        {
+          "en": "a bowl used to hold fruit",
+          "de": "eine Schale, in der Obst aufbewahrt wird"
+        }
+      ],
+      "rule": "Femininum; Kompositum aus Obst + Schale.",
+      "example": "Auf dem Tisch steht eine Obstschale mit Äpfeln und Bananen.",
+      "exampleEn": "There's a fruit bowl with apples and bananas on the table.",
+      "example2": "Er stellte die Obstschale in die Küche.",
+      "example2En": "He put the fruit bowl in the kitchen."
+    },
+    {
+      "de": "obwohl",
+      "en": "although",
+      "pos": "conjunction",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "despite the fact that",
+          "de": "trotz der Tatsache, dass"
+        }
+      ],
+      "rule": "Subjunktion, verb-letzte Stellung im Nebensatz: 'Obwohl es regnet, gehen wir spazieren.'",
+      "example": "Obwohl es regnet, gehen wir spazieren.",
+      "exampleEn": "Although it's raining, we're going for a walk.",
+      "example2": "Sie kam zur Arbeit, obwohl sie krank war.",
+      "example2En": "She came to work although she was sick."
+    },
+    {
+      "de": "offen",
+      "en": "open; frank",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not closed; accessible",
+          "de": "nicht geschlossen"
+        },
+        {
+          "en": "honest and direct in speech",
+          "de": "ehrlich und direkt im Gespräch"
+        }
+      ],
+      "rule": "Regelmäßige Komparation: offen, offener, am offensten.",
+      "example": "Das Fenster ist die ganze Nacht offen geblieben.",
+      "exampleEn": "The window stayed open all night.",
+      "example2": "Sie hat offen über ihre Probleme gesprochen.",
+      "example2En": "She spoke openly about her problems."
+    },
+    {
+      "de": "offenbar",
+      "en": "apparently; evidently",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "apparently, as it seems",
+          "de": "anscheinend, wie es scheint"
+        }
+      ],
+      "rule": "Unveränderliches Adverb, ähnlich wie 'anscheinend'; oft am Satzanfang oder nach dem Verb.",
+      "example": "Er ist offenbar nicht gekommen.",
+      "exampleEn": "He apparently didn't come.",
+      "example2": "Offenbar hat sie den Termin vergessen.",
+      "example2En": "She apparently forgot the appointment."
+    },
+    {
+      "de": "die Öffnung",
+      "en": "opening",
+      "pos": "noun",
+      "plural": "die Öffnungen",
+      "meanings": [
+        {
+          "en": "a gap or hole allowing access or passage",
+          "de": "eine Lücke oder ein Loch, durch das man hindurchgehen kann"
+        },
+        {
+          "en": "the act of opening something",
+          "de": "das Öffnen von etwas"
+        }
+      ],
+      "rule": "Femininum; von 'öffnen' abgeleitetes Nomen auf -ung.",
+      "example": "Durch die Öffnung in der Wand sieht man den Garten.",
+      "exampleEn": "Through the opening in the wall you can see the garden.",
+      "example2": "Die Öffnung des neuen Museums war ein großes Ereignis.",
+      "example2En": "The opening of the new museum was a big event."
+    },
+    {
+      "de": "der Oldtimer",
+      "en": "vintage car",
+      "pos": "noun",
+      "plural": "die Oldtimer",
+      "meanings": [
+        {
+          "en": "a classic, historic car",
+          "de": "ein altes, klassisches Auto"
+        }
+      ],
+      "rule": "Maskulin; Pseudoanglizismus, im Englischen nicht für Autos üblich.",
+      "example": "Auf der Messe wurden viele seltene Oldtimer ausgestellt.",
+      "exampleEn": "Many rare vintage cars were exhibited at the fair.",
+      "example2": "Sein Großvater besitzt einen Oldtimer aus den 1960er Jahren.",
+      "example2En": "His grandfather owns a vintage car from the 1960s."
+    },
+    {
+      "de": "der Onlineeinkauf",
+      "en": "online purchase",
+      "pos": "noun",
+      "plural": "die Onlineeinkäufe",
+      "meanings": [
+        {
+          "en": "purchase made over the internet",
+          "de": "Kauf im Internet"
+        }
+      ],
+      "rule": "Compound noun: online + Einkauf; gender follows der Einkauf.",
+      "example": "Der Onlineeinkauf spart mir viel Zeit.",
+      "exampleEn": "Online shopping saves me a lot of time.",
+      "example2": "Bei diesem Onlineeinkauf gab es Rabatt.",
+      "example2En": "There was a discount on this online purchase."
+    },
+    {
+      "de": "der Onlineshop",
+      "en": "online shop, online store",
+      "pos": "noun",
+      "plural": "die Onlineshops",
+      "meanings": [
+        {
+          "en": "a website where you can buy products",
+          "de": "Geschäft im Internet"
+        }
+      ],
+      "rule": "Also written 'Online-Shop'; plural simply adds -s (English loanword).",
+      "example": "Ich bestelle Schuhe in einem Onlineshop.",
+      "exampleEn": "I'm ordering shoes from an online shop.",
+      "example2": "Der Onlineshop bietet kostenlosen Versand an.",
+      "example2En": "The online shop offers free shipping."
+    },
+    {
+      "de": "das Onlineshopping",
+      "en": "online shopping",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the activity of shopping on the internet",
+          "de": "Einkaufen im Internet"
+        }
+      ],
+      "rule": "Uncountable noun, no plural; English loanword, often written 'Online-Shopping'.",
+      "example": "Onlineshopping ist bei jungen Leuten sehr beliebt.",
+      "exampleEn": "Online shopping is very popular among young people.",
+      "example2": "Beim Onlineshopping kann man Preise gut vergleichen.",
+      "example2En": "With online shopping you can easily compare prices."
+    },
+    {
+      "de": "optimistisch",
+      "en": "optimistic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "expecting good outcomes; hopeful",
+          "de": "hoffnungsvoll, positiv denkend"
+        }
+      ],
+      "rule": "Regular comparison: optimistisch, optimistischer, am optimistischsten.",
+      "example": "Sie ist optimistisch, dass sie die Prüfung besteht.",
+      "exampleEn": "She is optimistic that she will pass the exam.",
+      "example2": "Trotz der Probleme bleibt er optimistisch.",
+      "example2En": "Despite the problems, he stays optimistic."
+    },
+    {
+      "de": "das Original",
+      "en": "original",
+      "pos": "noun",
+      "plural": "die Originale",
+      "meanings": [
+        {
+          "en": "the genuine first version of something (not a copy)",
+          "de": "das Echte, keine Kopie"
+        }
+      ],
+      "rule": "Neuter noun; note adjective 'original' exists too but here used as a noun.",
+      "example": "Das ist kein Original, sondern eine Kopie.",
+      "exampleEn": "That's not an original, but a copy.",
+      "example2": "Bitte bringen Sie das Original des Dokuments mit.",
+      "example2En": "Please bring the original of the document."
+    },
+    {
+      "de": "das Paket",
+      "en": "package, parcel",
+      "pos": "noun",
+      "plural": "die Pakete",
+      "meanings": [
+        {
+          "en": "a wrapped package sent by post",
+          "de": "verpackte Sendung per Post"
+        },
+        {
+          "en": "a bundled set of things/services",
+          "de": "Bündel, z. B. Angebotspaket"
+        }
+      ],
+      "rule": "Neuter noun; common phrase 'ein Paket schicken/bekommen'.",
+      "example": "Ich habe ein Paket von meiner Mutter bekommen.",
+      "exampleEn": "I received a package from my mother.",
+      "example2": "Der Anbieter hat ein günstiges Paket für Internet und Telefon.",
+      "example2En": "The provider has a cheap package for internet and phone."
+    },
+    {
+      "de": "der Paketbote",
+      "en": "parcel delivery man",
+      "pos": "noun",
+      "plural": "die Paketboten",
+      "meanings": [
+        {
+          "en": "a person who delivers parcels",
+          "de": "Person, die Pakete zustellt"
+        }
+      ],
+      "rule": "Feminine form: die Paketbotin; weak noun (den/dem/des Paketboten).",
+      "example": "Der Paketbote hat heute zweimal geklingelt.",
+      "exampleEn": "The parcel delivery man rang the bell twice today.",
+      "example2": "Ich habe das Paket persönlich vom Paketboten bekommen.",
+      "example2En": "I received the package personally from the delivery man."
+    },
+    {
+      "de": "der Paketdienst",
+      "en": "parcel delivery service",
+      "pos": "noun",
+      "plural": "die Paketdienste",
+      "meanings": [
+        {
+          "en": "a company/service that delivers parcels",
+          "de": "Firma, die Pakete zustellt"
+        }
+      ],
+      "rule": "Compound: Paket + Dienst; gender follows der Dienst.",
+      "example": "Der Paketdienst bringt die Sendung morgen.",
+      "exampleEn": "The parcel service will deliver the shipment tomorrow.",
+      "example2": "Welcher Paketdienst liefert bei euch aus?",
+      "example2En": "Which parcel service delivers in your area?"
+    },
+    {
+      "de": "der Papiermüll",
+      "en": "paper waste",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "waste consisting of paper, to be recycled",
+          "de": "Abfall aus Papier"
+        }
+      ],
+      "rule": "Uncountable; compound of Papier + Müll, gender follows der Müll.",
+      "example": "Alte Zeitungen kommen in den Papiermüll.",
+      "exampleEn": "Old newspapers go into the paper waste.",
+      "example2": "Der Papiermüll wird einmal im Monat abgeholt.",
+      "example2En": "The paper waste is collected once a month."
+    },
+    {
+      "de": "die Pappe",
+      "en": "cardboard",
+      "pos": "noun",
+      "plural": "die Pappen",
+      "meanings": [
+        {
+          "en": "stiff, thick paper material",
+          "de": "dickes, festes Papier"
+        }
+      ],
+      "rule": "Usually used uncountably in singular; plural rarely used (types of cardboard).",
+      "example": "Der Karton ist aus dicker Pappe.",
+      "exampleEn": "The box is made of thick cardboard.",
+      "example2": "Wir haben das Plakat auf Pappe geklebt.",
+      "example2En": "We glued the poster onto cardboard."
+    },
+    {
+      "de": "das Paradies",
+      "en": "paradise",
+      "pos": "noun",
+      "plural": "die Paradiese",
+      "meanings": [
+        {
+          "en": "a place of perfect happiness/beauty",
+          "de": "ein Ort vollkommenen Glücks"
+        }
+      ],
+      "rule": "Neuter noun; also religious sense (Garden of Eden), plural rarely used.",
+      "example": "Diese Insel ist wie ein Paradies.",
+      "exampleEn": "This island is like paradise.",
+      "example2": "Für Wanderer ist die Region ein wahres Paradies.",
+      "example2En": "For hikers, the region is a real paradise."
+    },
+    {
+      "de": "parken",
+      "en": "to park",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to stop and leave a vehicle somewhere",
+          "de": "ein Fahrzeug abstellen"
+        }
+      ],
+      "rule": "Regular (weak) verb: parkt, parkte, hat geparkt.",
+      "example": "Ich habe das Auto vor dem Haus geparkt.",
+      "exampleEn": "I parked the car in front of the house.",
+      "example2": "Hier darf man nicht parken.",
+      "example2En": "You're not allowed to park here."
+    },
+    {
+      "de": "die Parklücke",
+      "en": "parking space",
+      "pos": "noun",
+      "plural": "die Parklücken",
+      "meanings": [
+        {
+          "en": "a gap in which a car can be parked",
+          "de": "freier Platz zum Parken"
+        }
+      ],
+      "rule": "Compound: parken + Lücke; gender follows die Lücke.",
+      "example": "Endlich habe ich eine Parklücke gefunden.",
+      "exampleEn": "I finally found a parking space.",
+      "example2": "Die Parklücke war zu klein für unser Auto.",
+      "example2En": "The parking space was too small for our car."
+    },
+    {
+      "de": "der Passagier / die Passagierin",
+      "en": "passenger",
+      "pos": "noun",
+      "plural": "die Passagiere",
+      "meanings": [
+        {
+          "en": "a person travelling in a vehicle (plane, ship, train), not the driver",
+          "de": "Fahrgast, z. B. im Flugzeug oder Schiff"
+        }
+      ],
+      "rule": "Feminine form: die Passagierin, plural die Passagierinnen.",
+      "example": "Alle Passagiere müssen sich anschnallen.",
+      "exampleEn": "All passengers must fasten their seatbelts.",
+      "example2": "Der Flug hatte über 200 Passagiere.",
+      "example2En": "The flight had over 200 passengers."
+    },
+    {
+      "de": "die Passkontrolle",
+      "en": "passport control",
+      "pos": "noun",
+      "plural": "die Passkontrollen",
+      "meanings": [
+        {
+          "en": "checking of passports at a border/airport",
+          "de": "Überprüfung des Reisepasses"
+        }
+      ],
+      "rule": "Compound: Pass + Kontrolle; gender follows die Kontrolle.",
+      "example": "Bei der Passkontrolle mussten wir lange warten.",
+      "exampleEn": "We had to wait a long time at passport control.",
+      "example2": "Bitte halten Sie Ihren Reisepass für die Passkontrolle bereit.",
+      "example2En": "Please have your passport ready for passport control."
+    },
+    {
+      "de": "der PC",
+      "en": "PC, personal computer",
+      "pos": "noun",
+      "plural": "die PCs",
+      "meanings": [
+        {
+          "en": "personal computer",
+          "de": "Personalcomputer"
+        }
+      ],
+      "rule": "Abbreviation, pronounced 'Pe-Tse'; plural adds -s.",
+      "example": "Ich arbeite jeden Tag am PC.",
+      "exampleEn": "I work on the PC every day.",
+      "example2": "Der PC ist plötzlich abgestürzt.",
+      "example2En": "The PC suddenly crashed."
+    },
+    {
+      "de": "der Personenschaden",
+      "en": "personal injury",
+      "pos": "noun",
+      "plural": "die Personenschäden",
+      "meanings": [
+        {
+          "en": "injury or harm to a person (e.g. in an accident)",
+          "de": "Verletzung einer Person, z. B. bei einem Unfall"
+        }
+      ],
+      "rule": "Compound: Person(en) + Schaden; contrast with 'Sachschaden' (property damage).",
+      "example": "Bei dem Unfall gab es keinen Personenschaden.",
+      "exampleEn": "There was no personal injury in the accident.",
+      "example2": "Zum Glück entstand nur ein Sachschaden, kein Personenschaden.",
+      "example2En": "Luckily only property damage occurred, no personal injury."
+    },
+    {
+      "de": "die Pferdestärke (PS)",
+      "en": "horsepower (unit)",
+      "pos": "noun",
+      "plural": "(Plural: PS, unverändert)",
+      "meanings": [
+        {
+          "en": "unit measuring engine power",
+          "de": "Maßeinheit für die Leistung eines Motors"
+        }
+      ],
+      "rule": "feminine noun 'die Pferdestärke'; abbreviation PS is invariable in plural; often used with numbers: 90 PS",
+      "example": "Mein neues Auto hat 120 PS.",
+      "exampleEn": "My new car has 120 horsepower.",
+      "example2": "Wie viel PS hat dein Motorrad?",
+      "example2En": "How many horsepower does your motorcycle have?"
+    },
+    {
+      "de": "der Pflegehelfer / die Pflegehelferin",
+      "en": "nursing assistant, care aide",
+      "pos": "noun",
+      "plural": "die Pflegehelfer",
+      "meanings": [
+        {
+          "en": "a person trained to assist in nursing/care work",
+          "de": "Person, die bei der Pflege hilft"
+        }
+      ],
+      "rule": "Feminine form: die Pflegehelferin, plural die Pflegehelferinnen.",
+      "example": "Der Pflegehelfer unterstützt die Krankenschwester.",
+      "exampleEn": "The nursing assistant supports the nurse.",
+      "example2": "Sie arbeitet als Pflegehelferin im Altenheim.",
+      "example2En": "She works as a care aide in the nursing home."
+    },
+    {
+      "de": "die Pflegekraft",
+      "en": "caregiver; nurse/care worker",
+      "pos": "noun",
+      "plural": "die Pflegekräfte",
+      "meanings": [
+        {
+          "en": "a person who professionally cares for sick/elderly people",
+          "de": "jemand, der beruflich kranke oder alte Menschen pflegt"
+        }
+      ],
+      "rule": "Compound noun (Pflege + Kraft); feminine even when referring to a man, though 'Pflegekräfte' is often used as gender-neutral plural.",
+      "example": "Im Altenheim fehlen qualifizierte Pflegekräfte.",
+      "exampleEn": "The nursing home lacks qualified care workers.",
+      "example2": "Meine Mutter wird von einer Pflegekraft betreut.",
+      "example2En": "My mother is looked after by a caregiver."
+    },
+    {
+      "de": "die Phase",
+      "en": "phase; stage",
+      "pos": "noun",
+      "plural": "die Phasen",
+      "meanings": [
+        {
+          "en": "a stage in a process or development",
+          "de": "ein Abschnitt in einer Entwicklung"
+        }
+      ],
+      "rule": "Weak-ish feminine noun, plural adds -n.",
+      "example": "Das Projekt befindet sich noch in der Planungsphase.",
+      "exampleEn": "The project is still in the planning phase.",
+      "example2": "Jedes Kind durchläuft verschiedene Phasen.",
+      "example2En": "Every child goes through different phases."
+    },
+    {
+      "de": "das Picknick",
+      "en": "picnic",
+      "pos": "noun",
+      "plural": "die Picknicks",
+      "meanings": [
+        {
+          "en": "an outdoor meal eaten casually, often in nature",
+          "de": "ein Essen im Freien, meist in der Natur"
+        }
+      ],
+      "rule": "Neuter noun of English origin; plural with -s.",
+      "example": "Wir machen am Sonntag ein Picknick im Park.",
+      "exampleEn": "We're having a picnic in the park on Sunday.",
+      "example2": "Beim Picknick gab es Sandwiches und Obst.",
+      "example2En": "At the picnic there were sandwiches and fruit."
+    },
+    {
+      "de": "der Pilotenstreik",
+      "en": "pilots' strike",
+      "pos": "noun",
+      "plural": "die Pilotenstreiks",
+      "meanings": [
+        {
+          "en": "a strike organized by airline pilots",
+          "de": "ein Streik der Flugzeugpiloten"
+        }
+      ],
+      "rule": "Compound noun (Piloten + Streik); follows gender of 'der Streik'.",
+      "example": "Wegen des Pilotenstreiks fallen viele Flüge aus.",
+      "exampleEn": "Because of the pilots' strike, many flights are cancelled.",
+      "example2": "Der Pilotenstreik dauerte drei Tage.",
+      "example2En": "The pilots' strike lasted three days."
+    },
+    {
+      "de": "der Planet",
+      "en": "planet",
+      "pos": "noun",
+      "plural": "die Planeten",
+      "meanings": [
+        {
+          "en": "a large celestial body orbiting a star",
+          "de": "ein großer Himmelskörper, der einen Stern umkreist"
+        }
+      ],
+      "rule": "Weak masculine noun (n-declension): den/dem/des Planeten in singular oblique cases.",
+      "example": "Die Erde ist unser Planet.",
+      "exampleEn": "Earth is our planet.",
+      "example2": "Mars ist ein roter Planet.",
+      "example2En": "Mars is a red planet."
+    },
+    {
+      "de": "das Plastik",
+      "en": "plastic (material)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "synthetic material used for many products",
+          "de": "ein künstlich hergestellter Werkstoff"
+        }
+      ],
+      "rule": "Uncountable neuter noun; note: 'die Plastik' (feminine) means 'sculpture', a different word.",
+      "example": "Die Verpackung besteht aus Plastik.",
+      "exampleEn": "The packaging is made of plastic.",
+      "example2": "Wir versuchen, weniger Plastik zu verwenden.",
+      "example2En": "We try to use less plastic."
+    },
+    {
+      "de": "politisch",
+      "en": "political",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to politics or government",
+          "de": "die Politik betreffend"
+        }
+      ],
+      "rule": "Regular adjective, no irregular comparison (politischer, am politischsten, rarely used comparatively).",
+      "example": "Er interessiert sich sehr für politische Themen.",
+      "exampleEn": "He is very interested in political topics.",
+      "example2": "Die Lage im Land ist politisch instabil.",
+      "example2En": "The situation in the country is politically unstable."
+    },
+    {
+      "de": "der Pool",
+      "en": "pool (swimming)",
+      "pos": "noun",
+      "plural": "die Pools",
+      "meanings": [
+        {
+          "en": "a swimming pool",
+          "de": "ein Schwimmbecken"
+        }
+      ],
+      "rule": "Masculine noun of English origin; plural with -s.",
+      "example": "Im Sommer schwimmen wir jeden Tag im Pool.",
+      "exampleEn": "In summer we swim in the pool every day.",
+      "example2": "Das Hotel hat einen großen Pool.",
+      "example2En": "The hotel has a large pool."
+    },
+    {
+      "de": "das Porto",
+      "en": "postage",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the fee charged for mailing a letter or parcel",
+          "de": "die Gebühr für den Versand eines Briefes oder Pakets"
+        }
+      ],
+      "rule": "Usually uncountable in everyday use, though plural 'die Portos/Porti' exists rarely.",
+      "example": "Wie hoch ist das Porto für einen Brief nach Frankreich?",
+      "exampleEn": "How much is the postage for a letter to France?",
+      "example2": "Das Porto hat sich erhöht.",
+      "example2En": "Postage rates have gone up."
+    },
+    {
+      "de": "portofrei",
+      "en": "postage-free",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "without any charge for postage",
+          "de": "ohne Portokosten"
+        }
+      ],
+      "rule": "Compound adjective (Porto + frei); no irregular comparison.",
+      "example": "Ab 50 Euro liefern wir portofrei.",
+      "exampleEn": "From 50 euros we deliver free of postage.",
+      "example2": "Dieses Angebot gilt nur für portofreie Bestellungen.",
+      "example2En": "This offer only applies to postage-free orders."
+    },
+    {
+      "de": "die Portokosten",
+      "en": "postage costs",
+      "pos": "noun",
+      "plural": "die Portokosten",
+      "meanings": [
+        {
+          "en": "the costs charged for postage",
+          "de": "die Kosten für das Porto"
+        }
+      ],
+      "rule": "Plural-only noun (Pluraletantum); always used in plural form.",
+      "example": "Die Portokosten trägt der Käufer.",
+      "exampleEn": "The buyer pays the postage costs.",
+      "example2": "Die Portokosten sind im Preis enthalten.",
+      "example2En": "The postage costs are included in the price."
+    },
+    {
+      "de": "der Posteingang",
+      "en": "inbox",
+      "pos": "noun",
+      "plural": "die Posteingänge",
+      "meanings": [
+        {
+          "en": "the folder where incoming mail (post or email) arrives",
+          "de": "der Ordner für eingehende Post oder E-Mails"
+        }
+      ],
+      "rule": "Compound noun (Post + Eingang); follows gender of 'der Eingang'.",
+      "example": "Ich habe drei neue Nachrichten im Posteingang.",
+      "exampleEn": "I have three new messages in my inbox.",
+      "example2": "Bitte überprüfen Sie Ihren Posteingang.",
+      "example2En": "Please check your inbox."
+    },
+    {
+      "de": "präsentieren",
+      "en": "to present",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to show or explain something formally to others",
+          "de": "etwas vor anderen vorstellen oder erklären"
+        }
+      ],
+      "rule": "Regular weak verb; präsentiert, präsentierte, hat präsentiert; often takes an object (+ Akkusativ).",
+      "example": "Sie präsentiert morgen ihr neues Projekt.",
+      "exampleEn": "She is presenting her new project tomorrow.",
+      "example2": "Wir haben die Ergebnisse dem Team präsentiert.",
+      "example2En": "We presented the results to the team."
+    },
+    {
+      "de": "die Privatnummer",
+      "en": "private phone number",
+      "pos": "noun",
+      "plural": "die Privatnummern",
+      "meanings": [
+        {
+          "en": "a personal, non-business phone number",
+          "de": "eine persönliche, nicht dienstliche Telefonnummer"
+        }
+      ],
+      "rule": "Compound noun (Privat + Nummer); follows gender of 'die Nummer'.",
+      "example": "Er hat mir seine Privatnummer gegeben.",
+      "exampleEn": "He gave me his private phone number.",
+      "example2": "Bitte rufen Sie mich nicht auf meiner Privatnummer an.",
+      "example2En": "Please don't call me on my private number."
+    },
+    {
+      "de": "die Probezeit",
+      "en": "probation period",
+      "pos": "noun",
+      "plural": "die Probezeiten",
+      "meanings": [
+        {
+          "en": "a trial period at the start of a new job",
+          "de": "eine Testphase am Anfang einer neuen Arbeitsstelle"
+        }
+      ],
+      "rule": "Compound noun (Probe + Zeit); follows gender of 'die Zeit'.",
+      "example": "Meine Probezeit dauert sechs Monate.",
+      "exampleEn": "My probation period lasts six months.",
+      "example2": "In der Probezeit kann der Vertrag schneller gekündigt werden.",
+      "example2En": "During the probation period the contract can be terminated more quickly."
+    },
+    {
+      "de": "problemlos",
+      "en": "without problems; smooth",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "happening easily, without difficulties",
+          "de": "ohne Schwierigkeiten ablaufend"
+        }
+      ],
+      "rule": "Compound adjective (Problem + los); no irregular comparison.",
+      "example": "Die Reise verlief problemlos.",
+      "exampleEn": "The trip went smoothly, without problems.",
+      "example2": "Die Installation ist problemlos.",
+      "example2En": "The installation is problem-free."
+    },
+    {
+      "de": "produzieren",
+      "en": "to produce",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to manufacture or create goods, often on a larger scale",
+          "de": "etwas herstellen oder erzeugen"
+        }
+      ],
+      "rule": "Regular weak verb; produziert, produzierte, hat produziert; + Akkusativ.",
+      "example": "Die Firma produziert Autos.",
+      "exampleEn": "The company produces cars.",
+      "example2": "Der Vulkan produziert viel Rauch.",
+      "example2En": "The volcano produces a lot of smoke."
+    },
+    {
+      "de": "der Protest",
+      "en": "protest",
+      "pos": "noun",
+      "plural": "die Proteste",
+      "meanings": [
+        {
+          "en": "a public expression of disapproval or objection",
+          "de": "eine öffentliche Ablehnung oder Beschwerde"
+        }
+      ],
+      "rule": "Masculine noun; often used with preposition 'gegen' (+ Akkusativ): Protest gegen etwas.",
+      "example": "Es gab einen lauten Protest gegen die neuen Regeln.",
+      "exampleEn": "There was a loud protest against the new rules.",
+      "example2": "Die Bürger organisierten einen Protest.",
+      "example2En": "The citizens organized a protest."
+    },
+    {
+      "de": "protestieren",
+      "en": "to protest",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to express opposition, object",
+          "de": "seinen Widerspruch/Unmut ausdrücken"
+        }
+      ],
+      "rule": "regelmäßig: protestiert, protestierte, hat protestiert; oft mit 'gegen + Akkusativ'",
+      "example": "Die Studenten protestieren gegen die Studiengebühren.",
+      "exampleEn": "The students are protesting against the tuition fees.",
+      "example2": "Er protestierte laut, aber niemand hörte ihm zu.",
+      "example2En": "He protested loudly, but nobody listened to him."
+    },
+    {
+      "de": "die Qualifikation",
+      "en": "qualification",
+      "pos": "noun",
+      "plural": "die Qualifikationen",
+      "meanings": [
+        {
+          "en": "skills/education needed for a job",
+          "de": "fachliche Voraussetzung für einen Beruf"
+        },
+        {
+          "en": "qualifying round in sport",
+          "de": "Ausscheidungswettkampf im Sport"
+        }
+      ],
+      "rule": "feminine noun ending in -ion; often used with 'für' or 'zu'",
+      "example": "Für diese Stelle brauchen Sie eine besondere Qualifikation.",
+      "exampleEn": "For this position you need a special qualification.",
+      "example2": "Die Mannschaft hat die Qualifikation für die WM geschafft.",
+      "example2En": "The team achieved qualification for the World Cup."
+    },
+    {
+      "de": "die Qualität",
+      "en": "quality",
+      "pos": "noun",
+      "plural": "die Qualitäten",
+      "meanings": [
+        {
+          "en": "standard/degree of excellence",
+          "de": "Güte, Beschaffenheit"
+        }
+      ],
+      "rule": "feminine noun ending in -ät; opposite: die Quantität",
+      "example": "Die Qualität des Stoffes ist sehr gut.",
+      "exampleEn": "The quality of the fabric is very good.",
+      "example2": "Wir achten mehr auf Qualität als auf Quantität.",
+      "example2En": "We care more about quality than quantity."
+    },
+    {
+      "de": "der Quark",
+      "en": "quark (soft curd cheese)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "soft fresh cheese similar to curd",
+          "de": "weicher Frischkäse aus Milch"
+        }
+      ],
+      "rule": "masculine, uncountable (kein Plural); typical in German breakfasts and desserts",
+      "example": "Zum Frühstück esse ich gern Quark mit Früchten.",
+      "exampleEn": "For breakfast I like to eat quark with fruit.",
+      "example2": "Sie backt einen Kuchen mit Quark.",
+      "example2En": "She's baking a cake with quark."
+    },
+    {
+      "de": "quietschen",
+      "en": "to squeak, to squeal",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make a high-pitched noise",
+          "de": "einen hohen, schrillen Ton von sich geben"
+        }
+      ],
+      "rule": "regelmäßig: quietscht, quietschte, hat gequietscht; oft bei Türen, Bremsen, Schuhen",
+      "example": "Die Tür quietscht, wenn man sie öffnet.",
+      "exampleEn": "The door squeaks when you open it.",
+      "example2": "Die Bremsen quietschten laut.",
+      "example2En": "The brakes squealed loudly."
+    },
+    {
+      "de": "die Quizshow",
+      "en": "quiz show",
+      "pos": "noun",
+      "plural": "die Quizshows",
+      "meanings": [
+        {
+          "en": "TV entertainment program with questions",
+          "de": "Fernsehsendung mit Wissensfragen"
+        }
+      ],
+      "rule": "feminine noun; compound of 'Quiz' + 'Show' (beide Wörter aus dem Englischen)",
+      "example": "Jeden Samstag sehe ich mir eine Quizshow im Fernsehen an.",
+      "exampleEn": "Every Saturday I watch a quiz show on TV.",
+      "example2": "Er hat bei einer Quizshow viel Geld gewonnen.",
+      "example2En": "He won a lot of money on a quiz show."
+    }
+  ]
+}

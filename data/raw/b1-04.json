@@ -1,0 +1,881 @@
+{
+  "id": "b1-04",
+  "title": "B1 · B–D (4)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "betreten",
+      "en": "to enter, to step onto",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to walk into / step onto a place",
+          "de": "einen Ort betreten, hineingehen"
+        }
+      ],
+      "rule": "unregelmäßig; betritt, betrat, hat betreten; + Akkusativ; untrennbares Präfix 'be-', deshalb kein 'ge-' im Partizip II (hat betreten, nicht 'gebetreten').",
+      "example": "Bitte den Rasen nicht betreten!",
+      "exampleEn": "Please do not step on the lawn!",
+      "example2": "Er betrat vorsichtig das dunkle Zimmer.",
+      "example2En": "He carefully entered the dark room."
+    },
+    {
+      "de": "die Betriebswirtschaft",
+      "en": "business administration/economics",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "academic field of business management",
+          "de": "Wissenschaft der Unternehmensführung"
+        }
+      ],
+      "rule": "weiblich; meist unzählbar, kein Plural; oft abgekürzt BWL.",
+      "example": "Sie studiert Betriebswirtschaft an der Uni.",
+      "exampleEn": "She studies business administration at university.",
+      "example2": "Er hat einen Abschluss in Betriebswirtschaft.",
+      "example2En": "He has a degree in business administration."
+    },
+    {
+      "de": "betrunken",
+      "en": "drunk",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "intoxicated by alcohol",
+          "de": "vom Alkohol berauscht"
+        }
+      ],
+      "rule": "Partizip II von 'sich betrinken'; wird als Adjektiv verwendet, Steigerung mit -er/-sten selten gebraucht.",
+      "example": "Er war zu betrunken zum Autofahren.",
+      "exampleEn": "He was too drunk to drive.",
+      "example2": "Auf der Party waren viele Leute betrunken.",
+      "example2En": "Many people were drunk at the party."
+    },
+    {
+      "de": "beurteilen",
+      "en": "to judge, to assess",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to evaluate or form an opinion about something",
+          "de": "über etwas ein Urteil bilden"
+        }
+      ],
+      "rule": "regelmäßig; beurteilt, beurteilte, hat beurteilt; + Akkusativ; untrennbar.",
+      "example": "Der Chef beurteilt die Arbeit der Mitarbeiter.",
+      "exampleEn": "The boss evaluates the employees' work.",
+      "example2": "Man sollte einen Menschen nicht nach dem ersten Eindruck beurteilen.",
+      "example2En": "One shouldn't judge a person by the first impression."
+    },
+    {
+      "de": "der Beutel",
+      "en": "bag, pouch",
+      "pos": "noun",
+      "plural": "die Beutel",
+      "meanings": [
+        {
+          "en": "a small bag or pouch",
+          "de": "kleiner Sack, Tüte"
+        }
+      ],
+      "rule": "maskulin; Plural ohne Endung: die Beutel.",
+      "example": "Sie packt die Äpfel in einen Beutel.",
+      "exampleEn": "She puts the apples in a bag.",
+      "example2": "Der Kaffee ist als Beutel erhältlich.",
+      "example2En": "The coffee is available as a bag (sachet)."
+    },
+    {
+      "de": "die Bevölkerung",
+      "en": "population",
+      "pos": "noun",
+      "plural": "die Bevölkerungen",
+      "meanings": [
+        {
+          "en": "the people living in a place",
+          "de": "die Einwohner eines Landes/Gebiets"
+        }
+      ],
+      "rule": "weiblich; meist Singular benutzt, Plural selten (für verschiedene Bevölkerungen/Länder).",
+      "example": "Die Bevölkerung der Stadt wächst schnell.",
+      "exampleEn": "The city's population is growing fast.",
+      "example2": "Ein großer Teil der Bevölkerung ist dagegen.",
+      "example2En": "A large part of the population is against it."
+    },
+    {
+      "de": "das Bewerbungsschreiben",
+      "en": "cover letter, application letter",
+      "pos": "noun",
+      "plural": "die Bewerbungsschreiben",
+      "meanings": [
+        {
+          "en": "written letter accompanying a job application",
+          "de": "schriftliche Bewerbung um eine Stelle"
+        }
+      ],
+      "rule": "Kompositum aus 'Bewerbung' + 'Schreiben' (mit Fugen-s); sächlich; Plural ohne Endung.",
+      "example": "Er schreibt ein Bewerbungsschreiben für die Stelle.",
+      "exampleEn": "He writes a cover letter for the position.",
+      "example2": "Das Bewerbungsschreiben sollte kurz und klar sein.",
+      "example2En": "The cover letter should be short and clear."
+    },
+    {
+      "de": "der Bewohner / die Bewohnerin",
+      "en": "resident, inhabitant",
+      "pos": "noun",
+      "plural": "die Bewohner / die Bewohnerinnen",
+      "meanings": [
+        {
+          "en": "a person who lives in a place",
+          "de": "eine Person, die an einem Ort wohnt"
+        }
+      ],
+      "rule": "maskulin/feminin; Plural: die Bewohner / die Bewohnerinnen; von 'bewohnen' abgeleitet.",
+      "example": "Die Bewohner des Hauses beschweren sich über den Lärm.",
+      "exampleEn": "The residents of the building are complaining about the noise.",
+      "example2": "Die neue Bewohnerin hat sich noch nicht vorgestellt.",
+      "example2En": "The new resident hasn't introduced herself yet."
+    },
+    {
+      "de": "bewusst",
+      "en": "conscious, aware; deliberate",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "aware of something",
+          "de": "sich einer Sache klar sein"
+        },
+        {
+          "en": "deliberate, intentional",
+          "de": "absichtlich"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: bewusst, bewusster, am bewusstesten; oft mit 'sich etwas bewusst sein' (Dativ der Person + Genitiv der Sache, umgangssprachlich auch + Akk.)",
+      "example": "Mir ist bewusst, dass ich einen Fehler gemacht habe.",
+      "exampleEn": "I am aware that I made a mistake.",
+      "example2": "Er hat die Frage bewusst nicht beantwortet.",
+      "example2En": "He deliberately did not answer the question."
+    },
+    {
+      "de": "der Bezahlvorgang",
+      "en": "payment process",
+      "pos": "noun",
+      "plural": "die Bezahlvorgänge",
+      "meanings": [
+        {
+          "en": "the process of paying (e.g. online or at a till)",
+          "de": "der Vorgang, bei dem man bezahlt"
+        }
+      ],
+      "rule": "Compound noun: bezahlen + Vorgang; takes the gender of Vorgang (der).",
+      "example": "Der Bezahlvorgang im Online-Shop dauert nur wenige Sekunden.",
+      "exampleEn": "The payment process in the online shop only takes a few seconds.",
+      "example2": "Bitte schließen Sie den Bezahlvorgang an der Kasse ab.",
+      "example2En": "Please complete the payment process at the checkout."
+    },
+    {
+      "de": "der Biergarten",
+      "en": "beer garden",
+      "pos": "noun",
+      "plural": "die Biergärten",
+      "meanings": [
+        {
+          "en": "an outdoor area, typically with tables under trees, where beer and food are served",
+          "de": "ein Freiluftlokal, in dem man Bier trinkt"
+        }
+      ],
+      "rule": "Compound: Bier + Garten; plural umlauts like Garten → Gärten.",
+      "example": "Im Sommer treffen wir uns oft im Biergarten.",
+      "exampleEn": "In summer we often meet at the beer garden.",
+      "example2": "Der Biergarten hat heute bis 23 Uhr geöffnet.",
+      "example2En": "The beer garden is open until 11 p.m. today."
+    },
+    {
+      "de": "der Bilanzbuchhalter / die Bilanzbuchhalterin",
+      "en": "certified accountant; balance sheet accountant",
+      "pos": "noun",
+      "plural": "die Bilanzbuchhalter/innen",
+      "meanings": [
+        {
+          "en": "a qualified accountant who prepares financial statements/balance sheets",
+          "de": "ein Fachmann/eine Fachfrau, der/die Bilanzen erstellt"
+        }
+      ],
+      "rule": "Compound: Bilanz + Buchhalter; feminine form adds -in.",
+      "example": "Der Bilanzbuchhalter prüft am Jahresende alle Zahlen.",
+      "exampleEn": "The accountant checks all the figures at the end of the year.",
+      "example2": "Sie arbeitet als Bilanzbuchhalterin in einer großen Firma.",
+      "example2En": "She works as an accountant at a large company."
+    },
+    {
+      "de": "bio",
+      "en": "organic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "organic, produced without artificial chemicals",
+          "de": "biologisch angebaut oder hergestellt"
+        }
+      ],
+      "rule": "Indeclinable colloquial short form of 'biologisch'; often used as an adjective before nouns: Bio-Gemüse.",
+      "example": "Kaufst du das Gemüse bio oder normal?",
+      "exampleEn": "Do you buy the vegetables organic or regular?",
+      "example2": "Das Brot hier ist alles bio.",
+      "example2En": "The bread here is all organic."
+    },
+    {
+      "de": "biologisch",
+      "en": "biological; organic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to biology",
+          "de": "die Biologie betreffend"
+        },
+        {
+          "en": "organically grown/produced",
+          "de": "ohne künstliche Chemikalien hergestellt"
+        }
+      ],
+      "rule": "Regular comparison: biologisch, biologischer, am biologischsten (rarely compared in practice).",
+      "example": "Im Unterricht lernen wir den biologischen Aufbau der Zelle.",
+      "exampleEn": "In class we're learning about the biological structure of the cell.",
+      "example2": "Wir kaufen nur biologisches Obst.",
+      "example2En": "We only buy organic fruit."
+    },
+    {
+      "de": "das Bioprodukt",
+      "en": "organic product",
+      "pos": "noun",
+      "plural": "die Bioprodukte",
+      "meanings": [
+        {
+          "en": "a food or item produced organically",
+          "de": "ein biologisch hergestelltes Produkt"
+        }
+      ],
+      "rule": "Compound: Bio + Produkt; neuter like Produkt.",
+      "example": "Bioprodukte sind im Supermarkt oft teurer.",
+      "exampleEn": "Organic products are often more expensive at the supermarket.",
+      "example2": "Sie kauft nur Bioprodukte aus der Region.",
+      "example2En": "She only buys organic products from the region."
+    },
+    {
+      "de": "bisher",
+      "en": "so far, until now",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "up to the present time",
+          "de": "bis zum jetzigen Zeitpunkt"
+        }
+      ],
+      "rule": "Often combined with Perfekt or Präsens; synonym: bis jetzt.",
+      "example": "Bisher hat mir das Restaurant gut gefallen.",
+      "exampleEn": "So far I've liked the restaurant.",
+      "example2": "Wir haben bisher keine Antwort bekommen.",
+      "example2En": "We haven't received an answer so far."
+    },
+    {
+      "de": "der Blinker",
+      "en": "turn signal, indicator",
+      "pos": "noun",
+      "plural": "die Blinker",
+      "meanings": [
+        {
+          "en": "the light on a vehicle that signals a turn",
+          "de": "das Licht am Auto, das eine Richtungsänderung anzeigt"
+        }
+      ],
+      "rule": "From blinken (to flash); plural unchanged (der Blinker – die Blinker).",
+      "example": "Vergiss nicht, den Blinker zu setzen, bevor du abbiegst.",
+      "exampleEn": "Don't forget to use the turn signal before you turn.",
+      "example2": "Der Blinker am Auto ist kaputt.",
+      "example2En": "The car's turn signal is broken."
+    },
+    {
+      "de": "bloß",
+      "en": "just, only; bare",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "used as an intensifying particle meaning 'just/only' (often in questions or warnings)",
+          "de": "eine verstärkende Partikel, z. B. in Fragen"
+        },
+        {
+          "en": "bare, mere",
+          "de": "nackt, unbedeckt"
+        }
+      ],
+      "rule": "As adjective: der bloße Gedanke (the mere thought); as particle it's uninflected and adds emphasis, e.g. in warnings: 'Mach das bloß nicht!'",
+      "example": "Was soll ich bloß tun?",
+      "exampleEn": "What on earth should I do?",
+      "example2": "Er stand mit bloßen Füßen im Gras.",
+      "example2En": "He stood barefoot in the grass."
+    },
+    {
+      "de": "der Blumentopf",
+      "en": "flowerpot",
+      "pos": "noun",
+      "plural": "die Blumentöpfe",
+      "meanings": [
+        {
+          "en": "a container for growing a plant",
+          "de": "ein Gefäß, in dem eine Pflanze wächst"
+        }
+      ],
+      "rule": "Compound: Blume + Topf; plural umlauts like Topf → Töpfe.",
+      "example": "Sie stellt die Blumentöpfe auf den Balkon.",
+      "exampleEn": "She puts the flowerpots on the balcony.",
+      "example2": "Der Blumentopf ist beim Transport zerbrochen.",
+      "example2En": "The flowerpot broke during the move."
+    },
+    {
+      "de": "bohren",
+      "en": "to drill",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make a hole using a drill or similar tool",
+          "de": "mit einem Werkzeug ein Loch machen"
+        }
+      ],
+      "rule": "Regular weak verb: bohrt, bohrte, hat gebohrt.",
+      "example": "Er bohrt ein Loch in die Wand.",
+      "exampleEn": "He's drilling a hole in the wall.",
+      "example2": "Der Zahnarzt musste leider bohren.",
+      "example2En": "Unfortunately the dentist had to drill."
+    },
+    {
+      "de": "die Bordkarte",
+      "en": "boarding pass",
+      "pos": "noun",
+      "plural": "die Bordkarten",
+      "meanings": [
+        {
+          "en": "a document/ticket allowing boarding of a plane",
+          "de": "das Dokument, mit dem man ins Flugzeug einsteigen darf"
+        }
+      ],
+      "rule": "Compound: Bord + Karte; feminine like Karte.",
+      "example": "Zeigen Sie bitte Ihre Bordkarte am Gate.",
+      "exampleEn": "Please show your boarding pass at the gate.",
+      "example2": "Ich habe meine Bordkarte auf dem Handy gespeichert.",
+      "example2En": "I saved my boarding pass on my phone."
+    },
+    {
+      "de": "das Boxen",
+      "en": "boxing",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the sport of boxing",
+          "de": "der Kampfsport mit den Fäusten"
+        }
+      ],
+      "rule": "Substantivized infinitive of 'boxen'; neuter, uncountable, no plural.",
+      "example": "Boxen ist ein anstrengender Sport.",
+      "exampleEn": "Boxing is an exhausting sport.",
+      "example2": "Er geht zweimal pro Woche zum Boxen.",
+      "example2En": "He goes boxing twice a week."
+    },
+    {
+      "de": "bremsen",
+      "en": "to brake",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to slow down or stop a vehicle",
+          "de": "ein Fahrzeug langsamer machen oder anhalten"
+        },
+        {
+          "en": "to slow down or hinder a process figuratively",
+          "de": "etwas verlangsamen oder hemmen"
+        }
+      ],
+      "rule": "Regular weak verb: bremst, bremste, hat gebremst.",
+      "example": "Der Fahrer musste plötzlich bremsen.",
+      "exampleEn": "The driver had to brake suddenly.",
+      "example2": "Die hohen Kosten bremsen das Wachstum der Firma.",
+      "example2En": "The high costs are slowing the company's growth."
+    },
+    {
+      "de": "das Briefpapier",
+      "en": "stationery, letter paper",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "paper used for writing letters",
+          "de": "Papier, auf dem man Briefe schreibt"
+        }
+      ],
+      "rule": "Compound: Brief + Papier; neuter, uncountable, no plural.",
+      "example": "Sie schreibt den Brief auf schönem Briefpapier.",
+      "exampleEn": "She writes the letter on nice stationery.",
+      "example2": "Die Firma hat eigenes Briefpapier mit Logo.",
+      "example2En": "The company has its own letterhead with a logo."
+    },
+    {
+      "de": "der Bundeskanzler / die Bundeskanzlerin",
+      "en": "federal chancellor",
+      "pos": "noun",
+      "plural": "die Bundeskanzler/innen",
+      "meanings": [
+        {
+          "en": "the head of government in Germany or Austria",
+          "de": "der Regierungschef/die Regierungschefin in Deutschland oder Österreich"
+        }
+      ],
+      "rule": "Compound: Bund(es) + Kanzler; feminine form adds -in.",
+      "example": "Der Bundeskanzler hält heute eine wichtige Rede.",
+      "exampleEn": "The federal chancellor is giving an important speech today.",
+      "example2": "Sie war die erste Bundeskanzlerin Deutschlands.",
+      "example2En": "She was Germany's first female chancellor."
+    },
+    {
+      "de": "die Bundesrepublik (BRD)",
+      "en": "Federal Republic (of Germany)",
+      "pos": "noun",
+      "plural": "die Bundesrepubliken",
+      "meanings": [
+        {
+          "en": "the official name of the German state",
+          "de": "der offizielle Name des deutschen Staates"
+        }
+      ],
+      "rule": "Compound: Bund(es) + Republik; feminine like Republik; often used as 'die Bundesrepublik Deutschland'.",
+      "example": "Die Bundesrepublik Deutschland wurde 1949 gegründet.",
+      "exampleEn": "The Federal Republic of Germany was founded in 1949.",
+      "example2": "Er lebt seit zehn Jahren in der Bundesrepublik.",
+      "example2En": "He has lived in the Federal Republic for ten years."
+    },
+    {
+      "de": "der Bürger / die Bürgerin",
+      "en": "citizen",
+      "pos": "noun",
+      "plural": "die Bürger/innen",
+      "meanings": [
+        {
+          "en": "a person who has legal rights and duties within a state or city",
+          "de": "eine Person mit Rechten und Pflichten in einem Staat oder einer Stadt"
+        }
+      ],
+      "rule": "Feminine form adds -in; related word: Bürgermeister (mayor).",
+      "example": "Jeder Bürger hat das Recht zu wählen.",
+      "exampleEn": "Every citizen has the right to vote.",
+      "example2": "Die Bürgerinnen und Bürger protestierten gegen die neue Regel.",
+      "example2En": "The citizens protested against the new rule."
+    },
+    {
+      "de": "der Bürgerkrieg",
+      "en": "civil war",
+      "pos": "noun",
+      "plural": "die Bürgerkriege",
+      "meanings": [
+        {
+          "en": "civil war",
+          "de": "bewaffneter Konflikt innerhalb eines Landes"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Bürger' + 'Krieg'; maskulin wie 'der Krieg'.",
+      "example": "In dem Land herrscht seit Jahren Bürgerkrieg.",
+      "exampleEn": "There has been civil war in the country for years.",
+      "example2": "Viele Menschen sind wegen des Bürgerkriegs geflohen.",
+      "example2En": "Many people fled because of the civil war."
+    },
+    {
+      "de": "der Büroalltag",
+      "en": "everyday office life",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "everyday routine in an office",
+          "de": "typischer Arbeitstag im Büro"
+        }
+      ],
+      "rule": "Zusammensetzung 'Büro' + 'Alltag'; meist ohne Plural verwendet.",
+      "example": "Der Büroalltag ist oft stressig.",
+      "exampleEn": "Everyday office life is often stressful.",
+      "example2": "Sie beschreibt ihren typischen Büroalltag.",
+      "example2En": "She describes her typical office routine."
+    },
+    {
+      "de": "der Büroassistent / die Büroassistentin",
+      "en": "office assistant",
+      "pos": "noun",
+      "plural": "die Büroassistenten / die Büroassistentinnen",
+      "meanings": [
+        {
+          "en": "person assisting with office tasks",
+          "de": "Person, die im Büro unterstützende Aufgaben erledigt"
+        }
+      ],
+      "rule": "Maskuline Form auf -ent, feminine Form mit -in.",
+      "example": "Der Büroassistent kümmert sich um die Post.",
+      "exampleEn": "The office assistant takes care of the mail.",
+      "example2": "Sie arbeitet als Büroassistentin in einer Anwaltskanzlei.",
+      "example2En": "She works as an office assistant at a law firm."
+    },
+    {
+      "de": "das Büromaterial",
+      "en": "office supplies",
+      "pos": "noun",
+      "plural": "die Büromaterialien",
+      "meanings": [
+        {
+          "en": "supplies used in an office (paper, pens, etc.)",
+          "de": "Dinge, die man im Büro braucht, z. B. Papier, Stifte"
+        }
+      ],
+      "rule": "Meist im Singular als Sammelbegriff verwendet; sächlich wie 'das Material'.",
+      "example": "Wir müssen neues Büromaterial bestellen.",
+      "exampleEn": "We need to order new office supplies.",
+      "example2": "Das Büromaterial liegt im Schrank.",
+      "example2En": "The office supplies are in the cabinet."
+    },
+    {
+      "de": "der Büroraum",
+      "en": "office room",
+      "pos": "noun",
+      "plural": "die Büroräume",
+      "meanings": [
+        {
+          "en": "a room used as an office",
+          "de": "Raum, der als Büro genutzt wird"
+        }
+      ],
+      "rule": "Zusammensetzung 'Büro' + 'Raum'; maskulin wie 'der Raum'.",
+      "example": "Der Büroraum ist klein, aber hell.",
+      "exampleEn": "The office room is small but bright.",
+      "example2": "Wir suchen einen neuen Büroraum für die Firma.",
+      "example2En": "We are looking for a new office space for the company."
+    },
+    {
+      "de": "die Bürozeit",
+      "en": "office hours",
+      "pos": "noun",
+      "plural": "die Bürozeiten",
+      "meanings": [
+        {
+          "en": "hours during which an office is open",
+          "de": "Zeit, in der ein Büro geöffnet ist"
+        }
+      ],
+      "rule": "Meist im Plural 'die Bürozeiten' verwendet.",
+      "example": "Die Bürozeiten sind von 9 bis 17 Uhr.",
+      "exampleEn": "Office hours are from 9 to 5.",
+      "example2": "Außerhalb der Bürozeit erreichen Sie uns nicht.",
+      "example2En": "You cannot reach us outside office hours."
+    },
+    {
+      "de": "das Callcenter",
+      "en": "call center",
+      "pos": "noun",
+      "plural": "die Callcenter",
+      "meanings": [
+        {
+          "en": "office handling telephone calls (service/sales)",
+          "de": "Büro, in dem Telefonanrufe bearbeitet werden"
+        }
+      ],
+      "rule": "Englisches Lehnwort, sächlich; Plural bleibt oft unverändert.",
+      "example": "Er arbeitet in einem Callcenter für Kundenservice.",
+      "exampleEn": "He works at a call center for customer service.",
+      "example2": "Das Callcenter ist rund um die Uhr erreichbar.",
+      "example2En": "The call center is reachable around the clock."
+    },
+    {
+      "de": "der Camper / die Camperin",
+      "en": "camper (person)",
+      "pos": "noun",
+      "plural": "die Camper / die Camperinnen",
+      "meanings": [
+        {
+          "en": "a person who goes camping",
+          "de": "Person, die campt"
+        }
+      ],
+      "rule": "Maskulin auf -er, feminin mit -in; nicht zu verwechseln mit 'der Camper' (Wohnmobil), das ugs. auch vorkommt.",
+      "example": "Die Camper haben ihr Zelt am See aufgebaut.",
+      "exampleEn": "The campers set up their tent by the lake.",
+      "example2": "Als Camperin liebt sie das Leben in der Natur.",
+      "example2En": "As a camper, she loves life in nature."
+    },
+    {
+      "de": "der Campingplatz",
+      "en": "campsite",
+      "pos": "noun",
+      "plural": "die Campingplätze",
+      "meanings": [
+        {
+          "en": "a site for camping",
+          "de": "Platz, auf dem man zelten oder campen kann"
+        }
+      ],
+      "rule": "Zusammensetzung 'Camping' + 'Platz'; maskulin wie 'der Platz'.",
+      "example": "Der Campingplatz liegt direkt am Meer.",
+      "exampleEn": "The campsite is right by the sea.",
+      "example2": "Wir haben einen Stellplatz auf dem Campingplatz reserviert.",
+      "example2En": "We reserved a spot at the campsite."
+    },
+    {
+      "de": "das Catering",
+      "en": "catering",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "providing food and drinks for an event",
+          "de": "Lieferung von Speisen und Getränken für eine Veranstaltung"
+        }
+      ],
+      "rule": "Englisches Lehnwort, sächlich, unzählbar (kein Plural).",
+      "example": "Das Catering für die Hochzeit war hervorragend.",
+      "exampleEn": "The catering for the wedding was excellent.",
+      "example2": "Die Firma bietet Catering für Geschäftsessen an.",
+      "example2En": "The company offers catering for business dinners."
+    },
+    {
+      "de": "der Check-in-Schalter",
+      "en": "check-in counter",
+      "pos": "noun",
+      "plural": "die Check-in-Schalter",
+      "meanings": [
+        {
+          "en": "counter at an airport for checking in",
+          "de": "Schalter am Flughafen für das Einchecken"
+        }
+      ],
+      "rule": "Zusammensetzung aus dem Lehnwort 'Check-in' + 'Schalter'; maskulin wie 'der Schalter'.",
+      "example": "Der Check-in-Schalter öffnet zwei Stunden vor dem Flug.",
+      "exampleEn": "The check-in counter opens two hours before the flight.",
+      "example2": "Wir standen lange am Check-in-Schalter.",
+      "example2En": "We stood at the check-in counter for a long time."
+    },
+    {
+      "de": "die Chemikalie",
+      "en": "chemical (substance)",
+      "pos": "noun",
+      "plural": "die Chemikalien",
+      "meanings": [
+        {
+          "en": "a chemical substance",
+          "de": "chemischer Stoff"
+        }
+      ],
+      "rule": "Feminin; meist im Plural 'die Chemikalien' verwendet.",
+      "example": "Im Labor werden verschiedene Chemikalien gelagert.",
+      "exampleEn": "Various chemicals are stored in the lab.",
+      "example2": "Diese Chemikalie ist giftig.",
+      "example2En": "This chemical is toxic."
+    },
+    {
+      "de": "der Chip",
+      "en": "crisp / chip",
+      "pos": "noun",
+      "plural": "die Chips",
+      "meanings": [
+        {
+          "en": "a thin fried slice of potato (snack, usually plural)",
+          "de": "dünne, frittierte Kartoffelscheibe (Snack, meist im Plural verwendet)"
+        }
+      ],
+      "rule": "Maskulin: der Chip, Plural die Chips; wird fast immer im Plural benutzt ('Chips essen'). Nicht feminin, wie man beim Hören des Plurals vermuten könnte.",
+      "example": "Wir essen am Abend gern Chips vor dem Fernseher.",
+      "exampleEn": "We like to eat chips/crisps in front of the TV in the evening.",
+      "example2": "Kannst du eine Tüte Chips mitbringen?",
+      "example2En": "Can you bring a bag of chips/crisps?"
+    },
+    {
+      "de": "der Container",
+      "en": "container",
+      "pos": "noun",
+      "plural": "die Container",
+      "meanings": [
+        {
+          "en": "a large box for storage or transport",
+          "de": "großer Behälter zum Lagern oder Transportieren"
+        },
+        {
+          "en": "a large bin for waste/recycling",
+          "de": "großer Abfallbehälter"
+        }
+      ],
+      "rule": "Englisches Lehnwort, maskulin; Plural bleibt unverändert.",
+      "example": "Der Container wird mit dem Kran auf das Schiff gehoben.",
+      "exampleEn": "The container is lifted onto the ship by crane.",
+      "example2": "Das alte Papier gehört in den blauen Container.",
+      "example2En": "The old paper goes in the blue recycling bin."
+    },
+    {
+      "de": "das Dach",
+      "en": "roof",
+      "pos": "noun",
+      "plural": "die Dächer",
+      "meanings": [
+        {
+          "en": "the covering on top of a building",
+          "de": "oberer Abschluss eines Gebäudes"
+        }
+      ],
+      "rule": "Sächlich, unregelmäßiger Plural mit Umlaut: das Dach – die Dächer.",
+      "example": "Das Dach des Hauses ist aus Ziegeln.",
+      "exampleEn": "The roof of the house is made of tiles.",
+      "example2": "Bei dem Sturm wurde das Dach beschädigt.",
+      "example2En": "The roof was damaged in the storm."
+    },
+    {
+      "de": "daneben",
+      "en": "next to it / beside it",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "next to/beside a place or thing",
+          "de": "örtlich: neben etwas/jemandem"
+        },
+        {
+          "en": "in addition to that / besides",
+          "de": "zusätzlich, außerdem"
+        }
+      ],
+      "rule": "Lokaladverb; auch übertragen als 'daneben' = falsch/schief im Sinne von 'danebenliegen'.",
+      "example": "Das Café ist neben der Bank, direkt daneben ist die Post.",
+      "exampleEn": "The café is next to the bank, right beside it is the post office.",
+      "example2": "Er arbeitet Vollzeit und studiert daneben.",
+      "example2En": "He works full-time and studies besides that."
+    },
+    {
+      "de": "der Datenschutz",
+      "en": "data protection",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "protection of personal data/privacy",
+          "de": "Schutz persönlicher Daten vor Missbrauch"
+        }
+      ],
+      "rule": "Zusammensetzung 'Daten' + 'Schutz'; maskulin, Singularwort ohne Plural.",
+      "example": "Die Firma achtet streng auf den Datenschutz.",
+      "exampleEn": "The company pays close attention to data protection.",
+      "example2": "Der Datenschutz wurde durch das Leck verletzt.",
+      "example2En": "Data protection was violated by the leak."
+    },
+    {
+      "de": "die DDR (Deutsche Demokratische Republik)",
+      "en": "GDR (German Democratic Republic)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "former East German state (1949–1990)",
+          "de": "ehemaliger ostdeutscher Staat (1949–1990)"
+        }
+      ],
+      "rule": "Eigenname, feminin ('die DDR'); nur Singular, historischer Begriff.",
+      "example": "Meine Großeltern sind in der DDR aufgewachsen.",
+      "exampleEn": "My grandparents grew up in the GDR.",
+      "example2": "Die DDR existierte von 1949 bis 1990.",
+      "example2En": "The GDR existed from 1949 to 1990."
+    },
+    {
+      "de": "der Deckel",
+      "en": "lid, cover",
+      "pos": "noun",
+      "plural": "die Deckel",
+      "meanings": [
+        {
+          "en": "lid/cover (of a pot, jar, box)",
+          "de": "Abdeckung für Topf, Glas oder Dose"
+        }
+      ],
+      "rule": "Der Plural bleibt unverändert: der Deckel – die Deckel.",
+      "example": "Leg bitte den Deckel auf den Topf.",
+      "exampleEn": "Please put the lid on the pot.",
+      "example2": "Der Deckel vom Glas ist zu fest.",
+      "example2En": "The lid of the jar is too tight."
+    },
+    {
+      "de": "demnächst",
+      "en": "soon, shortly",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in the near future",
+          "de": "bald, in naher Zukunft"
+        }
+      ],
+      "rule": "Zeitadverb, steht oft am Satzanfang oder nach dem Verb.",
+      "example": "Wir ziehen demnächst in eine neue Wohnung um.",
+      "exampleEn": "We are moving to a new apartment soon.",
+      "example2": "Der Film kommt demnächst ins Kino.",
+      "example2En": "The movie is coming to theaters shortly."
+    },
+    {
+      "de": "die Demokratie",
+      "en": "democracy",
+      "pos": "noun",
+      "plural": "die Demokratien",
+      "meanings": [
+        {
+          "en": "system of government by the people",
+          "de": "Staatsform, in der das Volk mitbestimmt"
+        }
+      ],
+      "rule": "Femininum auf -ie, Betonung auf -tie; Plural die Demokratien (für verschiedene Länder/Formen).",
+      "example": "Deutschland ist eine Demokratie.",
+      "exampleEn": "Germany is a democracy.",
+      "example2": "Viele Menschen kämpfen für mehr Demokratie.",
+      "example2En": "Many people fight for more democracy."
+    },
+    {
+      "de": "demokratisch",
+      "en": "democratic",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to or based on democracy",
+          "de": "nach den Prinzipien der Demokratie"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: demokratisch, demokratischer, am demokratischsten.",
+      "example": "Die Wahlen waren frei und demokratisch.",
+      "exampleEn": "The elections were free and democratic.",
+      "example2": "Wir treffen die Entscheidung demokratisch.",
+      "example2En": "We make the decision democratically."
+    },
+    {
+      "de": "die Demonstration",
+      "en": "demonstration, protest",
+      "pos": "noun",
+      "plural": "die Demonstrationen",
+      "meanings": [
+        {
+          "en": "public protest march",
+          "de": "öffentlicher Protest, bei dem Menschen auf die Straße gehen"
+        }
+      ],
+      "rule": "Umgangssprachlich oft kurz 'Demo'.",
+      "example": "Am Samstag findet eine große Demonstration statt.",
+      "exampleEn": "There is a big demonstration on Saturday.",
+      "example2": "Viele Studenten nahmen an der Demonstration teil.",
+      "example2En": "Many students took part in the demonstration."
+    }
+  ]
+}

@@ -1,0 +1,889 @@
+{
+  "id": "b1-19",
+  "title": "B1 · W–Z (19)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "der Wanderer / die Wanderin",
+      "en": "hiker",
+      "pos": "noun",
+      "plural": "die Wanderer / die Wanderinnen",
+      "meanings": [
+        {
+          "en": "person who hikes, walker in nature",
+          "de": "jemand, der wandert"
+        }
+      ],
+      "rule": "Maskuline Form 'der Wanderer' bleibt im Plural gleich; weibliche Form 'die Wanderin', Plural 'die Wanderinnen'.",
+      "example": "Die Wanderer machten am Gipfel eine Pause.",
+      "exampleEn": "The hikers took a break at the summit.",
+      "example2": "Eine Wanderin zeigte uns den richtigen Weg.",
+      "example2En": "A hiker showed us the right path."
+    },
+    {
+      "de": "die Wandertour",
+      "en": "hiking tour, hike",
+      "pos": "noun",
+      "plural": "die Wandertouren",
+      "meanings": [
+        {
+          "en": "a planned hike or hiking trip",
+          "de": "eine organisierte Wanderung"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'wandern' + 'Tour'; feminines Genus wie 'die Tour'.",
+      "example": "Am Samstag machen wir eine Wandertour in den Bergen.",
+      "exampleEn": "On Saturday we're going on a hiking tour in the mountains.",
+      "example2": "Die Wandertour dauert ungefähr fünf Stunden.",
+      "example2En": "The hike takes about five hours."
+    },
+    {
+      "de": "die Ware",
+      "en": "goods, merchandise",
+      "pos": "noun",
+      "plural": "die Waren",
+      "meanings": [
+        {
+          "en": "goods, merchandise, product for sale",
+          "de": "Produkt, das verkauft wird"
+        }
+      ],
+      "rule": "Oft im Plural 'die Waren' für Handelsgüter allgemein.",
+      "example": "Die Ware wird morgen geliefert.",
+      "exampleEn": "The goods will be delivered tomorrow.",
+      "example2": "Im Supermarkt gibt es viele verschiedene Waren.",
+      "example2En": "There are many different goods in the supermarket."
+    },
+    {
+      "de": "der Warenkorb",
+      "en": "shopping basket/cart",
+      "pos": "noun",
+      "plural": "die Warenkörbe",
+      "meanings": [
+        {
+          "en": "shopping basket or cart (also online)",
+          "de": "Korb für Einkäufe, auch online"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Ware' + 'Korb'; im Online-Shop = 'Einkaufswagen/-korb' virtuell.",
+      "example": "Leg das Produkt in den Warenkorb.",
+      "exampleEn": "Add the product to the shopping cart.",
+      "example2": "Mein Warenkorb ist schon voll.",
+      "example2En": "My shopping basket is already full."
+    },
+    {
+      "de": "die Wärme",
+      "en": "warmth, heat",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "warmth, heat (physical)",
+          "de": "warme Temperatur"
+        },
+        {
+          "en": "warmth (emotional, friendliness)",
+          "de": "Herzlichkeit"
+        }
+      ],
+      "rule": "Unzählbares Substantiv, kein Plural.",
+      "example": "Die Wärme der Sonne tut gut.",
+      "exampleEn": "The warmth of the sun feels good.",
+      "example2": "Sie begrüßte uns mit großer Wärme.",
+      "example2En": "She greeted us with great warmth."
+    },
+    {
+      "de": "der Waschraum",
+      "en": "washroom, washing room",
+      "pos": "noun",
+      "plural": "die Waschräume",
+      "meanings": [
+        {
+          "en": "a room for washing (laundry or personal hygiene)",
+          "de": "Raum zum Waschen"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'waschen' + 'Raum'; Genus wie 'der Raum'.",
+      "example": "Der Waschraum befindet sich im Keller.",
+      "exampleEn": "The washroom is located in the basement.",
+      "example2": "Bitte benutzt den Waschraum nach dem Sport.",
+      "example2En": "Please use the washroom after sports."
+    },
+    {
+      "de": "wasserdicht",
+      "en": "waterproof",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "waterproof, impervious to water",
+          "de": "kein Wasser durchlassend"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Wasser' + 'dicht'; regelmäßige Steigerung.",
+      "example": "Diese Jacke ist wasserdicht.",
+      "exampleEn": "This jacket is waterproof.",
+      "example2": "Ich brauche wasserdichte Schuhe für die Wanderung.",
+      "example2En": "I need waterproof shoes for the hike."
+    },
+    {
+      "de": "der Wasserhahn",
+      "en": "water tap, faucet",
+      "pos": "noun",
+      "plural": "die Wasserhähne",
+      "meanings": [
+        {
+          "en": "tap/faucet for water",
+          "de": "Hahn, um Wasser laufen zu lassen"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Wasser' + 'Hahn'; Plural mit Umlaut: die Wasserhähne.",
+      "example": "Dreh den Wasserhahn zu, bitte.",
+      "exampleEn": "Turn off the tap, please.",
+      "example2": "Der Wasserhahn in der Küche tropft.",
+      "example2En": "The kitchen tap is dripping."
+    },
+    {
+      "de": "wegfahren",
+      "en": "to drive away, to leave",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to drive/go away, to leave (by vehicle)",
+          "de": "mit einem Fahrzeug weggehen"
+        }
+      ],
+      "rule": "trennbar, unregelmäßig: fährt ... weg, fuhr weg, ist weggefahren",
+      "example": "Wir fahren am Freitag in den Urlaub weg.",
+      "exampleEn": "We're leaving for vacation on Friday.",
+      "example2": "Das Auto ist schon weggefahren.",
+      "example2En": "The car has already driven away."
+    },
+    {
+      "de": "wegräumen",
+      "en": "to put away, to clear away",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to tidy up, put things away",
+          "de": "aufräumen, an den richtigen Platz legen"
+        }
+      ],
+      "rule": "trennbar, regelmäßig: räumt ... weg, räumte weg, hat weggeräumt",
+      "example": "Räum bitte dein Spielzeug weg.",
+      "exampleEn": "Please put your toys away.",
+      "example2": "Er hat das Geschirr schnell weggeräumt.",
+      "example2En": "He quickly cleared away the dishes."
+    },
+    {
+      "de": "wegschmeißen",
+      "en": "to throw away (colloquial)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to throw something away (informal)",
+          "de": "etwas wegwerfen (umgangssprachlich)"
+        }
+      ],
+      "rule": "trennbar: schmeißt weg, schmiss weg, hat weggeschmissen; unregelmäßig (schmeißen, schmiss, geschmissen); ugs. Synonym zu wegwerfen",
+      "example": "Schmeiß die alte Zeitung weg!",
+      "exampleEn": "Throw away the old newspaper!",
+      "example2": "Ich habe das kaputte Handy weggeschmissen.",
+      "example2En": "I threw away the broken phone."
+    },
+    {
+      "de": "wegwerfen",
+      "en": "to throw away, discard",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to get rid of something as rubbish",
+          "de": "etwas in den Müll werfen"
+        }
+      ],
+      "rule": "trennbar: wirft weg, warf weg, hat weggeworfen; unregelmäßig (werfen, warf, geworfen)",
+      "example": "Wirf den Müll bitte weg.",
+      "exampleEn": "Please throw the rubbish away.",
+      "example2": "Man sollte Lebensmittel nicht einfach wegwerfen.",
+      "example2En": "You shouldn't just throw away food."
+    },
+    {
+      "de": "die Weise",
+      "en": "way, manner",
+      "pos": "noun",
+      "plural": "die Weisen",
+      "meanings": [
+        {
+          "en": "manner, way of doing something",
+          "de": "die Art und Weise"
+        },
+        {
+          "en": "tune, melody (less common)",
+          "de": "eine Melodie"
+        }
+      ],
+      "rule": "oft in der festen Wendung 'auf diese Weise' (in this way); Genus: die Weise",
+      "example": "Auf diese Weise sparen wir viel Zeit.",
+      "exampleEn": "This way, we save a lot of time.",
+      "example2": "Sie löste das Problem auf ihre eigene Weise.",
+      "example2En": "She solved the problem in her own way."
+    },
+    {
+      "de": "weitergehen",
+      "en": "to go on, continue (walking/happening)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to continue walking",
+          "de": "weiter gehen, nicht stehen bleiben"
+        },
+        {
+          "en": "to continue, carry on (of events/situations)",
+          "de": "weiter passieren, fortgesetzt werden"
+        }
+      ],
+      "rule": "trennbar: geht weiter, ging weiter, ist weitergegangen; unregelmäßig (gehen, ging, gegangen); Perfekt mit 'sein'",
+      "example": "Bitte weitergehen, hier gibt es nichts zu sehen!",
+      "exampleEn": "Please keep moving, there's nothing to see here!",
+      "example2": "Wie soll es jetzt mit dem Projekt weitergehen?",
+      "example2En": "How should the project continue now?"
+    },
+    {
+      "de": "weiterhelfen",
+      "en": "to help further, be of help",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to help someone get further with a problem",
+          "de": "jemandem bei etwas helfen, weiterkommen"
+        }
+      ],
+      "rule": "trennbar: hilft weiter, half weiter, hat weitergeholfen; + Dativ; unregelmäßig (helfen, half, geholfen)",
+      "example": "Können Sie mir bitte weiterhelfen?",
+      "exampleEn": "Can you please help me further?",
+      "example2": "Diese Information hat mir sehr weitergeholfen.",
+      "example2En": "This information helped me a lot."
+    },
+    {
+      "de": "die Weiterleitung",
+      "en": "forwarding, redirection",
+      "pos": "noun",
+      "plural": "die Weiterleitungen",
+      "meanings": [
+        {
+          "en": "the act of forwarding (e.g. mail, calls, data)",
+          "de": "das Weiterleiten von etwas"
+        }
+      ],
+      "rule": "Nominalisierung von 'weiterleiten' (trennbar, leitet weiter, leitete weiter, hat weitergeleitet)",
+      "example": "Ich kümmere mich um die Weiterleitung der E-Mail.",
+      "exampleEn": "I'll take care of forwarding the email.",
+      "example2": "Die Weiterleitung des Anrufs hat einen Moment gedauert.",
+      "example2En": "Forwarding the call took a moment."
+    },
+    {
+      "de": "das Weltall",
+      "en": "universe, outer space",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the universe, space beyond Earth",
+          "de": "der Weltraum, das Universum"
+        }
+      ],
+      "rule": "unzählbar, kein Plural; Synonym: der Weltraum, das Universum",
+      "example": "Astronauten fliegen ins Weltall.",
+      "exampleEn": "Astronauts fly into space.",
+      "example2": "Das Weltall ist unvorstellbar groß.",
+      "example2En": "The universe is unimaginably big."
+    },
+    {
+      "de": "die Weltmeisterschaft (WM)",
+      "en": "world championship",
+      "pos": "noun",
+      "plural": "die Weltmeisterschaften",
+      "meanings": [
+        {
+          "en": "a sports competition to determine a world champion",
+          "de": "ein internationaler Wettkampf um den Weltmeistertitel"
+        }
+      ],
+      "rule": "Abkürzung: die WM; oft mit Sportart kombiniert, z. B. 'Fußball-Weltmeisterschaft'",
+      "example": "Deutschland hat die Weltmeisterschaft gewonnen.",
+      "exampleEn": "Germany won the world championship.",
+      "example2": "Die nächste WM findet in zwei Jahren statt.",
+      "example2En": "The next World Cup will take place in two years."
+    },
+    {
+      "de": "der Werktag",
+      "en": "weekday, working day",
+      "pos": "noun",
+      "plural": "die Werktage",
+      "meanings": [
+        {
+          "en": "a day on which people usually work (Mon–Sat)",
+          "de": "ein Tag, an dem man normalerweise arbeitet"
+        }
+      ],
+      "rule": "Gegenteil: der Feiertag/das Wochenende; umfasst in Deutschland meist Montag bis Samstag",
+      "example": "An Werktagen stehe ich um sechs Uhr auf.",
+      "exampleEn": "On weekdays I get up at six o'clock.",
+      "example2": "Die Lieferung dauert drei Werktage.",
+      "example2En": "Delivery takes three working days."
+    },
+    {
+      "de": "das Werkzeug",
+      "en": "tool",
+      "pos": "noun",
+      "plural": "die Werkzeuge",
+      "meanings": [
+        {
+          "en": "a tool or instrument for doing manual work",
+          "de": "ein Gerät zum Arbeiten, z. B. Hammer oder Schraubenzieher"
+        }
+      ],
+      "rule": "Genus: das Werkzeug; auch als Sammelbegriff (Werkzeug = tools in general) ohne Plural verwendbar",
+      "example": "Der Handwerker hat sein Werkzeug vergessen.",
+      "exampleEn": "The craftsman forgot his tools.",
+      "example2": "Ein Hammer ist ein wichtiges Werkzeug.",
+      "example2En": "A hammer is an important tool."
+    },
+    {
+      "de": "der Wert",
+      "en": "value",
+      "pos": "noun",
+      "plural": "die Werte",
+      "meanings": [
+        {
+          "en": "monetary or material worth",
+          "de": "der Geldwert, der Preis"
+        },
+        {
+          "en": "a measured number/reading",
+          "de": "eine gemessene Zahl, z. B. Blutdruckwert"
+        },
+        {
+          "en": "importance, significance",
+          "de": "die Bedeutung, Wichtigkeit"
+        }
+      ],
+      "rule": "feste Wendung: 'Wert legen auf' (to attach importance to); Adjektiv 'wert sein' = to be worth",
+      "example": "Das Haus hat stark an Wert gewonnen.",
+      "exampleEn": "The house has gained a lot in value.",
+      "example2": "Der Arzt hat meine Blutwerte kontrolliert.",
+      "example2En": "The doctor checked my blood values."
+    },
+    {
+      "de": "der Wertstoff",
+      "en": "recyclable material",
+      "pos": "noun",
+      "plural": "die Wertstoffe",
+      "meanings": [
+        {
+          "en": "material that can be recycled/reused",
+          "de": "Material, das recycelt werden kann, z. B. Glas, Papier, Plastik"
+        }
+      ],
+      "rule": "häufig in Zusammensetzungen: der Wertstoffhof, die Wertstofftonne",
+      "example": "Papier und Glas sind Wertstoffe.",
+      "exampleEn": "Paper and glass are recyclable materials.",
+      "example2": "Wir bringen die Wertstoffe zum Wertstoffhof.",
+      "example2En": "We take the recyclables to the recycling center."
+    },
+    {
+      "de": "weshalb",
+      "en": "why, for which reason",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "why, the reason why (question word / relative connector)",
+          "de": "warum, aus welchem Grund"
+        }
+      ],
+      "rule": "Synonym zu 'warum'/'wieso'; Interrogativ-/Relativadverb (keine Konjunktion), oft: 'der Grund, weshalb...'",
+      "example": "Weshalb bist du gestern nicht gekommen?",
+      "exampleEn": "Why didn't you come yesterday?",
+      "example2": "Sie erklärte, weshalb sie die Stelle wechseln wollte.",
+      "example2En": "She explained why she wanted to change jobs."
+    },
+    {
+      "de": "wetterfest",
+      "en": "weatherproof",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "resistant to weather conditions (rain, wind, sun)",
+          "de": "widerstandsfähig gegen Wetter (Regen, Wind, Sonne)"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: wetterfest, wetterfester, am wetterfestesten; oft bei Kleidung oder Materialien",
+      "example": "Die Jacke ist wetterfest und hält dich trocken.",
+      "exampleEn": "The jacket is weatherproof and keeps you dry.",
+      "example2": "Wir brauchen wetterfeste Möbel für den Balkon.",
+      "example2En": "We need weatherproof furniture for the balcony."
+    },
+    {
+      "de": "widerrufen",
+      "en": "to revoke, cancel, retract",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to officially cancel a contract, order or statement",
+          "de": "einen Vertrag, eine Bestellung oder Aussage offiziell rückgängig machen"
+        }
+      ],
+      "rule": "untrennbar, kein 'ge-' im Partizip: widerruft, widerrief, hat widerrufen; unregelmäßig",
+      "example": "Sie können den Vertrag innerhalb von 14 Tagen widerrufen.",
+      "exampleEn": "You can cancel the contract within 14 days.",
+      "example2": "Der Zeuge hat seine Aussage widerrufen.",
+      "example2En": "The witness retracted his statement."
+    },
+    {
+      "de": "das Widerrufsrecht",
+      "en": "right of withdrawal, right of cancellation",
+      "pos": "noun",
+      "plural": "die Widerrufsrechte",
+      "meanings": [
+        {
+          "en": "the legal right to cancel a contract within a set period",
+          "de": "das Recht, einen Vertrag innerhalb einer bestimmten Frist rückgängig zu machen"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'widerrufen' + 'Recht'; wichtig bei Online-Käufen (meist 14 Tage)",
+      "example": "Bei Online-Käufen haben Sie ein Widerrufsrecht.",
+      "exampleEn": "You have a right of withdrawal for online purchases.",
+      "example2": "Das Widerrufsrecht gilt 14 Tage nach Erhalt der Ware.",
+      "example2En": "The right of withdrawal applies for 14 days after receiving the goods."
+    },
+    {
+      "de": "der Widerspruch",
+      "en": "objection, contradiction",
+      "pos": "noun",
+      "plural": "die Widersprüche",
+      "meanings": [
+        {
+          "en": "a formal objection (e.g. legal/administrative)",
+          "de": "ein formeller Einspruch, z. B. gegen einen Bescheid"
+        },
+        {
+          "en": "a logical contradiction",
+          "de": "ein logischer Gegensatz zwischen Aussagen"
+        }
+      ],
+      "rule": "Verb dazu: widersprechen (+ Dativ); feste Wendung: 'Widerspruch einlegen'",
+      "example": "Sie hat Widerspruch gegen den Bescheid eingelegt.",
+      "exampleEn": "She filed an objection against the notice.",
+      "example2": "Seine Aussagen enthalten einen klaren Widerspruch.",
+      "example2En": "His statements contain a clear contradiction."
+    },
+    {
+      "de": "wiedervereinigen",
+      "en": "to reunite, reunify",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to bring together again (people, countries)",
+          "de": "wieder zusammenbringen, z. B. Länder oder Familien"
+        }
+      ],
+      "rule": "trennbar: vereinigt wieder, vereinigte wieder, hat wiedervereinigt; oft reflexiv 'sich wiedervereinigen'; historisch: die Wiedervereinigung Deutschlands 1990",
+      "example": "1990 wurde Deutschland wiedervereinigt.",
+      "exampleEn": "In 1990 Germany was reunified.",
+      "example2": "Nach Jahren konnte sich die Familie endlich wiedervereinigen.",
+      "example2En": "After years, the family was finally able to reunite."
+    },
+    {
+      "de": "die Wiedervereinigung",
+      "en": "reunification",
+      "pos": "noun",
+      "plural": "die Wiedervereinigungen",
+      "meanings": [
+        {
+          "en": "reunification (esp. of Germany)",
+          "de": "das Wiederzusammenkommen zweier getrennter Teile"
+        }
+      ],
+      "rule": "Meist im Zusammenhang mit der deutschen Wiedervereinigung 1990 gebraucht; von 'wiedervereinigen' + -ung.",
+      "example": "Die Wiedervereinigung Deutschlands war 1990.",
+      "exampleEn": "The reunification of Germany was in 1990.",
+      "example2": "Nach der Wiedervereinigung hat sich das Land stark verändert.",
+      "example2En": "After reunification, the country changed a lot."
+    },
+    {
+      "de": "der Wind",
+      "en": "wind",
+      "pos": "noun",
+      "plural": "die Winde",
+      "meanings": [
+        {
+          "en": "wind (moving air)",
+          "de": "bewegte Luft"
+        }
+      ],
+      "rule": "Maskulin; oft in Wendungen wie 'bei Wind und Wetter'.",
+      "example": "Heute weht ein starker Wind.",
+      "exampleEn": "There's a strong wind blowing today.",
+      "example2": "Der Wind hat meinen Hut weggeweht.",
+      "example2En": "The wind blew my hat away."
+    },
+    {
+      "de": "die Windel",
+      "en": "diaper, nappy",
+      "pos": "noun",
+      "plural": "die Windeln",
+      "meanings": [
+        {
+          "en": "diaper / nappy for babies",
+          "de": "Unterwäsche für Babys, die Urin und Kot aufnimmt"
+        }
+      ],
+      "rule": "Feminin; Plural regelmäßig auf -n.",
+      "example": "Das Baby braucht eine neue Windel.",
+      "exampleEn": "The baby needs a new diaper.",
+      "example2": "Wir kaufen immer eine große Packung Windeln.",
+      "example2En": "We always buy a big pack of diapers."
+    },
+    {
+      "de": "die Windschutzscheibe",
+      "en": "windshield, windscreen",
+      "pos": "noun",
+      "plural": "die Windschutzscheiben",
+      "meanings": [
+        {
+          "en": "windscreen of a car",
+          "de": "vordere Glasscheibe am Auto"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Wind' + 'Schutz' + 'Scheibe'; feminin.",
+      "example": "Die Windschutzscheibe ist nass vom Regen.",
+      "exampleEn": "The windshield is wet from the rain.",
+      "example2": "Ein Stein hat die Windschutzscheibe beschädigt.",
+      "example2En": "A stone damaged the windshield."
+    },
+    {
+      "de": "der Wirbelsturm",
+      "en": "hurricane, cyclone",
+      "pos": "noun",
+      "plural": "die Wirbelstürme",
+      "meanings": [
+        {
+          "en": "hurricane / cyclone / tornado",
+          "de": "sehr starker, kreisender Sturm"
+        }
+      ],
+      "rule": "Maskulin; Plural mit Umlaut: Wirbelstürme.",
+      "example": "Der Wirbelsturm hat viele Häuser zerstört.",
+      "exampleEn": "The hurricane destroyed many houses.",
+      "example2": "In der Karibik gibt es oft Wirbelstürme.",
+      "example2En": "There are often hurricanes in the Caribbean."
+    },
+    {
+      "de": "der Wohnwagen",
+      "en": "caravan, camper trailer",
+      "pos": "noun",
+      "plural": "die Wohnwagen",
+      "meanings": [
+        {
+          "en": "caravan / trailer used for living/traveling",
+          "de": "Anhänger, in dem man wohnen und reisen kann"
+        }
+      ],
+      "rule": "Maskulin; Plural bleibt gleich (der Wohnwagen – die Wohnwagen).",
+      "example": "Wir machen Urlaub mit dem Wohnwagen.",
+      "exampleEn": "We're going on vacation with the caravan.",
+      "example2": "Der Wohnwagen steht auf dem Campingplatz.",
+      "example2En": "The caravan is parked at the campsite."
+    },
+    {
+      "de": "die Wolke",
+      "en": "cloud",
+      "pos": "noun",
+      "plural": "die Wolken",
+      "meanings": [
+        {
+          "en": "cloud in the sky",
+          "de": "sichtbare Ansammlung von Wasserdampf am Himmel"
+        }
+      ],
+      "rule": "Feminin; Plural regelmäßig auf -n.",
+      "example": "Am Himmel sind viele dunkle Wolken.",
+      "exampleEn": "There are many dark clouds in the sky.",
+      "example2": "Die Sonne verschwand hinter einer Wolke.",
+      "example2En": "The sun disappeared behind a cloud."
+    },
+    {
+      "de": "die Wurst",
+      "en": "sausage",
+      "pos": "noun",
+      "plural": "die Würste",
+      "meanings": [
+        {
+          "en": "sausage",
+          "de": "Lebensmittel aus gehacktem Fleisch in einer Hülle"
+        }
+      ],
+      "rule": "Feminin; Plural mit Umlaut: Würste.",
+      "example": "Zum Frühstück essen wir Brot mit Wurst.",
+      "exampleEn": "For breakfast we eat bread with sausage.",
+      "example2": "Auf dem Grill liegen Würste.",
+      "example2En": "There are sausages on the grill."
+    },
+    {
+      "de": "wütend",
+      "en": "furious, angry",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "furious, very angry",
+          "de": "sehr zornig, wütend"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: wütend, wütender, am wütendsten; oft mit 'auf + Akkusativ'.",
+      "example": "Er war wütend auf seinen Chef.",
+      "exampleEn": "He was furious at his boss.",
+      "example2": "Sie wurde wütend, als der Zug ausfiel.",
+      "example2En": "She got angry when the train was cancelled."
+    },
+    {
+      "de": "die Zahlung",
+      "en": "payment",
+      "pos": "noun",
+      "plural": "die Zahlungen",
+      "meanings": [
+        {
+          "en": "payment (of money)",
+          "de": "das Bezahlen eines Betrags"
+        }
+      ],
+      "rule": "Feminin; von 'zahlen' + -ung; oft 'Zahlung leisten/erhalten'.",
+      "example": "Die Zahlung ist bereits eingegangen.",
+      "exampleEn": "The payment has already arrived.",
+      "example2": "Bitte überweisen Sie die Zahlung bis Freitag.",
+      "example2En": "Please transfer the payment by Friday."
+    },
+    {
+      "de": "zappen",
+      "en": "to channel-surf, flip through channels",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to flip/surf through TV channels",
+          "de": "mit der Fernbedienung schnell zwischen Fernsehsendern wechseln"
+        }
+      ],
+      "rule": "Regelmäßig: zappt, zappte, hat gezappt.",
+      "example": "Er zappt ständig durch die Fernsehprogramme.",
+      "exampleEn": "He's constantly flipping through the TV channels.",
+      "example2": "Zapp doch mal, vielleicht kommt ein guter Film.",
+      "example2En": "Just flip through the channels, maybe there's a good movie on."
+    },
+    {
+      "de": "zaubern",
+      "en": "to do magic, conjure",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to perform magic tricks",
+          "de": "mit Tricks etwas scheinbar unmöglich Erscheinendes tun"
+        },
+        {
+          "en": "to conjure up (figurative, e.g. cook quickly)",
+          "de": "etwas wie durch Zauberei schnell herstellen"
+        }
+      ],
+      "rule": "Regelmäßig: zaubert, zauberte, hat gezaubert.",
+      "example": "Der Zauberer kann echt gut zaubern.",
+      "exampleEn": "The magician can really do magic well.",
+      "example2": "Meine Mutter zaubert immer ein tolles Essen aus wenig Zutaten.",
+      "example2En": "My mother always conjures up a great meal from few ingredients."
+    },
+    {
+      "de": "der Zeichentrickfilm",
+      "en": "animated film, cartoon",
+      "pos": "noun",
+      "plural": "die Zeichentrickfilme",
+      "meanings": [
+        {
+          "en": "animated cartoon film",
+          "de": "Film mit gezeichneten, bewegten Figuren"
+        }
+      ],
+      "rule": "Maskulin; Zusammensetzung aus 'Zeichen' + 'Trick' + 'Film'.",
+      "example": "Kinder lieben Zeichentrickfilme.",
+      "exampleEn": "Children love animated films.",
+      "example2": "Wir haben gestern Abend einen Zeichentrickfilm gesehen.",
+      "example2En": "We watched a cartoon last night."
+    },
+    {
+      "de": "zeitlich",
+      "en": "temporal, time-related",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "related to time, temporal",
+          "de": "die Zeit betreffend"
+        }
+      ],
+      "rule": "Keine unregelmäßige Steigerung; oft 'zeitlich möglich/begrenzt'.",
+      "example": "Das ist zeitlich leider nicht möglich.",
+      "exampleEn": "That's not possible time-wise, unfortunately.",
+      "example2": "Der Termin passt zeitlich nicht in meinen Plan.",
+      "example2En": "The appointment doesn't fit into my schedule time-wise."
+    },
+    {
+      "de": "der Zeitmangel",
+      "en": "lack of time",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "lack of time",
+          "de": "zu wenig verfügbare Zeit für etwas"
+        }
+      ],
+      "rule": "Maskulin, unzählbar, kein Plural; oft 'aus Zeitmangel'; nach 'wegen' steht der Genitiv: 'wegen Zeitmangels'.",
+      "example": "Aus Zeitmangel konnte ich nicht kommen.",
+      "exampleEn": "I couldn't come due to lack of time.",
+      "example2": "Wegen Zeitmangels musste das Projekt warten.",
+      "example2En": "Because of a lack of time, the project had to wait."
+    },
+    {
+      "de": "der Zeitpunkt",
+      "en": "point in time, moment",
+      "pos": "noun",
+      "plural": "die Zeitpunkte",
+      "meanings": [
+        {
+          "en": "a specific point in time",
+          "de": "ein bestimmter Moment"
+        }
+      ],
+      "rule": "Maskulin; oft 'zum jetzigen Zeitpunkt'.",
+      "example": "Das ist im Moment der falsche Zeitpunkt.",
+      "exampleEn": "Right now is the wrong moment.",
+      "example2": "Wir müssen den richtigen Zeitpunkt abwarten.",
+      "example2En": "We have to wait for the right moment."
+    },
+    {
+      "de": "der Zeitraum",
+      "en": "period of time",
+      "pos": "noun",
+      "plural": "die Zeiträume",
+      "meanings": [
+        {
+          "en": "a period/span of time",
+          "de": "eine Zeitspanne zwischen zwei Zeitpunkten"
+        }
+      ],
+      "rule": "Maskulin; Plural mit Umlaut: Zeiträume.",
+      "example": "In diesem Zeitraum war ich im Urlaub.",
+      "exampleEn": "During this period I was on vacation.",
+      "example2": "Der Vertrag gilt für einen Zeitraum von zwei Jahren.",
+      "example2En": "The contract is valid for a period of two years."
+    },
+    {
+      "de": "der Zeitungsbericht",
+      "en": "newspaper report/article",
+      "pos": "noun",
+      "plural": "die Zeitungsberichte",
+      "meanings": [
+        {
+          "en": "a report/article in a newspaper",
+          "de": "ein Bericht in der Zeitung"
+        }
+      ],
+      "rule": "Kompositum: die Zeitung + der Bericht; Genus vom Grundwort 'Bericht' (maskulin).",
+      "example": "Ich habe den Zeitungsbericht über den Unfall gelesen.",
+      "exampleEn": "I read the newspaper report about the accident.",
+      "example2": "In dem Zeitungsbericht standen viele Details.",
+      "example2En": "The newspaper article contained many details."
+    },
+    {
+      "de": "die Zeitverschwendung",
+      "en": "waste of time",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "a waste of time",
+          "de": "nutzlos verbrachte Zeit"
+        }
+      ],
+      "rule": "Unzählbar, meist ohne Plural; Kompositum aus Zeit + Verschwendung.",
+      "example": "Diese Besprechung war reine Zeitverschwendung.",
+      "exampleEn": "That meeting was a complete waste of time.",
+      "example2": "Warte nicht auf ihn, das ist Zeitverschwendung.",
+      "example2En": "Don't wait for him, it's a waste of time."
+    },
+    {
+      "de": "das Zelt",
+      "en": "tent",
+      "pos": "noun",
+      "plural": "die Zelte",
+      "meanings": [
+        {
+          "en": "a tent",
+          "de": "eine tragbare Unterkunft aus Stoff"
+        }
+      ],
+      "rule": "Regelmäßige Pluralbildung mit -e.",
+      "example": "Wir haben unser Zelt am See aufgebaut.",
+      "exampleEn": "We set up our tent by the lake.",
+      "example2": "Das Zelt hält auch bei starkem Regen dicht.",
+      "example2En": "The tent stays waterproof even in heavy rain."
+    },
+    {
+      "de": "zerschlagen",
+      "en": "to smash / to shatter",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to break something into pieces",
+          "de": "etwas kaputtschlagen"
+        },
+        {
+          "en": "(figurative) to destroy/ruin plans",
+          "de": "Pläne zunichtemachen"
+        }
+      ],
+      "rule": "unregelmäßig: er zerschlägt, zerschlug, hat zerschlagen; untrennbar (kein 'ge-' im Partizip).",
+      "example": "Er hat vor Wut das Glas zerschlagen.",
+      "exampleEn": "In anger, he smashed the glass.",
+      "example2": "Die Krise hat unsere Pläne zerschlagen.",
+      "example2En": "The crisis shattered our plans."
+    },
+    {
+      "de": "zerstören",
+      "en": "to destroy",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to destroy, ruin completely",
+          "de": "völlig kaputt machen, vernichten"
+        }
+      ],
+      "rule": "regelmäßig: er zerstört, zerstörte, hat zerstört; untrennbar, kein 'ge-'.",
+      "example": "Der Sturm hat viele Häuser zerstört.",
+      "exampleEn": "The storm destroyed many houses.",
+      "example2": "Lügen können Vertrauen zerstören.",
+      "example2En": "Lies can destroy trust."
+    }
+  ]
+}

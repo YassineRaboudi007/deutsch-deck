@@ -1,0 +1,873 @@
+{
+  "id": "a2-09",
+  "title": "A2 · G–H (9)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "der Grillplatz",
+      "en": "barbecue area",
+      "pos": "noun",
+      "plural": "die Grillplätze",
+      "meanings": [
+        {
+          "en": "designated area for barbecuing (e.g. in a park)",
+          "de": "Ort im Freien zum Grillen"
+        }
+      ],
+      "rule": "Compound noun: Grill + Platz; plural with umlaut -plätze.",
+      "example": "Im Park gibt es einen öffentlichen Grillplatz.",
+      "exampleEn": "There is a public barbecue area in the park.",
+      "example2": "Der Grillplatz war am Wochenende voll.",
+      "example2En": "The barbecue area was full on the weekend."
+    },
+    {
+      "de": "die Grillsoße",
+      "en": "barbecue sauce",
+      "pos": "noun",
+      "plural": "die Grillsoßen",
+      "meanings": [
+        {
+          "en": "sauce served with grilled food",
+          "de": "Soße für gegrilltes Fleisch"
+        }
+      ],
+      "rule": "Feminine noun, plural -n. Also spelled Grillsauce.",
+      "example": "Die Grillsoße schmeckt ein bisschen scharf.",
+      "exampleEn": "The barbecue sauce tastes a bit spicy.",
+      "example2": "Gib mir bitte die Grillsoße.",
+      "example2En": "Please pass me the barbecue sauce."
+    },
+    {
+      "de": "die Grillzange",
+      "en": "barbecue tongs",
+      "pos": "noun",
+      "plural": "die Grillzangen",
+      "meanings": [
+        {
+          "en": "tongs used for turning food on the grill",
+          "de": "Zange zum Wenden von gegrilltem Essen"
+        }
+      ],
+      "rule": "Compound noun: Grill + Zange; plural -n.",
+      "example": "Wo ist die Grillzange?",
+      "exampleEn": "Where are the barbecue tongs?",
+      "example2": "Er wendet die Würstchen mit der Grillzange.",
+      "example2En": "He turns the sausages with the tongs."
+    },
+    {
+      "de": "der Grund",
+      "en": "reason",
+      "pos": "noun",
+      "plural": "die Gründe",
+      "meanings": [
+        {
+          "en": "reason, cause",
+          "de": "Ursache für etwas"
+        },
+        {
+          "en": "ground, bottom (of water, land)",
+          "de": "Boden, unterer Teil"
+        }
+      ],
+      "rule": "Masculine noun, plural -e with umlaut. Common phrase: aus diesem Grund (for this reason).",
+      "example": "Er hat keinen Grund für seine Entscheidung genannt.",
+      "exampleEn": "He gave no reason for his decision.",
+      "example2": "Das Boot sank auf den Grund des Sees.",
+      "example2En": "The boat sank to the bottom of the lake."
+    },
+    {
+      "de": "die Grundschule",
+      "en": "primary school",
+      "pos": "noun",
+      "plural": "die Grundschulen",
+      "meanings": [
+        {
+          "en": "primary/elementary school",
+          "de": "Schule für Kinder ab 6 Jahren, erste Schule"
+        }
+      ],
+      "rule": "Feminine noun, plural -n. In Germany usually grades 1-4.",
+      "example": "Meine Tochter geht in die Grundschule.",
+      "exampleEn": "My daughter goes to primary school.",
+      "example2": "Die Grundschule ist nicht weit von hier.",
+      "example2En": "The primary school is not far from here."
+    },
+    {
+      "de": "die Gulaschsuppe",
+      "en": "goulash soup",
+      "pos": "noun",
+      "plural": "die Gulaschsuppen",
+      "meanings": [
+        {
+          "en": "a hearty spiced meat-and-vegetable soup (goulash soup)",
+          "de": "kräftige Suppe mit Fleisch und Paprika"
+        }
+      ],
+      "rule": "Compound noun: Gulasch + Suppe; plural -n.",
+      "example": "Ich nehme eine Gulaschsuppe als Vorspeise.",
+      "exampleEn": "I'll have a goulash soup as a starter.",
+      "example2": "Die Gulaschsuppe war sehr scharf.",
+      "example2En": "The goulash soup was very spicy."
+    },
+    {
+      "de": "der Gürtel",
+      "en": "belt",
+      "pos": "noun",
+      "plural": "die Gürtel",
+      "meanings": [
+        {
+          "en": "belt (worn around the waist)",
+          "de": "Band aus Leder oder Stoff um die Hüfte"
+        }
+      ],
+      "rule": "Masculine noun, plural unchanged (der Gürtel - die Gürtel).",
+      "example": "Der Gürtel ist zu groß für mich.",
+      "exampleEn": "The belt is too big for me.",
+      "example2": "Er trägt eine Hose ohne Gürtel.",
+      "example2En": "He wears trousers without a belt."
+    },
+    {
+      "de": "das Gymnasium",
+      "en": "grammar school; academic secondary school",
+      "pos": "noun",
+      "plural": "die Gymnasien",
+      "meanings": [
+        {
+          "en": "academic secondary school leading to Abitur",
+          "de": "weiterführende Schule bis zum Abitur"
+        }
+      ],
+      "rule": "Neuter noun, irregular plural: die Gymnasien.",
+      "example": "Mein Sohn geht aufs Gymnasium.",
+      "exampleEn": "My son goes to grammar school.",
+      "example2": "Nach der Grundschule wechselte sie ins Gymnasium.",
+      "example2En": "After primary school she moved to grammar school."
+    },
+    {
+      "de": "die Gymnastik",
+      "en": "gymnastics; exercise",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "gymnastics, physical exercise",
+          "de": "körperliche Übungen zur Fitness"
+        }
+      ],
+      "rule": "Uncountable noun, no plural.",
+      "example": "Jeden Morgen macht sie Gymnastik.",
+      "exampleEn": "Every morning she does exercise.",
+      "example2": "Der Gymnastikkurs findet im Sportzentrum statt.",
+      "example2En": "The gymnastics class takes place at the sports center."
+    },
+    {
+      "de": "die Haarpflege",
+      "en": "hair care",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "care/products for hair",
+          "de": "Pflege der Haare"
+        }
+      ],
+      "rule": "Compound: Haar + Pflege; uncountable, no plural.",
+      "example": "Ich kaufe Shampoo für die Haarpflege.",
+      "exampleEn": "I'm buying shampoo for hair care.",
+      "example2": "Gute Haarpflege braucht Zeit.",
+      "example2En": "Good hair care takes time."
+    },
+    {
+      "de": "das Halbjahr",
+      "en": "half-year; semester",
+      "pos": "noun",
+      "plural": "die Halbjahre",
+      "meanings": [
+        {
+          "en": "half of a year",
+          "de": "sechs Monate"
+        },
+        {
+          "en": "school semester/term",
+          "de": "Schulhalbjahr"
+        }
+      ],
+      "rule": "Neuter compound noun: das Jahr → das Halbjahr.",
+      "example": "Im ersten Halbjahr hatte ich gute Noten.",
+      "exampleEn": "In the first half-year I had good grades.",
+      "example2": "Das Halbjahr endet im Januar.",
+      "example2En": "The semester ends in January."
+    },
+    {
+      "de": "der Halt",
+      "en": "stop; hold/support",
+      "pos": "noun",
+      "plural": "die Halte",
+      "meanings": [
+        {
+          "en": "a stop (e.g. of a bus/train)",
+          "de": "das Anhalten, die Station"
+        },
+        {
+          "en": "support, something to hold on to",
+          "de": "Stütze, Sicherheit"
+        }
+      ],
+      "rule": "Related to the verb 'halten'; masculine noun, plural rarely used.",
+      "example": "Der Zug hat in München einen kurzen Halt.",
+      "exampleEn": "The train has a short stop in Munich.",
+      "example2": "Sie sucht Halt an der Wand.",
+      "example2En": "She looks for support against the wall."
+    },
+    {
+      "de": "das Handgelenk",
+      "en": "wrist",
+      "pos": "noun",
+      "plural": "die Handgelenke",
+      "meanings": [
+        {
+          "en": "the joint connecting hand and arm",
+          "de": "Gelenk zwischen Hand und Arm"
+        }
+      ],
+      "rule": "Compound: die Hand + das Gelenk = neuter.",
+      "example": "Mein Handgelenk tut weh.",
+      "exampleEn": "My wrist hurts.",
+      "example2": "Sie trägt eine Uhr am Handgelenk.",
+      "example2En": "She wears a watch on her wrist."
+    },
+    {
+      "de": "handwerklich",
+      "en": "manual/craft-related",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to craft or manual skill",
+          "de": "das Handwerk betreffend"
+        }
+      ],
+      "rule": "From 'das Handwerk' (craft/trade); regular comparison.",
+      "example": "Er hat handwerkliches Geschick.",
+      "exampleEn": "He has manual/craft skills.",
+      "example2": "Die Möbel sind handwerklich gemacht.",
+      "example2En": "The furniture is handmade/crafted."
+    },
+    {
+      "de": "das Hauptgericht",
+      "en": "main course",
+      "pos": "noun",
+      "plural": "die Hauptgerichte",
+      "meanings": [
+        {
+          "en": "the main dish of a meal",
+          "de": "wichtigstes Gericht einer Mahlzeit"
+        }
+      ],
+      "rule": "Compound: Haupt- (main) + Gericht (dish); neuter.",
+      "example": "Als Hauptgericht nehme ich Fisch.",
+      "exampleEn": "For the main course I'll have fish.",
+      "example2": "Das Hauptgericht kommt nach der Suppe.",
+      "example2En": "The main course comes after the soup."
+    },
+    {
+      "de": "die Hauptschule",
+      "en": "secondary modern school",
+      "pos": "noun",
+      "plural": "die Hauptschulen",
+      "meanings": [
+        {
+          "en": "type of German lower secondary school",
+          "de": "Schultyp nach der Grundschule"
+        }
+      ],
+      "rule": "Feminine compound noun: Haupt- + Schule.",
+      "example": "Er geht auf die Hauptschule.",
+      "exampleEn": "He attends the Hauptschule (secondary modern school).",
+      "example2": "Nach der Hauptschule macht sie eine Ausbildung.",
+      "example2En": "After Hauptschule she starts vocational training."
+    },
+    {
+      "de": "der Hausbewohner / die Hausbewohnerin",
+      "en": "resident (of a building)",
+      "pos": "noun",
+      "plural": "die Hausbewohner / die Hausbewohnerinnen",
+      "meanings": [
+        {
+          "en": "person living in a house/building",
+          "de": "Person, die in einem Haus wohnt"
+        }
+      ],
+      "rule": "Compound: Haus + Bewohner(in); masculine/feminine pair.",
+      "example": "Alle Hausbewohner trafen sich im Hof.",
+      "exampleEn": "All the building's residents met in the courtyard.",
+      "example2": "Die Hausbewohnerin hat den Brief bekommen.",
+      "example2En": "The resident (female) received the letter."
+    },
+    {
+      "de": "der Hausmeister / die Hausmeisterin",
+      "en": "caretaker; janitor",
+      "pos": "noun",
+      "plural": "die Hausmeister / die Hausmeisterinnen",
+      "meanings": [
+        {
+          "en": "person who maintains a building",
+          "de": "Person, die ein Haus/Gebäude pflegt"
+        }
+      ],
+      "rule": "Compound: Haus + Meister(in); masculine/feminine pair.",
+      "example": "Der Hausmeister repariert die Heizung.",
+      "exampleEn": "The caretaker is repairing the heating.",
+      "example2": "Fragen Sie die Hausmeisterin nach dem Schlüssel.",
+      "example2En": "Ask the caretaker (female) for the key."
+    },
+    {
+      "de": "das Hausmittel",
+      "en": "home remedy",
+      "pos": "noun",
+      "plural": "die Hausmittel",
+      "meanings": [
+        {
+          "en": "traditional home-based remedy",
+          "de": "einfaches Mittel aus dem Haushalt gegen Beschwerden"
+        }
+      ],
+      "rule": "Compound: Haus + Mittel; neuter.",
+      "example": "Tee mit Honig ist ein gutes Hausmittel gegen Husten.",
+      "exampleEn": "Tea with honey is a good home remedy for a cough.",
+      "example2": "Meine Oma kennt viele Hausmittel.",
+      "example2En": "My grandma knows many home remedies."
+    },
+    {
+      "de": "die Hausordnung",
+      "en": "house rules",
+      "pos": "noun",
+      "plural": "die Hausordnungen",
+      "meanings": [
+        {
+          "en": "rules for residents of a building",
+          "de": "Regeln für die Bewohner eines Hauses"
+        }
+      ],
+      "rule": "Compound: Haus + Ordnung; feminine.",
+      "example": "In der Hausordnung steht: keine Musik nach 22 Uhr.",
+      "exampleEn": "The house rules say: no music after 10 pm.",
+      "example2": "Bitte lesen Sie die Hausordnung.",
+      "example2En": "Please read the house rules."
+    },
+    {
+      "de": "die Hausregel",
+      "en": "house rule",
+      "pos": "noun",
+      "plural": "die Hausregeln",
+      "meanings": [
+        {
+          "en": "an individual rule of a household",
+          "de": "einzelne Regel im Haus/Haushalt"
+        }
+      ],
+      "rule": "Compound: Haus + Regel; feminine; often used in plural.",
+      "example": "Unsere Hausregel ist: Schuhe draußen ausziehen.",
+      "exampleEn": "Our house rule is: take off shoes outside.",
+      "example2": "Jede Familie hat eigene Hausregeln.",
+      "example2En": "Every family has its own house rules."
+    },
+    {
+      "de": "die Hausreinigung",
+      "en": "house cleaning",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "cleaning of a house/building",
+          "de": "das Reinigen eines Hauses"
+        }
+      ],
+      "rule": "Compound: Haus + Reinigung; uncountable, no plural.",
+      "example": "Die Hausreinigung findet freitags statt.",
+      "exampleEn": "The house cleaning takes place on Fridays.",
+      "example2": "Wir bezahlen für die Hausreinigung extra.",
+      "example2En": "We pay extra for the house cleaning."
+    },
+    {
+      "de": "die Hausverwaltung",
+      "en": "property management (company)",
+      "pos": "noun",
+      "plural": "die Hausverwaltungen",
+      "meanings": [
+        {
+          "en": "company/office managing a building",
+          "de": "Firma, die ein Haus verwaltet"
+        }
+      ],
+      "rule": "Compound: Haus + Verwaltung; feminine.",
+      "example": "Rufen Sie die Hausverwaltung an, wenn die Heizung kaputt ist.",
+      "exampleEn": "Call the property management if the heating is broken.",
+      "example2": "Die Hausverwaltung hat einen neuen Mieter gefunden.",
+      "example2En": "The property management found a new tenant."
+    },
+    {
+      "de": "die Haut",
+      "en": "skin",
+      "pos": "noun",
+      "plural": "die Häute",
+      "meanings": [
+        {
+          "en": "the skin of a person/animal",
+          "de": "äußere Hülle des Körpers"
+        }
+      ],
+      "rule": "Feminine noun; irregular plural with umlaut: Haut → Häute.",
+      "example": "Nach dem Sonnenbad ist meine Haut rot.",
+      "exampleEn": "After sunbathing my skin is red.",
+      "example2": "Creme schützt die Haut.",
+      "example2En": "Cream protects the skin."
+    },
+    {
+      "de": "die Hautpflege",
+      "en": "skin care",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "care/products for the skin",
+          "de": "Pflege der Haut"
+        }
+      ],
+      "rule": "Compound: Haut + Pflege; uncountable.",
+      "example": "Sie macht jeden Tag Hautpflege.",
+      "exampleEn": "She does skin care every day.",
+      "example2": "Hautpflege ist im Winter wichtig.",
+      "example2En": "Skin care is important in winter."
+    },
+    {
+      "de": "die Hektik",
+      "en": "hectic rush; hustle",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "hurried, stressful activity",
+          "de": "große Eile und Unruhe"
+        }
+      ],
+      "rule": "Feminine, uncountable; often with 'in der Hektik' (in the rush).",
+      "example": "In der Hektik habe ich meinen Schlüssel vergessen.",
+      "exampleEn": "In the rush I forgot my key.",
+      "example2": "Morgens herrscht bei uns immer Hektik.",
+      "example2En": "There's always a hectic rush at our place in the morning."
+    },
+    {
+      "de": "herausfinden",
+      "en": "to find out",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to discover/learn information",
+          "de": "etwas entdecken, in Erfahrung bringen"
+        }
+      ],
+      "rule": "Trennbar: findet ... heraus, fand heraus, hat herausgefunden; often + Objekt/dass-Satz.",
+      "example": "Ich möchte herausfinden, wann der Bus fährt.",
+      "exampleEn": "I want to find out when the bus leaves.",
+      "example2": "Wir haben die Wahrheit herausgefunden.",
+      "example2En": "We found out the truth."
+    },
+    {
+      "de": "heraussuchen",
+      "en": "to pick out, select",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to search out / select something from a group",
+          "de": "etwas auswählen, finden"
+        }
+      ],
+      "rule": "trennbar: sucht ... heraus, suchte ... heraus, hat herausgesucht",
+      "example": "Ich suche mir ein schönes Kleid heraus.",
+      "exampleEn": "I'm picking out a nice dress.",
+      "example2": "Kannst du mir die passenden Fotos heraussuchen?",
+      "example2En": "Can you pick out the matching photos for me?"
+    },
+    {
+      "de": "herein",
+      "en": "in, come in",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "movement into a place (toward the speaker)",
+          "de": "nach drinnen (zum Sprecher hin)"
+        }
+      ],
+      "rule": "Oft als Ausruf: \"Herein!\" (= Come in!); wird auch in trennbaren Verben wie hereinkommen benutzt.",
+      "example": "Herein, die Tür ist offen!",
+      "exampleEn": "Come in, the door is open!",
+      "example2": "Der kalte Wind weht durchs Fenster herein.",
+      "example2En": "Cold wind is blowing in through the window."
+    },
+    {
+      "de": "herrlich",
+      "en": "wonderful, splendid",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "very beautiful or pleasant",
+          "de": "sehr schön, wunderbar"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: herrlich, herrlicher, am herrlichsten.",
+      "example": "Das Wetter ist heute herrlich.",
+      "exampleEn": "The weather is wonderful today.",
+      "example2": "Wir hatten einen herrlichen Urlaub am Meer.",
+      "example2En": "We had a wonderful vacation by the sea."
+    },
+    {
+      "de": "herum",
+      "en": "around",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in a circle or around something",
+          "de": "rund um etwas herum"
+        }
+      ],
+      "rule": "Oft mit um...herum: um den Tisch herum; auch in trennbaren Verben wie herumlaufen.",
+      "example": "Die Kinder sitzen um den Tisch herum.",
+      "exampleEn": "The children are sitting around the table.",
+      "example2": "Er läuft den ganzen Tag im Park herum.",
+      "example2En": "He wanders around the park all day."
+    },
+    {
+      "de": "herunterladen",
+      "en": "to download",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to download a file from the internet",
+          "de": "eine Datei aus dem Internet laden"
+        }
+      ],
+      "rule": "trennbar: lädt ... herunter, lud ... herunter, hat heruntergeladen",
+      "example": "Ich lade die App auf mein Handy herunter.",
+      "exampleEn": "I'm downloading the app onto my phone.",
+      "example2": "Hast du das Dokument schon heruntergeladen?",
+      "example2En": "Have you already downloaded the document?"
+    },
+    {
+      "de": "herzlich",
+      "en": "warm, cordial",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "warm and sincere in feeling",
+          "de": "warmherzig, freundlich gemeint"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: herzlich, herzlicher, am herzlichsten. Oft in Grußformeln: herzliche Grüße, herzlichen Glückwunsch.",
+      "example": "Herzlichen Glückwunsch zum Geburtstag!",
+      "exampleEn": "Happy birthday! (lit. warm congratulations)",
+      "example2": "Wir haben die Gäste herzlich begrüßt.",
+      "example2En": "We warmly welcomed the guests."
+    },
+    {
+      "de": "hiermit",
+      "en": "hereby",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "by this means, with this (formal)",
+          "de": "mit diesem, dadurch (formell)"
+        }
+      ],
+      "rule": "Typisch in offiziellen Briefen und Erklärungen; formeller Stil.",
+      "example": "Hiermit bestätige ich den Termin.",
+      "exampleEn": "I hereby confirm the appointment.",
+      "example2": "Hiermit kündige ich meinen Vertrag.",
+      "example2En": "I hereby cancel my contract."
+    },
+    {
+      "de": "hierzu",
+      "en": "for this, regarding this",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "concerning this matter / for this purpose",
+          "de": "zu diesem Thema, für diesen Zweck"
+        }
+      ],
+      "rule": "Pronominaladverb aus hier + zu; steht oft am Satzanfang, verweist auf vorher Genanntes.",
+      "example": "Hierzu habe ich noch eine Frage.",
+      "exampleEn": "I still have a question about this.",
+      "example2": "Hierzu brauchen wir mehr Informationen.",
+      "example2En": "We need more information for this."
+    },
+    {
+      "de": "hin",
+      "en": "there, away (movement from speaker)",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "movement away from the speaker toward a place",
+          "de": "Richtung von hier weg"
+        }
+      ],
+      "rule": "Gegensatz zu her; oft in trennbaren Verben wie hinfahren, hingehen.",
+      "example": "Wo gehst du hin?",
+      "exampleEn": "Where are you going?",
+      "example2": "Zum Bahnhof will ich auch hin.",
+      "example2En": "I want to go to the train station, too."
+    },
+    {
+      "de": "hinfahren",
+      "en": "to go/drive there",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to travel (drive/go) to a place",
+          "de": "an einen Ort fahren"
+        }
+      ],
+      "rule": "trennbar: fährt ... hin, fuhr ... hin, ist hingefahren",
+      "example": "Wir fahren mit dem Auto hin.",
+      "exampleEn": "We're driving there by car.",
+      "example2": "Wann fahrt ihr zur Party hin?",
+      "example2En": "When are you going to the party?"
+    },
+    {
+      "de": "die Hinfahrt",
+      "en": "the outward journey",
+      "pos": "noun",
+      "plural": "die Hinfahrten",
+      "meanings": [
+        {
+          "en": "the trip to a destination (as opposed to the return trip)",
+          "de": "die Fahrt zu einem Ort (Gegenteil von Rückfahrt)"
+        }
+      ],
+      "rule": "Zusammensetzung aus hin + Fahrt; Gegenteil: die Rückfahrt.",
+      "example": "Die Hinfahrt hat drei Stunden gedauert.",
+      "exampleEn": "The outward journey took three hours.",
+      "example2": "Auf der Hinfahrt haben wir Musik gehört.",
+      "example2En": "On the way there, we listened to music."
+    },
+    {
+      "de": "hinfallen",
+      "en": "to fall down",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to fall to the ground",
+          "de": "zu Boden fallen"
+        }
+      ],
+      "rule": "trennbar: fällt ... hin, fiel ... hin, ist hingefallen",
+      "example": "Das Kind ist auf dem Spielplatz hingefallen.",
+      "exampleEn": "The child fell down on the playground.",
+      "example2": "Pass auf, dass du nicht hinfällst!",
+      "example2En": "Watch out that you don't fall down!"
+    },
+    {
+      "de": "hingehen",
+      "en": "to go there",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to go to a place",
+          "de": "an einen Ort gehen"
+        }
+      ],
+      "rule": "trennbar: geht ... hin, ging ... hin, ist hingegangen",
+      "example": "Gehst du heute Abend zur Feier hin?",
+      "exampleEn": "Are you going to the party tonight?",
+      "example2": "Wir sind gestern zusammen hingegangen.",
+      "example2En": "We went there together yesterday."
+    },
+    {
+      "de": "hoch",
+      "en": "high, tall",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having great height",
+          "de": "eine große Höhe habend"
+        }
+      ],
+      "rule": "Unregelmäßige Steigerung: hoch, höher, am höchsten. Vor Nomen wird aus hoch: hoher/hohe/hohes.",
+      "example": "Der Turm ist sehr hoch.",
+      "exampleEn": "The tower is very high.",
+      "example2": "Das ist ein hoher Berg.",
+      "example2En": "That is a high mountain."
+    },
+    {
+      "de": "hochladen",
+      "en": "to upload",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to upload a file to the internet",
+          "de": "eine Datei ins Internet laden"
+        }
+      ],
+      "rule": "trennbar: lädt ... hoch, lud ... hoch, hat hochgeladen",
+      "example": "Ich lade die Fotos auf die Webseite hoch.",
+      "exampleEn": "I'm uploading the photos to the website.",
+      "example2": "Hast du das Video schon hochgeladen?",
+      "example2En": "Have you already uploaded the video?"
+    },
+    {
+      "de": "hochlegen",
+      "en": "to put up, elevate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to place something higher up / raise (e.g. one's legs)",
+          "de": "etwas nach oben legen, höher legen"
+        }
+      ],
+      "rule": "trennbar: legt ... hoch, legte ... hoch, hat hochgelegt",
+      "example": "Leg die Beine hoch, das hilft gegen die Schmerzen.",
+      "exampleEn": "Put your legs up, that helps with the pain.",
+      "example2": "Sie hat das Kissen auf den Stuhl hochgelegt.",
+      "example2En": "She put the pillow up on the chair."
+    },
+    {
+      "de": "der Hof",
+      "en": "yard, courtyard; farm",
+      "pos": "noun",
+      "plural": "die Höfe",
+      "meanings": [
+        {
+          "en": "an enclosed outdoor area by a building",
+          "de": "ein umschlossener Platz vor/hinter einem Haus"
+        },
+        {
+          "en": "a farm",
+          "de": "ein landwirtschaftlicher Betrieb"
+        }
+      ],
+      "rule": "Plural mit Umlaut: der Hof, die Höfe.",
+      "example": "Die Kinder spielen im Hof.",
+      "exampleEn": "The children are playing in the courtyard.",
+      "example2": "Meine Großeltern haben einen Hof auf dem Land.",
+      "example2En": "My grandparents have a farm in the countryside."
+    },
+    {
+      "de": "hoffen",
+      "en": "to hope",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to wish that something will happen",
+          "de": "wünschen, dass etwas passiert"
+        }
+      ],
+      "rule": "Regelmäßig: hofft, hoffte, hat gehofft; oft mit \"auf + Akkusativ\" oder \"dass\"-Satz.",
+      "example": "Ich hoffe auf gutes Wetter am Wochenende.",
+      "exampleEn": "I'm hoping for good weather this weekend.",
+      "example2": "Wir hoffen, dass alles gut geht.",
+      "example2En": "We hope that everything goes well."
+    },
+    {
+      "de": "hoffentlich",
+      "en": "hopefully",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "hopefully / I hope that",
+          "de": "drückt eine Hoffnung aus"
+        }
+      ],
+      "rule": "Satzadverb, steht meist am Satzanfang oder nach dem Verb; bezieht sich immer auf den ganzen Satz.",
+      "example": "Hoffentlich scheint morgen die Sonne.",
+      "exampleEn": "Hopefully the sun will shine tomorrow.",
+      "example2": "Das Taxi kommt hoffentlich pünktlich.",
+      "example2En": "Hopefully the taxi will arrive on time."
+    },
+    {
+      "de": "höflich",
+      "en": "polite",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "polite, courteous",
+          "de": "freundlich und respektvoll"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: höflich, höflicher, am höflichsten.",
+      "example": "Der Verkäufer war sehr höflich zu uns.",
+      "exampleEn": "The salesman was very polite to us.",
+      "example2": "Bitte antworte höflich auf die E-Mail.",
+      "example2En": "Please reply politely to the e-mail."
+    },
+    {
+      "de": "holen",
+      "en": "to fetch, get",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to go and get / fetch something",
+          "de": "etwas herbeibringen"
+        }
+      ],
+      "rule": "regelmäßig: holt, holte, hat geholt.",
+      "example": "Kannst du bitte das Brot vom Bäcker holen?",
+      "exampleEn": "Can you please get the bread from the bakery?",
+      "example2": "Ich hole schnell meine Jacke.",
+      "example2En": "I'll quickly get my jacket."
+    },
+    {
+      "de": "das Holz",
+      "en": "wood",
+      "pos": "noun",
+      "plural": "die Hölzer",
+      "meanings": [
+        {
+          "en": "wood (material)",
+          "de": "Material aus Bäumen"
+        }
+      ],
+      "rule": "Meist unzählbar; Plural 'die Hölzer' nur für verschiedene Holzarten/-stücke.",
+      "example": "Der Tisch ist aus Holz.",
+      "exampleEn": "The table is made of wood.",
+      "example2": "Wir sammeln Holz für das Feuer.",
+      "example2En": "We're collecting wood for the fire."
+    },
+    {
+      "de": "hübsch",
+      "en": "pretty, nice-looking",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "pretty, attractive",
+          "de": "schön anzusehen"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: hübsch, hübscher, am hübschesten.",
+      "example": "Sie trägt ein hübsches Kleid.",
+      "exampleEn": "She is wearing a pretty dress.",
+      "example2": "Das ist eine hübsche kleine Wohnung.",
+      "example2En": "That's a nice little apartment."
+    }
+  ]
+}

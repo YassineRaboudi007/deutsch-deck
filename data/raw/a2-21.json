@@ -1,0 +1,592 @@
+{
+  "id": "a2-21",
+  "title": "A2 · W–Z (21)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "wirklich",
+      "en": "really; truly",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "really, in fact",
+          "de": "tatsächlich"
+        },
+        {
+          "en": "truly, genuinely",
+          "de": "echt"
+        }
+      ],
+      "rule": "Adverb, no comparison forms; often used to emphasize a statement.",
+      "example": "Bist du wirklich krank?",
+      "exampleEn": "Are you really sick?",
+      "example2": "Das Essen war wirklich lecker.",
+      "example2En": "The food was really delicious."
+    },
+    {
+      "de": "die Wirtschaft",
+      "en": "economy; pub",
+      "pos": "noun",
+      "plural": "die Wirtschaften",
+      "meanings": [
+        {
+          "en": "economy",
+          "de": "Ökonomie eines Landes"
+        },
+        {
+          "en": "pub, tavern (regional)",
+          "de": "Gaststätte"
+        }
+      ],
+      "rule": "Feminine noun; two very different meanings depending on context.",
+      "example": "Die Wirtschaft in Deutschland wächst langsam.",
+      "exampleEn": "The economy in Germany is growing slowly.",
+      "example2": "Wir treffen uns in der Wirtschaft um die Ecke.",
+      "example2En": "We're meeting at the pub around the corner."
+    },
+    {
+      "de": "wohl",
+      "en": "probably; well",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "probably",
+          "de": "wahrscheinlich"
+        },
+        {
+          "en": "well (fixed phrases)",
+          "de": "gut, z. B. sich wohlfühlen"
+        }
+      ],
+      "rule": "Modal particle/adverb; common in 'sich wohl fühlen' (to feel well).",
+      "example": "Er ist wohl noch im Büro.",
+      "exampleEn": "He's probably still at the office.",
+      "example2": "Ich fühle mich hier sehr wohl.",
+      "example2En": "I feel very comfortable here."
+    },
+    {
+      "de": "die Wohngemeinschaft",
+      "en": "shared flat, flatshare",
+      "pos": "noun",
+      "plural": "die Wohngemeinschaften",
+      "meanings": [
+        {
+          "en": "shared flat (people living together)",
+          "de": "mehrere Personen wohnen zusammen in einer Wohnung"
+        }
+      ],
+      "rule": "Feminine noun, often abbreviated 'WG'.",
+      "example": "Ich wohne in einer Wohngemeinschaft mit drei Studenten.",
+      "exampleEn": "I live in a shared flat with three students.",
+      "example2": "Die Wohngemeinschaft sucht einen neuen Mitbewohner.",
+      "example2En": "The flatshare is looking for a new flatmate."
+    },
+    {
+      "de": "die Wohnungsbesichtigung",
+      "en": "flat viewing",
+      "pos": "noun",
+      "plural": "die Wohnungsbesichtigungen",
+      "meanings": [
+        {
+          "en": "viewing/inspection of an apartment before renting",
+          "de": "Besichtigung einer Wohnung vor der Miete"
+        }
+      ],
+      "rule": "Feminine compound noun: Wohnung + Besichtigung.",
+      "example": "Morgen habe ich eine Wohnungsbesichtigung.",
+      "exampleEn": "Tomorrow I have a flat viewing.",
+      "example2": "Bei der Wohnungsbesichtigung waren viele Interessenten.",
+      "example2En": "There were many interested people at the flat viewing."
+    },
+    {
+      "de": "wunderbar",
+      "en": "wonderful",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "wonderful, marvelous",
+          "de": "sehr schön, herrlich"
+        }
+      ],
+      "rule": "Regular comparison: wunderbar, wunderbarer, am wunderbarsten.",
+      "example": "Das Wetter heute ist wunderbar.",
+      "exampleEn": "The weather today is wonderful.",
+      "example2": "Wir hatten einen wunderbaren Urlaub.",
+      "example2En": "We had a wonderful vacation."
+    },
+    {
+      "de": "wundervoll",
+      "en": "wonderful, marvelous",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "wonderful, marvelous",
+          "de": "sehr schön, wunderbar"
+        }
+      ],
+      "rule": "Regular comparison: wundervoll, wundervoller, am wundervollsten; near synonym of 'wunderbar'.",
+      "example": "Das war ein wundervoller Abend.",
+      "exampleEn": "That was a wonderful evening.",
+      "example2": "Sie hat eine wundervolle Stimme.",
+      "example2En": "She has a wonderful voice."
+    },
+    {
+      "de": "der Wunsch",
+      "en": "wish",
+      "pos": "noun",
+      "plural": "die Wünsche",
+      "meanings": [
+        {
+          "en": "wish, desire",
+          "de": "etwas, das man gern möchte"
+        }
+      ],
+      "rule": "Masculine noun; verb form 'wünschen' (to wish); plural umlauts to Wünsche.",
+      "example": "Hast du noch einen Wunsch für deinen Geburtstag?",
+      "exampleEn": "Do you have another wish for your birthday?",
+      "example2": "Mein größter Wunsch ist ein eigenes Haus.",
+      "example2En": "My biggest wish is my own house."
+    },
+    {
+      "de": "das Würstchen",
+      "en": "little sausage, hot dog sausage",
+      "pos": "noun",
+      "plural": "die Würstchen",
+      "meanings": [
+        {
+          "en": "small sausage",
+          "de": "kleine Wurst"
+        }
+      ],
+      "rule": "Neuter noun (diminutive of 'die Wurst', -chen nouns are always neuter); plural is unchanged.",
+      "example": "Zum Grillen kaufen wir Würstchen.",
+      "exampleEn": "We're buying sausages for the barbecue.",
+      "example2": "Das Kind isst ein Würstchen mit Brot.",
+      "example2En": "The child is eating a sausage with bread."
+    },
+    {
+      "de": "das Yoga",
+      "en": "yoga",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "yoga (exercise/practice)",
+          "de": "Entspannungs- und Bewegungsübungen"
+        }
+      ],
+      "rule": "Neuter noun (also used as 'der Yoga' in some dialects, but 'das Yoga' is standard); uncountable, no plural.",
+      "example": "Sie macht jeden Morgen Yoga.",
+      "exampleEn": "She does yoga every morning.",
+      "example2": "Yoga hilft mir, mich zu entspannen.",
+      "example2En": "Yoga helps me relax."
+    },
+    {
+      "de": "der Zähler",
+      "en": "meter; counter",
+      "pos": "noun",
+      "plural": "die Zähler",
+      "meanings": [
+        {
+          "en": "meter (e.g. electricity, water)",
+          "de": "Gerät, das etwas misst und zählt"
+        },
+        {
+          "en": "numerator (in a fraction)",
+          "de": "obere Zahl in einem Bruch, z. B. die 3 in 3/4"
+        }
+      ],
+      "rule": "Masculine noun; from verb 'zählen' (to count); plural unchanged.",
+      "example": "Der Techniker liest den Zähler ab.",
+      "exampleEn": "The technician reads the meter.",
+      "example2": "Bitte notieren Sie den Stand des Zählers.",
+      "example2En": "Please note the meter reading."
+    },
+    {
+      "de": "der Zahlungsempfänger / die Zahlungsempfängerin",
+      "en": "payee",
+      "pos": "noun",
+      "plural": "die Zahlungsempfänger / die Zahlungsempfängerinnen",
+      "meanings": [
+        {
+          "en": "person or entity receiving a payment",
+          "de": "Person, die Geld bekommt"
+        }
+      ],
+      "rule": "Compound noun: Zahlung + Empfänger; masculine/feminine pair; often appears on bank forms.",
+      "example": "Bitte geben Sie den Namen des Zahlungsempfängers an.",
+      "exampleEn": "Please provide the name of the payee.",
+      "example2": "Der Zahlungsempfänger hat das Geld noch nicht erhalten.",
+      "example2En": "The payee has not yet received the money."
+    },
+    {
+      "de": "das Zeitmanagement",
+      "en": "time management",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "organizing and planning how to divide time between tasks",
+          "de": "planvoller Umgang mit der eigenen Zeit"
+        }
+      ],
+      "rule": "Neuter noun, loanword from English; uncountable, no plural.",
+      "example": "Gutes Zeitmanagement ist im Beruf wichtig.",
+      "exampleEn": "Good time management is important at work.",
+      "example2": "Sie hat einen Kurs für Zeitmanagement besucht.",
+      "example2En": "She attended a course on time management."
+    },
+    {
+      "de": "die Zeitschrift",
+      "en": "magazine",
+      "pos": "noun",
+      "plural": "die Zeitschriften",
+      "meanings": [
+        {
+          "en": "magazine, periodical",
+          "de": "regelmäßig erscheinendes Heft mit Artikeln"
+        }
+      ],
+      "rule": "Feminine noun; different from 'die Zeitung' (newspaper).",
+      "example": "Ich lese gern Zeitschriften über Reisen.",
+      "exampleEn": "I like reading travel magazines.",
+      "example2": "Die Zeitschrift erscheint einmal im Monat.",
+      "example2En": "The magazine is published once a month."
+    },
+    {
+      "de": "der Zeitungsartikel",
+      "en": "newspaper article",
+      "pos": "noun",
+      "plural": "die Zeitungsartikel",
+      "meanings": [
+        {
+          "en": "article published in a newspaper",
+          "de": "Text in einer Zeitung"
+        }
+      ],
+      "rule": "Masculine compound noun: Zeitung + Artikel; plural unchanged.",
+      "example": "Er hat einen interessanten Zeitungsartikel gelesen.",
+      "exampleEn": "He read an interesting newspaper article.",
+      "example2": "Der Zeitungsartikel handelt von Klimaschutz.",
+      "example2En": "The newspaper article is about climate protection."
+    },
+    {
+      "de": "zeitweise",
+      "en": "temporarily, at times",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "temporarily, occasionally, at times",
+          "de": "manchmal, nicht dauernd"
+        }
+      ],
+      "rule": "Adverb, no comparison; synonym: manchmal, vorübergehend.",
+      "example": "Es regnet heute zeitweise.",
+      "exampleEn": "It's raining on and off today.",
+      "example2": "Zeitweise war die Straße gesperrt.",
+      "example2En": "The road was temporarily closed."
+    },
+    {
+      "de": "das Zertifikat",
+      "en": "certificate",
+      "pos": "noun",
+      "plural": "die Zertifikate",
+      "meanings": [
+        {
+          "en": "official document certifying a qualification",
+          "de": "offizielles Dokument, das eine Qualifikation bestätigt"
+        }
+      ],
+      "rule": "Neuter noun, loanword from Latin/English.",
+      "example": "Sie hat ein Zertifikat für Deutschkenntnisse.",
+      "exampleEn": "She has a certificate for German language skills.",
+      "example2": "Nach dem Kurs bekommen Sie ein Zertifikat.",
+      "example2En": "After the course you get a certificate."
+    },
+    {
+      "de": "der Zeuge / die Zeugin",
+      "en": "witness",
+      "pos": "noun",
+      "plural": "die Zeugen / die Zeuginnen",
+      "meanings": [
+        {
+          "en": "person who witnesses an event, e.g. an accident or crime",
+          "de": "Person, die etwas gesehen hat"
+        }
+      ],
+      "rule": "Masculine weak noun (der Zeuge, den/dem/des Zeugen); feminine form Zeugin.",
+      "example": "Der Zeuge hat den Unfall genau gesehen.",
+      "exampleEn": "The witness saw the accident clearly.",
+      "example2": "Die Polizei sucht Zeugen für den Diebstahl.",
+      "example2En": "The police are looking for witnesses to the theft."
+    },
+    {
+      "de": "das Zeugnis",
+      "en": "report card; certificate",
+      "pos": "noun",
+      "plural": "die Zeugnisse",
+      "meanings": [
+        {
+          "en": "school report card",
+          "de": "schulische Beurteilung mit Noten"
+        },
+        {
+          "en": "certificate (e.g. work reference)",
+          "de": "Bescheinigung, z. B. Arbeitszeugnis"
+        }
+      ],
+      "rule": "Neuter noun; plural die Zeugnisse. Common in 'Schulzeugnis' (report card) and 'Arbeitszeugnis' (work reference).",
+      "example": "Am Ende des Schuljahres bekommen die Kinder ihr Zeugnis.",
+      "exampleEn": "At the end of the school year the children get their report card.",
+      "example2": "Er braucht ein Zeugnis von seinem alten Arbeitgeber.",
+      "example2En": "He needs a reference from his old employer."
+    },
+    {
+      "de": "der Zoo",
+      "en": "zoo",
+      "pos": "noun",
+      "plural": "die Zoos",
+      "meanings": [
+        {
+          "en": "zoo",
+          "de": "Tierpark"
+        }
+      ],
+      "rule": "Masculine noun; plural die Zoos. Often used with 'in den Zoo gehen'.",
+      "example": "Am Sonntag gehen wir mit den Kindern in den Zoo.",
+      "exampleEn": "On Sunday we're going to the zoo with the kids.",
+      "example2": "Im Zoo kann man viele Tiere sehen.",
+      "example2En": "At the zoo you can see many animals."
+    },
+    {
+      "de": "zubereiten",
+      "en": "to prepare (food)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to prepare food/a meal",
+          "de": "kochen, fertig machen"
+        }
+      ],
+      "rule": "Trennbar: bereitet ... zu, bereitete ... zu, hat zubereitet. Usually + Akkusativ (ein Gericht zubereiten).",
+      "example": "Sie bereitet das Abendessen zu.",
+      "exampleEn": "She is preparing dinner.",
+      "example2": "Kannst du den Salat zubereiten?",
+      "example2En": "Can you prepare the salad?"
+    },
+    {
+      "de": "die Zucchini",
+      "en": "zucchini; courgette",
+      "pos": "noun",
+      "plural": "die Zucchini",
+      "meanings": [
+        {
+          "en": "zucchini/courgette (vegetable)",
+          "de": "Gemüse, ähnlich wie Gurke"
+        }
+      ],
+      "rule": "Feminine noun; singular and plural are the same: die Zucchini.",
+      "example": "Ich kaufe zwei Zucchini für die Suppe.",
+      "exampleEn": "I'm buying two zucchini for the soup.",
+      "example2": "Die Zucchini schmeckt gut gebraten.",
+      "example2En": "Zucchini tastes good fried."
+    },
+    {
+      "de": "zufrieden",
+      "en": "satisfied; content",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "satisfied, content",
+          "de": "nicht unzufrieden, glücklich mit etwas"
+        }
+      ],
+      "rule": "Often used with 'mit + Dativ': zufrieden mit etwas/jemandem. Regular comparison: zufrieden, zufriedener, am zufriedensten.",
+      "example": "Ich bin mit meiner neuen Arbeit zufrieden.",
+      "exampleEn": "I am satisfied with my new job.",
+      "example2": "Der Chef war mit unserer Arbeit sehr zufrieden.",
+      "example2En": "The boss was very satisfied with our work."
+    },
+    {
+      "de": "der Zugang",
+      "en": "access; entrance",
+      "pos": "noun",
+      "plural": "die Zugänge",
+      "meanings": [
+        {
+          "en": "access, way in",
+          "de": "Möglichkeit, an einen Ort zu kommen"
+        },
+        {
+          "en": "access to a system/resource",
+          "de": "Zugriff, z. B. zum Internet"
+        }
+      ],
+      "rule": "Masculine noun; plural die Zugänge. Often with 'Zugang zu + Dativ'.",
+      "example": "Der Zugang zum Gebäude ist nur mit Karte möglich.",
+      "exampleEn": "Access to the building is only possible with a card.",
+      "example2": "Wir haben keinen Zugang zum Internet.",
+      "example2En": "We have no access to the internet."
+    },
+    {
+      "de": "zuhören",
+      "en": "to listen (to)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to listen attentively",
+          "de": "aufmerksam hören"
+        }
+      ],
+      "rule": "Trennbar: hört ... zu, hörte ... zu, hat zugehört. Governs Dativ: jemandem zuhören.",
+      "example": "Bitte hör mir zu!",
+      "exampleEn": "Please listen to me!",
+      "example2": "Die Schüler hören dem Lehrer aufmerksam zu.",
+      "example2En": "The students listen attentively to the teacher."
+    },
+    {
+      "de": "die Zulassungsstelle",
+      "en": "vehicle registration office",
+      "pos": "noun",
+      "plural": "die Zulassungsstellen",
+      "meanings": [
+        {
+          "en": "office where vehicles are registered",
+          "de": "Amt, bei dem man ein Auto anmeldet"
+        }
+      ],
+      "rule": "Feminine noun; plural die Zulassungsstellen. Compound of 'Zulassung' (registration) + 'Stelle' (office).",
+      "example": "Ich muss mein neues Auto bei der Zulassungsstelle anmelden.",
+      "exampleEn": "I have to register my new car at the vehicle registration office.",
+      "example2": "Die Zulassungsstelle hat vormittags geöffnet.",
+      "example2En": "The registration office is open in the mornings."
+    },
+    {
+      "de": "zuletzt",
+      "en": "last; finally",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "last (in a sequence), finally",
+          "de": "als Letztes, am Ende"
+        }
+      ],
+      "rule": "Undeclined adverb. Used for sequence ('zuerst ... zuletzt' = first ... finally) and for time ('zuletzt' = the last time, like 'zum letzten Mal'): 'Wann hast du sie zuletzt gesehen?' = 'When did you last see her?'",
+      "example": "Zuerst kochen wir, zuletzt räumen wir die Küche auf.",
+      "exampleEn": "First we cook, finally we clean up the kitchen.",
+      "example2": "Wann hast du sie zuletzt gesehen?",
+      "example2En": "When did you see her last?"
+    },
+    {
+      "de": "zurückgeben",
+      "en": "to give back; to return",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to return an item",
+          "de": "etwas zurückbringen"
+        }
+      ],
+      "rule": "Trennbar und unregelmäßig: gibt ... zurück, gab ... zurück, hat zurückgegeben. + Akkusativ (+ Dativ der Person).",
+      "example": "Ich muss der Bibliothek das Buch zurückgeben.",
+      "exampleEn": "I have to return the book to the library.",
+      "example2": "Er gibt mir mein Geld zurück.",
+      "example2En": "He gives me back my money."
+    },
+    {
+      "de": "zuschauen",
+      "en": "to watch; to look on",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to watch, observe",
+          "de": "beobachten, zusehen"
+        }
+      ],
+      "rule": "Trennbar: schaut ... zu, schaute ... zu, hat zugeschaut. Governs Dativ: jemandem/etwas zuschauen.",
+      "example": "Die Kinder schauen den Vögeln zu.",
+      "exampleEn": "The children are watching the birds.",
+      "example2": "Darf ich dir beim Kochen zuschauen?",
+      "example2En": "May I watch you cook?"
+    },
+    {
+      "de": "zuständig",
+      "en": "responsible; in charge",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "responsible, in charge of something official",
+          "de": "verantwortlich für etwas (offiziell)"
+        }
+      ],
+      "rule": "Often with 'für + Akkusativ': zuständig für etwas. Regular comparison.",
+      "example": "Wer ist hier für die Anmeldung zuständig?",
+      "exampleEn": "Who is responsible for registration here?",
+      "example2": "Frau Meier ist für diese Abteilung zuständig.",
+      "example2En": "Ms. Meier is in charge of this department."
+    },
+    {
+      "de": "zuverlässig",
+      "en": "reliable; dependable",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "reliable, dependable",
+          "de": "verlässlich, auf den man sich verlassen kann"
+        }
+      ],
+      "rule": "Regular comparison: zuverlässig, zuverlässiger, am zuverlässigsten.",
+      "example": "Mein Kollege ist sehr zuverlässig.",
+      "exampleEn": "My colleague is very reliable.",
+      "example2": "Der Bus kommt zuverlässig jeden Morgen um acht.",
+      "example2En": "The bus reliably comes every morning at eight."
+    },
+    {
+      "de": "zuzüglich",
+      "en": "plus; in addition to",
+      "pos": "preposition",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "plus, additional to (costs)",
+          "de": "zusätzlich zu, plus (bei Kosten)"
+        }
+      ],
+      "rule": "Formal preposition + Genitiv (often used with prices): Preis zuzüglich Versandkosten.",
+      "example": "Der Preis beträgt 50 Euro zuzüglich Versandkosten.",
+      "exampleEn": "The price is 50 euros plus shipping costs.",
+      "example2": "Die Miete ist 600 Euro zuzüglich Nebenkosten.",
+      "example2En": "The rent is 600 euros plus utilities."
+    },
+    {
+      "de": "zwischendurch",
+      "en": "in between; occasionally",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in between, at intervals",
+          "de": "ab und zu, zwischen zwei Handlungen"
+        }
+      ],
+      "rule": "No case or article needed; used for short breaks or occasional actions.",
+      "example": "Ich esse zwischendurch gern einen Apfel.",
+      "exampleEn": "I like to eat an apple in between meals.",
+      "example2": "Wir machen zwischendurch eine kurze Pause.",
+      "example2En": "We take a short break every now and then."
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "patterns": [
+    {
+      "num": 1,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich bin + [Nomen / Adjektiv]",
+      "note": "Basic identity and states.",
+      "de": "Ich bin müde und brauche eine Pause.",
+      "en": "I am tired and need a break."
+    },
+    {
+      "num": 2,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich habe + [Akkusativ]",
+      "note": "Expressing possession (einen / eine / ein).",
+      "de": "Ich habe einen Hund und zwei Katzen.",
+      "en": "I have a dog and two cats."
+    },
+    {
+      "num": 3,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Das ist + [Nomen]",
+      "note": "Identifying objects or people.",
+      "de": "Das ist mein Schlüssel.",
+      "en": "That is my key."
+    },
+    {
+      "num": 4,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Hier gibt es + [Akkusativ]",
+      "note": "Expressing \"There is / There are\" (Es gibt + Akkusativ).",
+      "de": "Hier gibt es einen schönen Park.",
+      "en": "There is a nice park here."
+    },
+    {
+      "num": 5,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich möchte + [Akkusativ / Infinitiv]",
+      "note": "Polite expression of desire (\"I would like...\").",
+      "de": "Ich möchte bitte einen Kaffee bestellen.",
+      "en": "I would like to order a coffee, please."
+    },
+    {
+      "num": 6,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich mag + [Akkusativ]",
+      "note": "Expressing general preference or liking.",
+      "de": "Ich mag moderne Musik sehr.",
+      "en": "I like modern music a lot."
+    },
+    {
+      "num": 7,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich kann + [Infinitiv]",
+      "note": "Expressing ability or capability (Modal verb: können).",
+      "de": "Ich kann sehr gut kochen.",
+      "en": "I can cook very well."
+    },
+    {
+      "num": 8,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich muss + [Infinitiv]",
+      "note": "Expressing necessity or obligation (Modal verb: müssen).",
+      "de": "Ich muss jetzt leider nach Hause gehen.",
+      "en": "Unfortunately, I have to go home now."
+    },
+    {
+      "num": 9,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich will + [Infinitiv]",
+      "note": "Expressing strong intention or desire (Modal verb: wollen).",
+      "de": "Ich will dieses Jahr Deutsch lernen.",
+      "en": "I want to learn German this year."
+    },
+    {
+      "num": 10,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich wohne in + [Ort]",
+      "note": "Stating location of residence.",
+      "de": "Ich wohne seit zwei Jahren in Berlin.",
+      "en": "I have been living in Berlin for two years."
+    },
+    {
+      "num": 11,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich komme aus + [Land / Stadt]",
+      "note": "Stating origin (Preposition aus + Dative).",
+      "de": "Ich komme aus Spanien.",
+      "en": "I come from Spain."
+    },
+    {
+      "num": 12,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich spreche + [Sprache]",
+      "note": "Stating language proficiency.",
+      "de": "Ich spreche ein bisschen Deutsch und Englisch.",
+      "en": "I speak a little German and English."
+    },
+    {
+      "num": 13,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich suche + [Akkusativ]",
+      "note": "Looking for something or someone.",
+      "de": "Entschuldigung, ich suche den Bahnhof.",
+      "en": "Excuse me, I am looking for the train station."
+    },
+    {
+      "num": 14,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich brauche + [Akkusativ]",
+      "note": "Expressing immediate need.",
+      "de": "Ich brauche unbedingt eine kleine Pause.",
+      "en": "I urgently need a short break."
+    },
+    {
+      "num": 15,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich finde + [Akkusativ] + [Adjektiv]",
+      "note": "Expressing an evaluation or opinion about something.",
+      "de": "Ich finde den neuen Film sehr interessant.",
+      "en": "I find the new movie very interesting."
+    },
+    {
+      "num": 16,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich gehe nach + [Hause / Ort]",
+      "note": "Movement towards home or named cities/countries.",
+      "de": "Ich bin müde, ich gehe jetzt nach Hause.",
+      "en": "I am tired, I am going home now."
+    },
+    {
+      "num": 17,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich gehe zu + [Dativ]",
+      "note": "Movement towards a person or destination (zu + Dative).",
+      "de": "Ich gehe heute Nachmittag zum Supermarkt.",
+      "en": "I am going to the supermarket this afternoon."
+    },
+    {
+      "num": 18,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Mir ist + [Adjektiv]",
+      "note": "Expressing physical sensations or feelings (Dative pronoun).",
+      "de": "Kannst du das Fenster schließen? Mir ist kalt.",
+      "en": "Can you close the window? I am cold."
+    },
+    {
+      "num": 19,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Es ist + [Uhrzeit / Wetter]",
+      "note": "Stating time or describing weather.",
+      "de": "Es ist schon 8 Uhr und es ist sehr warm.",
+      "en": "It is already 8 o'clock and it is very warm."
+    },
+    {
+      "num": 20,
+      "category": "Absolute Beginner Foundations",
+      "formula": "Ich habe Hunger / Durst",
+      "note": "Expressing hunger or thirst (Fixed nouns without article).",
+      "de": "Ich habe großen Hunger, lass uns essen.",
+      "en": "I am very hungry, let's eat."
+    },
+    {
+      "num": 21,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich helfe + [Dativ]",
+      "note": "Verb helfen requires Dative (dem / der / den / mir / dir / ihm / ihr / uns).",
+      "de": "Ich helfe meinem Freund bei den Hausaufgaben.",
+      "en": "I am helping my friend with the homework."
+    },
+    {
+      "num": 22,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Es gefällt + [Dativ]",
+      "note": "Expressing liking something (Subject is the thing, person in Dative).",
+      "de": "Das neue Design gefällt mir wirklich gut.",
+      "en": "I really like the new design."
+    },
+    {
+      "num": 23,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Es schmeckt + [Dativ]",
+      "note": "Expressing taste/enjoyment of food (Dative person).",
+      "de": "Das Essen schmeckt den Gästen sehr gut.",
+      "en": "The food tastes very good to the guests."
+    },
+    {
+      "num": 24,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Es geht um + [Akkusativ]",
+      "note": "Fixed phrase: \"It is about...\" / \"The main topic is...\"",
+      "de": "In diesem Buch geht es um eine interessante Reise.",
+      "en": "In this book, it's about an interesting journey."
+    },
+    {
+      "num": 25,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich passe auf + [Akkusativ] auf",
+      "note": "Separable verb: aufpassen auf + Accusative (\"look after\").",
+      "de": "Ich passe heute Abend auf den Hund auf.",
+      "en": "I am looking after the dog tonight."
+    },
+    {
+      "num": 26,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich danke + [Dativ] für + [Akkusativ]",
+      "note": "Danke + Dative person + für + Accusative cause.",
+      "de": "Ich danke dir herzlich für deine Hilfe.",
+      "en": "I thank you cordially for your help."
+    },
+    {
+      "num": 27,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich gratuliere + [Dativ] zu + [Dativ]",
+      "note": "Gratulieren + Dative person + zu + Dative occasion.",
+      "de": "Ich gratuliere dir ganz herzlich zum Geburtstag!",
+      "en": "I congratulate you warmly on your birthday!"
+    },
+    {
+      "num": 28,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich antworte auf + [Akkusativ]",
+      "note": "Antworten auf + Accusative (\"reply to\").",
+      "de": "Ich antworte später auf deine E-Mail.",
+      "en": "I will reply to your email later."
+    },
+    {
+      "num": 29,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich warte auf + [Akkusativ]",
+      "note": "Warten auf + Accusative (\"wait for\").",
+      "de": "Wir warten schon seit 20 Minuten auf den Bus.",
+      "en": "We have been waiting for the bus for 20 minutes."
+    },
+    {
+      "num": 30,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich denke an + [Akkusativ]",
+      "note": "Denken an + Accusative (\"think of/about\").",
+      "de": "Ich denke oft an unseren letzten Urlaub.",
+      "en": "I often think about our last vacation."
+    },
+    {
+      "num": 31,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich freue mich auf + [Akkusativ]",
+      "note": "Freuen auf + Accusative (Future joy / looking forward to).",
+      "de": "Ich freue mich schon sehr auf das Wochenende.",
+      "en": "I am looking forward to the weekend."
+    },
+    {
+      "num": 32,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich freue mich über + [Akkusativ]",
+      "note": "Freuen über + Accusative (Present/Past joy over a gift/event).",
+      "de": "Ich freue mich riesig über dein Geschenk.",
+      "en": "I am really happy about your gift."
+    },
+    {
+      "num": 33,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich interessiere mich für + [Akkusativ]",
+      "note": "Reflexive verb + für + Accusative (\"interested in\").",
+      "de": "Ich interessiere mich sehr für Fotografie.",
+      "en": "I am very interested in photography."
+    },
+    {
+      "num": 34,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich nehme an + [Dativ] teil",
+      "note": "Separable verb: teilnehmen an + Dative (\"participate in\").",
+      "de": "Ich nehme nächsten Monat an einem Sprachkurs teil.",
+      "en": "I am participating in a language course next month."
+    },
+    {
+      "num": 35,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Es gehört + [Dativ]",
+      "note": "Belonging to someone (Gehören + Dative person).",
+      "de": "Entschuldigung, gehört dieser Schlüssel dir?",
+      "en": "Excuse me, does this key belong to you?"
+    },
+    {
+      "num": 36,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Es passt zu + [Dativ]",
+      "note": "Matching or fitting well with something (zu + Dative).",
+      "de": "Diese Farbe passt wirklich gut zu deiner Jacke.",
+      "en": "This color matches your jacket really well."
+    },
+    {
+      "num": 37,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich frage nach + [Dativ]",
+      "note": "Asking about or for something (nach + Dative).",
+      "de": "Der Tourist fragt nach dem Weg zum Museum.",
+      "en": "The tourist is asking for the way to the museum."
+    },
+    {
+      "num": 38,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich erzähle von + [Dativ]",
+      "note": "Telling/narrating about something (von + Dative).",
+      "de": "Er erzählt begeistert von seinem neuen Projekt.",
+      "en": "He talks enthusiastically about his new project."
+    },
+    {
+      "num": 39,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Ich lade dich zu + [Dativ] ein",
+      "note": "Separable verb: einladen + Accusative person + zu + Dative event.",
+      "de": "Ich lade dich herzlich zu meiner Geburtstagsfeier ein.",
+      "en": "I warmly invite you to my birthday party."
+    },
+    {
+      "num": 40,
+      "category": "Fixed Case & Verb Automations",
+      "formula": "Es tut mir leid wegen + [Genitiv / Dativ]",
+      "note": "Expressing apology for something (wegen + Dative in speech).",
+      "de": "Es tut mir leid wegen der späten Rückmeldung.",
+      "en": "I am sorry for the late reply."
+    },
+    {
+      "num": 41,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich habe keine Zeit für + [Akkusativ]",
+      "note": "High-frequency spoken structure for lack of time.",
+      "de": "Ich habe heute leider keine Zeit für Sport.",
+      "en": "Unfortunately, I have no time for sports today."
+    },
+    {
+      "num": 42,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich habe Lust auf + [Akkusativ]",
+      "note": "Expressing craving, mood, or desire for something.",
+      "de": "Hast du heute Abend Lust auf ein Eis?",
+      "en": "Are you in the mood for an ice cream tonight?"
+    },
+    {
+      "num": 43,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich habe keine Lust zu + [Infinitiv]",
+      "note": "Expressing lack of desire to do an action (zu + Infinitive).",
+      "de": "Ich bin müde und habe keine Lust zu kochen.",
+      "en": "I am tired and don't feel like cooking."
+    },
+    {
+      "num": 44,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Es kommt darauf an, ob/wie...",
+      "note": "Expressing dependence (\"It depends on whether...\").",
+      "de": "Es kommt darauf an, wie das Wetter morgen ist.",
+      "en": "It depends on how the weather is tomorrow."
+    },
+    {
+      "num": 45,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich brauche + [Akkusativ], um ... zu + [Infinitiv]",
+      "note": "Expressing purpose/requirement (\"in order to\").",
+      "de": "Ich brauche mehr Zeit, um die Aufgabe zu erledigen.",
+      "en": "I need more time in order to finish the task."
+    },
+    {
+      "num": 46,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich bin auf der Suche nach + [Dativ]",
+      "note": "Formal/casual phrase for \"looking for\".",
+      "de": "Ich bin seit Wochen auf der Suche nach einer Wohnung.",
+      "en": "I have been looking for an apartment for weeks."
+    },
+    {
+      "num": 47,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Es dauert + [Zeitangabe]",
+      "note": "Expressing duration of time.",
+      "de": "Die Fahrt mit dem Zug dauert etwa zwei Stunden.",
+      "en": "The train journey takes about two hours."
+    },
+    {
+      "num": 48,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich habe Stress mit + [Dativ]",
+      "note": "Expressing stress regarding work/people.",
+      "de": "Ich habe zurzeit etwas Stress mit dem Projekt.",
+      "en": "I am having some stress with the project currently."
+    },
+    {
+      "num": 49,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich mache mir Sorgen um + [Akkusativ]",
+      "note": "Reflexive phrase for worrying about someone/something.",
+      "de": "Ich mache mir Sorgen um deine Gesundheit.",
+      "en": "I am worrying about your health."
+    },
+    {
+      "num": 50,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich gewöhne mich an + [Akkusativ]",
+      "note": "Reflexive verb for getting used to something.",
+      "de": "Ich gewöhne mich langsam an das deutsche Wetter.",
+      "en": "I am slowly getting used to the German weather."
+    },
+    {
+      "num": 51,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich bereite mich auf + [Akkusativ] vor",
+      "note": "Separable reflexive verb for preparing for an event.",
+      "de": "Ich bereite mich intensiv auf die Prüfung vor.",
+      "en": "I am preparing intensively for the exam."
+    },
+    {
+      "num": 52,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Es ist Zeit für + [Akkusativ]",
+      "note": "Announcing the time for an activity.",
+      "de": "Es ist Zeit für ein leckeres Mittagessen.",
+      "en": "It is time for a delicious lunch."
+    },
+    {
+      "num": 53,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich vergleiche + [Akkusativ] mit + [Dativ]",
+      "note": "Comparing one item with another.",
+      "de": "Ich vergleiche die Angebote mit anderen Optionen.",
+      "en": "I am comparing the offers with other options."
+    },
+    {
+      "num": 54,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich habe ein Problem mit + [Dativ]",
+      "note": "Stating an issue or difficulty.",
+      "de": "Ich habe leider ein Problem mit meiner Verbindung.",
+      "en": "Unfortunately, I have a problem with my connection."
+    },
+    {
+      "num": 55,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich kümmere mich um + [Akkusativ]",
+      "note": "Taking care of or handling a task.",
+      "de": "Keine Sorge, ich kümmere mich um die Dokumente.",
+      "en": "Don't worry, I will handle the documents."
+    },
+    {
+      "num": 56,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich treffe mich mit + [Dativ]",
+      "note": "Reflexive verb for meeting up with friends/people.",
+      "de": "Ich treffe mich heute Abend mit alten Freunden.",
+      "en": "I am meeting up with old friends tonight."
+    },
+    {
+      "num": 57,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich habe Erfahrung in + [Dativ]",
+      "note": "Stating background experience in a field.",
+      "de": "Ich habe jahrelange Erfahrung im Projektmanagement.",
+      "en": "I have years of experience in project management."
+    },
+    {
+      "num": 58,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Am liebsten würde ich + [Infinitiv]",
+      "note": "Expressing ideal preference using Subjunctive II (Konjunktiv II).",
+      "de": "Am liebsten würde ich jetzt direkt Urlaub machen.",
+      "en": "I would like best to go on vacation right now."
+    },
+    {
+      "num": 59,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich bin fertig mit + [Dativ]",
+      "note": "Stating completion of a task or activity.",
+      "de": "Ich bin endlich fertig mit der Arbeit.",
+      "en": "I am finally finished with work."
+    },
+    {
+      "num": 60,
+      "category": "Daily Life, Priorities & Needs",
+      "formula": "Ich habe vergessen, ... zu + [Infinitiv]",
+      "note": "Expressing forgetting to perform an action.",
+      "de": "Ich habe ganz vergessen, das Licht auszumachen.",
+      "en": "I completely forgot to turn off the light."
+    },
+    {
+      "num": 61,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich denke / glaube, dass + [Verb am Ende]",
+      "note": "Subordinate clause with dass (Verb moves to the end).",
+      "de": "Ich glaube, dass diese Lösung sehr gut funktioniert.",
+      "en": "I believe that this solution works very well."
+    },
+    {
+      "num": 62,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Meiner Meinung nach + [Verb] + [Subjekt]",
+      "note": "Inversion structure! Verb comes directly after the phrase.",
+      "de": "Meiner Meinung nach ist diese Option am besten.",
+      "en": "In my opinion, this option is best."
+    },
+    {
+      "num": 63,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich bin mir sicher, dass + [Verb am Ende]",
+      "note": "Expressing strong certainty.",
+      "de": "Ich bin mir sicher, dass wir pünktlich ankommen.",
+      "en": "I am sure that we will arrive on time."
+    },
+    {
+      "num": 64,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich habe vor, ... zu + [Infinitiv]",
+      "note": "Expressing intentions or plans (\"I plan to...\").",
+      "de": "Ich habe vor, nächstes Jahr nach Wien zu reisen.",
+      "en": "I plan to travel to Vienna next year."
+    },
+    {
+      "num": 65,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich hoffe, dass + [Verb am Ende]",
+      "note": "Expressing hope for a future outcome.",
+      "de": "Ich hoffe sehr, dass du morgen Zeit hast.",
+      "en": "I really hope that you have time tomorrow."
+    },
+    {
+      "num": 66,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich finde es + [Adjektiv], dass...",
+      "note": "Evaluating a situation with a dummy subject es.",
+      "de": "Ich finde es toll, dass du Deutsch lernst.",
+      "en": "I find it great that you are learning German."
+    },
+    {
+      "num": 67,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich bin dafür, dass...",
+      "note": "Expressing agreement/support for a proposal.",
+      "de": "Ich bin dafür, dass wir eine kurze Pause machen.",
+      "en": "I am in favor of us taking a short break."
+    },
+    {
+      "num": 68,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich bin dagegen, dass...",
+      "note": "Expressing opposition/disagreement.",
+      "de": "Ich bin dagegen, dass wir ohne Vorbereitung anfangen.",
+      "en": "I am against starting without preparation."
+    },
+    {
+      "num": 69,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich habe den Eindruck, dass...",
+      "note": "Expressing a subtle impression or feeling.",
+      "de": "Ich habe den Eindruck, dass das Thema wichtig ist.",
+      "en": "I have the impression that the topic is important."
+    },
+    {
+      "num": 70,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Für mich ist es wichtig, dass...",
+      "note": "Prioritizing personal values or needs.",
+      "de": "Für mich ist es wichtig, dass wir ehrlich sind.",
+      "en": "For me it is important that we are honest."
+    },
+    {
+      "num": 71,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich weiß nicht, ob...",
+      "note": "Expressing uncertainty with indirect question ob (whether).",
+      "de": "Ich weiß noch nicht, ob ich morgen kommen kann.",
+      "en": "I don't know yet whether I can come tomorrow."
+    },
+    {
+      "num": 72,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich bin mir nicht sicher, ob...",
+      "note": "Softer expression of doubt.",
+      "de": "Ich bin mir nicht sicher, ob das die richtige Adresse ist.",
+      "en": "I am not sure whether that is the correct address."
+    },
+    {
+      "num": 73,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich habe das Gefühl, dass...",
+      "note": "Intuitive feeling about a situation.",
+      "de": "Ich habe das Gefühl, dass alles gut klappen wird.",
+      "en": "I have the feeling that everything will go well."
+    },
+    {
+      "num": 74,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich schlage vor, dass ...",
+      "note": "Making a direct proposal or suggestion.",
+      "de": "Ich schlage vor, dass wir uns um 18 Uhr treffen.",
+      "en": "I suggest that we meet at 6 PM."
+    },
+    {
+      "num": 75,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich habe mir überlegt, dass...",
+      "note": "Introducing a considered idea or change of mind.",
+      "de": "Ich habe mir überlegt, dass wir den Plan ändern.",
+      "en": "I have thought it over that we change the plan."
+    },
+    {
+      "num": 76,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ehrlich gesagt, + [Verb] + [Subjekt]",
+      "note": "Conversational qualifier (\"To be honest...\").",
+      "de": "Ehrlich gesagt habe ich dazu keine Meinung.",
+      "en": "To be honest, I have no opinion on that."
+    },
+    {
+      "num": 77,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich stimme dir zu, aber...",
+      "note": "Partial agreement during discussions.",
+      "de": "Ich stimme dir zu, aber es kostet zu viel Zeit.",
+      "en": "I agree with you, but it costs too much time."
+    },
+    {
+      "num": 78,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Das bedeutet, dass...",
+      "note": "Clarifying implications or consequences.",
+      "de": "Das bedeutet, dass wir früher aufstehen müssen.",
+      "en": "That means that we have to get up earlier."
+    },
+    {
+      "num": 79,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Ich bin überzeugt, dass...",
+      "note": "Strong conviction or confidence.",
+      "de": "Ich bin überzeugt, dass dieses Team erfolgreich ist.",
+      "en": "I am convinced that this team is successful."
+    },
+    {
+      "num": 80,
+      "category": "Opinions, Certainty & Intentions",
+      "formula": "Es ist besser, wenn...",
+      "note": "Recommending an alternative action.",
+      "de": "Es ist besser, wenn wir jetzt eine Entscheidung treffen.",
+      "en": "It is better if we make a decision now."
+    },
+    {
+      "num": 81,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Könntest du mir bitte ... ?",
+      "note": "Polite request with Konjunktiv II (könntest).",
+      "de": "Könntest du mir bitte kurz dabei helfen?",
+      "en": "Could you please help me with this briefly?"
+    },
+    {
+      "num": 82,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Können Sie mir sagen, wo / wie... ?",
+      "note": "Formal polite query for information.",
+      "de": "Können Sie mir sagen, wo die nächste Haltestelle ist?",
+      "en": "Could you tell me where the nearest stop is?"
+    },
+    {
+      "num": 83,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Wie wäre es, wenn ... ?",
+      "note": "Making casual invitations or proposals.",
+      "de": "Wie wäre es, wenn wir am Wochenende spazieren gehen?",
+      "en": "How about if we go for a walk on the weekend?"
+    },
+    {
+      "num": 84,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Weißt du zufällig, ob / wo... ?",
+      "note": "Casual polite question (\"Do you happen to know...\").",
+      "de": "Weißt du zufällig, wann der Supermarkt schließt?",
+      "en": "Do you happen to know when the supermarket closes?"
+    },
+    {
+      "num": 85,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Haben Sie Zeit für ... ?",
+      "note": "Formal request for someone's time.",
+      "de": "Entschuldigung, haben Sie kurz Zeit für eine Frage?",
+      "en": "Excuse me, do you have a moment for a question?"
+    },
+    {
+      "num": 86,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Kann ich bitte + [Akkusativ] haben?",
+      "note": "Standard polite ordering or requesting phrase.",
+      "de": "Kann ich bitte die Speisekarte haben?",
+      "en": "Can I please have the menu?"
+    },
+    {
+      "num": 87,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Wie viel kostet + [Nomen]?",
+      "note": "Asking for prices in shops/restaurants.",
+      "de": "Wie viel kostet dieses Ticket nach München?",
+      "en": "How much does this ticket to Munich cost?"
+    },
+    {
+      "num": 88,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Entschuldigung, wo finde ich + [Akkusativ]?",
+      "note": "Asking for directions inside stores/facilities.",
+      "de": "Entschuldigung, wo finde ich frische Milch?",
+      "en": "Excuse me, where do I find fresh milk?"
+    },
+    {
+      "num": 89,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Gibt es hier in der Nähe + [Akkusativ]?",
+      "note": "Inquiring about nearby amenities.",
+      "de": "Gibt es hier in der Nähe einen Geldautomaten?",
+      "en": "Is there an ATM nearby here?"
+    },
+    {
+      "num": 90,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Was bedeutet + [Wort]?",
+      "note": "Clarifying unknown vocabulary.",
+      "de": "Entschuldigung, was bedeutet dieses Wort?",
+      "en": "Excuse me, what does this word mean?"
+    },
+    {
+      "num": 91,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Wie spricht man + [Wort] aus?",
+      "note": "Asking for pronunciation help.",
+      "de": "Wie spricht man diesen Namen richtig aus?",
+      "en": "How do you pronounce this name correctly?"
+    },
+    {
+      "num": 92,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Was meinst du genau mit + [Dativ]?",
+      "note": "Asking the speaker to rephrase or elaborate on a specific word or concept.",
+      "de": "Was meinst du genau mit „später\"?",
+      "en": "What exactly do you mean by \"later\"?"
+    },
+    {
+      "num": 93,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Was hältst du von + [Dativ]?",
+      "note": "Asking for an opinion on an idea.",
+      "de": "Was hältst du von meinem neuen Vorschlag?",
+      "en": "What do you think of my new proposal?"
+    },
+    {
+      "num": 94,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Haben Sie etwas gegen + [Akkusativ]?",
+      "note": "Asking for permission politely (\"Do you mind...\").",
+      "de": "Haben Sie etwas dagegen, wenn ich das Fenster öffne?",
+      "en": "Do you mind if I open the window?"
+    },
+    {
+      "num": 95,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Darf ich kurz fragen, ... ?",
+      "note": "Polite interruption before asking a question.",
+      "de": "Darf ich kurz fragen, wie lange das dauert?",
+      "en": "May I briefly ask how long that will take?"
+    },
+    {
+      "num": 96,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Passt es dir am + [Wochentag]?",
+      "note": "Checking appointment availability.",
+      "de": "Passt es dir am Dienstag um 14 Uhr?",
+      "en": "Does Tuesday at 2 PM suit you?"
+    },
+    {
+      "num": 97,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Wollen wir zusammen + [Infinitiv]?",
+      "note": "Suggesting a joint activity with friends.",
+      "de": "Wollen wir heute Abend zusammen etwas kochen?",
+      "en": "Shall we cook something together tonight?"
+    },
+    {
+      "num": 98,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Alles Gute zum / zur + [Nomen]!",
+      "note": "Standard celebration greeting.",
+      "de": "Alles Gute zum Geburtstag und viel Erfolg!",
+      "en": "Happy Birthday and best of success!"
+    },
+    {
+      "num": 99,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Viel Erfolg bei + [Dativ]!",
+      "note": "Wishing good luck/success for an upcoming task.",
+      "de": "Ich wünsche dir viel Erfolg bei der Prüfung!",
+      "en": "I wish you much success on your exam!"
+    },
+    {
+      "num": 100,
+      "category": "Questions, Requests & Social Formulas",
+      "formula": "Schöne Grüße an + [Akkusativ]!",
+      "note": "Sending regards to someone's family/friends.",
+      "de": "Richte bitte schöne Grüße an deine Familie aus!",
+      "en": "Please send warm regards to your family!"
+    }
+  ]
+}

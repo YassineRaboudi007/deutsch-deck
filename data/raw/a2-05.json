@@ -1,0 +1,897 @@
+{
+  "id": "a2-05",
+  "title": "A2 · C–E (5)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "das Camping",
+      "en": "camping",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "camping",
+          "de": "Urlaub im Zelt oder Wohnwagen"
+        }
+      ],
+      "rule": "Neutrum, Anglizismus, kein Plural.",
+      "example": "Wir machen im Sommer Camping am See.",
+      "exampleEn": "We go camping by the lake in summer.",
+      "example2": "Camping ist ein günstiger Urlaub.",
+      "example2En": "Camping is a cheap holiday."
+    },
+    {
+      "de": "der Champignon",
+      "en": "mushroom (button)",
+      "pos": "noun",
+      "plural": "die Champignons",
+      "meanings": [
+        {
+          "en": "button mushroom",
+          "de": "weißer Speisepilz"
+        }
+      ],
+      "rule": "Aus dem Französischen; Aussprache: 'Schamp-injong'; Plural: die Champignons.",
+      "example": "Ich kaufe frische Champignons für die Suppe.",
+      "exampleEn": "I buy fresh mushrooms for the soup.",
+      "example2": "Der Salat hat Champignons.",
+      "example2En": "The salad has mushrooms in it."
+    },
+    {
+      "de": "das Chaos",
+      "en": "chaos",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "chaos, complete disorder",
+          "de": "völlige Unordnung"
+        }
+      ],
+      "rule": "Neutrum, kein Plural; Aussprache 'Kaos'.",
+      "example": "Nach der Party war ein totales Chaos im Zimmer.",
+      "exampleEn": "After the party there was total chaos in the room.",
+      "example2": "Im Büro herrscht heute Chaos.",
+      "example2En": "There is chaos in the office today."
+    },
+    {
+      "de": "chatten",
+      "en": "to chat (online)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to chat online",
+          "de": "online schreiben und kommunizieren"
+        }
+      ],
+      "rule": "Regelmäßiges Verb: chattet, chattete, hat gechattet.",
+      "example": "Ich chatte jeden Abend mit meinen Freunden.",
+      "exampleEn": "I chat with my friends every evening.",
+      "example2": "Sie hat gestern lange mit ihm gechattet.",
+      "example2En": "She chatted with him for a long time yesterday."
+    },
+    {
+      "de": "die Chemie",
+      "en": "chemistry",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "chemistry (subject/science)",
+          "de": "Naturwissenschaft von Stoffen"
+        }
+      ],
+      "rule": "Feminines Substantiv, kein Plural; Aussprache: 'Ch' wie der Ich-Laut (wie in 'ich'), nicht wie 'K'.",
+      "example": "Chemie ist mein Lieblingsfach.",
+      "exampleEn": "Chemistry is my favorite subject.",
+      "example2": "Er studiert Chemie an der Uni.",
+      "example2En": "He studies chemistry at university."
+    },
+    {
+      "de": "der Chor",
+      "en": "choir",
+      "pos": "noun",
+      "plural": "die Chöre",
+      "meanings": [
+        {
+          "en": "choir",
+          "de": "Gruppe von Sängern"
+        }
+      ],
+      "rule": "Maskulin; Plural mit Umlaut: die Chöre; Anfangsbuchstaben wie 'K' ausgesprochen.",
+      "example": "Sie singt im Chor der Schule.",
+      "exampleEn": "She sings in the school choir.",
+      "example2": "Der Chor probt jeden Mittwoch.",
+      "example2En": "The choir rehearses every Wednesday."
+    },
+    {
+      "de": "der Cousin / die Cousine",
+      "en": "cousin",
+      "pos": "noun",
+      "plural": "die Cousins / die Cousinen",
+      "meanings": [
+        {
+          "en": "cousin (male/female)",
+          "de": "Kind von Onkel oder Tante"
+        }
+      ],
+      "rule": "Maskulin: der Cousin (Aussprache 'Kusäng'); feminin: die Cousine.",
+      "example": "Mein Cousin wohnt in Berlin.",
+      "exampleEn": "My cousin lives in Berlin.",
+      "example2": "Meine Cousine besucht uns am Wochenende.",
+      "example2En": "My cousin is visiting us this weekend."
+    },
+    {
+      "de": "die Currywurst",
+      "en": "currywurst",
+      "pos": "noun",
+      "plural": "die Currywürste",
+      "meanings": [
+        {
+          "en": "currywurst (German sausage dish with curry sauce)",
+          "de": "Bratwurst mit Ketchup und Currypulver"
+        }
+      ],
+      "rule": "Feminines Kompositum aus 'Curry' + 'Wurst'; Plural mit Umlaut: die Currywürste.",
+      "example": "Zum Mittagessen esse ich eine Currywurst mit Pommes.",
+      "exampleEn": "For lunch I eat currywurst with fries.",
+      "example2": "Die Currywurst ist typisch für Berlin.",
+      "example2En": "Currywurst is typical of Berlin."
+    },
+    {
+      "de": "dabei",
+      "en": "present / along with it",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "present, there, included",
+          "de": "anwesend, mit dabei"
+        },
+        {
+          "en": "in the process of / while doing that",
+          "de": "gleichzeitig, während dessen"
+        }
+      ],
+      "rule": "Adverb; oft in 'dabei sein' (anwesend sein) oder als Verbindungswort für zwei gleichzeitige Handlungen.",
+      "example": "Warst du bei der Party dabei?",
+      "exampleEn": "Were you there at the party?",
+      "example2": "Ich koche und höre dabei Musik.",
+      "example2En": "I cook and listen to music while doing that."
+    },
+    {
+      "de": "dagegen",
+      "en": "against it",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "against it, opposed to it",
+          "de": "gegen diese Sache"
+        },
+        {
+          "en": "in contrast, on the other hand",
+          "de": "im Gegensatz dazu"
+        }
+      ],
+      "rule": "Pronominaladverb 'da(r) + gegen'; ersetzt 'gegen + es/das'.",
+      "example": "Ich bin dagegen, dass wir jetzt gehen.",
+      "exampleEn": "I am against us leaving now.",
+      "example2": "Er ist groß, sein Bruder dagegen ist klein.",
+      "example2En": "He is tall, his brother, on the other hand, is small."
+    },
+    {
+      "de": "daheim",
+      "en": "at home",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "at home",
+          "de": "zu Hause"
+        }
+      ],
+      "rule": "Süddeutsch/österreichisch für 'zu Hause'; bedeutet Ort, nicht Richtung.",
+      "example": "Am Wochenende bleibe ich daheim.",
+      "exampleEn": "On the weekend I stay at home.",
+      "example2": "Ist deine Mutter daheim?",
+      "example2En": "Is your mother at home?"
+    },
+    {
+      "de": "damals",
+      "en": "back then, at that time",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "at that time (in the past)",
+          "de": "zu dieser Zeit (in der Vergangenheit)"
+        }
+      ],
+      "rule": "Bezieht sich immer auf die Vergangenheit, nicht auf die Zukunft; oft mit Präteritum.",
+      "example": "Damals wohnten wir in Berlin.",
+      "exampleEn": "Back then we lived in Berlin.",
+      "example2": "Damals hatte ich kein Handy.",
+      "example2En": "At that time I didn't have a mobile phone."
+    },
+    {
+      "de": "die Dame",
+      "en": "lady, woman",
+      "pos": "noun",
+      "plural": "die Damen",
+      "meanings": [
+        {
+          "en": "lady (polite term for a woman)",
+          "de": "höfliches Wort für Frau"
+        }
+      ],
+      "rule": "Höflicheres/formelleres Wort als 'Frau', besonders beim Sprechen über eine Frau; feminines Nomen, regelmäßiger Plural auf -n.",
+      "example": "Die Dame an der Kasse war sehr freundlich.",
+      "exampleEn": "The lady at the checkout was very friendly.",
+      "example2": "Meine Damen und Herren, bitte nehmen Sie Platz.",
+      "example2En": "Ladies and gentlemen, please take a seat."
+    },
+    {
+      "de": "damit",
+      "en": "with it; so that",
+      "pos": "conjunction",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "with it/that (pronominal adverb)",
+          "de": "mit diesem/dieser Sache"
+        },
+        {
+          "en": "so that, in order that (purpose clause)",
+          "de": "damit-Satz für ein Ziel"
+        }
+      ],
+      "rule": "Als Pronominaladverb: 'mit + es/das' → 'damit'. Als Konjunktion leitet es Finalsätze ein (Verb am Ende); bei verschiedenen Subjekten statt 'um...zu'.",
+      "example": "Hast du einen Stift? Ich möchte damit schreiben.",
+      "exampleEn": "Do you have a pen? I want to write with it.",
+      "example2": "Ich spreche langsam, damit du mich verstehst.",
+      "example2En": "I speak slowly so that you understand me."
+    },
+    {
+      "de": "danken",
+      "en": "to thank",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to thank someone",
+          "de": "jemandem Dank sagen"
+        }
+      ],
+      "rule": "+ Dativ; regelmäßig: dankt, dankte, hat gedankt.",
+      "example": "Ich danke dir für das Geschenk.",
+      "exampleEn": "I thank you for the gift.",
+      "example2": "Er dankte dem Lehrer für die Hilfe.",
+      "example2En": "He thanked the teacher for the help."
+    },
+    {
+      "de": "darin",
+      "en": "in it, inside",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in it/inside (pronominal adverb)",
+          "de": "in diesem/dieser Sache"
+        }
+      ],
+      "rule": "Pronominaladverb: 'in + es/das' → 'darin'; bezieht sich auf bereits Genanntes. Feste Wendung: 'der Vorteil liegt darin, dass...' (Verb 'liegt' bleibt in Position 2).",
+      "example": "Das ist meine Tasche. Darin sind meine Bücher.",
+      "exampleEn": "This is my bag. My books are inside it.",
+      "example2": "Der Vorteil liegt darin, dass es billiger ist.",
+      "example2En": "The advantage is that it's cheaper."
+    },
+    {
+      "de": "darum",
+      "en": "that's why; about it",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "that's why, therefore",
+          "de": "deshalb, aus diesem Grund"
+        },
+        {
+          "en": "about it/that (pronominal adverb)",
+          "de": "um diese Sache"
+        }
+      ],
+      "rule": "Als Kausaladverb = 'deshalb' (Satzposition 1 oder nach Verb). Als Pronominaladverb: 'um + es/das'.",
+      "example": "Es regnet, darum bleibe ich zu Hause.",
+      "exampleEn": "It's raining, that's why I'm staying home.",
+      "example2": "Ich habe ihn gebeten, aber er kümmert sich nicht darum.",
+      "example2En": "I asked him, but he doesn't take care of it."
+    },
+    {
+      "de": "dass",
+      "en": "that (conjunction)",
+      "pos": "conjunction",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "that (introducing a subordinate clause)",
+          "de": "leitet einen Nebensatz ein"
+        }
+      ],
+      "rule": "Leitet Nebensätze ein, Verb steht am Ende; nicht verwechseln mit 'das' (Artikel/Pronomen).",
+      "example": "Ich glaube, dass er recht hat.",
+      "exampleEn": "I think that he is right.",
+      "example2": "Sie hofft, dass es morgen nicht regnet.",
+      "example2En": "She hopes that it won't rain tomorrow."
+    },
+    {
+      "de": "die Datei",
+      "en": "file (computer)",
+      "pos": "noun",
+      "plural": "die Dateien",
+      "meanings": [
+        {
+          "en": "computer file",
+          "de": "digitale Daten, die gespeichert sind"
+        }
+      ],
+      "rule": "Feminines Nomen; nicht verwechseln mit 'Diät' (diet) oder 'Datum' (date).",
+      "example": "Ich habe die Datei per E-Mail geschickt.",
+      "exampleEn": "I sent the file by email.",
+      "example2": "Kannst du die Datei öffnen?",
+      "example2En": "Can you open the file?"
+    },
+    {
+      "de": "die Dauer",
+      "en": "duration, length (of time)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "duration, length of time",
+          "de": "Zeitspanne"
+        }
+      ],
+      "rule": "Feminines Nomen, meist ohne Plural verwendet; oft in 'die Dauer von...'.",
+      "example": "Die Dauer des Kurses beträgt sechs Wochen.",
+      "exampleEn": "The duration of the course is six weeks.",
+      "example2": "Auf Dauer wird das zu teuer.",
+      "example2En": "In the long run, that will be too expensive."
+    },
+    {
+      "de": "der Daumen",
+      "en": "thumb",
+      "pos": "noun",
+      "plural": "die Daumen",
+      "meanings": [
+        {
+          "en": "thumb (body part)",
+          "de": "der erste, dickste Finger der Hand"
+        }
+      ],
+      "rule": "Maskulines Nomen, Plural = Singular (der Daumen, die Daumen); Redewendung: 'Ich drücke dir die Daumen' = ich wünsche dir Glück.",
+      "example": "Ich habe mir in den Daumen geschnitten.",
+      "exampleEn": "I cut my thumb.",
+      "example2": "Ich drücke dir die Daumen für die Prüfung.",
+      "example2En": "I'm keeping my fingers crossed for your exam."
+    },
+    {
+      "de": "die Decke",
+      "en": "blanket; ceiling",
+      "pos": "noun",
+      "plural": "die Decken",
+      "meanings": [
+        {
+          "en": "blanket",
+          "de": "warmes Tuch zum Zudecken"
+        },
+        {
+          "en": "ceiling",
+          "de": "obere Fläche eines Raums"
+        }
+      ],
+      "rule": "Feminines Nomen; zwei Bedeutungen je nach Kontext (Bett/Kälte vs. Zimmer/oben).",
+      "example": "Im Winter schlafe ich unter einer warmen Decke.",
+      "exampleEn": "In winter I sleep under a warm blanket.",
+      "example2": "Die Lampe hängt an der Decke.",
+      "example2En": "The lamp hangs from the ceiling."
+    },
+    {
+      "de": "defekt",
+      "en": "defective, broken",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "defective, broken (especially machines/devices)",
+          "de": "kaputt, funktioniert nicht richtig"
+        }
+      ],
+      "rule": "Wird meist für technische Geräte benutzt; ähnlich wie 'kaputt', aber etwas formeller.",
+      "example": "Der Fernseher ist defekt.",
+      "exampleEn": "The TV is broken.",
+      "example2": "Die Waschmaschine war defekt und musste repariert werden.",
+      "example2En": "The washing machine was defective and had to be repaired."
+    },
+    {
+      "de": "der/die Angehörige",
+      "en": "relative, family member",
+      "pos": "noun",
+      "plural": "die Angehörigen",
+      "meanings": [
+        {
+          "en": "a relative or family member",
+          "de": "ein Familienmitglied"
+        }
+      ],
+      "rule": "Adjektivdeklination: der Angehörige, ein Angehöriger / die Angehörige, eine Angehörige",
+      "example": "Nur Angehörige dürfen den Patienten besuchen.",
+      "exampleEn": "Only relatives may visit the patient.",
+      "example2": "Sie informierten die Angehörigen sofort.",
+      "example2En": "They informed the family members immediately."
+    },
+    {
+      "de": "deshalb",
+      "en": "therefore, that's why",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "therefore, for that reason",
+          "de": "aus diesem Grund"
+        }
+      ],
+      "rule": "Kausaladverb, oft in Position 1; danach Verb-Subjekt-Umstellung (Verb Zweitstelle).",
+      "example": "Ich war krank, deshalb bin ich nicht gekommen.",
+      "exampleEn": "I was sick, that's why I didn't come.",
+      "example2": "Es ist spät, deshalb müssen wir gehen.",
+      "example2En": "It's late, therefore we have to go."
+    },
+    {
+      "de": "deutlich",
+      "en": "clear, distinct",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "clear, easy to understand/perceive",
+          "de": "klar, gut verständlich oder erkennbar"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: deutlich, deutlicher, am deutlichsten; oft mit 'sprechen' oder 'zeigen'.",
+      "example": "Bitte sprechen Sie deutlich.",
+      "exampleEn": "Please speak clearly.",
+      "example2": "Der Unterschied ist deutlich zu sehen.",
+      "example2En": "The difference is clearly visible."
+    },
+    {
+      "de": "dich",
+      "en": "you (accusative)",
+      "pos": "pronoun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "you (informal, accusative case)",
+          "de": "Akkusativ von 'du'"
+        }
+      ],
+      "rule": "Akkusativform von 'du'; nicht verwechseln mit Dativ 'dir'.",
+      "example": "Ich sehe dich morgen.",
+      "exampleEn": "I'll see you tomorrow.",
+      "example2": "Ich liebe dich.",
+      "example2En": "I love you."
+    },
+    {
+      "de": "dick",
+      "en": "thick; fat",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "thick (objects)",
+          "de": "nicht dünn"
+        },
+        {
+          "en": "fat, overweight (people)",
+          "de": "übergewichtig"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: dick, dicker, am dicksten; bei Personen vorsichtig verwenden, da wertend.",
+      "example": "Das Buch ist sehr dick.",
+      "exampleEn": "The book is very thick.",
+      "example2": "Der Pullover ist warm und dick.",
+      "example2En": "The sweater is warm and thick."
+    },
+    {
+      "de": "der Dieb / die Diebin",
+      "en": "thief",
+      "pos": "noun",
+      "plural": "die Diebe / die Diebinnen",
+      "meanings": [
+        {
+          "en": "thief, person who steals",
+          "de": "jemand, der stiehlt"
+        }
+      ],
+      "rule": "Maskulin 'der Dieb', feminin 'die Diebin'; verwandtes Verb: stehlen.",
+      "example": "Der Dieb ist mit der Tasche weggelaufen.",
+      "exampleEn": "The thief ran away with the bag.",
+      "example2": "Die Polizei hat die Diebin gefasst.",
+      "example2En": "The police caught the (female) thief."
+    },
+    {
+      "de": "dieselbe",
+      "en": "the same (one)",
+      "pos": "pronoun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the same (person/thing)",
+          "de": "die gleiche Person/Sache"
+        }
+      ],
+      "rule": "Demonstrativpronomen: dieselbe (fem. sg.), derselbe (masc.), dasselbe (neutr.); unterscheide von 'die gleiche' (identisch, aber nicht zwingend ein und dasselbe Exemplar).",
+      "example": "Ich habe dieselbe Tasche wie meine Schwester.",
+      "exampleEn": "I have the same bag as my sister.",
+      "example2": "Wir wohnen in derselben Straße.",
+      "example2En": "We live on the same street."
+    },
+    {
+      "de": "das Ding",
+      "en": "thing",
+      "pos": "noun",
+      "plural": "die Dinge",
+      "meanings": [
+        {
+          "en": "object/thing",
+          "de": "Gegenstand, Sache"
+        }
+      ],
+      "rule": "Neutrum; Plural 'die Dinge' (umgangssprachlich auch 'die Dinger').",
+      "example": "Was ist das für ein Ding?",
+      "exampleEn": "What is that thing?",
+      "example2": "Leg die Dinge auf den Tisch.",
+      "example2En": "Put the things on the table."
+    },
+    {
+      "de": "das Diplom",
+      "en": "diploma",
+      "pos": "noun",
+      "plural": "die Diplome",
+      "meanings": [
+        {
+          "en": "diploma/degree certificate",
+          "de": "Abschlusszeugnis, Urkunde"
+        }
+      ],
+      "rule": "Neutrum; oft mit 'machen': ein Diplom machen.",
+      "example": "Sie hat ihr Diplom bekommen.",
+      "exampleEn": "She received her diploma.",
+      "example2": "Er zeigt stolz sein Diplom.",
+      "example2En": "He proudly shows his diploma."
+    },
+    {
+      "de": "diskutieren",
+      "en": "to discuss",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to discuss, debate",
+          "de": "über etwas sprechen, streiten"
+        }
+      ],
+      "rule": "Regelmäßig: diskutiert, diskutierte, hat diskutiert; oft mit 'über + Akkusativ'.",
+      "example": "Wir diskutieren über das Wetter.",
+      "exampleEn": "We are discussing the weather.",
+      "example2": "Die Kollegen diskutieren lange über den Plan.",
+      "example2En": "The colleagues discuss the plan for a long time."
+    },
+    {
+      "de": "divers",
+      "en": "diverse; various",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "various, several",
+          "de": "verschiedene, mehrere"
+        },
+        {
+          "en": "diverse (gender)",
+          "de": "geschlechtlich divers"
+        }
+      ],
+      "rule": "Wird wie ein normales Adjektiv dekliniert; 'divers' als Geschlechtsangabe (m/w/d) ist eine besondere Bedeutung.",
+      "example": "Es gibt diverse Möglichkeiten.",
+      "exampleEn": "There are various options.",
+      "example2": "Auf dem Formular steht: männlich, weiblich, divers.",
+      "example2En": "The form says: male, female, diverse."
+    },
+    {
+      "de": "das Dokument",
+      "en": "document",
+      "pos": "noun",
+      "plural": "die Dokumente",
+      "meanings": [
+        {
+          "en": "document/paper",
+          "de": "wichtiges Schriftstück"
+        }
+      ],
+      "rule": "Neutrum; oft im Plural 'die Dokumente' (z. B. Ausweisdokumente).",
+      "example": "Bitte bringen Sie alle Dokumente mit.",
+      "exampleEn": "Please bring all documents.",
+      "example2": "Ich speichere das Dokument auf dem Computer.",
+      "example2En": "I save the document on the computer."
+    },
+    {
+      "de": "drehen",
+      "en": "to turn; to shoot (film)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to turn/rotate",
+          "de": "etwas im Kreis bewegen"
+        },
+        {
+          "en": "to shoot a film",
+          "de": "einen Film produzieren"
+        }
+      ],
+      "rule": "Regelmäßig: dreht, drehte, hat gedreht; reflexiv 'sich drehen' = sich im Kreis bewegen.",
+      "example": "Dreh den Schlüssel nach rechts.",
+      "exampleEn": "Turn the key to the right.",
+      "example2": "Sie drehen einen neuen Film in Berlin.",
+      "example2En": "They are shooting a new film in Berlin."
+    },
+    {
+      "de": "drüben",
+      "en": "over there",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "over there, on the other side",
+          "de": "auf der anderen Seite"
+        }
+      ],
+      "rule": "Lokaladverb, oft mit 'da drüben' oder 'dort drüben'.",
+      "example": "Der Supermarkt ist drüben.",
+      "exampleEn": "The supermarket is over there.",
+      "example2": "Meine Freunde wohnen da drüben.",
+      "example2En": "My friends live over there."
+    },
+    {
+      "de": "drucken",
+      "en": "to print",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to print (paper/text)",
+          "de": "Text auf Papier ausgeben"
+        }
+      ],
+      "rule": "Regelmäßig: druckt, druckte, hat gedruckt; nicht verwechseln mit 'drücken' (to press).",
+      "example": "Kannst du das Dokument drucken?",
+      "exampleEn": "Can you print the document?",
+      "example2": "Der Drucker druckt sehr langsam.",
+      "example2En": "The printer prints very slowly."
+    },
+    {
+      "de": "drücken",
+      "en": "to press; to pinch",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to press/push",
+          "de": "Druck auf etwas ausüben"
+        },
+        {
+          "en": "to pinch (shoes)",
+          "de": "zu eng sein, schmerzen"
+        }
+      ],
+      "rule": "Regelmäßig: drückt, drückte, hat gedrückt; nicht verwechseln mit 'drucken' (to print).",
+      "example": "Bitte drücken Sie auf den Knopf.",
+      "exampleEn": "Please press the button.",
+      "example2": "Die neuen Schuhe drücken.",
+      "example2En": "The new shoes pinch."
+    },
+    {
+      "de": "der Duft",
+      "en": "scent, fragrance",
+      "pos": "noun",
+      "plural": "die Düfte",
+      "meanings": [
+        {
+          "en": "pleasant smell, fragrance",
+          "de": "angenehmer Geruch"
+        }
+      ],
+      "rule": "Maskulinum; Plural mit Umlaut: die Düfte.",
+      "example": "Der Duft von frischem Brot ist toll.",
+      "exampleEn": "The smell of fresh bread is great.",
+      "example2": "Ich mag den Duft dieses Parfüms.",
+      "example2En": "I like the scent of this perfume."
+    },
+    {
+      "de": "dünn",
+      "en": "thin",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "thin (not thick)",
+          "de": "nicht dick"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: dünn, dünner, am dünnsten; Gegenteil: dick.",
+      "example": "Das Buch ist sehr dünn.",
+      "exampleEn": "The book is very thin.",
+      "example2": "Sie schneidet das Brot in dünne Scheiben.",
+      "example2En": "She cuts the bread into thin slices."
+    },
+    {
+      "de": "das Duschgel",
+      "en": "shower gel",
+      "pos": "noun",
+      "plural": "die Duschgele",
+      "meanings": [
+        {
+          "en": "shower gel",
+          "de": "Flüssigseife zum Duschen"
+        }
+      ],
+      "rule": "Neutrum; regelmäßiger Plural 'die Duschgele' (wie 'das Gel → die Gele'), umgangssprachlich auch 'die Duschgels'; oft im Singular gebraucht, da eine Produktart.",
+      "example": "Ich kaufe ein neues Duschgel.",
+      "exampleEn": "I'm buying a new shower gel.",
+      "example2": "Das Duschgel riecht nach Zitrone.",
+      "example2En": "The shower gel smells of lemon."
+    },
+    {
+      "de": "echt",
+      "en": "real, genuine; really",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "real, genuine (not fake)",
+          "de": "nicht falsch, original"
+        },
+        {
+          "en": "really (intensifier)",
+          "de": "wirklich, sehr"
+        }
+      ],
+      "rule": "Als Adjektiv dekliniert (echtes Gold); als Umgangssprache auch als Adverb 'echt gut' = wirklich gut.",
+      "example": "Ist das echtes Gold?",
+      "exampleEn": "Is that real gold?",
+      "example2": "Das Konzert war echt super.",
+      "example2En": "The concert was really great."
+    },
+    {
+      "de": "die Ecke",
+      "en": "corner",
+      "pos": "noun",
+      "plural": "die Ecken",
+      "meanings": [
+        {
+          "en": "corner (of street/room)",
+          "de": "Winkel, Kante"
+        }
+      ],
+      "rule": "Femininum; oft in 'um die Ecke' = in der Nähe.",
+      "example": "Der Laden ist gleich um die Ecke.",
+      "exampleEn": "The shop is just around the corner.",
+      "example2": "Das Sofa steht in der Ecke.",
+      "example2En": "The sofa is in the corner."
+    },
+    {
+      "de": "egal",
+      "en": "doesn't matter, indifferent",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not mattering, indifferent",
+          "de": "unwichtig, gleichgültig"
+        }
+      ],
+      "rule": "Meist prädikativ gebraucht: 'Das ist mir egal.' + Dativ (wem?).",
+      "example": "Mir ist egal, was wir essen.",
+      "exampleEn": "I don't care what we eat.",
+      "example2": "Egal welche Farbe, Hauptsache es passt.",
+      "example2En": "Doesn't matter which color, as long as it fits."
+    },
+    {
+      "de": "das Ehepaar",
+      "en": "married couple",
+      "pos": "noun",
+      "plural": "die Ehepaare",
+      "meanings": [
+        {
+          "en": "married couple",
+          "de": "zwei verheiratete Personen"
+        }
+      ],
+      "rule": "Neutrum, obwohl es Personen bezeichnet; Plural: die Ehepaare.",
+      "example": "Das Ehepaar wohnt seit zehn Jahren hier.",
+      "exampleEn": "The married couple has lived here for ten years.",
+      "example2": "Wir haben ein nettes Ehepaar kennengelernt.",
+      "example2En": "We met a nice married couple."
+    },
+    {
+      "de": "der Ehepartner / die Ehepartnerin",
+      "en": "spouse",
+      "pos": "noun",
+      "plural": "die Ehepartner / die Ehepartnerinnen",
+      "meanings": [
+        {
+          "en": "spouse (husband/wife)",
+          "de": "Ehemann oder Ehefrau"
+        }
+      ],
+      "rule": "Maskulin/feminin je nach Geschlecht; Plural: die Ehepartner(innen).",
+      "example": "Sein Ehepartner arbeitet als Arzt.",
+      "exampleEn": "His spouse works as a doctor.",
+      "example2": "Beide Ehepartner müssen unterschreiben.",
+      "example2En": "Both spouses have to sign."
+    },
+    {
+      "de": "die Eheschließung",
+      "en": "marriage; wedding ceremony",
+      "pos": "noun",
+      "plural": "die Eheschließungen",
+      "meanings": [
+        {
+          "en": "the legal act of getting married",
+          "de": "das Heiraten, die Hochzeit"
+        }
+      ],
+      "rule": "Formal/official word used e.g. on standesamt documents; compound of Ehe (marriage) + Schließung (closing/conclusion).",
+      "example": "Die Eheschließung findet am Standesamt statt.",
+      "exampleEn": "The marriage ceremony takes place at the registry office.",
+      "example2": "Zur Eheschließung braucht man Ausweis und Geburtsurkunde.",
+      "example2En": "For the marriage you need an ID card and a birth certificate."
+    },
+    {
+      "de": "eigen",
+      "en": "own",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "belonging to oneself",
+          "de": "jemandem selbst gehörend"
+        }
+      ],
+      "rule": "Usually follows a possessive determiner or an article signaling ownership: mein eigenes Auto, ein eigenes Zimmer, das eigene Haus (no comparison forms in this basic sense).",
+      "example": "Ich habe ein eigenes Zimmer.",
+      "exampleEn": "I have my own room.",
+      "example2": "Sie möchte eine eigene Wohnung haben.",
+      "example2En": "She wants to have her own apartment."
+    },
+    {
+      "de": "die Einbauküche",
+      "en": "fitted kitchen",
+      "pos": "noun",
+      "plural": "die Einbauküchen",
+      "meanings": [
+        {
+          "en": "a kitchen with built-in units and appliances",
+          "de": "eine Küche mit fest eingebauten Möbeln und Geräten"
+        }
+      ],
+      "rule": "Compound: Einbau (built-in, fitted) + Küche (kitchen); often abbreviated EBK in classified ads.",
+      "example": "Die Wohnung hat eine moderne Einbauküche.",
+      "exampleEn": "The apartment has a modern fitted kitchen.",
+      "example2": "Eine Einbauküche ist teurer als einzelne Möbel.",
+      "example2En": "A fitted kitchen is more expensive than individual furniture."
+    }
+  ]
+}

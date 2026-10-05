@@ -1,0 +1,897 @@
+{
+  "id": "a2-11",
+  "title": "A2 · K–L (11)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "kompakt",
+      "en": "compact",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "small and efficiently arranged",
+          "de": "klein und praktisch"
+        }
+      ],
+      "rule": "Regular comparison: kompakt, kompakter, am kompaktesten.",
+      "example": "Das Auto ist sehr kompakt.",
+      "exampleEn": "The car is very compact.",
+      "example2": "Ich brauche eine kompakte Kamera.",
+      "example2En": "I need a compact camera."
+    },
+    {
+      "de": "das Kompliment",
+      "en": "compliment",
+      "pos": "noun",
+      "plural": "die Komplimente",
+      "meanings": [
+        {
+          "en": "a friendly remark of praise",
+          "de": "nettes Lob"
+        }
+      ],
+      "rule": "Neuter noun; common phrase: ein Kompliment machen.",
+      "example": "Er macht ihr ein Kompliment für das Kleid.",
+      "exampleEn": "He gives her a compliment on the dress.",
+      "example2": "Danke für das Kompliment!",
+      "example2En": "Thanks for the compliment!"
+    },
+    {
+      "de": "kompliziert",
+      "en": "complicated",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "difficult to understand or do",
+          "de": "schwer zu verstehen oder zu machen"
+        }
+      ],
+      "rule": "Regular comparison: kompliziert, komplizierter, am kompliziertesten.",
+      "example": "Die Anleitung ist kompliziert.",
+      "exampleEn": "The instructions are complicated.",
+      "example2": "Das Formular ist nicht kompliziert.",
+      "example2En": "The form is not complicated."
+    },
+    {
+      "de": "das Konto",
+      "en": "bank account",
+      "pos": "noun",
+      "plural": "die Konten",
+      "meanings": [
+        {
+          "en": "an account at a bank",
+          "de": "ein Bankkonto"
+        }
+      ],
+      "rule": "Neuter noun; irregular plural 'die Konten' (not 'die Kontos').",
+      "example": "Ich habe ein Konto bei der Bank.",
+      "exampleEn": "I have an account at the bank.",
+      "example2": "Er überweist Geld auf mein Konto.",
+      "example2En": "He transfers money to my account."
+    },
+    {
+      "de": "der Kontoauszug",
+      "en": "bank statement",
+      "pos": "noun",
+      "plural": "die Kontoauszüge",
+      "meanings": [
+        {
+          "en": "a printed record of transactions on a bank account",
+          "de": "eine Übersicht der Kontobewegungen"
+        }
+      ],
+      "rule": "Compound of Konto + Auszug; masculine, plural with umlaut: Kontoauszüge.",
+      "example": "Ich hole meinen Kontoauszug am Automaten.",
+      "exampleEn": "I get my bank statement from the machine.",
+      "example2": "Der Kontoauszug zeigt alle Zahlungen.",
+      "example2En": "The bank statement shows all payments."
+    },
+    {
+      "de": "der Kontoinhaber / die Kontoinhaberin",
+      "en": "account holder",
+      "pos": "noun",
+      "plural": "die Kontoinhaber / die Kontoinhaberinnen",
+      "meanings": [
+        {
+          "en": "the person who owns a bank account",
+          "de": "die Person, der das Konto gehört"
+        }
+      ],
+      "rule": "Compound of Konto + Inhaber(in); masculine form also used generically.",
+      "example": "Der Kontoinhaber muss den Antrag unterschreiben.",
+      "exampleEn": "The account holder must sign the application.",
+      "example2": "Sie ist die Kontoinhaberin dieses Sparkontos.",
+      "example2En": "She is the holder of this savings account."
+    },
+    {
+      "de": "die Kontonummer",
+      "en": "account number",
+      "pos": "noun",
+      "plural": "die Kontonummern",
+      "meanings": [
+        {
+          "en": "the number identifying a bank account",
+          "de": "die Nummer eines Kontos"
+        }
+      ],
+      "rule": "Compound of Konto + Nummer; feminine.",
+      "example": "Bitte geben Sie Ihre Kontonummer an.",
+      "exampleEn": "Please state your account number.",
+      "example2": "Ich habe die Kontonummer vergessen.",
+      "example2En": "I forgot the account number."
+    },
+    {
+      "de": "der Kontostand",
+      "en": "account balance",
+      "pos": "noun",
+      "plural": "die Kontostände",
+      "meanings": [
+        {
+          "en": "the current amount of money in an account",
+          "de": "der aktuelle Geldbetrag auf dem Konto"
+        }
+      ],
+      "rule": "Compound of Konto + Stand; masculine, plural with umlaut.",
+      "example": "Ich prüfe meinen Kontostand online.",
+      "exampleEn": "I check my account balance online.",
+      "example2": "Der Kontostand ist niedrig.",
+      "example2En": "The account balance is low."
+    },
+    {
+      "de": "die Kontoverbindung",
+      "en": "bank details",
+      "pos": "noun",
+      "plural": "die Kontoverbindungen",
+      "meanings": [
+        {
+          "en": "bank account details needed for a transfer",
+          "de": "die Bankdaten für eine Überweisung"
+        }
+      ],
+      "rule": "Compound of Konto + Verbindung; feminine.",
+      "example": "Bitte senden Sie mir Ihre Kontoverbindung.",
+      "exampleEn": "Please send me your bank details.",
+      "example2": "Die Kontoverbindung steht auf der Rechnung.",
+      "example2En": "The bank details are on the invoice."
+    },
+    {
+      "de": "kontrollieren",
+      "en": "to check; to control",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to check something carefully",
+          "de": "etwas genau prüfen"
+        },
+        {
+          "en": "to control or supervise something",
+          "de": "etwas überwachen"
+        }
+      ],
+      "rule": "Regular weak verb: kontrolliert, kontrollierte, hat kontrolliert.",
+      "example": "Der Kontrolleur kontrolliert die Fahrkarten.",
+      "exampleEn": "The inspector checks the tickets.",
+      "example2": "Sie kontrolliert die Temperatur im Kühlschrank.",
+      "example2En": "She checks the temperature in the fridge."
+    },
+    {
+      "de": "der Kopfhörer",
+      "en": "headphones",
+      "pos": "noun",
+      "plural": "die Kopfhörer",
+      "meanings": [
+        {
+          "en": "a device worn over the ears to listen to audio",
+          "de": "ein Gerät für die Ohren zum Musikhören"
+        }
+      ],
+      "rule": "Masculine noun; plural is identical to singular (like der Lehrer → die Lehrer); often used in plural like in English.",
+      "example": "Ich höre Musik mit Kopfhörern.",
+      "exampleEn": "I listen to music with headphones.",
+      "example2": "Meine Kopfhörer sind kaputt.",
+      "example2En": "My headphones are broken."
+    },
+    {
+      "de": "kopieren",
+      "en": "to copy",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make a copy of something",
+          "de": "eine Kopie von etwas machen"
+        }
+      ],
+      "rule": "Regular weak verb: kopiert, kopierte, hat kopiert.",
+      "example": "Kannst du das Dokument kopieren?",
+      "exampleEn": "Can you copy the document?",
+      "example2": "Ich kopiere den Text in eine Datei.",
+      "example2En": "I'm copying the text into a file."
+    },
+    {
+      "de": "der Korb",
+      "en": "basket",
+      "pos": "noun",
+      "plural": "die Körbe",
+      "meanings": [
+        {
+          "en": "a container made of woven material",
+          "de": "ein Behälter aus Geflecht"
+        }
+      ],
+      "rule": "Masculine noun; irregular plural with umlaut: die Körbe.",
+      "example": "Sie legt die Äpfel in den Korb.",
+      "exampleEn": "She puts the apples in the basket.",
+      "example2": "Ich nehme einen Korb zum Einkaufen.",
+      "example2En": "I take a basket for shopping."
+    },
+    {
+      "de": "die Kosmetiktasche",
+      "en": "cosmetics bag",
+      "pos": "noun",
+      "plural": "die Kosmetiktaschen",
+      "meanings": [
+        {
+          "en": "a small bag for cosmetics and toiletries",
+          "de": "eine kleine Tasche für Kosmetikartikel"
+        }
+      ],
+      "rule": "Compound of Kosmetik + Tasche; feminine.",
+      "example": "Ich packe meine Kosmetiktasche für die Reise.",
+      "exampleEn": "I'm packing my cosmetics bag for the trip.",
+      "example2": "Die Kosmetiktasche liegt im Koffer.",
+      "example2En": "The cosmetics bag is in the suitcase."
+    },
+    {
+      "de": "die Kostenerstattung",
+      "en": "reimbursement of costs",
+      "pos": "noun",
+      "plural": "die Kostenerstattungen",
+      "meanings": [
+        {
+          "en": "the repayment of money that was spent",
+          "de": "die Rückzahlung von ausgegebenem Geld"
+        }
+      ],
+      "rule": "Compound of Kosten + Erstattung; feminine.",
+      "example": "Ich beantrage die Kostenerstattung bei der Versicherung.",
+      "exampleEn": "I apply for cost reimbursement from the insurance.",
+      "example2": "Die Kostenerstattung dauert zwei Wochen.",
+      "example2En": "The reimbursement takes two weeks."
+    },
+    {
+      "de": "kostenfrei",
+      "en": "free of charge",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not costing anything",
+          "de": "ohne Kosten"
+        }
+      ],
+      "rule": "Same meaning as \"kostenlos\"; often used in formal/official contexts (e.g. Hotline, Beratung). No irregular comparison.",
+      "example": "Die Beratung ist kostenfrei.",
+      "exampleEn": "The consultation is free of charge.",
+      "example2": "Sie können die Hotline kostenfrei anrufen.",
+      "example2En": "You can call the hotline free of charge."
+    },
+    {
+      "de": "kostenlos",
+      "en": "free, without charge",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not costing money",
+          "de": "gratis, ohne Kosten"
+        }
+      ],
+      "rule": "Very common everyday word for \"free\"; no irregular comparison.",
+      "example": "Der Eintritt ins Museum ist heute kostenlos.",
+      "exampleEn": "Entry to the museum is free today.",
+      "example2": "Kinder unter sechs Jahren fahren kostenlos.",
+      "example2En": "Children under six ride for free."
+    },
+    {
+      "de": "die Kostenübernahme",
+      "en": "cost coverage, assumption of costs",
+      "pos": "noun",
+      "plural": "die Kostenübernahmen",
+      "meanings": [
+        {
+          "en": "when an institution agrees to pay for something",
+          "de": "Übernahme der Kosten durch jemanden"
+        }
+      ],
+      "rule": "Compound noun: Kosten + Übernahme; often used with Krankenkasse (health insurance covering costs).",
+      "example": "Die Krankenkasse hat die Kostenübernahme für die Behandlung bestätigt.",
+      "exampleEn": "The health insurance confirmed it will cover the costs of the treatment.",
+      "example2": "Bitte schicken Sie uns die Kostenübernahme der Versicherung.",
+      "example2En": "Please send us the insurance's confirmation of cost coverage."
+    },
+    {
+      "de": "die Kraft",
+      "en": "strength, power, force",
+      "pos": "noun",
+      "plural": "die Kräfte",
+      "meanings": [
+        {
+          "en": "physical strength",
+          "de": "körperliche Stärke"
+        },
+        {
+          "en": "energy/vigor for doing something",
+          "de": "Energie, Vermögen etwas zu tun"
+        }
+      ],
+      "rule": "Feminine noun with umlaut plural (die Kraft -> die Kräfte). Common phrase: \"mit letzter Kraft\".",
+      "example": "Er hat nicht genug Kraft, um die Kiste zu tragen.",
+      "exampleEn": "He doesn't have enough strength to carry the box.",
+      "example2": "Nach der Krankheit fehlte ihr die Kraft für die Arbeit.",
+      "example2En": "After the illness she lacked the energy for work."
+    },
+    {
+      "de": "die Krawatte",
+      "en": "necktie",
+      "pos": "noun",
+      "plural": "die Krawatten",
+      "meanings": [
+        {
+          "en": "a strip of cloth worn around the neck with a shirt",
+          "de": "Halsbekleidung zum Anzug"
+        }
+      ],
+      "rule": "Feminine noun, regular -n plural.",
+      "example": "Zum Vorstellungsgespräch trägt er eine blaue Krawatte.",
+      "exampleEn": "He wears a blue tie to the job interview.",
+      "example2": "Im Sommer lässt er die Krawatte oft zu Hause.",
+      "example2En": "In summer he often leaves the tie at home."
+    },
+    {
+      "de": "das Kreditinstitut",
+      "en": "credit institution, bank",
+      "pos": "noun",
+      "plural": "die Kreditinstitute",
+      "meanings": [
+        {
+          "en": "formal term for a bank or financial institution",
+          "de": "Bank, Geldinstitut"
+        }
+      ],
+      "rule": "Neuter noun; formal/official word, more bureaucratic than \"Bank\".",
+      "example": "Die Überweisung erfolgt über ein deutsches Kreditinstitut.",
+      "exampleEn": "The transfer is made through a German credit institution.",
+      "example2": "Nicht jedes Kreditinstitut bietet kostenlose Konten an.",
+      "example2En": "Not every bank offers free accounts."
+    },
+    {
+      "de": "die Kreditkarte",
+      "en": "credit card",
+      "pos": "noun",
+      "plural": "die Kreditkarten",
+      "meanings": [
+        {
+          "en": "a card used to pay and borrow money",
+          "de": "Zahlungskarte mit Kreditfunktion"
+        }
+      ],
+      "rule": "Feminine noun, regular -n plural; compound of Kredit + Karte.",
+      "example": "Kann ich mit Kreditkarte bezahlen?",
+      "exampleEn": "Can I pay by credit card?",
+      "example2": "Sie hat ihre Kreditkarte verloren.",
+      "example2En": "She lost her credit card."
+    },
+    {
+      "de": "das Küchengerät",
+      "en": "kitchen appliance",
+      "pos": "noun",
+      "plural": "die Küchengeräte",
+      "meanings": [
+        {
+          "en": "a device used in the kitchen",
+          "de": "Gerät, das man in der Küche benutzt"
+        }
+      ],
+      "rule": "Neuter compound noun (Küche + Gerät), regular -e plural.",
+      "example": "Der Mixer ist ein praktisches Küchengerät.",
+      "exampleEn": "The blender is a practical kitchen appliance.",
+      "example2": "Wir brauchen noch ein paar Küchengeräte für die neue Wohnung.",
+      "example2En": "We still need a few kitchen appliances for the new apartment."
+    },
+    {
+      "de": "die Küchenhilfe",
+      "en": "kitchen assistant, kitchen help",
+      "pos": "noun",
+      "plural": "die Küchenhilfen",
+      "meanings": [
+        {
+          "en": "a person who helps in a kitchen (restaurant)",
+          "de": "Person, die in der Küche hilft"
+        }
+      ],
+      "rule": "Feminine noun, regular -n plural; can refer to a person (job) regardless of the person's gender.",
+      "example": "Er arbeitet als Küchenhilfe in einem Restaurant.",
+      "exampleEn": "He works as a kitchen assistant in a restaurant.",
+      "example2": "Das Restaurant sucht eine Küchenhilfe für die Wochenenden.",
+      "example2En": "The restaurant is looking for kitchen help for weekends."
+    },
+    {
+      "de": "kühlen",
+      "en": "to cool, to chill",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make something cold or colder",
+          "de": "kalt machen, kühl halten"
+        }
+      ],
+      "rule": "Regular weak verb: kühlt, kühlte, hat gekühlt. Takes an accusative object.",
+      "example": "Der Kühlschrank kühlt die Getränke.",
+      "exampleEn": "The fridge keeps the drinks cool.",
+      "example2": "Kühle die Wunde mit Eis.",
+      "example2En": "Cool the wound with ice."
+    },
+    {
+      "de": "das Kulturcafé",
+      "en": "culture café",
+      "pos": "noun",
+      "plural": "die Kulturcafés",
+      "meanings": [
+        {
+          "en": "a café that also hosts cultural events (readings, exhibitions, concerts)",
+          "de": "Café mit kulturellem Programm, z. B. Lesungen oder Ausstellungen"
+        }
+      ],
+      "rule": "Neuter compound noun (Kultur + Café); plural takes -s like loanword \"Café\".",
+      "example": "Am Freitag gibt es eine Lesung im Kulturcafé.",
+      "exampleEn": "On Friday there is a reading at the culture café.",
+      "example2": "Das Kulturcafé in der Altstadt zeigt jeden Monat eine neue Ausstellung.",
+      "example2En": "The culture café in the old town shows a new exhibition every month."
+    },
+    {
+      "de": "der Kumpel",
+      "en": "buddy, mate, pal",
+      "pos": "noun",
+      "plural": "die Kumpels",
+      "meanings": [
+        {
+          "en": "informal word for a close friend",
+          "de": "umgangssprachlich für guter Freund"
+        }
+      ],
+      "rule": "Masculine noun, colloquial; plural die Kumpels (also die Kumpel in some regions/miner sense).",
+      "example": "Er trifft sich heute mit seinen Kumpels zum Fußball.",
+      "exampleEn": "He's meeting his buddies to play football today.",
+      "example2": "Mein Kumpel hat mir beim Umzug geholfen.",
+      "example2En": "My buddy helped me move."
+    },
+    {
+      "de": "die Kundenbetreuung",
+      "en": "customer service, customer support",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the department/activity of helping and advising customers",
+          "de": "Betreuung und Beratung von Kunden"
+        }
+      ],
+      "rule": "Feminine noun, uncountable (no plural); compound of Kunde + Betreuung.",
+      "example": "Bei Fragen wenden Sie sich an unsere Kundenbetreuung.",
+      "exampleEn": "If you have questions, contact our customer service.",
+      "example2": "Sie arbeitet in der Kundenbetreuung eines Telefonanbieters.",
+      "example2En": "She works in customer support for a phone provider."
+    },
+    {
+      "de": "die Kundennummer",
+      "en": "customer number",
+      "pos": "noun",
+      "plural": "die Kundennummern",
+      "meanings": [
+        {
+          "en": "a number identifying a customer in a company's system",
+          "de": "Nummer, die einen Kunden identifiziert"
+        }
+      ],
+      "rule": "Feminine noun, regular -n plural; compound of Kunde + Nummer.",
+      "example": "Bitte geben Sie Ihre Kundennummer an.",
+      "exampleEn": "Please state your customer number.",
+      "example2": "Ich finde meine Kundennummer auf der Rechnung.",
+      "example2En": "I can find my customer number on the invoice."
+    },
+    {
+      "de": "die Kundenreferenz",
+      "en": "customer reference",
+      "pos": "noun",
+      "plural": "die Kundenreferenzen",
+      "meanings": [
+        {
+          "en": "a reference code or ID used to identify a customer transaction/contact",
+          "de": "Referenznummer oder -kennzeichen eines Kunden"
+        }
+      ],
+      "rule": "Feminine noun, regular -en plural; used in banking/business contexts (e.g. on forms, transfers).",
+      "example": "Geben Sie bei der Überweisung die Kundenreferenz an.",
+      "exampleEn": "Please enter the customer reference when making the transfer.",
+      "example2": "Die Kundenreferenz finden Sie oben rechts im Brief.",
+      "example2En": "You can find the customer reference at the top right of the letter."
+    },
+    {
+      "de": "kündigen",
+      "en": "to cancel, to terminate, to give notice",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to end a contract (job, lease, subscription)",
+          "de": "einen Vertrag beenden"
+        },
+        {
+          "en": "to resign from a job / to fire someone",
+          "de": "eine Arbeitsstelle beenden (selbst oder als Arbeitgeber)"
+        }
+      ],
+      "rule": "Regular weak verb: kündigt, kündigte, hat gekündigt. Often with Dativ for the person (\"jemandem kündigen\") or Akkusativ for the thing (\"den Vertrag kündigen\").",
+      "example": "Ich möchte meinen Handyvertrag kündigen.",
+      "exampleEn": "I want to cancel my phone contract.",
+      "example2": "Der Chef hat ihm gekündigt.",
+      "example2En": "The boss fired him."
+    },
+    {
+      "de": "die Kunst",
+      "en": "art",
+      "pos": "noun",
+      "plural": "die Künste",
+      "meanings": [
+        {
+          "en": "creative works such as painting, sculpture, music",
+          "de": "künstlerisches Schaffen, z. B. Malerei"
+        },
+        {
+          "en": "a skill or ability to do something well",
+          "de": "Fertigkeit, etwas gut zu können"
+        }
+      ],
+      "rule": "Feminine noun with umlaut plural (die Kunst -> die Künste); singular usually uncountable in the art sense.",
+      "example": "Sie interessiert sich sehr für moderne Kunst.",
+      "exampleEn": "She is very interested in modern art.",
+      "example2": "Kochen ist auch eine Kunst.",
+      "example2En": "Cooking is an art too."
+    },
+    {
+      "de": "die Kursgebühr",
+      "en": "course fee",
+      "pos": "noun",
+      "plural": "die Kursgebühren",
+      "meanings": [
+        {
+          "en": "the fee paid to attend a course",
+          "de": "Geld, das man für einen Kurs bezahlt"
+        }
+      ],
+      "rule": "Feminine noun, regular -en plural; compound of Kurs + Gebühr.",
+      "example": "Die Kursgebühr beträgt 150 Euro.",
+      "exampleEn": "The course fee is 150 euros.",
+      "example2": "Die Kursgebühren müssen vor Beginn bezahlt werden.",
+      "example2En": "The course fees must be paid before the start."
+    },
+    {
+      "de": "kürzen",
+      "en": "to shorten; to cut (pay/text)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to shorten (a text, a stay)",
+          "de": "kürzer machen"
+        },
+        {
+          "en": "to cut/reduce (money, pay)",
+          "de": "weniger zahlen, reduzieren"
+        }
+      ],
+      "rule": "regular weak verb: kürzt, kürzte, hat gekürzt",
+      "example": "Kannst du den Text bitte kürzen?",
+      "exampleEn": "Can you please shorten the text?",
+      "example2": "Die Firma hat sein Gehalt gekürzt.",
+      "example2En": "The company cut his salary."
+    },
+    {
+      "de": "das Kurzprogramm",
+      "en": "short program / short course",
+      "pos": "noun",
+      "plural": "die Kurzprogramme",
+      "meanings": [
+        {
+          "en": "a brief version of a program or course",
+          "de": "ein kurzes Programm"
+        }
+      ],
+      "rule": "compound noun: kurz + Programm; neuter like das Programm",
+      "example": "Der Deutschkurs hat auch ein Kurzprogramm für Anfänger.",
+      "exampleEn": "The German course also has a short program for beginners.",
+      "example2": "Die Eisläuferin zeigt heute ihr Kurzprogramm.",
+      "example2En": "The figure skater is showing her short program today."
+    },
+    {
+      "de": "der Laden",
+      "en": "shop, store",
+      "pos": "noun",
+      "plural": "die Läden",
+      "meanings": [
+        {
+          "en": "a small shop or store",
+          "de": "ein Geschäft"
+        }
+      ],
+      "rule": "irregular plural with umlaut: der Laden → die Läden",
+      "example": "Der Laden an der Ecke verkauft frisches Brot.",
+      "exampleEn": "The shop on the corner sells fresh bread.",
+      "example2": "Ich kaufe meine Milch immer in diesem Laden.",
+      "example2En": "I always buy my milk at this shop."
+    },
+    {
+      "de": "der Laptop",
+      "en": "laptop",
+      "pos": "noun",
+      "plural": "die Laptops",
+      "meanings": [
+        {
+          "en": "a portable computer",
+          "de": "ein tragbarer Computer"
+        }
+      ],
+      "rule": "loanword from English; plural simply adds -s",
+      "example": "Mein Laptop ist sehr leicht und praktisch.",
+      "exampleEn": "My laptop is very light and practical.",
+      "example2": "Ich arbeite oft im Café mit meinem Laptop.",
+      "example2En": "I often work in the café with my laptop."
+    },
+    {
+      "de": "die Laufbahn",
+      "en": "career, professional path",
+      "pos": "noun",
+      "plural": "die Laufbahnen",
+      "meanings": [
+        {
+          "en": "one's career or professional path",
+          "de": "der berufliche Werdegang"
+        }
+      ],
+      "rule": "compound: laufen (run) + Bahn (track/path); often used for career progress",
+      "example": "Sie hat eine erfolgreiche Laufbahn als Ärztin.",
+      "exampleEn": "She has a successful career as a doctor.",
+      "example2": "Nach der Ausbildung begann seine berufliche Laufbahn.",
+      "example2En": "After training, his professional career began."
+    },
+    {
+      "de": "laufen",
+      "en": "to run; to walk; to work/function",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to run or move on foot",
+          "de": "sich schnell zu Fuß bewegen"
+        },
+        {
+          "en": "to function, to be in operation (machine, film)",
+          "de": "funktionieren, in Betrieb sein"
+        }
+      ],
+      "rule": "irregular verb: läuft, lief, ist gelaufen",
+      "example": "Er läuft jeden Morgen eine Stunde.",
+      "exampleEn": "He runs for an hour every morning.",
+      "example2": "Der Fernseher läuft schon seit zwei Stunden.",
+      "example2En": "The TV has been on for two hours already."
+    },
+    {
+      "de": "der Lebenslauf",
+      "en": "curriculum vitae, résumé",
+      "pos": "noun",
+      "plural": "die Lebensläufe",
+      "meanings": [
+        {
+          "en": "a written summary of one's education and work experience",
+          "de": "eine schriftliche Übersicht über Ausbildung und Berufserfahrung"
+        }
+      ],
+      "rule": "compound: Leben + Lauf; always needed for a Bewerbung (job application)",
+      "example": "Bitte schicken Sie uns Ihren Lebenslauf.",
+      "exampleEn": "Please send us your CV.",
+      "example2": "Ich muss meinen Lebenslauf aktualisieren.",
+      "example2En": "I need to update my résumé."
+    },
+    {
+      "de": "der Lebenspartner / die Lebenspartnerin",
+      "en": "life partner",
+      "pos": "noun",
+      "plural": "die Lebenspartner / die Lebenspartnerinnen",
+      "meanings": [
+        {
+          "en": "a person one lives with in a long-term relationship",
+          "de": "jemand, mit dem man zusammenlebt"
+        }
+      ],
+      "rule": "compound: Leben + Partner/in; used for both married and unmarried partners",
+      "example": "Mein Lebenspartner kocht sehr gern.",
+      "exampleEn": "My life partner loves to cook.",
+      "example2": "Sie stellte mir ihre Lebenspartnerin vor.",
+      "example2En": "She introduced me to her life partner."
+    },
+    {
+      "de": "der Lebensweg",
+      "en": "path of life, life journey",
+      "pos": "noun",
+      "plural": "die Lebenswege",
+      "meanings": [
+        {
+          "en": "the course or journey of a person's life",
+          "de": "der Weg, den ein Leben nimmt"
+        }
+      ],
+      "rule": "compound: Leben + Weg; often used in a slightly formal or reflective way",
+      "example": "Jeder Mensch hat seinen eigenen Lebensweg.",
+      "exampleEn": "Every person has their own path in life.",
+      "example2": "Ihr Lebensweg war nicht immer einfach.",
+      "example2En": "Her life journey was not always easy."
+    },
+    {
+      "de": "legen",
+      "en": "to lay, to put (flat)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to put or lay something down in a flat position",
+          "de": "etwas flach hinlegen"
+        },
+        {
+          "en": "sich legen: to lie down (reflexive)",
+          "de": "sich hinlegen"
+        }
+      ],
+      "rule": "regular weak verb: legt, legte, hat gelegt; + Akkusativ; contrast with liegen (to lie/be located)",
+      "example": "Leg das Buch bitte auf den Tisch.",
+      "exampleEn": "Please put the book on the table.",
+      "example2": "Sie legt sich kurz aufs Bett.",
+      "example2En": "She lies down on the bed for a bit."
+    },
+    {
+      "de": "die Lehre",
+      "en": "apprenticeship; teaching, lesson",
+      "pos": "noun",
+      "plural": "die Lehren",
+      "meanings": [
+        {
+          "en": "vocational apprenticeship/training",
+          "de": "berufliche Ausbildung"
+        },
+        {
+          "en": "a lesson or teaching drawn from experience",
+          "de": "eine Lektion, eine Erkenntnis aus Erfahrung"
+        }
+      ],
+      "rule": "related to lehren (to teach); common phrase: eine Lehre machen",
+      "example": "Er macht eine Lehre als Elektriker.",
+      "exampleEn": "He is doing an apprenticeship as an electrician.",
+      "example2": "Das war eine wichtige Lehre für mich.",
+      "example2En": "That was an important lesson for me."
+    },
+    {
+      "de": "das Lehrmaterial",
+      "en": "teaching material",
+      "pos": "noun",
+      "plural": "die Lehrmaterialien",
+      "meanings": [
+        {
+          "en": "materials used for teaching, such as books or worksheets",
+          "de": "Material zum Unterrichten"
+        }
+      ],
+      "rule": "compound: Lehr- + Material; often used in plural (Lehrmaterialien)",
+      "example": "Die Schule stellt kostenloses Lehrmaterial zur Verfügung.",
+      "exampleEn": "The school provides free teaching materials.",
+      "example2": "Das Lehrmaterial für den Kurs liegt im Sekretariat.",
+      "example2En": "The course materials are at the office."
+    },
+    {
+      "de": "die Leidenschaft",
+      "en": "passion",
+      "pos": "noun",
+      "plural": "die Leidenschaften",
+      "meanings": [
+        {
+          "en": "a strong enthusiasm or love for something",
+          "de": "eine starke Begeisterung"
+        }
+      ],
+      "rule": "often used with für: Leidenschaft für etwas haben",
+      "example": "Musik ist seine große Leidenschaft.",
+      "exampleEn": "Music is his great passion.",
+      "example2": "Sie kocht mit viel Leidenschaft.",
+      "example2En": "She cooks with a lot of passion."
+    },
+    {
+      "de": "leidtun",
+      "en": "to be sorry (about something)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to feel sorry, used impersonally: es tut mir leid",
+          "de": "Bedauern ausdrücken"
+        }
+      ],
+      "rule": "trennbar: tut ... leid, tat ... leid, hat leidgetan; used impersonally with Dativ: es tut mir leid",
+      "example": "Es tut mir leid, dass ich zu spät bin.",
+      "exampleEn": "I'm sorry that I'm late.",
+      "example2": "Der arme Mann tut mir wirklich leid.",
+      "example2En": "I really feel sorry for the poor man."
+    },
+    {
+      "de": "leihen",
+      "en": "to lend; to borrow",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to lend something to someone",
+          "de": "jemandem etwas geben, das zurückgegeben werden muss"
+        },
+        {
+          "en": "sich etwas leihen: to borrow something",
+          "de": "sich etwas von jemandem ausleihen"
+        }
+      ],
+      "rule": "irregular verb: leiht, lieh, hat geliehen; + Dativ for the person",
+      "example": "Kannst du mir 20 Euro leihen?",
+      "exampleEn": "Can you lend me 20 euros?",
+      "example2": "Ich habe mir ein Buch aus der Bibliothek geliehen.",
+      "example2En": "I borrowed a book from the library."
+    },
+    {
+      "de": "die Leistung",
+      "en": "performance, achievement",
+      "pos": "noun",
+      "plural": "die Leistungen",
+      "meanings": [
+        {
+          "en": "performance or achievement (school, work, sports)",
+          "de": "das, was jemand erreicht oder schafft"
+        },
+        {
+          "en": "a service or benefit (e.g. insurance)",
+          "de": "eine Dienstleistung, z. B. von einer Versicherung"
+        }
+      ],
+      "rule": "related to leisten (to achieve, to perform); common in school/work contexts",
+      "example": "Seine Leistungen in Mathe sind sehr gut.",
+      "exampleEn": "His performance in math is very good.",
+      "example2": "Die Versicherung übernimmt diese Leistung nicht.",
+      "example2En": "The insurance does not cover this service."
+    },
+    {
+      "de": "der Leser / die Leserin",
+      "en": "reader",
+      "pos": "noun",
+      "plural": "die Leser / die Leserinnen",
+      "meanings": [
+        {
+          "en": "a person who reads something, e.g. a book or newspaper",
+          "de": "jemand, der liest"
+        }
+      ],
+      "rule": "derived from lesen (to read); -in for feminine form",
+      "example": "Die Zeitung hat viele treue Leser.",
+      "exampleEn": "The newspaper has many loyal readers.",
+      "example2": "Als Leserin schreibt sie oft Briefe an die Redaktion.",
+      "example2En": "As a reader, she often writes letters to the editor."
+    }
+  ]
+}

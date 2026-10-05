@@ -1,0 +1,901 @@
+{
+  "id": "a2-03",
+  "title": "A2 · A–B (3)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "aussuchen",
+      "en": "to choose; to pick out",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to select something from a range of options",
+          "de": "etwas auswählen"
+        }
+      ],
+      "rule": "Trennbar: sucht ... aus, suchte ... aus, hat ... ausgesucht. Often used reflexively: sich etwas aussuchen.",
+      "example": "Such dir ein Geschenk aus.",
+      "exampleEn": "Pick out a gift for yourself.",
+      "example2": "Wir haben uns ein schönes Hotel ausgesucht.",
+      "example2En": "We chose a nice hotel."
+    },
+    {
+      "de": "der Ausweis",
+      "en": "ID card; identity document",
+      "pos": "noun",
+      "plural": "die Ausweise",
+      "meanings": [
+        {
+          "en": "an official identity document (ID card, passport, etc.)",
+          "de": "ein amtliches Dokument zur Identifizierung"
+        }
+      ],
+      "rule": "Compound related to 'ausweisen'; 'sich ausweisen' = to show ID/identify oneself.",
+      "example": "Zeigen Sie bitte Ihren Ausweis.",
+      "exampleEn": "Please show your ID.",
+      "example2": "Ich habe meinen Ausweis verloren.",
+      "example2En": "I lost my ID card."
+    },
+    {
+      "de": "ausziehen",
+      "en": "to take off (clothes); to move out",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to take off clothing",
+          "de": "Kleidung ablegen"
+        },
+        {
+          "en": "to move out of a home",
+          "de": "eine Wohnung verlassen"
+        }
+      ],
+      "rule": "Trennbar; irregular: zieht ... aus, zog ... aus, hat/ist ... ausgezogen (hat for clothes, ist for moving out).",
+      "example": "Zieh bitte deine Schuhe aus.",
+      "exampleEn": "Please take off your shoes.",
+      "example2": "Sie ist letzten Monat ausgezogen.",
+      "example2En": "She moved out last month."
+    },
+    {
+      "de": "das Autofahren",
+      "en": "driving (a car)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the activity of driving a car",
+          "de": "mit dem Auto fahren"
+        }
+      ],
+      "rule": "Verbal noun from 'Auto fahren'; neuter, uncountable, capitalized as a noun.",
+      "example": "Autofahren macht mir Spaß.",
+      "exampleEn": "I enjoy driving.",
+      "example2": "Er hat das Autofahren mit 18 gelernt.",
+      "example2En": "He learned to drive at 18."
+    },
+    {
+      "de": "der Automat",
+      "en": "vending machine; automatic machine",
+      "pos": "noun",
+      "plural": "die Automaten",
+      "meanings": [
+        {
+          "en": "a vending or ticket machine that works automatically",
+          "de": "eine Maschine, die automatisch funktioniert, z. B. Verkaufsautomat"
+        }
+      ],
+      "rule": "Weak noun (n-Deklination): der Automat, den/dem/des Automaten.",
+      "example": "Am Automaten kann man Tickets kaufen.",
+      "exampleEn": "You can buy tickets at the machine.",
+      "example2": "Der Automat ist leider kaputt.",
+      "example2En": "The machine is unfortunately broken."
+    },
+    {
+      "de": "der Autounfall",
+      "en": "car accident",
+      "pos": "noun",
+      "plural": "die Autounfälle",
+      "meanings": [
+        {
+          "en": "a collision involving a car",
+          "de": "ein Unfall mit einem Auto"
+        }
+      ],
+      "rule": "Compound noun: Auto + Unfall; gender follows der Unfall.",
+      "example": "Gestern hatte mein Nachbar einen Autounfall.",
+      "exampleEn": "Yesterday my neighbor had a car accident.",
+      "example2": "Bei dem Autounfall wurde niemand verletzt.",
+      "example2En": "No one was injured in the car accident."
+    },
+    {
+      "de": "der Babyartikel",
+      "en": "baby product",
+      "pos": "noun",
+      "plural": "die Babyartikel",
+      "meanings": [
+        {
+          "en": "a product/item for babies (e.g. diapers, bottles)",
+          "de": "ein Produkt für Babys"
+        }
+      ],
+      "rule": "Compound: Baby + Artikel; gender follows der Artikel (masc.), plural unchanged: die Babyartikel. Often used in the plural to refer to baby products in general.",
+      "example": "Im Supermarkt gibt es eine Abteilung für Babyartikel.",
+      "exampleEn": "There is a baby-products section in the supermarket.",
+      "example2": "Wir haben viele Babyartikel für das neue Kind gekauft.",
+      "example2En": "We bought a lot of baby products for the new child."
+    },
+    {
+      "de": "der Babysitter / die Babysitterin",
+      "en": "babysitter",
+      "pos": "noun",
+      "plural": "die Babysitter / die Babysitterinnen",
+      "meanings": [
+        {
+          "en": "a person who looks after children for pay",
+          "de": "jemand, der auf Kinder aufpasst"
+        }
+      ],
+      "rule": "Loanword from English; masculine form also used generically.",
+      "example": "Am Samstag kommt ein Babysitter für unsere Tochter.",
+      "exampleEn": "On Saturday a babysitter is coming for our daughter.",
+      "example2": "Sie arbeitet als Babysitterin für zwei Kinder.",
+      "example2En": "She works as a babysitter for two children."
+    },
+    {
+      "de": "der Bäckereifachverkäufer / die Bäckereifachverkäuferin",
+      "en": "trained bakery sales assistant",
+      "pos": "noun",
+      "plural": "die Bäckereifachverkäufer / die Bäckereifachverkäuferinnen",
+      "meanings": [
+        {
+          "en": "a person trained to sell bakery products",
+          "de": "jemand, der Brot und Backwaren verkauft (mit Ausbildung)"
+        }
+      ],
+      "rule": "Compound: Bäckerei + Fachverkäufer(in); job title after vocational training.",
+      "example": "Er macht eine Ausbildung zum Bäckereifachverkäufer.",
+      "exampleEn": "He is training to become a bakery sales assistant.",
+      "example2": "Die Bäckereifachverkäuferin berät die Kunden freundlich.",
+      "example2En": "The bakery sales assistant advises the customers in a friendly way."
+    },
+    {
+      "de": "die Badesachen",
+      "en": "swimwear / swimming gear",
+      "pos": "noun",
+      "plural": "die Badesachen",
+      "meanings": [
+        {
+          "en": "clothes and items needed for swimming/bathing",
+          "de": "Kleidung und Sachen zum Schwimmen/Baden"
+        }
+      ],
+      "rule": "Used only in plural (Plural).",
+      "example": "Vergiss deine Badesachen nicht, wir gehen zum See.",
+      "exampleEn": "Don't forget your swimming gear, we're going to the lake.",
+      "example2": "Ich packe die Badesachen in die Tasche.",
+      "example2En": "I'm packing the swimming gear into the bag."
+    },
+    {
+      "de": "das Bahnfahren",
+      "en": "traveling by train",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the activity of traveling by train",
+          "de": "das Reisen mit dem Zug"
+        }
+      ],
+      "rule": "Nominalized infinitive (das + Verb); uncountable, no plural.",
+      "example": "Bahnfahren ist oft günstiger als Fliegen.",
+      "exampleEn": "Traveling by train is often cheaper than flying.",
+      "example2": "Ich mag das Bahnfahren durch die Berge.",
+      "example2En": "I like traveling by train through the mountains."
+    },
+    {
+      "de": "der Bahnsteig",
+      "en": "platform (train)",
+      "pos": "noun",
+      "plural": "die Bahnsteige",
+      "meanings": [
+        {
+          "en": "the raised area beside the tracks where passengers wait",
+          "de": "der Ort am Gleis, wo man auf den Zug wartet"
+        }
+      ],
+      "rule": "Compound: Bahn + Steig; not to be confused with 'Gleis' (track).",
+      "example": "Der Zug fährt von Bahnsteig 3 ab.",
+      "exampleEn": "The train departs from platform 3.",
+      "example2": "Wir warten auf dem Bahnsteig auf den Zug.",
+      "example2En": "We are waiting for the train on the platform."
+    },
+    {
+      "de": "die Band",
+      "en": "(music) band",
+      "pos": "noun",
+      "plural": "die Bands",
+      "meanings": [
+        {
+          "en": "a group of musicians",
+          "de": "eine Gruppe von Musikern"
+        }
+      ],
+      "rule": "Loanword from English; feminine gender, plural with -s.",
+      "example": "Meine Freunde haben eine eigene Band.",
+      "exampleEn": "My friends have their own band.",
+      "example2": "Die Band spielt heute Abend im Club.",
+      "example2En": "The band is playing at the club tonight."
+    },
+    {
+      "de": "die Bankkarte",
+      "en": "bank card",
+      "pos": "noun",
+      "plural": "die Bankkarten",
+      "meanings": [
+        {
+          "en": "a card used for banking/payment",
+          "de": "eine Karte für Geld und Bezahlung"
+        }
+      ],
+      "rule": "Compound: Bank + Karte; gender from die Karte.",
+      "example": "Ich bezahle immer mit meiner Bankkarte.",
+      "exampleEn": "I always pay with my bank card.",
+      "example2": "Meine Bankkarte ist leider nicht mehr gültig.",
+      "example2En": "Unfortunately my bank card is no longer valid."
+    },
+    {
+      "de": "der Bankkaufmann / die Bankkauffrau",
+      "en": "bank clerk (trained)",
+      "pos": "noun",
+      "plural": "die Bankkaufleute",
+      "meanings": [
+        {
+          "en": "a person professionally trained in banking",
+          "de": "jemand mit einer Ausbildung im Bankwesen"
+        }
+      ],
+      "rule": "Irregular plural: Bankkaufleute (from Kaufmann/Kauffrau → Kaufleute).",
+      "example": "Sie ist Bankkauffrau bei einer großen Bank.",
+      "exampleEn": "She is a trained bank clerk at a large bank.",
+      "example2": "Er hat seine Ausbildung zum Bankkaufmann abgeschlossen.",
+      "example2En": "He completed his training as a bank clerk."
+    },
+    {
+      "de": "die Bankleitzahl",
+      "en": "bank sort code",
+      "pos": "noun",
+      "plural": "die Bankleitzahlen",
+      "meanings": [
+        {
+          "en": "a number identifying a bank branch",
+          "de": "eine Nummer, die eine Bank identifiziert"
+        }
+      ],
+      "rule": "Compound: Bank + Leitzahl; abbreviated BLZ, mostly replaced by IBAN today.",
+      "example": "Geben Sie bitte die Bankleitzahl und die Kontonummer an.",
+      "exampleEn": "Please provide the bank sort code and account number.",
+      "example2": "Die Bankleitzahl steht auf der Rechnung.",
+      "example2En": "The bank sort code is on the invoice."
+    },
+    {
+      "de": "der Bankschalter",
+      "en": "bank counter",
+      "pos": "noun",
+      "plural": "die Bankschalter",
+      "meanings": [
+        {
+          "en": "the counter at a bank where customers are served",
+          "de": "der Schalter in einer Bank, an dem man bedient wird"
+        }
+      ],
+      "rule": "Compound: Bank + Schalter; gender from der Schalter.",
+      "example": "Am Bankschalter kann man Geld abheben.",
+      "exampleEn": "You can withdraw money at the bank counter.",
+      "example2": "Er wartet am Bankschalter auf seinen Termin.",
+      "example2En": "He is waiting at the bank counter for his appointment."
+    },
+    {
+      "de": "bar",
+      "en": "in cash",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "paid with cash, not by card",
+          "de": "mit Bargeld bezahlt"
+        }
+      ],
+      "rule": "Often used adverbially with 'bezahlen': 'bar bezahlen' = pay in cash.",
+      "example": "Ich bezahle lieber bar.",
+      "exampleEn": "I prefer to pay in cash.",
+      "example2": "Kann ich hier bar bezahlen?",
+      "example2En": "Can I pay in cash here?"
+    },
+    {
+      "de": "das Bargeld",
+      "en": "cash",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "physical money (coins and notes)",
+          "de": "Geld in Scheinen und Münzen"
+        }
+      ],
+      "rule": "Uncountable, no plural; compound: bar + Geld.",
+      "example": "Ich habe kein Bargeld dabei.",
+      "exampleEn": "I don't have any cash with me.",
+      "example2": "An diesem Automaten kann man Bargeld abheben.",
+      "example2En": "You can withdraw cash at this machine."
+    },
+    {
+      "de": "bargeldlos",
+      "en": "cashless",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "without using cash, e.g. by card or transfer",
+          "de": "ohne Bargeld, z. B. mit Karte"
+        }
+      ],
+      "rule": "Adjective formed with suffix -los (without); opposite of 'bar'.",
+      "example": "Viele Kunden zahlen heute bargeldlos.",
+      "exampleEn": "Many customers pay cashless today.",
+      "example2": "Bargeldlose Zahlung ist hier möglich.",
+      "example2En": "Cashless payment is possible here."
+    },
+    {
+      "de": "der Bart",
+      "en": "beard",
+      "pos": "noun",
+      "plural": "die Bärte",
+      "meanings": [
+        {
+          "en": "facial hair on the chin/cheeks",
+          "de": "Haare im Gesicht, am Kinn"
+        }
+      ],
+      "rule": "Plural with umlaut: der Bart → die Bärte.",
+      "example": "Mein Vater hat einen grauen Bart.",
+      "exampleEn": "My father has a gray beard.",
+      "example2": "Er rasiert sich jeden Tag den Bart.",
+      "example2En": "He shaves his beard every day."
+    },
+    {
+      "de": "die Basis",
+      "en": "basis; base",
+      "pos": "noun",
+      "plural": "die Basen",
+      "meanings": [
+        {
+          "en": "the foundation or starting point of something",
+          "de": "die Grundlage von etwas"
+        }
+      ],
+      "rule": "Irregular plural: die Basis → die Basen (like Greek/Latin loanwords).",
+      "example": "Gute Grammatik ist die Basis für gutes Deutsch.",
+      "exampleEn": "Good grammar is the basis for good German.",
+      "example2": "Auf dieser Basis können wir weiterarbeiten.",
+      "example2En": "We can continue working on this basis."
+    },
+    {
+      "de": "der Basketball",
+      "en": "basketball",
+      "pos": "noun",
+      "plural": "die Basketbälle",
+      "meanings": [
+        {
+          "en": "the sport basketball",
+          "de": "die Sportart Basketball"
+        },
+        {
+          "en": "the ball used in basketball",
+          "de": "der Ball für dieses Spiel"
+        }
+      ],
+      "rule": "Compound: Basket + Ball; plural like 'der Ball' → 'die Bälle'.",
+      "example": "Meine Kinder spielen gern Basketball.",
+      "exampleEn": "My kids like playing basketball.",
+      "example2": "Der Basketball liegt im Schrank.",
+      "example2En": "The basketball is in the cupboard."
+    },
+    {
+      "de": "basteln",
+      "en": "to do handicrafts; to make (by hand)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make/craft things by hand (as a hobby)",
+          "de": "etwas mit den Händen herstellen"
+        }
+      ],
+      "rule": "regular weak verb: bastelt, bastelte, hat gebastelt; often with 'an + Dativ' (an etwas basteln)",
+      "example": "Die Kinder basteln eine Karte für Oma.",
+      "exampleEn": "The children are making a card for grandma.",
+      "example2": "Er bastelt gern an seinem Fahrrad.",
+      "example2En": "He likes tinkering with his bicycle."
+    },
+    {
+      "de": "beachten",
+      "en": "to pay attention to; to observe (a rule)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to follow/observe (a rule, sign, instruction)",
+          "de": "eine Regel befolgen"
+        },
+        {
+          "en": "to notice/take note of someone or something",
+          "de": "auf etwas achten"
+        }
+      ],
+      "rule": "regular weak verb: beachtet, beachtete, hat beachtet; + Akkusativ",
+      "example": "Bitte beachten Sie die Hausordnung.",
+      "exampleEn": "Please observe the house rules.",
+      "example2": "Niemand hat ihn beachtet.",
+      "example2En": "Nobody paid attention to him."
+    },
+    {
+      "de": "beantragen",
+      "en": "to apply for (officially)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to formally apply for / request something official",
+          "de": "offiziell um etwas bitten, z. B. bei einer Behörde"
+        }
+      ],
+      "rule": "regular weak verb: beantragt, beantragte, hat beantragt; + Akkusativ, oft bei Behörden",
+      "example": "Ich möchte einen neuen Reisepass beantragen.",
+      "exampleEn": "I would like to apply for a new passport.",
+      "example2": "Sie hat Kindergeld beantragt.",
+      "example2En": "She applied for child benefit."
+    },
+    {
+      "de": "bearbeiten",
+      "en": "to work on; to process (a request)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to process/handle (an application, order)",
+          "de": "etwas (z. B. einen Antrag) erledigen"
+        },
+        {
+          "en": "to edit/work on a text or material",
+          "de": "an etwas arbeiten, z. B. einen Text"
+        }
+      ],
+      "rule": "regular weak verb: bearbeitet, bearbeitete, hat bearbeitet; + Akkusativ",
+      "example": "Die Bank bearbeitet Ihren Antrag in drei Tagen.",
+      "exampleEn": "The bank processes your application within three days.",
+      "example2": "Kannst du den Text noch bearbeiten?",
+      "example2En": "Can you edit the text a bit more?"
+    },
+    {
+      "de": "bedeuten",
+      "en": "to mean; to signify",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to have a certain meaning",
+          "de": "eine bestimmte Bedeutung haben"
+        },
+        {
+          "en": "to be important to someone",
+          "de": "für jemanden wichtig sein"
+        }
+      ],
+      "rule": "regular weak verb: bedeutet, bedeutete, hat bedeutet; + Akkusativ",
+      "example": "Was bedeutet dieses Wort?",
+      "exampleEn": "What does this word mean?",
+      "example2": "Die Familie bedeutet ihm sehr viel.",
+      "example2En": "Family means a lot to him."
+    },
+    {
+      "de": "bedienen",
+      "en": "to serve; to operate (a machine)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to serve a customer",
+          "de": "einem Kunden helfen, z. B. im Geschäft"
+        },
+        {
+          "en": "to operate a machine or device",
+          "de": "eine Maschine benutzen"
+        }
+      ],
+      "rule": "regular weak verb: bedient, bediente, hat bedient; + Akkusativ; reflexiv 'sich bedienen' = sich selbst nehmen",
+      "example": "Die Kellnerin bedient die Gäste.",
+      "exampleEn": "The waitress serves the guests.",
+      "example2": "Kannst du die Kaffeemaschine bedienen?",
+      "example2En": "Can you operate the coffee machine?"
+    },
+    {
+      "de": "beenden",
+      "en": "to end; to finish",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to bring something to an end / finish it",
+          "de": "etwas zu Ende bringen"
+        }
+      ],
+      "rule": "regular weak verb: beendet, beendete, hat beendet; + Akkusativ",
+      "example": "Sie hat ihr Studium beendet.",
+      "exampleEn": "She has finished her studies.",
+      "example2": "Wir beenden die Sitzung um 16 Uhr.",
+      "example2En": "We will end the meeting at 4 pm."
+    },
+    {
+      "de": "befriedigend",
+      "en": "satisfactory",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "satisfactory, acceptable (e.g. as a grade)",
+          "de": "ausreichend gut, zufriedenstellend"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: befriedigend, befriedigender, am befriedigendsten; in Deutschland auch Schulnote (3)",
+      "example": "Seine Note in Mathe war nur befriedigend.",
+      "exampleEn": "His grade in math was only satisfactory.",
+      "example2": "Das Ergebnis des Tests ist befriedigend.",
+      "example2En": "The test result is satisfactory."
+    },
+    {
+      "de": "begleichen",
+      "en": "to settle (a bill/debt)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to pay off a bill or debt",
+          "de": "eine Rechnung oder Schuld bezahlen"
+        }
+      ],
+      "rule": "unregelmäßig: begleicht, beglich, hat beglichen; + Akkusativ, formell (z. B. eine Rechnung begleichen)",
+      "example": "Bitte begleichen Sie die Rechnung bis Freitag.",
+      "exampleEn": "Please settle the bill by Friday.",
+      "example2": "Er hat seine Schulden beglichen.",
+      "example2En": "He paid off his debts."
+    },
+    {
+      "de": "begründen",
+      "en": "to justify; to give reasons for",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to give reasons/justification for something",
+          "de": "Gründe für etwas nennen"
+        }
+      ],
+      "rule": "regular weak verb: begründet, begründete, hat begründet; + Akkusativ",
+      "example": "Können Sie Ihre Entscheidung begründen?",
+      "exampleEn": "Can you justify your decision?",
+      "example2": "Sie hat ihre Absage kurz begründet.",
+      "example2En": "She briefly explained the reason for her refusal."
+    },
+    {
+      "de": "die Begrüßung",
+      "en": "greeting; welcome",
+      "pos": "noun",
+      "plural": "die Begrüßungen",
+      "meanings": [
+        {
+          "en": "the act of greeting/welcoming someone",
+          "de": "das Willkommenheißen einer Person"
+        }
+      ],
+      "rule": "abgeleitet von 'begrüßen'; feminines Nomen auf -ung, Plural mit -en",
+      "example": "Die Begrüßung der Gäste war sehr herzlich.",
+      "exampleEn": "The welcome of the guests was very warm.",
+      "example2": "Zur Begrüßung gab es Kaffee und Kuchen.",
+      "example2En": "There was coffee and cake for the welcome."
+    },
+    {
+      "de": "die Behandlung",
+      "en": "treatment (medical)",
+      "pos": "noun",
+      "plural": "die Behandlungen",
+      "meanings": [
+        {
+          "en": "medical treatment",
+          "de": "ärztliche Versorgung"
+        },
+        {
+          "en": "way of dealing with/handling someone or something",
+          "de": "der Umgang mit jemandem/etwas"
+        }
+      ],
+      "rule": "abgeleitet von 'behandeln'; feminines Nomen auf -ung, Plural mit -en",
+      "example": "Die Behandlung beim Arzt hat lange gedauert.",
+      "exampleEn": "The treatment at the doctor's took a long time.",
+      "example2": "Er beschwerte sich über die schlechte Behandlung.",
+      "example2En": "He complained about the poor treatment."
+    },
+    {
+      "de": "die Behörde",
+      "en": "authority; government office",
+      "pos": "noun",
+      "plural": "die Behörden",
+      "meanings": [
+        {
+          "en": "a government office/public authority",
+          "de": "staatliche Institution, z. B. Amt"
+        }
+      ],
+      "rule": "feminines Nomen, Plural mit -n; oft: 'auf die Behörde/zum Amt gehen'",
+      "example": "Für den Antrag müssen Sie zur Behörde gehen.",
+      "exampleEn": "For the application you have to go to the authority.",
+      "example2": "Die Behörde hat den Antrag genehmigt.",
+      "example2En": "The authority approved the application."
+    },
+    {
+      "de": "der Beinbruch",
+      "en": "broken leg",
+      "pos": "noun",
+      "plural": "die Beinbrüche",
+      "meanings": [
+        {
+          "en": "a fracture of the leg",
+          "de": "ein gebrochenes Bein"
+        }
+      ],
+      "rule": "Kompositum: das Bein + der Bruch; maskulines Nomen, Plural mit Umlaut -e",
+      "example": "Nach dem Sturz hatte er einen Beinbruch.",
+      "exampleEn": "After the fall he had a broken leg.",
+      "example2": "Mit einem Beinbruch kann man nicht Ski fahren.",
+      "example2En": "You can't ski with a broken leg."
+    },
+    {
+      "de": "die Bekleidung",
+      "en": "clothing; apparel",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "clothing, garments in general (often formal/commercial term)",
+          "de": "Kleidung allgemein"
+        }
+      ],
+      "rule": "feminines Nomen, meist ohne Plural (Kollektivbegriff); formeller als 'Kleidung', oft in Geschäften: Damenbekleidung, Herrenbekleidung",
+      "example": "Das Geschäft verkauft Bekleidung für Kinder.",
+      "exampleEn": "The shop sells clothing for children.",
+      "example2": "Warme Bekleidung ist im Winter wichtig.",
+      "example2En": "Warm clothing is important in winter."
+    },
+    {
+      "de": "belegen",
+      "en": "to enroll in / to reserve; to prove",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to sign up for (a course)",
+          "de": "einen Kurs/Platz reservieren, sich anmelden für"
+        },
+        {
+          "en": "to prove, document",
+          "de": "mit Beweisen/Dokumenten nachweisen"
+        }
+      ],
+      "rule": "regelmäßig: belegt, belegte, hat belegt. + Akkusativ (einen Kurs belegen).",
+      "example": "Ich möchte einen Deutschkurs belegen.",
+      "exampleEn": "I would like to enroll in a German course.",
+      "example2": "Können Sie das mit Dokumenten belegen?",
+      "example2En": "Can you prove that with documents?"
+    },
+    {
+      "de": "der Benutzername",
+      "en": "username",
+      "pos": "noun",
+      "plural": "die Benutzernamen",
+      "meanings": [
+        {
+          "en": "login name for a computer system",
+          "de": "Name zum Einloggen in ein System"
+        }
+      ],
+      "rule": "maskulin, aus 'Benutzer' + 'Name'; zusammen mit 'Passwort' oft genannt.",
+      "example": "Bitte geben Sie Ihren Benutzernamen ein.",
+      "exampleEn": "Please enter your username.",
+      "example2": "Ich habe meinen Benutzernamen vergessen.",
+      "example2En": "I forgot my username."
+    },
+    {
+      "de": "beraten",
+      "en": "to advise",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to give advice to someone",
+          "de": "jemandem einen Rat geben"
+        }
+      ],
+      "rule": "unregelmäßig: berät, beriet, hat beraten. + Akkusativ der Person (ich berate dich).",
+      "example": "Die Ärztin berät ihre Patienten gut.",
+      "exampleEn": "The doctor advises her patients well.",
+      "example2": "Können Sie mich beraten?",
+      "example2En": "Can you advise me?"
+    },
+    {
+      "de": "die Beratung",
+      "en": "advice; consultation",
+      "pos": "noun",
+      "plural": "die Beratungen",
+      "meanings": [
+        {
+          "en": "advice given by an expert",
+          "de": "fachlicher Rat"
+        },
+        {
+          "en": "a consultation session/office",
+          "de": "Gespräch oder Stelle, wo man beraten wird"
+        }
+      ],
+      "rule": "feminin, von 'beraten' abgeleitet (-ung).",
+      "example": "Die Beratung war sehr hilfreich.",
+      "exampleEn": "The consultation was very helpful.",
+      "example2": "Gehst du zur Beratung im Jobcenter?",
+      "example2En": "Are you going to the consultation at the job center?"
+    },
+    {
+      "de": "das Beratungsgespräch",
+      "en": "consultation talk / advisory meeting",
+      "pos": "noun",
+      "plural": "die Beratungsgespräche",
+      "meanings": [
+        {
+          "en": "a conversation for advice or consultation",
+          "de": "Gespräch, in dem man beraten wird"
+        }
+      ],
+      "rule": "neutral, Kompositum aus 'Beratung' + 'Gespräch'.",
+      "example": "Wir hatten ein langes Beratungsgespräch mit der Bank.",
+      "exampleEn": "We had a long consultation with the bank.",
+      "example2": "Das Beratungsgespräch dauert etwa eine Stunde.",
+      "example2En": "The consultation meeting takes about an hour."
+    },
+    {
+      "de": "berechnen",
+      "en": "to calculate; to charge",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to compute a value",
+          "de": "etwas rechnerisch ermitteln"
+        },
+        {
+          "en": "to charge a price for something",
+          "de": "einen Preis für etwas verlangen"
+        }
+      ],
+      "rule": "regelmäßig: berechnet, berechnete, hat berechnet. + Akkusativ.",
+      "example": "Der Computer berechnet das Ergebnis automatisch.",
+      "exampleEn": "The computer calculates the result automatically.",
+      "example2": "Der Mechaniker hat mir 50 Euro berechnet.",
+      "example2En": "The mechanic charged me 50 euros."
+    },
+    {
+      "de": "der Bereich",
+      "en": "area, field, sector",
+      "pos": "noun",
+      "plural": "die Bereiche",
+      "meanings": [
+        {
+          "en": "a field or domain (subject/work)",
+          "de": "ein Fachgebiet oder Themenfeld"
+        },
+        {
+          "en": "a physical area/zone",
+          "de": "ein räumlicher Abschnitt"
+        }
+      ],
+      "rule": "maskulin.",
+      "example": "Sie arbeitet im Bereich Marketing.",
+      "exampleEn": "She works in the marketing field.",
+      "example2": "Dieser Bereich ist für Besucher gesperrt.",
+      "example2En": "This area is closed to visitors."
+    },
+    {
+      "de": "bereit",
+      "en": "ready",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "prepared, ready to do something",
+          "de": "vorbereitet, fertig für etwas"
+        }
+      ],
+      "rule": "Adjektiv, meist prädikativ verwendet; oft mit 'zu' + Infinitiv oder 'für' + Akkusativ (bereit für etwas / bereit, etwas zu tun).",
+      "example": "Bist du bereit für die Prüfung?",
+      "exampleEn": "Are you ready for the exam?",
+      "example2": "Er ist bereit, sofort anzufangen.",
+      "example2En": "He is ready to start right away."
+    },
+    {
+      "de": "bereitstellen",
+      "en": "to provide, to make available",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to supply or make something available",
+          "de": "etwas zur Verfügung stellen"
+        }
+      ],
+      "rule": "trennbar: stellt ... bereit, stellte ... bereit, hat bereitgestellt.",
+      "example": "Die Firma stellt neue Laptops bereit.",
+      "exampleEn": "The company provides new laptops.",
+      "example2": "Wir stellen Ihnen alle Unterlagen bereit.",
+      "example2En": "We will provide you with all the documents."
+    },
+    {
+      "de": "der Bericht",
+      "en": "report",
+      "pos": "noun",
+      "plural": "die Berichte",
+      "meanings": [
+        {
+          "en": "a written or spoken account of events",
+          "de": "eine schriftliche oder mündliche Darstellung"
+        }
+      ],
+      "rule": "maskulin, von 'berichten'.",
+      "example": "Ich habe den Bericht gelesen.",
+      "exampleEn": "I read the report.",
+      "example2": "Sie schreibt einen Bericht über den Unfall.",
+      "example2En": "She is writing a report about the accident."
+    },
+    {
+      "de": "die Berufsausbildung",
+      "en": "vocational training",
+      "pos": "noun",
+      "plural": "die Berufsausbildungen",
+      "meanings": [
+        {
+          "en": "training for a profession, esp. apprenticeship",
+          "de": "Ausbildung für einen Beruf"
+        }
+      ],
+      "rule": "feminin, Kompositum aus 'Beruf' + 'Ausbildung'.",
+      "example": "Nach der Schule beginnt er seine Berufsausbildung.",
+      "exampleEn": "After school he starts his vocational training.",
+      "example2": "Die Berufsausbildung dauert drei Jahre.",
+      "example2En": "The vocational training lasts three years."
+    },
+    {
+      "de": "die Berufsberatung",
+      "en": "career counseling",
+      "pos": "noun",
+      "plural": "die Berufsberatungen",
+      "meanings": [
+        {
+          "en": "advice about choosing a career/job",
+          "de": "Beratung bei der Berufswahl"
+        }
+      ],
+      "rule": "feminin, Kompositum aus 'Beruf' + 'Beratung'.",
+      "example": "Ich habe einen Termin bei der Berufsberatung.",
+      "exampleEn": "I have an appointment at career counseling.",
+      "example2": "Die Berufsberatung hilft Jugendlichen bei der Berufswahl.",
+      "example2En": "Career counseling helps young people choose a career."
+    }
+  ]
+}

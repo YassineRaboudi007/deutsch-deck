@@ -1,0 +1,881 @@
+{
+  "id": "a2-04",
+  "title": "A2 · B (4)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "das Berufsfeld",
+      "en": "career field, professional field",
+      "pos": "noun",
+      "plural": "die Berufsfelder",
+      "meanings": [
+        {
+          "en": "a general area/category of professions",
+          "de": "ein Bereich von ähnlichen Berufen"
+        }
+      ],
+      "rule": "neutral, Kompositum aus 'Beruf' + 'Feld'.",
+      "example": "Welches Berufsfeld interessiert dich?",
+      "exampleEn": "Which career field interests you?",
+      "example2": "Sie arbeitet im Berufsfeld Gesundheit.",
+      "example2En": "She works in the healthcare professional field."
+    },
+    {
+      "de": "das Berufsinformationszentrum",
+      "en": "career information center",
+      "pos": "noun",
+      "plural": "die Berufsinformationszentren",
+      "meanings": [
+        {
+          "en": "a center providing information about careers/jobs",
+          "de": "Einrichtung mit Informationen zu Berufen"
+        }
+      ],
+      "rule": "neutral, oft abgekürzt 'BIZ'; Kompositum.",
+      "example": "Im Berufsinformationszentrum kann man sich über Berufe informieren.",
+      "exampleEn": "At the career information center you can learn about professions.",
+      "example2": "Ich gehe heute ins Berufsinformationszentrum.",
+      "example2En": "I'm going to the career information center today."
+    },
+    {
+      "de": "das Berufskolleg",
+      "en": "vocational college",
+      "pos": "noun",
+      "plural": "die Berufskollegs",
+      "meanings": [
+        {
+          "en": "a school type offering vocational and general education",
+          "de": "Schulform mit beruflicher und allgemeiner Bildung"
+        }
+      ],
+      "rule": "neutral, Kompositum aus 'Beruf' + 'Kolleg'.",
+      "example": "Er macht sein Abitur am Berufskolleg.",
+      "exampleEn": "He is doing his Abitur at the vocational college.",
+      "example2": "Das Berufskolleg bietet verschiedene Fachrichtungen an.",
+      "example2En": "The vocational college offers various specializations."
+    },
+    {
+      "de": "die Berufsschule",
+      "en": "vocational school",
+      "pos": "noun",
+      "plural": "die Berufsschulen",
+      "meanings": [
+        {
+          "en": "school attended alongside an apprenticeship",
+          "de": "Schule, die man während der Ausbildung besucht"
+        }
+      ],
+      "rule": "feminin, Kompositum aus 'Beruf' + 'Schule'.",
+      "example": "Zweimal pro Woche geht sie in die Berufsschule.",
+      "exampleEn": "Twice a week she goes to vocational school.",
+      "example2": "Die Berufsschule ergänzt die praktische Ausbildung im Betrieb.",
+      "example2En": "Vocational school complements the practical training at the company."
+    },
+    {
+      "de": "berufstätig",
+      "en": "employed, working",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having a job, being employed",
+          "de": "einen Beruf ausüben, arbeiten"
+        }
+      ],
+      "rule": "keine Steigerung üblich; oft 'berufstätig sein'.",
+      "example": "Meine Mutter ist berufstätig.",
+      "exampleEn": "My mother is employed.",
+      "example2": "Viele berufstätige Eltern brauchen einen Kitaplatz.",
+      "example2En": "Many working parents need a daycare spot."
+    },
+    {
+      "de": "der Berufswunsch",
+      "en": "desired profession, career aspiration",
+      "pos": "noun",
+      "plural": "die Berufswünsche",
+      "meanings": [
+        {
+          "en": "the job/career someone wants to have",
+          "de": "der Beruf, den jemand gern ausüben möchte"
+        }
+      ],
+      "rule": "maskulin, Kompositum aus 'Beruf' + 'Wunsch'.",
+      "example": "Was ist dein Berufswunsch?",
+      "exampleEn": "What is your desired profession?",
+      "example2": "Ihr Berufswunsch ist Ärztin.",
+      "example2En": "Her career aspiration is to become a doctor."
+    },
+    {
+      "de": "die Bescheinigung",
+      "en": "certificate; confirmation",
+      "pos": "noun",
+      "plural": "die Bescheinigungen",
+      "meanings": [
+        {
+          "en": "an official document confirming something",
+          "de": "ein offizielles Dokument, das etwas bestätigt"
+        }
+      ],
+      "rule": "Often used with 'eine Bescheinigung ausstellen/vorlegen'.",
+      "example": "Ich brauche eine Bescheinigung vom Arzt.",
+      "exampleEn": "I need a certificate from the doctor.",
+      "example2": "Können Sie mir eine Bescheinigung für die Schule ausstellen?",
+      "example2En": "Can you issue me a certificate for school?"
+    },
+    {
+      "de": "die Beschwerde",
+      "en": "complaint",
+      "pos": "noun",
+      "plural": "die Beschwerden",
+      "meanings": [
+        {
+          "en": "a formal complaint",
+          "de": "eine offizielle Klage oder Kritik"
+        }
+      ],
+      "rule": "Common phrase: 'eine Beschwerde einreichen/schreiben'.",
+      "example": "Ich möchte eine Beschwerde schreiben.",
+      "exampleEn": "I would like to write a complaint.",
+      "example2": "Er hat sich über den Service beschwert und eine Beschwerde eingereicht.",
+      "example2En": "He complained about the service and filed a complaint."
+    },
+    {
+      "de": "besichtigen",
+      "en": "to view; to visit (a sight)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to visit and look at something, e.g. a building or sight",
+          "de": "sich etwas ansehen, z. B. ein Gebäude"
+        }
+      ],
+      "rule": "Regular verb: besichtigt, besichtigte, hat besichtigt. Takes direct object (Akkusativ).",
+      "example": "Wir besichtigen morgen das Schloss.",
+      "exampleEn": "We are visiting the castle tomorrow.",
+      "example2": "Möchten Sie die Wohnung besichtigen?",
+      "example2En": "Would you like to view the apartment?"
+    },
+    {
+      "de": "besonders",
+      "en": "especially; particularly",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "especially, particularly",
+          "de": "vor allem, speziell"
+        }
+      ],
+      "rule": "Can also modify adjectives: 'besonders gut'. No comparison forms (used as intensifier).",
+      "example": "Das Essen war besonders lecker.",
+      "exampleEn": "The food was especially delicious.",
+      "example2": "Ich mag besonders den Sommer.",
+      "example2En": "I especially like summer."
+    },
+    {
+      "de": "besprechen",
+      "en": "to discuss",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to talk about and discuss something",
+          "de": "über etwas sprechen und sich austauschen"
+        }
+      ],
+      "rule": "Irregular: bespricht, besprach, hat besprochen. Not separable (be- prefix).",
+      "example": "Wir müssen das Projekt besprechen.",
+      "exampleEn": "We need to discuss the project.",
+      "example2": "Können wir die Details später besprechen?",
+      "example2En": "Can we discuss the details later?"
+    },
+    {
+      "de": "die Besprechung",
+      "en": "meeting; discussion",
+      "pos": "noun",
+      "plural": "die Besprechungen",
+      "meanings": [
+        {
+          "en": "a meeting where something is discussed",
+          "de": "ein Treffen, bei dem etwas besprochen wird"
+        }
+      ],
+      "rule": "Synonym for 'Meeting' in office contexts.",
+      "example": "Die Besprechung beginnt um zehn Uhr.",
+      "exampleEn": "The meeting starts at ten o'clock.",
+      "example2": "Ich habe heute drei Besprechungen.",
+      "example2En": "I have three meetings today."
+    },
+    {
+      "de": "das Besteck",
+      "en": "cutlery",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "knife, fork and spoon used for eating",
+          "de": "Messer, Gabel und Löffel zum Essen"
+        }
+      ],
+      "rule": "Uncountable noun, always singular.",
+      "example": "Kannst du das Besteck auf den Tisch legen?",
+      "exampleEn": "Can you put the cutlery on the table?",
+      "example2": "Das Besteck ist im obersten Schubfach.",
+      "example2En": "The cutlery is in the top drawer."
+    },
+    {
+      "de": "bestellen",
+      "en": "to order",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to order food, drinks or goods",
+          "de": "etwas anfordern, z. B. im Restaurant oder online"
+        }
+      ],
+      "rule": "Regular: bestellt, bestellte, hat bestellt. + Akkusativ.",
+      "example": "Ich möchte einen Kaffee bestellen.",
+      "exampleEn": "I would like to order a coffee.",
+      "example2": "Wir haben das Buch im Internet bestellt.",
+      "example2En": "We ordered the book online."
+    },
+    {
+      "de": "die Bestellnummer",
+      "en": "order number",
+      "pos": "noun",
+      "plural": "die Bestellnummern",
+      "meanings": [
+        {
+          "en": "a reference number for an order",
+          "de": "eine Nummer zur Identifizierung einer Bestellung"
+        }
+      ],
+      "rule": "Compound noun from the verb stem 'bestell-' (bestellen) + Nummer, not from the noun 'Bestellung' directly.",
+      "example": "Bitte geben Sie Ihre Bestellnummer an.",
+      "exampleEn": "Please provide your order number.",
+      "example2": "Die Bestellnummer finden Sie in der E-Mail.",
+      "example2En": "You can find the order number in the email."
+    },
+    {
+      "de": "die Bestellung",
+      "en": "order",
+      "pos": "noun",
+      "plural": "die Bestellungen",
+      "meanings": [
+        {
+          "en": "a request for goods or food",
+          "de": "das Bestellen von Waren oder Essen"
+        }
+      ],
+      "rule": "Related to verb 'bestellen'.",
+      "example": "Meine Bestellung ist noch nicht angekommen.",
+      "exampleEn": "My order has not arrived yet.",
+      "example2": "Er hat eine große Bestellung aufgegeben.",
+      "example2En": "He placed a large order."
+    },
+    {
+      "de": "bestimmt",
+      "en": "certain; surely",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "specific, particular",
+          "de": "speziell, festgelegt"
+        },
+        {
+          "en": "surely, certainly (as adverb)",
+          "de": "sicher, gewiss"
+        }
+      ],
+      "rule": "As adjective means 'certain/specific'; as adverb means 'surely/probably'.",
+      "example": "Er sucht ein bestimmtes Buch.",
+      "exampleEn": "He is looking for a certain book.",
+      "example2": "Sie kommt bestimmt zu spät.",
+      "example2En": "She will surely be late."
+    },
+    {
+      "de": "betätigen",
+      "en": "to operate; to activate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to operate or press a button/switch",
+          "de": "einen Knopf oder Schalter bedienen"
+        }
+      ],
+      "rule": "Regular: betätigt, betätigte, hat betätigt. + Akkusativ. Often with 'den Knopf/Schalter betätigen'.",
+      "example": "Bitte betätigen Sie den Notknopf.",
+      "exampleEn": "Please press the emergency button.",
+      "example2": "Er hat den Schalter betätigt.",
+      "example2En": "He activated the switch."
+    },
+    {
+      "de": "betreffen",
+      "en": "to concern; to affect",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to concern or be relevant to someone/something",
+          "de": "jemanden oder etwas angehen"
+        }
+      ],
+      "rule": "Irregular: betrifft, betraf, hat betroffen. + Akkusativ. Often used as 'was ... betrifft' (as for).",
+      "example": "Diese Regel betrifft alle Mitarbeiter.",
+      "exampleEn": "This rule concerns all employees.",
+      "example2": "Was mich betrifft, bin ich einverstanden.",
+      "example2En": "As for me, I agree."
+    },
+    {
+      "de": "bewahren",
+      "en": "to keep; to preserve",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to keep or protect something safely",
+          "de": "etwas sicher aufbewahren oder schützen"
+        }
+      ],
+      "rule": "Regular: bewahrt, bewahrte, hat bewahrt. Do not confuse with 'bewähren' (to prove oneself).",
+      "example": "Sie bewahrt alte Briefe in einer Kiste.",
+      "exampleEn": "She keeps old letters in a box.",
+      "example2": "Bitte bewahren Sie Ruhe.",
+      "example2En": "Please stay calm (keep calm)."
+    },
+    {
+      "de": "bewegen",
+      "en": "to move",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to move physically",
+          "de": "die Position verändern"
+        },
+        {
+          "en": "to move emotionally",
+          "de": "jemanden emotional berühren"
+        }
+      ],
+      "rule": "Regular in both senses shown here: bewegt, bewegte, hat bewegt. Reflexive: sich bewegen = to move oneself/exercise. (The irregular forms bewog/bewogen exist only for 'jemanden zu etwas bewegen' = to induce someone to do something.)",
+      "example": "Ich kann meinen Arm nicht bewegen.",
+      "exampleEn": "I cannot move my arm.",
+      "example2": "Der Film hat mich sehr bewegt.",
+      "example2En": "The film moved me a lot."
+    },
+    {
+      "de": "der Bewerber / die Bewerberin",
+      "en": "applicant",
+      "pos": "noun",
+      "plural": "die Bewerber / die Bewerberinnen",
+      "meanings": [
+        {
+          "en": "a person applying for a job or place",
+          "de": "eine Person, die sich bewirbt"
+        }
+      ],
+      "rule": "From verb 'sich bewerben' (to apply). Masculine/feminine forms with -in suffix.",
+      "example": "Der Bewerber hat viel Erfahrung.",
+      "exampleEn": "The applicant has a lot of experience.",
+      "example2": "Wir haben viele Bewerberinnen eingeladen.",
+      "example2En": "We invited many (female) applicants."
+    },
+    {
+      "de": "der Bezirk",
+      "en": "district",
+      "pos": "noun",
+      "plural": "die Bezirke",
+      "meanings": [
+        {
+          "en": "an administrative area of a city or region",
+          "de": "ein Verwaltungsgebiet einer Stadt oder Region"
+        }
+      ],
+      "rule": "Used especially for city districts (e.g. Berlin's Bezirke).",
+      "example": "Sie wohnt im Bezirk Mitte.",
+      "exampleEn": "She lives in the Mitte district.",
+      "example2": "Der Bezirk hat ein neues Rathaus.",
+      "example2En": "The district has a new town hall."
+    },
+    {
+      "de": "der BIC",
+      "en": "BIC (Bank Identifier Code)",
+      "pos": "noun",
+      "plural": "die BICs",
+      "meanings": [
+        {
+          "en": "an international bank code used for transfers",
+          "de": "ein internationaler Bankcode für Überweisungen"
+        }
+      ],
+      "rule": "Used together with IBAN for international bank transfers; plural 'BICs' exists but is rarely used since each bank usually has only one.",
+      "example": "Wie lautet der BIC Ihrer Bank?",
+      "exampleEn": "What is the BIC of your bank?",
+      "example2": "Für die Überweisung brauchen Sie IBAN und BIC.",
+      "example2En": "For the transfer you need the IBAN and BIC."
+    },
+    {
+      "de": "bieten",
+      "en": "to offer",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to offer (something to someone)",
+          "de": "jemandem etwas anbieten"
+        },
+        {
+          "en": "to provide/present (a view, chance, etc.)",
+          "de": "etwas bereitstellen, zeigen"
+        }
+      ],
+      "rule": "unregelmäßig: er bietet, bot, hat geboten",
+      "example": "Das Hotel bietet einen schönen Blick auf den See.",
+      "exampleEn": "The hotel offers a beautiful view of the lake.",
+      "example2": "Die Firma bietet ihren Mitarbeitern viele Vorteile.",
+      "example2En": "The company offers its employees many benefits."
+    },
+    {
+      "de": "der Bildschirm",
+      "en": "screen, monitor",
+      "pos": "noun",
+      "plural": "die Bildschirme",
+      "meanings": [
+        {
+          "en": "screen / monitor (of a computer, TV, phone)",
+          "de": "das Display eines Geräts"
+        }
+      ],
+      "rule": "Kompositum: das Bild + der Schirm; Genus vom Grundwort 'der Schirm'",
+      "example": "Mein Bildschirm ist kaputt.",
+      "exampleEn": "My screen is broken.",
+      "example2": "Sie schaut den ganzen Tag auf den Bildschirm.",
+      "example2En": "She looks at the screen all day."
+    },
+    {
+      "de": "der Bildungsweg",
+      "en": "educational path, course of education",
+      "pos": "noun",
+      "plural": "die Bildungswege",
+      "meanings": [
+        {
+          "en": "path of education/training someone follows",
+          "de": "der Weg der schulischen/beruflichen Ausbildung"
+        }
+      ],
+      "rule": "oft in 'zweiter Bildungsweg' = alternative route to qualifications for adults",
+      "example": "Er hat seinen Bildungsweg mit einer Ausbildung begonnen.",
+      "exampleEn": "He started his educational path with an apprenticeship.",
+      "example2": "Sie hat das Abitur auf dem zweiten Bildungsweg gemacht.",
+      "example2En": "She got her high school diploma through adult education."
+    },
+    {
+      "de": "die Biologie",
+      "en": "biology",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the science of living things; school subject",
+          "de": "die Wissenschaft von den Lebewesen"
+        }
+      ],
+      "rule": "unzählbar, kein Plural",
+      "example": "Biologie ist mein Lieblingsfach.",
+      "exampleEn": "Biology is my favorite subject.",
+      "example2": "Sie studiert Biologie an der Universität.",
+      "example2En": "She is studying biology at university."
+    },
+    {
+      "de": "der Biomüll",
+      "en": "organic waste, biowaste",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "compostable organic waste (food scraps, garden waste)",
+          "de": "organischer Abfall, z. B. Essensreste"
+        }
+      ],
+      "rule": "unzählbar; gehört in die Biotonne",
+      "example": "Obstschalen gehören in den Biomüll.",
+      "exampleEn": "Fruit peels belong in the organic waste.",
+      "example2": "Wir trennen unseren Biomüll vom Restmüll.",
+      "example2En": "We separate our organic waste from general waste."
+    },
+    {
+      "de": "die Biotonne",
+      "en": "organic waste bin",
+      "pos": "noun",
+      "plural": "die Biotonnen",
+      "meanings": [
+        {
+          "en": "bin for collecting organic/compostable waste",
+          "de": "der Mülleimer für Biomüll"
+        }
+      ],
+      "rule": "Kompositum: Bio + Tonne (die Tonne = bin)",
+      "example": "Die Biotonne wird einmal pro Woche geleert.",
+      "exampleEn": "The organic waste bin is emptied once a week.",
+      "example2": "Wirf die Essensreste bitte in die Biotonne.",
+      "example2En": "Please throw the food scraps into the organic waste bin."
+    },
+    {
+      "de": "bitten",
+      "en": "to ask, to request",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to ask someone for something politely",
+          "de": "jemanden höflich um etwas bitten"
+        }
+      ],
+      "rule": "unregelmäßig: er bittet, bat, hat gebeten; + um + Akkusativ; nicht verwechseln mit 'bieten'",
+      "example": "Ich bitte dich um Hilfe.",
+      "exampleEn": "I'm asking you for help.",
+      "example2": "Er bat den Kellner um die Rechnung.",
+      "example2En": "He asked the waiter for the bill."
+    },
+    {
+      "de": "der Blick",
+      "en": "look, glance, view",
+      "pos": "noun",
+      "plural": "die Blicke",
+      "meanings": [
+        {
+          "en": "a look or glance",
+          "de": "das kurze Sehen zu jemandem/etwas"
+        },
+        {
+          "en": "a view (from a place)",
+          "de": "die Aussicht von einem Ort"
+        }
+      ],
+      "rule": "von 'blicken' (to glance); 'auf den ersten Blick' = at first sight",
+      "example": "Er warf einen kurzen Blick auf die Uhr.",
+      "exampleEn": "He took a quick glance at the clock.",
+      "example2": "Von hier hat man einen tollen Blick auf die Berge.",
+      "example2En": "From here you have a great view of the mountains."
+    },
+    {
+      "de": "blond",
+      "en": "blond",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having fair/blond hair",
+          "de": "mit hellen, gelblichen Haaren"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: blond, blonder, am blondesten",
+      "example": "Meine Schwester hat blonde Haare.",
+      "exampleEn": "My sister has blond hair.",
+      "example2": "Das kleine Mädchen ist blond.",
+      "example2En": "The little girl is blond."
+    },
+    {
+      "de": "der Boden",
+      "en": "floor, ground, soil",
+      "pos": "noun",
+      "plural": "die Böden",
+      "meanings": [
+        {
+          "en": "floor (inside a room)",
+          "de": "der Fußboden"
+        },
+        {
+          "en": "ground, soil (outside)",
+          "de": "die Erde, das Erdreich"
+        }
+      ],
+      "rule": "Plural mit Umlaut: die Böden",
+      "example": "Der Boden im Wohnzimmer ist aus Holz.",
+      "exampleEn": "The floor in the living room is made of wood.",
+      "example2": "Der Boden hier ist sehr fruchtbar.",
+      "example2En": "The soil here is very fertile."
+    },
+    {
+      "de": "der Brand",
+      "en": "fire, blaze",
+      "pos": "noun",
+      "plural": "die Brände",
+      "meanings": [
+        {
+          "en": "a fire (uncontrolled burning)",
+          "de": "das Feuer, das etwas zerstört"
+        }
+      ],
+      "rule": "Plural mit Umlaut: die Brände; vgl. 'brennen'",
+      "example": "Die Feuerwehr hat den Brand schnell gelöscht.",
+      "exampleEn": "The fire brigade quickly put out the fire.",
+      "example2": "Bei dem Brand wurde niemand verletzt.",
+      "example2En": "No one was injured in the fire."
+    },
+    {
+      "de": "die Brandbekämpfung",
+      "en": "firefighting",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the act of fighting/extinguishing fires",
+          "de": "das Löschen eines Brandes"
+        }
+      ],
+      "rule": "unzählbar; Kompositum aus Brand + Bekämpfung",
+      "example": "Die Feuerwehrleute sind für die Brandbekämpfung zuständig.",
+      "exampleEn": "The firefighters are responsible for firefighting.",
+      "example2": "Zur Brandbekämpfung braucht man spezielle Ausrüstung.",
+      "example2En": "Special equipment is needed for firefighting."
+    },
+    {
+      "de": "der Brandfall",
+      "en": "case of fire, fire emergency",
+      "pos": "noun",
+      "plural": "die Brandfälle",
+      "meanings": [
+        {
+          "en": "an event/situation in which a fire occurs",
+          "de": "der Fall, dass ein Feuer ausbricht"
+        }
+      ],
+      "rule": "oft in der Wendung 'im Brandfall' = in case of fire",
+      "example": "Im Brandfall bitte den Aufzug nicht benutzen.",
+      "exampleEn": "In case of fire, please do not use the elevator.",
+      "example2": "Der Brandfall wurde sofort gemeldet.",
+      "example2En": "The fire emergency was reported immediately."
+    },
+    {
+      "de": "der Brandmelder",
+      "en": "fire detector, fire alarm",
+      "pos": "noun",
+      "plural": "die Brandmelder",
+      "meanings": [
+        {
+          "en": "a device that detects fire/smoke and gives an alarm",
+          "de": "ein Gerät, das Feuer oder Rauch meldet"
+        }
+      ],
+      "rule": "Plural = Singular (der Brandmelder, die Brandmelder); nicht zu verwechseln mit 'der Rauchmelder' (der kleine Rauchmelder in der Wohnung)",
+      "example": "In jeder Wohnung muss ein Brandmelder installiert sein.",
+      "exampleEn": "A fire detector must be installed in every apartment.",
+      "example2": "Der Brandmelder hat laut gepiept.",
+      "example2En": "The fire detector beeped loudly."
+    },
+    {
+      "de": "der Brandschutz",
+      "en": "fire protection, fire safety",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "measures to prevent and limit fire damage",
+          "de": "Maßnahmen gegen Brände"
+        }
+      ],
+      "rule": "unzählbar",
+      "example": "Der Brandschutz im Gebäude wurde überprüft.",
+      "exampleEn": "The fire safety in the building was checked.",
+      "example2": "Feuerlöscher sind wichtig für den Brandschutz.",
+      "example2En": "Fire extinguishers are important for fire protection."
+    },
+    {
+      "de": "braten",
+      "en": "to fry, to roast",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to cook meat/food in fat or an oven",
+          "de": "etwas in Fett oder im Ofen garen"
+        }
+      ],
+      "rule": "unregelmäßig: er brät, briet, hat gebraten",
+      "example": "Meine Mutter brät heute Fisch.",
+      "exampleEn": "My mother is frying fish today.",
+      "example2": "Er hat das Hähnchen im Ofen gebraten.",
+      "example2En": "He roasted the chicken in the oven."
+    },
+    {
+      "de": "brennen",
+      "en": "to burn",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to be on fire / to burn",
+          "de": "in Flammen stehen"
+        },
+        {
+          "en": "to hurt, to sting (pain sensation)",
+          "de": "schmerzen, wie Feuer fühlen"
+        }
+      ],
+      "rule": "unregelmäßig: es brennt, brannte, hat gebrannt",
+      "example": "Das Haus hat lichterloh gebrannt.",
+      "exampleEn": "The house was burning fiercely.",
+      "example2": "Meine Augen brennen vom Rauch.",
+      "example2En": "My eyes are burning from the smoke."
+    },
+    {
+      "de": "das Brett",
+      "en": "board, plank",
+      "pos": "noun",
+      "plural": "die Bretter",
+      "meanings": [
+        {
+          "en": "a flat piece of wood",
+          "de": "ein flaches Stück Holz"
+        }
+      ],
+      "rule": "unregelmäßiger Plural auf -er: die Bretter (kein Umlaut, da Stammvokal 'e')",
+      "example": "Er sägt ein Brett für das Regal.",
+      "exampleEn": "He is sawing a board for the shelf.",
+      "example2": "Auf dem Brett liegen frische Kräuter.",
+      "example2En": "Fresh herbs are lying on the board."
+    },
+    {
+      "de": "der Briefkasten",
+      "en": "mailbox",
+      "pos": "noun",
+      "plural": "die Briefkästen",
+      "meanings": [
+        {
+          "en": "mailbox (for letters)",
+          "de": "Kasten für Briefe"
+        }
+      ],
+      "rule": "Kompositum aus 'Brief' + 'Kasten'; Plural mit Umlaut: die Briefkästen.",
+      "example": "Ich werfe den Brief in den Briefkasten.",
+      "exampleEn": "I put the letter in the mailbox.",
+      "example2": "Der Briefkasten ist schon voll.",
+      "example2En": "The mailbox is already full."
+    },
+    {
+      "de": "die Broschüre",
+      "en": "brochure",
+      "pos": "noun",
+      "plural": "die Broschüren",
+      "meanings": [
+        {
+          "en": "brochure, pamphlet",
+          "de": "kleines Informationsheft"
+        }
+      ],
+      "rule": "Feminines Substantiv, Plural auf -n.",
+      "example": "Im Reisebüro liegt eine Broschüre über Italien.",
+      "exampleEn": "There is a brochure about Italy at the travel agency.",
+      "example2": "Kannst du mir eine Broschüre mitbringen?",
+      "example2En": "Can you bring me a brochure?"
+    },
+    {
+      "de": "buchen",
+      "en": "to book",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to book, reserve",
+          "de": "reservieren"
+        }
+      ],
+      "rule": "Regelmäßiges Verb: bucht, buchte, hat gebucht.",
+      "example": "Wir buchen den Flug online.",
+      "exampleEn": "We book the flight online.",
+      "example2": "Hast du das Hotel schon gebucht?",
+      "example2En": "Have you already booked the hotel?"
+    },
+    {
+      "de": "die Buchhaltung",
+      "en": "accounting, bookkeeping",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "accounting department / bookkeeping",
+          "de": "Abteilung für Rechnungen und Finanzen"
+        }
+      ],
+      "rule": "Feminines Substantiv, meist unzählbar, kein Plural.",
+      "example": "Sie arbeitet in der Buchhaltung.",
+      "exampleEn": "She works in accounting.",
+      "example2": "Die Buchhaltung prüft die Rechnungen.",
+      "example2En": "The accounting department checks the invoices."
+    },
+    {
+      "de": "bummeln",
+      "en": "to stroll",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to stroll, wander leisurely",
+          "de": "gemütlich spazieren gehen"
+        }
+      ],
+      "rule": "Regelmäßiges Verb: bummelt, bummelte, ist gebummelt.",
+      "example": "Am Samstag bummeln wir durch die Stadt.",
+      "exampleEn": "On Saturday we stroll through the city.",
+      "example2": "Sie bummeln gern durch die Geschäfte.",
+      "example2En": "They like to stroll through the shops."
+    },
+    {
+      "de": "das Bundesland",
+      "en": "federal state",
+      "pos": "noun",
+      "plural": "die Bundesländer",
+      "meanings": [
+        {
+          "en": "federal state (of Germany/Austria)",
+          "de": "Teilstaat eines Bundesstaates"
+        }
+      ],
+      "rule": "Neutrum; Plural mit Umlaut: die Bundesländer.",
+      "example": "Bayern ist ein Bundesland in Deutschland.",
+      "exampleEn": "Bavaria is a federal state in Germany.",
+      "example2": "Deutschland hat sechzehn Bundesländer.",
+      "example2En": "Germany has sixteen federal states."
+    },
+    {
+      "de": "bunt",
+      "en": "colorful",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "colorful, multicolored",
+          "de": "vielfarbig"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: bunt, bunter, am buntesten.",
+      "example": "Das Kind malt ein buntes Bild.",
+      "exampleEn": "The child paints a colorful picture.",
+      "example2": "Sie trägt ein buntes Kleid.",
+      "example2En": "She is wearing a colorful dress."
+    },
+    {
+      "de": "die Büroorganisation",
+      "en": "office organization",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "organization of office work",
+          "de": "Organisation der Arbeit im Büro"
+        }
+      ],
+      "rule": "Kompositum aus 'Büro' + 'Organisation'; meist unzählbar.",
+      "example": "Sie ist für die Büroorganisation verantwortlich.",
+      "exampleEn": "She is responsible for office organization.",
+      "example2": "Gute Büroorganisation spart Zeit.",
+      "example2En": "Good office organization saves time."
+    }
+  ]
+}

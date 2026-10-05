@@ -1,0 +1,881 @@
+{
+  "id": "a2-14",
+  "title": "A2 · P–R (14)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "der Personalleiter / die Personalleiterin",
+      "en": "head of human resources",
+      "pos": "noun",
+      "plural": "die Personalleiter / die Personalleiterinnen",
+      "meanings": [
+        {
+          "en": "person in charge of HR department",
+          "de": "Leiter/in der Personalabteilung"
+        }
+      ],
+      "rule": "Maskulin -leiter, feminin -leiterin; Plural maskulin bleibt gleich (der Leiter -> die Leiter).",
+      "example": "Der Personalleiter hat das Bewerbungsgespräch geführt.",
+      "exampleEn": "The head of HR conducted the job interview.",
+      "example2": "Die Personalleiterin entscheidet über neue Stellen.",
+      "example2En": "The head of HR decides on new positions."
+    },
+    {
+      "de": "persönlich",
+      "en": "personal; in person",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "private, individual",
+          "de": "privat, individuell"
+        },
+        {
+          "en": "in person, face to face",
+          "de": "selbst, direkt"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: persönlich, persönlicher, am persönlichsten (selten gesteigert).",
+      "example": "Das ist eine persönliche Frage.",
+      "exampleEn": "That's a personal question.",
+      "example2": "Ich möchte Sie gern persönlich kennenlernen.",
+      "example2En": "I would like to meet you in person."
+    },
+    {
+      "de": "die Pfanne",
+      "en": "frying pan",
+      "pos": "noun",
+      "plural": "die Pfannen",
+      "meanings": [
+        {
+          "en": "pan used for frying",
+          "de": "Kochgeschirr zum Braten"
+        }
+      ],
+      "rule": "Feminines Substantiv, Plural -n.",
+      "example": "Ich brate das Ei in der Pfanne.",
+      "exampleEn": "I fry the egg in the pan.",
+      "example2": "Die Pfanne ist noch sehr heiß.",
+      "example2En": "The pan is still very hot."
+    },
+    {
+      "de": "der Pfennig",
+      "en": "pfennig (old German coin)",
+      "pos": "noun",
+      "plural": "die Pfennige",
+      "meanings": [
+        {
+          "en": "former small German currency unit",
+          "de": "alte deutsche Münze, 1/100 Mark"
+        }
+      ],
+      "rule": "Maskulines Substantiv, Plural -e; heute historisch, ersetzt durch Cent.",
+      "example": "Früher kostete ein Brötchen nur wenige Pfennige.",
+      "exampleEn": "In the past a roll only cost a few pfennigs.",
+      "example2": "Meine Oma sammelt alte Pfennige.",
+      "example2En": "My grandma collects old pfennigs."
+    },
+    {
+      "de": "die Pflicht",
+      "en": "duty, obligation",
+      "pos": "noun",
+      "plural": "die Pflichten",
+      "meanings": [
+        {
+          "en": "a moral or legal obligation",
+          "de": "Verpflichtung"
+        }
+      ],
+      "rule": "Feminines Substantiv, Plural -en.",
+      "example": "Pünktlich zu sein ist meine Pflicht.",
+      "exampleEn": "Being punctual is my duty.",
+      "example2": "Er hat viele Pflichten im Haushalt.",
+      "example2En": "He has many duties in the household."
+    },
+    {
+      "de": "die Physik",
+      "en": "physics",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the science of physics",
+          "de": "Naturwissenschaft"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural; Schulfach.",
+      "example": "Physik ist mein Lieblingsfach.",
+      "exampleEn": "Physics is my favorite subject.",
+      "example2": "Wir haben heute drei Stunden Physik.",
+      "example2En": "We have three hours of physics today."
+    },
+    {
+      "de": "das Pilates",
+      "en": "Pilates",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "exercise method for core strength and flexibility",
+          "de": "Fitnesstraining für Rumpf und Beweglichkeit"
+        }
+      ],
+      "rule": "Unzählbar, kein Artikel im Alltag nötig; als Substantiv neutrum.",
+      "example": "Ich mache jeden Dienstag Pilates.",
+      "exampleEn": "I do Pilates every Tuesday.",
+      "example2": "Pilates stärkt die Rückenmuskulatur.",
+      "example2En": "Pilates strengthens the back muscles."
+    },
+    {
+      "de": "der Pilot / die Pilotin",
+      "en": "pilot",
+      "pos": "noun",
+      "plural": "die Piloten / die Pilotinnen",
+      "meanings": [
+        {
+          "en": "person who flies an aircraft",
+          "de": "Flugzeugführer/in"
+        }
+      ],
+      "rule": "Maskulin -n-Deklination (der Pilot, den/dem/des Piloten); feminin -in.",
+      "example": "Der Pilot landet das Flugzeug sicher.",
+      "exampleEn": "The pilot lands the airplane safely.",
+      "example2": "Sie möchte Pilotin werden.",
+      "example2En": "She wants to become a pilot."
+    },
+    {
+      "de": "die PIN",
+      "en": "PIN (personal identification number)",
+      "pos": "noun",
+      "plural": "die PINs",
+      "meanings": [
+        {
+          "en": "secret numeric code for cards/devices",
+          "de": "Geheimzahl für Karte oder Handy"
+        }
+      ],
+      "rule": "Feminines Substantiv (die PIN), Plural -s; oft ohne Artikel im Alltag genannt.",
+      "example": "Bitte geben Sie Ihre PIN ein.",
+      "exampleEn": "Please enter your PIN.",
+      "example2": "Ich habe meine PIN vergessen.",
+      "example2En": "I forgot my PIN."
+    },
+    {
+      "de": "planmäßig",
+      "en": "as scheduled; on time",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "as scheduled/planned",
+          "de": "wie geplant"
+        }
+      ],
+      "rule": "Adjective/adverb, no irregular comparison; often used with trains/flights/plans.",
+      "example": "Der Zug kommt planmäßig um 9 Uhr an.",
+      "exampleEn": "The train arrives on schedule at 9 o'clock.",
+      "example2": "Der Flug startet planmäßig.",
+      "example2En": "The flight departs as scheduled."
+    },
+    {
+      "de": "die Planung",
+      "en": "planning",
+      "pos": "noun",
+      "plural": "die Planungen",
+      "meanings": [
+        {
+          "en": "the act of planning",
+          "de": "das Planen"
+        }
+      ],
+      "rule": "Feminine noun formed from planen + -ung; -ung nouns are always feminine.",
+      "example": "Die Planung der Reise dauert lange.",
+      "exampleEn": "Planning the trip takes a long time.",
+      "example2": "Wir sind noch in der Planung.",
+      "example2En": "We are still in the planning stage."
+    },
+    {
+      "de": "plötzlich",
+      "en": "suddenly",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "happening suddenly, unexpectedly",
+          "de": "auf einmal, unerwartet"
+        }
+      ],
+      "rule": "Adjective/adverb, no comparison forms typically used; often at sentence start.",
+      "example": "Plötzlich fing es an zu regnen.",
+      "exampleEn": "Suddenly it started to rain.",
+      "example2": "Er wurde plötzlich krank.",
+      "example2En": "He suddenly became ill."
+    },
+    {
+      "de": "der Poetry-Slam",
+      "en": "poetry slam",
+      "pos": "noun",
+      "plural": "die Poetry-Slams",
+      "meanings": [
+        {
+          "en": "a spoken-word poetry competition",
+          "de": "ein Dichterwettstreit mit Vortrag"
+        }
+      ],
+      "rule": "Loanword from English; masculine article 'der' commonly used: der Poetry-Slam.",
+      "example": "Am Freitag gehen wir zum Poetry-Slam.",
+      "exampleEn": "On Friday we're going to the poetry slam.",
+      "example2": "Sie liest ihr Gedicht beim Poetry-Slam.",
+      "example2En": "She reads her poem at the poetry slam."
+    },
+    {
+      "de": "die Politik",
+      "en": "politics; policy",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "politics (the field)",
+          "de": "das politische Geschehen"
+        },
+        {
+          "en": "a policy",
+          "de": "eine bestimmte Strategie"
+        }
+      ],
+      "rule": "Feminine noun, usually uncountable (no plural).",
+      "example": "Er interessiert sich sehr für Politik.",
+      "exampleEn": "He is very interested in politics.",
+      "example2": "Die Politik der Firma hat sich geändert.",
+      "example2En": "The company's policy has changed."
+    },
+    {
+      "de": "der Polizist / die Polizistin",
+      "en": "police officer",
+      "pos": "noun",
+      "plural": "die Polizisten / die Polizistinnen",
+      "meanings": [
+        {
+          "en": "a member of the police",
+          "de": "ein Mitglied der Polizei"
+        }
+      ],
+      "rule": "Masculine noun follows -n/-en weak declension; feminine adds -in.",
+      "example": "Der Polizist hilft uns bei der Suche.",
+      "exampleEn": "The police officer helps us search.",
+      "example2": "Die Polizistin kontrolliert die Ausweise.",
+      "example2En": "The policewoman checks the IDs."
+    },
+    {
+      "de": "preiswert",
+      "en": "good value; inexpensive",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "cheap for good quality, good value",
+          "de": "günstig, gutes Preis-Leistungs-Verhältnis"
+        }
+      ],
+      "rule": "Regular comparison: preiswert, preiswerter, am preiswertesten.",
+      "example": "Das Hotel ist sehr preiswert.",
+      "exampleEn": "The hotel is very good value.",
+      "example2": "Ich suche ein preiswertes Fahrrad.",
+      "example2En": "I'm looking for an inexpensive bicycle."
+    },
+    {
+      "de": "prima",
+      "en": "great; fine",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "great, excellent (informal)",
+          "de": "sehr gut, toll"
+        }
+      ],
+      "rule": "Indeclinable adjective, no endings change; no comparison forms.",
+      "example": "Das Essen schmeckt prima!",
+      "exampleEn": "The food tastes great!",
+      "example2": "Prima, das passt gut.",
+      "example2En": "Great, that works well."
+    },
+    {
+      "de": "privat",
+      "en": "private",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not public, personal",
+          "de": "nicht öffentlich, persönlich"
+        }
+      ],
+      "rule": "Regular adjective; comparison rarely used: privat, privater, am privatesten.",
+      "example": "Das ist meine private Adresse.",
+      "exampleEn": "That's my private address.",
+      "example2": "Wir treffen uns privat, nicht im Büro.",
+      "example2En": "We're meeting privately, not at the office."
+    },
+    {
+      "de": "professionell",
+      "en": "professional",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "done with skill, expertise",
+          "de": "fachmännisch, mit Können"
+        }
+      ],
+      "rule": "Regular comparison: professionell, professioneller, am professionellsten.",
+      "example": "Sie arbeitet sehr professionell.",
+      "exampleEn": "She works very professionally.",
+      "example2": "Er ist ein professioneller Fotograf.",
+      "example2En": "He is a professional photographer."
+    },
+    {
+      "de": "das Programm",
+      "en": "program; schedule",
+      "pos": "noun",
+      "plural": "die Programme",
+      "meanings": [
+        {
+          "en": "a schedule of events",
+          "de": "ein Ablaufplan"
+        },
+        {
+          "en": "a computer program",
+          "de": "ein Computerprogramm"
+        }
+      ],
+      "rule": "Neuter noun.",
+      "example": "Wir haben ein volles Programm heute.",
+      "exampleEn": "We have a full schedule today.",
+      "example2": "Er installiert ein neues Programm.",
+      "example2En": "He is installing a new program."
+    },
+    {
+      "de": "Prost",
+      "en": "cheers!",
+      "pos": "other",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "toast said before drinking",
+          "de": "Trinkspruch"
+        }
+      ],
+      "rule": "Interjection, invariable, used when clinking glasses.",
+      "example": "Prost! Auf deine Gesundheit!",
+      "exampleEn": "Cheers! To your health!",
+      "example2": "Alle sagten Prost und tranken.",
+      "example2En": "Everyone said cheers and drank."
+    },
+    {
+      "de": "das Protokoll",
+      "en": "minutes; report; protocol",
+      "pos": "noun",
+      "plural": "die Protokolle",
+      "meanings": [
+        {
+          "en": "written minutes of a meeting",
+          "de": "schriftliche Aufzeichnung einer Besprechung"
+        },
+        {
+          "en": "official record (e.g. police report)",
+          "de": "amtlicher Bericht"
+        }
+      ],
+      "rule": "Neuter noun; common phrase: Protokoll führen (to take minutes).",
+      "example": "Wer führt heute das Protokoll?",
+      "exampleEn": "Who is taking the minutes today?",
+      "example2": "Die Polizei hat ein Protokoll geschrieben.",
+      "example2En": "The police wrote up a report."
+    },
+    {
+      "de": "die Prüfung",
+      "en": "exam; test",
+      "pos": "noun",
+      "plural": "die Prüfungen",
+      "meanings": [
+        {
+          "en": "an examination/test",
+          "de": "ein Test, eine Kontrolle des Wissens"
+        }
+      ],
+      "rule": "Feminine noun from prüfen + -ung; common: eine Prüfung bestehen (to pass an exam).",
+      "example": "Morgen habe ich eine wichtige Prüfung.",
+      "exampleEn": "Tomorrow I have an important exam.",
+      "example2": "Sie hat die Prüfung bestanden.",
+      "example2En": "She passed the exam."
+    },
+    {
+      "de": "das Prüfungstraining",
+      "en": "exam preparation/practice",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "practice/training for an exam",
+          "de": "Üben für eine Prüfung"
+        }
+      ],
+      "rule": "Neuter compound noun (Prüfung + Training); usually no plural.",
+      "example": "Das Prüfungstraining hilft uns sehr.",
+      "exampleEn": "The exam practice helps us a lot.",
+      "example2": "Wir machen jede Woche Prüfungstraining.",
+      "example2En": "We do exam practice every week."
+    },
+    {
+      "de": "der Quatsch",
+      "en": "nonsense",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "nonsense, silly talk",
+          "de": "Unsinn"
+        }
+      ],
+      "rule": "Masculine noun, uncountable; informal, common exclamation: So ein Quatsch!",
+      "example": "Das ist doch Quatsch!",
+      "exampleEn": "That's nonsense!",
+      "example2": "Mach keinen Quatsch!",
+      "example2En": "Don't be silly / don't mess around!"
+    },
+    {
+      "de": "die Radtour",
+      "en": "bike tour/ride",
+      "pos": "noun",
+      "plural": "die Radtouren",
+      "meanings": [
+        {
+          "en": "a trip/tour by bicycle",
+          "de": "eine Tour mit dem Fahrrad"
+        }
+      ],
+      "rule": "Feminine compound noun (Rad + Tour).",
+      "example": "Am Sonntag machen wir eine Radtour.",
+      "exampleEn": "On Sunday we're going on a bike ride.",
+      "example2": "Die Radtour war 30 Kilometer lang.",
+      "example2En": "The bike tour was 30 kilometers long."
+    },
+    {
+      "de": "der Rat",
+      "en": "advice",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "advice, counsel",
+          "de": "ein Vorschlag, eine Empfehlung"
+        }
+      ],
+      "rule": "Masculine noun; in the sense 'advice' it is normally uncountable (no plural); for multiple pieces of advice use 'die Ratschläge' (from der Ratschlag), not a plural of Rat itself.",
+      "example": "Kannst du mir einen Rat geben?",
+      "exampleEn": "Can you give me some advice?",
+      "example2": "Ich brauche deinen Rat.",
+      "example2En": "I need your advice."
+    },
+    {
+      "de": "der Ratschlag",
+      "en": "piece of advice",
+      "pos": "noun",
+      "plural": "die Ratschläge",
+      "meanings": [
+        {
+          "en": "advice, suggestion",
+          "de": "ein Tipp, den man jemandem gibt"
+        }
+      ],
+      "rule": "Immer mit Artikel 'der'; oft in der Wendung 'jemandem einen Ratschlag geben'.",
+      "example": "Mein Vater hat mir einen guten Ratschlag gegeben.",
+      "exampleEn": "My father gave me a good piece of advice.",
+      "example2": "Kannst du mir einen Ratschlag geben?",
+      "example2En": "Can you give me a piece of advice?"
+    },
+    {
+      "de": "reagieren",
+      "en": "to react",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to react, respond (to something)",
+          "de": "auf etwas antworten oder handeln"
+        }
+      ],
+      "rule": "Regelmäßiges Verb; + auf + Akkusativ: 'auf etwas reagieren'. Perfekt: hat reagiert.",
+      "example": "Sie hat schnell auf die Frage reagiert.",
+      "exampleEn": "She reacted quickly to the question.",
+      "example2": "Er reagiert nicht auf meine E-Mails.",
+      "example2En": "He doesn't respond to my emails."
+    },
+    {
+      "de": "der Realschulabschluss",
+      "en": "intermediate secondary school diploma",
+      "pos": "noun",
+      "plural": "die Realschulabschlüsse",
+      "meanings": [
+        {
+          "en": "school-leaving certificate from a Realschule",
+          "de": "das Zeugnis am Ende der Realschule"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Realschule' + 'Abschluss'; der Artikel richtet sich nach 'Abschluss' (der).",
+      "example": "Er hat seinen Realschulabschluss mit guten Noten gemacht.",
+      "exampleEn": "He got his intermediate school diploma with good grades.",
+      "example2": "Für die Ausbildung braucht man mindestens einen Realschulabschluss.",
+      "example2En": "For the apprenticeship you need at least an intermediate school diploma."
+    },
+    {
+      "de": "die Realschule",
+      "en": "intermediate secondary school",
+      "pos": "noun",
+      "plural": "die Realschulen",
+      "meanings": [
+        {
+          "en": "type of German secondary school (between Hauptschule and Gymnasium)",
+          "de": "eine weiterführende Schule in Deutschland"
+        }
+      ],
+      "rule": "Feminines Substantiv; Schulform im deutschen Schulsystem.",
+      "example": "Meine Tochter geht auf die Realschule.",
+      "exampleEn": "My daughter goes to the Realschule.",
+      "example2": "Nach der Grundschule wechselte er auf die Realschule.",
+      "example2En": "After primary school he moved to the Realschule."
+    },
+    {
+      "de": "die Rechnung",
+      "en": "invoice, bill",
+      "pos": "noun",
+      "plural": "die Rechnungen",
+      "meanings": [
+        {
+          "en": "invoice, bill",
+          "de": "ein Dokument, das zeigt, was man bezahlen muss"
+        },
+        {
+          "en": "calculation (math)",
+          "de": "eine Aufgabe in Mathematik"
+        }
+      ],
+      "rule": "Feminines Substantiv; 'eine Rechnung bezahlen' = to pay a bill.",
+      "example": "Ich muss noch die Rechnung für das Hotel bezahlen.",
+      "exampleEn": "I still have to pay the hotel bill.",
+      "example2": "Die Rechnung ist ganz einfach: 5 mal 3 ist 15.",
+      "example2En": "The calculation is very simple: 5 times 3 is 15."
+    },
+    {
+      "de": "der Rechnungsbetrag",
+      "en": "invoice amount",
+      "pos": "noun",
+      "plural": "die Rechnungsbeträge",
+      "meanings": [
+        {
+          "en": "the total amount to be paid on an invoice",
+          "de": "die Summe, die man laut Rechnung zahlen muss"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Rechnung' + 'Betrag'; Artikel 'der' wie 'der Betrag'.",
+      "example": "Bitte überweisen Sie den Rechnungsbetrag bis zum 10. des Monats.",
+      "exampleEn": "Please transfer the invoice amount by the 10th of the month.",
+      "example2": "Der Rechnungsbetrag liegt bei 250 Euro.",
+      "example2En": "The invoice amount is 250 euros."
+    },
+    {
+      "de": "die Rechnungsnummer",
+      "en": "invoice number",
+      "pos": "noun",
+      "plural": "die Rechnungsnummern",
+      "meanings": [
+        {
+          "en": "the identification number of an invoice",
+          "de": "die Nummer, mit der man eine Rechnung erkennt"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Rechnung' + 'Nummer'; Artikel 'die' wie 'die Nummer'.",
+      "example": "Geben Sie bitte die Rechnungsnummer bei der Reklamation an.",
+      "exampleEn": "Please state the invoice number when making a complaint.",
+      "example2": "Die Rechnungsnummer finden Sie oben rechts.",
+      "example2En": "You will find the invoice number at the top right."
+    },
+    {
+      "de": "die Rede",
+      "en": "speech",
+      "pos": "noun",
+      "plural": "die Reden",
+      "meanings": [
+        {
+          "en": "speech, talk",
+          "de": "ein öffentlicher Vortrag"
+        }
+      ],
+      "rule": "Feminines Substantiv; 'eine Rede halten' = to give a speech.",
+      "example": "Der Bürgermeister hat eine lange Rede gehalten.",
+      "exampleEn": "The mayor gave a long speech.",
+      "example2": "Sie musste bei der Hochzeit eine Rede halten.",
+      "example2En": "She had to give a speech at the wedding."
+    },
+    {
+      "de": "die Regel",
+      "en": "rule",
+      "pos": "noun",
+      "plural": "die Regeln",
+      "meanings": [
+        {
+          "en": "rule, regulation",
+          "de": "eine Vorschrift, die man befolgen muss"
+        }
+      ],
+      "rule": "Feminines Substantiv; 'in der Regel' = usually.",
+      "example": "Im Klassenzimmer gibt es klare Regeln.",
+      "exampleEn": "There are clear rules in the classroom.",
+      "example2": "In der Regel komme ich pünktlich zur Arbeit.",
+      "example2En": "As a rule, I come to work on time."
+    },
+    {
+      "de": "der Regen",
+      "en": "rain",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "rain",
+          "de": "Wasser, das vom Himmel fällt"
+        }
+      ],
+      "rule": "Maskulines Substantiv, meist unzählbar, kein Plural im Alltag.",
+      "example": "Heute regnet es, nimm einen Schirm gegen den Regen mit.",
+      "exampleEn": "It's raining today, take an umbrella against the rain.",
+      "example2": "Nach dem Regen kam die Sonne raus.",
+      "example2En": "After the rain the sun came out."
+    },
+    {
+      "de": "der Regenschirm",
+      "en": "umbrella",
+      "pos": "noun",
+      "plural": "die Regenschirme",
+      "meanings": [
+        {
+          "en": "umbrella",
+          "de": "ein Gegenstand, der vor Regen schützt"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Regen' + 'Schirm'; Artikel 'der' wie 'der Schirm'.",
+      "example": "Ich habe meinen Regenschirm zu Hause vergessen.",
+      "exampleEn": "I forgot my umbrella at home.",
+      "example2": "Nimm einen Regenschirm mit, es soll regnen.",
+      "example2En": "Take an umbrella, it's supposed to rain."
+    },
+    {
+      "de": "die Regie",
+      "en": "direction (film/theatre)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "direction (of a film, play, etc.)",
+          "de": "die künstlerische Leitung bei Film oder Theater"
+        }
+      ],
+      "rule": "Feminines Substantiv, meist ohne Plural; 'Regie führen' = to direct.",
+      "example": "Der Film läuft unter der Regie von Wim Wenders.",
+      "exampleEn": "The film is directed by Wim Wenders.",
+      "example2": "Sie führt Regie bei dem neuen Theaterstück.",
+      "example2En": "She is directing the new play."
+    },
+    {
+      "de": "reich",
+      "en": "rich",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "rich, wealthy",
+          "de": "mit viel Geld oder Besitz"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: reich, reicher, am reichsten.",
+      "example": "Seine Familie ist sehr reich.",
+      "exampleEn": "His family is very rich.",
+      "example2": "Diese Region ist reich an Bodenschätzen.",
+      "example2En": "This region is rich in natural resources."
+    },
+    {
+      "de": "reichlich",
+      "en": "plentiful, plenty of",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "plentiful, ample; generously",
+          "de": "in großer Menge, mehr als genug"
+        }
+      ],
+      "rule": "Adjektiv/Adverb; Komparation (reichlicher, am reichlichsten) ist möglich, wird aber selten genutzt.",
+      "example": "Wir hatten reichlich Zeit für die Prüfung.",
+      "exampleEn": "We had plenty of time for the exam.",
+      "example2": "Es gab reichlich Essen auf der Party.",
+      "example2En": "There was plenty of food at the party."
+    },
+    {
+      "de": "der Reichtum",
+      "en": "wealth",
+      "pos": "noun",
+      "plural": "die Reichtümer",
+      "meanings": [
+        {
+          "en": "wealth, riches",
+          "de": "großer Besitz an Geld oder Wertvollem"
+        }
+      ],
+      "rule": "Maskulines Substantiv; Plural 'die Reichtümer' meist im Sinn von 'Schätze'.",
+      "example": "Der Reichtum des Landes kommt vom Öl.",
+      "exampleEn": "The country's wealth comes from oil.",
+      "example2": "Er hat seinen Reichtum durch harte Arbeit aufgebaut.",
+      "example2En": "He built his wealth through hard work."
+    },
+    {
+      "de": "die Reihenfolge",
+      "en": "order, sequence",
+      "pos": "noun",
+      "plural": "die Reihenfolgen",
+      "meanings": [
+        {
+          "en": "order, sequence",
+          "de": "die Ordnung, in der etwas kommt"
+        }
+      ],
+      "rule": "Feminines Substantiv; 'in der richtigen Reihenfolge' = in the correct order.",
+      "example": "Bitte bringen Sie die Karten in die richtige Reihenfolge.",
+      "exampleEn": "Please put the cards in the correct order.",
+      "example2": "Die Reihenfolge der Namen ist alphabetisch.",
+      "example2En": "The order of the names is alphabetical."
+    },
+    {
+      "de": "die Reinigungsarbeiten",
+      "en": "cleaning work",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "cleaning work, cleaning operations",
+          "de": "Arbeiten, bei denen etwas sauber gemacht wird"
+        }
+      ],
+      "rule": "Nur im Plural gebräuchlich (Pluraletantum); zusammengesetzt aus 'Reinigung' + 'Arbeiten'.",
+      "example": "Wegen Reinigungsarbeiten ist das Schwimmbad heute geschlossen.",
+      "exampleEn": "Due to cleaning work, the swimming pool is closed today.",
+      "example2": "Die Reinigungsarbeiten im Bahnhof dauern bis Mittag.",
+      "example2En": "The cleaning work at the station lasts until noon."
+    },
+    {
+      "de": "die Reisemöglichkeit",
+      "en": "travel option",
+      "pos": "noun",
+      "plural": "die Reisemöglichkeiten",
+      "meanings": [
+        {
+          "en": "option or possibility for travel",
+          "de": "eine Möglichkeit, irgendwohin zu reisen"
+        }
+      ],
+      "rule": "Zusammensetzung aus 'Reise' + 'Möglichkeit'; Artikel 'die' wie 'die Möglichkeit'.",
+      "example": "Es gibt viele Reisemöglichkeiten nach Berlin.",
+      "exampleEn": "There are many travel options to Berlin.",
+      "example2": "Welche Reisemöglichkeit ist am günstigsten?",
+      "example2En": "Which travel option is the cheapest?"
+    },
+    {
+      "de": "reisen",
+      "en": "to travel",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to travel",
+          "de": "eine Reise machen"
+        }
+      ],
+      "rule": "Perfekt mit sein: ist gereist. Regelmäßig (schwach).",
+      "example": "Wir reisen im Sommer nach Italien.",
+      "exampleEn": "We are travelling to Italy in summer.",
+      "example2": "Er reist gern mit dem Zug.",
+      "example2En": "He likes to travel by train."
+    },
+    {
+      "de": "der Reisepass",
+      "en": "passport",
+      "pos": "noun",
+      "plural": "die Reisepässe",
+      "meanings": [
+        {
+          "en": "passport",
+          "de": "amtliches Dokument für Auslandsreisen"
+        }
+      ],
+      "rule": "Maskulin; zusammengesetzt aus 'Reise' + 'Pass'. Umlaut im Plural: Pässe.",
+      "example": "Hast du deinen Reisepass dabei?",
+      "exampleEn": "Do you have your passport with you?",
+      "example2": "Mein Reisepass ist noch drei Jahre gültig.",
+      "example2En": "My passport is still valid for three years."
+    },
+    {
+      "de": "das Reiseziel",
+      "en": "travel destination",
+      "pos": "noun",
+      "plural": "die Reiseziele",
+      "meanings": [
+        {
+          "en": "destination (of a trip)",
+          "de": "Ort, den man bereisen will"
+        }
+      ],
+      "rule": "Neutrum; Kompositum aus 'Reise' + 'Ziel'.",
+      "example": "Unser Reiseziel ist Spanien.",
+      "exampleEn": "Our travel destination is Spain.",
+      "example2": "Welches Reiseziel gefällt dir am besten?",
+      "example2En": "Which destination do you like best?"
+    },
+    {
+      "de": "reizen",
+      "en": "to irritate; to stimulate/tempt",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to irritate (skin, eyes)",
+          "de": "unangenehm reagieren lassen"
+        },
+        {
+          "en": "to tempt, appeal to",
+          "de": "Lust machen auf etwas"
+        }
+      ],
+      "rule": "Regelmäßig (schwach): reizt, reizte, hat gereizt.",
+      "example": "Der Rauch reizt meine Augen.",
+      "exampleEn": "The smoke irritates my eyes.",
+      "example2": "Die Idee reizt mich sehr.",
+      "example2En": "The idea really appeals to me."
+    },
+    {
+      "de": "die Religion",
+      "en": "religion",
+      "pos": "noun",
+      "plural": "die Religionen",
+      "meanings": [
+        {
+          "en": "religion",
+          "de": "Glaube an eine höhere Macht"
+        }
+      ],
+      "rule": "Feminin; Fremdwort aus dem Lateinischen.",
+      "example": "In der Schule haben wir Religion als Fach.",
+      "exampleEn": "At school we have religion as a subject.",
+      "example2": "Welche Religion hat er?",
+      "example2En": "What is his religion?"
+    }
+  ]
+}

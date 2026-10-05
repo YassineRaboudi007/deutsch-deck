@@ -1,0 +1,889 @@
+{
+  "id": "a2-20",
+  "title": "A2 · V–W (20)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "der Versicherungstarif",
+      "en": "insurance rate/plan",
+      "pos": "noun",
+      "plural": "die Versicherungstarife",
+      "meanings": [
+        {
+          "en": "pricing plan of an insurance policy",
+          "de": "Preisplan einer Versicherung"
+        }
+      ],
+      "rule": "maskulin: der Versicherungstarif",
+      "example": "Wir vergleichen verschiedene Versicherungstarife.",
+      "exampleEn": "We are comparing different insurance rates.",
+      "example2": "Dieser Versicherungstarif ist günstiger.",
+      "example2En": "This insurance plan is cheaper."
+    },
+    {
+      "de": "die Verspannung",
+      "en": "tension (muscle)",
+      "pos": "noun",
+      "plural": "die Verspannungen",
+      "meanings": [
+        {
+          "en": "muscle tension/stiffness",
+          "de": "verhärtete Muskeln"
+        }
+      ],
+      "rule": "feminin: die Verspannung",
+      "example": "Ich habe Verspannungen im Rücken.",
+      "exampleEn": "I have tension in my back.",
+      "example2": "Die Massage hilft gegen Verspannungen.",
+      "example2En": "The massage helps against muscle tension."
+    },
+    {
+      "de": "verspätet",
+      "en": "late; delayed",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "delayed, arriving later than planned",
+          "de": "später als geplant"
+        }
+      ],
+      "rule": "regelmäßig: verspätet, verspäteter, am verspätetsten; oft mit Zügen/Flügen",
+      "example": "Der Zug ist verspätet angekommen.",
+      "exampleEn": "The train arrived late.",
+      "example2": "Wegen des Nebels gab es einen verspäteten Abflug.",
+      "example2En": "Due to the fog, there was a delayed departure."
+    },
+    {
+      "de": "die Verspätung",
+      "en": "delay",
+      "pos": "noun",
+      "plural": "die Verspätungen",
+      "meanings": [
+        {
+          "en": "delay (of transport)",
+          "de": "zu spätes Ankommen"
+        }
+      ],
+      "rule": "feminin: die Verspätung",
+      "example": "Der Bus hat zehn Minuten Verspätung.",
+      "exampleEn": "The bus is ten minutes late.",
+      "example2": "Entschuldigung für die Verspätung.",
+      "example2En": "Sorry for the delay."
+    },
+    {
+      "de": "der Versuch",
+      "en": "attempt; experiment",
+      "pos": "noun",
+      "plural": "die Versuche",
+      "meanings": [
+        {
+          "en": "an attempt or try",
+          "de": "das Probieren"
+        },
+        {
+          "en": "a scientific experiment",
+          "de": "wissenschaftliches Experiment"
+        }
+      ],
+      "rule": "maskulin: der Versuch",
+      "example": "Das war mein erster Versuch, Deutsch zu sprechen.",
+      "exampleEn": "That was my first attempt to speak German.",
+      "example2": "Die Schüler machen einen Versuch im Chemieunterricht.",
+      "example2En": "The students do an experiment in chemistry class."
+    },
+    {
+      "de": "verteilen",
+      "en": "to distribute",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to hand out/distribute something",
+          "de": "etwas an mehrere Personen geben"
+        }
+      ],
+      "rule": "regelmäßig: verteilt, verteilte, hat verteilt",
+      "example": "Der Lehrer verteilt die Arbeitsblätter.",
+      "exampleEn": "The teacher distributes the worksheets.",
+      "example2": "Wir haben die Aufgaben im Team verteilt.",
+      "example2En": "We distributed the tasks within the team."
+    },
+    {
+      "de": "der Vertrieb",
+      "en": "sales; distribution",
+      "pos": "noun",
+      "plural": "die Vertriebe",
+      "meanings": [
+        {
+          "en": "sales department or distribution of goods",
+          "de": "Verkauf und Verteilung von Waren"
+        }
+      ],
+      "rule": "maskulin: der Vertrieb; oft als Firmenabteilung",
+      "example": "Sie arbeitet im Vertrieb einer großen Firma.",
+      "exampleEn": "She works in sales at a large company.",
+      "example2": "Der Vertrieb der neuen Produkte läuft gut.",
+      "example2En": "The distribution of the new products is going well."
+    },
+    {
+      "de": "verwenden",
+      "en": "to use",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to use something",
+          "de": "etwas benutzen"
+        }
+      ],
+      "rule": "regelmäßig/unregelmäßig: verwendet, verwendete (auch verwandte), hat verwendet (auch verwandt)",
+      "example": "Ich verwende diese App jeden Tag.",
+      "exampleEn": "I use this app every day.",
+      "example2": "Welches Material hast du verwendet?",
+      "example2En": "Which material did you use?"
+    },
+    {
+      "de": "der Verwendungszweck",
+      "en": "purpose of use",
+      "pos": "noun",
+      "plural": "die Verwendungszwecke",
+      "meanings": [
+        {
+          "en": "the purpose for which something is used",
+          "de": "Grund, warum man etwas benutzt"
+        }
+      ],
+      "rule": "maskulin: der Verwendungszweck; oft bei Überweisungen",
+      "example": "Bitte geben Sie den Verwendungszweck bei der Überweisung an.",
+      "exampleEn": "Please state the purpose when making the transfer.",
+      "example2": "Der Verwendungszweck des Geldes war unklar.",
+      "example2En": "The purpose of the money was unclear."
+    },
+    {
+      "de": "der Vokabeltest",
+      "en": "vocabulary test",
+      "pos": "noun",
+      "plural": "die Vokabeltests",
+      "meanings": [
+        {
+          "en": "a test of vocabulary words",
+          "de": "Test über Wörter"
+        }
+      ],
+      "rule": "maskulin: der Vokabeltest",
+      "example": "Morgen schreiben wir einen Vokabeltest.",
+      "exampleEn": "Tomorrow we're writing a vocabulary test.",
+      "example2": "Ich habe den Vokabeltest gut bestanden.",
+      "example2En": "I passed the vocabulary test well."
+    },
+    {
+      "de": "der Volleyball",
+      "en": "volleyball (sport/ball)",
+      "pos": "noun",
+      "plural": "die Volleybälle",
+      "meanings": [
+        {
+          "en": "the sport of volleyball",
+          "de": "Ballsport"
+        },
+        {
+          "en": "the ball used in volleyball",
+          "de": "der Ball für dieses Spiel"
+        }
+      ],
+      "rule": "maskulin: der Volleyball",
+      "example": "Wir spielen jeden Freitag Volleyball.",
+      "exampleEn": "We play volleyball every Friday.",
+      "example2": "Kannst du mir bitte den Volleyball zuwerfen?",
+      "example2En": "Can you please throw me the volleyball?"
+    },
+    {
+      "de": "das Volleyballspiel",
+      "en": "volleyball game/match",
+      "pos": "noun",
+      "plural": "die Volleyballspiele",
+      "meanings": [
+        {
+          "en": "a match of volleyball",
+          "de": "ein Spiel im Volleyball"
+        }
+      ],
+      "rule": "neutral: das Volleyballspiel",
+      "example": "Das Volleyballspiel hat zwei Stunden gedauert.",
+      "exampleEn": "The volleyball match lasted two hours.",
+      "example2": "Wir haben das Volleyballspiel knapp verloren.",
+      "example2En": "We narrowly lost the volleyball game."
+    },
+    {
+      "de": "vollständig",
+      "en": "complete",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "complete, whole, with nothing missing",
+          "de": "ganz, ohne dass etwas fehlt"
+        }
+      ],
+      "rule": "regelmäßig: vollständig, vollständiger, am vollständigsten",
+      "example": "Bitte füllen Sie das Formular vollständig aus.",
+      "exampleEn": "Please fill out the form completely.",
+      "example2": "Die Liste ist noch nicht vollständig.",
+      "example2En": "The list is not yet complete."
+    },
+    {
+      "de": "die Vollzeit",
+      "en": "full-time",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "full-time work",
+          "de": "volle Arbeitszeit"
+        }
+      ],
+      "rule": "feminin: die Vollzeit; oft in Vollzeit arbeiten",
+      "example": "Ich arbeite Vollzeit in einem Büro.",
+      "exampleEn": "I work full-time in an office.",
+      "example2": "Die Stelle wird in Vollzeit angeboten.",
+      "example2En": "The position is offered full-time."
+    },
+    {
+      "de": "die Vollzeitstelle",
+      "en": "full-time position",
+      "pos": "noun",
+      "plural": "die Vollzeitstellen",
+      "meanings": [
+        {
+          "en": "a job with full working hours (as opposed to part-time)",
+          "de": "eine Arbeitsstelle mit voller Arbeitszeit"
+        }
+      ],
+      "rule": "Compound noun: voll + Zeit + Stelle; gender from die Stelle. Opposite: die Teilzeitstelle.",
+      "example": "Ich suche eine Vollzeitstelle als Verkäuferin.",
+      "exampleEn": "I'm looking for a full-time position as a salesperson.",
+      "example2": "Nach dem Studium hat er eine Vollzeitstelle gefunden.",
+      "example2En": "After his studies he found a full-time job."
+    },
+    {
+      "de": "die Voraussetzung",
+      "en": "requirement, precondition",
+      "pos": "noun",
+      "plural": "die Voraussetzungen",
+      "meanings": [
+        {
+          "en": "condition that must be fulfilled",
+          "de": "Bedingung, die erfüllt sein muss"
+        }
+      ],
+      "rule": "Often used with 'für' + Akkusativ: die Voraussetzung für einen Job.",
+      "example": "Gute Deutschkenntnisse sind eine Voraussetzung für die Stelle.",
+      "exampleEn": "Good German skills are a requirement for the job.",
+      "example2": "Welche Voraussetzungen muss ich für den Kurs erfüllen?",
+      "example2En": "What requirements do I have to meet for the course?"
+    },
+    {
+      "de": "vorbeikommen",
+      "en": "to come by, to drop in",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to visit someone briefly / pass by",
+          "de": "jemanden kurz besuchen, an etwas vorbeigehen"
+        }
+      ],
+      "rule": "Trennbar: kommt vorbei, kam vorbei, ist vorbeigekommen. Often with 'bei' + Dativ.",
+      "example": "Kannst du heute Abend bei mir vorbeikommen?",
+      "exampleEn": "Can you come by my place tonight?",
+      "example2": "Wir sind am Rathaus vorbeigekommen.",
+      "example2En": "We passed by the town hall."
+    },
+    {
+      "de": "vorbereiten",
+      "en": "to prepare",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to get something/someone ready",
+          "de": "etwas für später fertig machen"
+        },
+        {
+          "en": "to prepare oneself (reflexive)",
+          "de": "sich auf etwas vorbereiten"
+        }
+      ],
+      "rule": "Trennbar: bereitet vor, bereitete vor, hat vorbereitet. Reflexiv mit 'sich' + auf + Akkusativ möglich.",
+      "example": "Ich bereite das Abendessen vor.",
+      "exampleEn": "I'm preparing dinner.",
+      "example2": "Sie bereitet sich auf die Prüfung vor.",
+      "example2En": "She is preparing for the exam."
+    },
+    {
+      "de": "die Vorbereitung",
+      "en": "preparation",
+      "pos": "noun",
+      "plural": "die Vorbereitungen",
+      "meanings": [
+        {
+          "en": "the act of preparing",
+          "de": "das Vorbereiten"
+        }
+      ],
+      "rule": "Oft mit 'für' oder 'auf' + Akkusativ: die Vorbereitung auf die Prüfung.",
+      "example": "Die Vorbereitung auf das Gespräch war schwierig.",
+      "exampleEn": "The preparation for the interview was difficult.",
+      "example2": "Wir treffen letzte Vorbereitungen für die Party.",
+      "example2En": "We're making last preparations for the party."
+    },
+    {
+      "de": "vorhanden",
+      "en": "available, existing",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "present, in existence at a place",
+          "de": "da, verfügbar"
+        }
+      ],
+      "rule": "No comparison typically used in this meaning; often with sein: vorhanden sein.",
+      "example": "Parkplätze sind leider nicht vorhanden.",
+      "exampleEn": "Unfortunately there are no parking spaces available.",
+      "example2": "Im Büro ist ein Drucker vorhanden.",
+      "example2En": "There is a printer available in the office."
+    },
+    {
+      "de": "die Vorkenntnisse",
+      "en": "prior knowledge, prerequisite knowledge",
+      "pos": "noun",
+      "plural": "die Vorkenntnisse",
+      "meanings": [
+        {
+          "en": "knowledge or skills one already has before starting something",
+          "de": "Kenntnisse, die man schon vorher hat"
+        }
+      ],
+      "rule": "Meist nur im Plural verwendet: Vorkenntnisse haben/besitzen. (Singular 'die Vorkenntnis' ist selten.)",
+      "example": "Für den Kurs sind keine Vorkenntnisse nötig.",
+      "exampleEn": "No prior knowledge is needed for the course.",
+      "example2": "Er hat gute Vorkenntnisse in Englisch.",
+      "example2En": "He has good prior knowledge of English."
+    },
+    {
+      "de": "die Vorlage",
+      "en": "template, form; presentation (document)",
+      "pos": "noun",
+      "plural": "die Vorlagen",
+      "meanings": [
+        {
+          "en": "a template or model to copy from",
+          "de": "ein Muster zum Nachmachen"
+        },
+        {
+          "en": "the act of presenting a document",
+          "de": "das Zeigen/Vorlegen eines Dokuments"
+        }
+      ],
+      "rule": "Von 'vorlegen' abgeleitet. Oft: gegen Vorlage des Ausweises.",
+      "example": "Ich nutze eine Vorlage für den Lebenslauf.",
+      "exampleEn": "I'm using a template for the résumé.",
+      "example2": "Der Eintritt ist nur gegen Vorlage der Karte möglich.",
+      "example2En": "Entry is only possible upon presentation of the ticket."
+    },
+    {
+      "de": "die Vorlesung",
+      "en": "lecture (university)",
+      "pos": "noun",
+      "plural": "die Vorlesungen",
+      "meanings": [
+        {
+          "en": "a university lecture",
+          "de": "ein Unterricht an der Universität"
+        }
+      ],
+      "rule": "Typisch mit 'besuchen' oder 'halten': eine Vorlesung besuchen.",
+      "example": "Die Vorlesung beginnt um neun Uhr.",
+      "exampleEn": "The lecture starts at nine o'clock.",
+      "example2": "Ich besuche heute zwei Vorlesungen.",
+      "example2En": "I'm attending two lectures today."
+    },
+    {
+      "de": "der Vorschlag",
+      "en": "suggestion, proposal",
+      "pos": "noun",
+      "plural": "die Vorschläge",
+      "meanings": [
+        {
+          "en": "an idea proposed to others",
+          "de": "eine Idee, die man anbietet"
+        }
+      ],
+      "rule": "Von 'vorschlagen' abgeleitet. Kollokation: einen Vorschlag machen.",
+      "example": "Das ist ein guter Vorschlag.",
+      "exampleEn": "That's a good suggestion.",
+      "example2": "Ich mache dir einen Vorschlag für den Urlaub.",
+      "example2En": "I'll make you a suggestion for the vacation."
+    },
+    {
+      "de": "die Vorschrift",
+      "en": "regulation, rule",
+      "pos": "noun",
+      "plural": "die Vorschriften",
+      "meanings": [
+        {
+          "en": "an official rule that must be followed",
+          "de": "eine offizielle Regel"
+        }
+      ],
+      "rule": "Oft im Plural: Vorschriften einhalten/befolgen.",
+      "example": "Hier gelten strenge Vorschriften.",
+      "exampleEn": "Strict regulations apply here.",
+      "example2": "Man muss die Vorschriften der Firma beachten.",
+      "example2En": "You have to follow the company's rules."
+    },
+    {
+      "de": "die Vorsicht",
+      "en": "caution, care",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "careful behavior to avoid danger",
+          "de": "vorsichtiges Verhalten"
+        }
+      ],
+      "rule": "Uncountable; often as interjection: Vorsicht! Also: mit Vorsicht.",
+      "example": "Vorsicht, die Straße ist glatt!",
+      "exampleEn": "Careful, the road is slippery!",
+      "example2": "Bitte mit Vorsicht behandeln.",
+      "example2En": "Please handle with care."
+    },
+    {
+      "de": "das Vorstellungsgespräch",
+      "en": "job interview",
+      "pos": "noun",
+      "plural": "die Vorstellungsgespräche",
+      "meanings": [
+        {
+          "en": "an interview for a job application",
+          "de": "ein Gespräch mit dem Arbeitgeber vor der Einstellung"
+        }
+      ],
+      "rule": "Kollokation: ein Vorstellungsgespräch haben/führen.",
+      "example": "Morgen habe ich ein Vorstellungsgespräch.",
+      "exampleEn": "Tomorrow I have a job interview.",
+      "example2": "Sie hat sich gut auf das Vorstellungsgespräch vorbereitet.",
+      "example2En": "She prepared well for the job interview."
+    },
+    {
+      "de": "der Vorteil",
+      "en": "advantage",
+      "pos": "noun",
+      "plural": "die Vorteile",
+      "meanings": [
+        {
+          "en": "a benefit or positive aspect",
+          "de": "ein positiver Aspekt"
+        }
+      ],
+      "rule": "Gegenteil: der Nachteil. Kollokation: Vorteile und Nachteile.",
+      "example": "Ein Vorteil der Stelle ist das gute Gehalt.",
+      "exampleEn": "An advantage of the job is the good salary.",
+      "example2": "Welche Vorteile hat das Fahrrad gegenüber dem Auto?",
+      "example2En": "What advantages does the bike have over the car?"
+    },
+    {
+      "de": "der Vortrag",
+      "en": "talk, lecture, presentation",
+      "pos": "noun",
+      "plural": "die Vorträge",
+      "meanings": [
+        {
+          "en": "a spoken presentation on a topic",
+          "de": "eine Rede über ein Thema"
+        }
+      ],
+      "rule": "Kollokation: einen Vortrag halten.",
+      "example": "Der Professor hält einen Vortrag über Klimawandel.",
+      "exampleEn": "The professor is giving a talk on climate change.",
+      "example2": "Ich habe den Vortrag sehr interessant gefunden.",
+      "example2En": "I found the presentation very interesting."
+    },
+    {
+      "de": "während",
+      "en": "during; while",
+      "pos": "preposition",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "during (preposition + Genitiv)",
+          "de": "innerhalb eines Zeitraums"
+        },
+        {
+          "en": "while (conjunction, contrast)",
+          "de": "in der Zeit, in der; im Gegensatz dazu"
+        }
+      ],
+      "rule": "Als Präposition + Genitiv: während des Tages. Als Konjunktion leitet Nebensatz ein: Während ich arbeite, schläft er.",
+      "example": "Während der Pause trinke ich einen Kaffee.",
+      "exampleEn": "During the break I drink a coffee.",
+      "example2": "Während sie liest, hört er Musik.",
+      "example2En": "While she reads, he listens to music."
+    },
+    {
+      "de": "wandern",
+      "en": "to hike",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to walk long distances in nature for leisure",
+          "de": "längere Strecken in der Natur zu Fuß gehen"
+        }
+      ],
+      "rule": "Regelmäßig; Perfekt mit 'sein': ist gewandert (Bewegung/Ortswechsel).",
+      "example": "Am Wochenende wandern wir in den Bergen.",
+      "exampleEn": "On the weekend we're hiking in the mountains.",
+      "example2": "Wir sind sechs Stunden gewandert.",
+      "example2En": "We hiked for six hours."
+    },
+    {
+      "de": "der Wanderschuh",
+      "en": "hiking boot",
+      "pos": "noun",
+      "plural": "die Wanderschuhe",
+      "meanings": [
+        {
+          "en": "a sturdy boot for hiking",
+          "de": "ein fester Schuh zum Wandern"
+        }
+      ],
+      "rule": "Kompositum: wandern + Schuh; meist im Plural verwendet.",
+      "example": "Ich brauche neue Wanderschuhe für die Tour.",
+      "exampleEn": "I need new hiking boots for the tour.",
+      "example2": "Meine Wanderschuhe sind sehr bequem.",
+      "example2En": "My hiking boots are very comfortable."
+    },
+    {
+      "de": "die Wärmflasche",
+      "en": "hot water bottle",
+      "pos": "noun",
+      "plural": "die Wärmflaschen",
+      "meanings": [
+        {
+          "en": "hot water bottle",
+          "de": "Gummiflasche mit warmem Wasser gegen Kälte/Schmerzen"
+        }
+      ],
+      "rule": "Feminine noun (die), compound of Wärme + Flasche.",
+      "example": "Bei Bauchschmerzen legt sie eine Wärmflasche auf den Bauch.",
+      "exampleEn": "When she has a stomach ache, she puts a hot water bottle on her belly.",
+      "example2": "Im Winter nehme ich eine Wärmflasche mit ins Bett.",
+      "example2En": "In winter I take a hot water bottle to bed."
+    },
+    {
+      "de": "die Webseite",
+      "en": "website",
+      "pos": "noun",
+      "plural": "die Webseiten",
+      "meanings": [
+        {
+          "en": "website / web page",
+          "de": "Seite im Internet"
+        }
+      ],
+      "rule": "Feminine noun (die); also written \"Website\".",
+      "example": "Die Webseite der Firma ist sehr informativ.",
+      "exampleEn": "The company's website is very informative.",
+      "example2": "Ich habe die Öffnungszeiten auf der Webseite gefunden.",
+      "example2En": "I found the opening hours on the website."
+    },
+    {
+      "de": "der Wecker",
+      "en": "alarm clock",
+      "pos": "noun",
+      "plural": "die Wecker",
+      "meanings": [
+        {
+          "en": "alarm clock",
+          "de": "Uhr, die klingelt, um jemanden zu wecken"
+        }
+      ],
+      "rule": "Masculine noun (der); from wecken (to wake).",
+      "example": "Mein Wecker klingelt jeden Morgen um sechs Uhr.",
+      "exampleEn": "My alarm clock rings every morning at six.",
+      "example2": "Ich habe den Wecker auf halb sieben gestellt.",
+      "example2En": "I set the alarm clock for half past six."
+    },
+    {
+      "de": "wegen",
+      "en": "because of",
+      "pos": "preposition",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "because of, due to",
+          "de": "aus einem bestimmten Grund"
+        }
+      ],
+      "rule": "Governs Genitiv (formal) or Dativ (colloquial): \"wegen des Regens\" / \"wegen dem Regen\".",
+      "example": "Wegen des schlechten Wetters bleiben wir zu Hause.",
+      "exampleEn": "Because of the bad weather, we're staying home.",
+      "example2": "Er kam wegen der Prüfung zu spät.",
+      "example2En": "He came late because of the exam."
+    },
+    {
+      "de": "weggehen",
+      "en": "to leave, to go out",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to leave / go away",
+          "de": "einen Ort verlassen"
+        },
+        {
+          "en": "to go out (socially)",
+          "de": "ausgehen, z. B. abends"
+        }
+      ],
+      "rule": "Trennbar: geht weg, ging weg, ist weggegangen. Perfekt mit \"sein\".",
+      "example": "Er ist schon vor einer Stunde weggegangen.",
+      "exampleEn": "He already left an hour ago.",
+      "example2": "Am Samstag gehen wir mit Freunden weg.",
+      "example2En": "On Saturday we're going out with friends."
+    },
+    {
+      "de": "weglaufen",
+      "en": "to run away",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to run away",
+          "de": "schnell weggehen, fliehen"
+        }
+      ],
+      "rule": "Trennbar und unregelmäßig: läuft weg, lief weg, ist weggelaufen. Perfekt mit \"sein\".",
+      "example": "Der Hund ist vor dem lauten Feuerwerk weggelaufen.",
+      "exampleEn": "The dog ran away from the loud fireworks.",
+      "example2": "Das Kind lief einfach weg, als es die Spritze sah.",
+      "example2En": "The child simply ran away when it saw the injection."
+    },
+    {
+      "de": "weiblich",
+      "en": "female",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "female, feminine",
+          "de": "das Geschlecht betreffend, nicht männlich"
+        }
+      ],
+      "rule": "No irregular comparison; regular: weiblich, weiblicher, am weiblichsten.",
+      "example": "Auf dem Formular muss man \"männlich\" oder \"weiblich\" ankreuzen.",
+      "exampleEn": "On the form you have to tick \"male\" or \"female\".",
+      "example2": "Die weiblichen Angestellten arbeiten meist im Büro.",
+      "example2En": "The female employees mostly work in the office."
+    },
+    {
+      "de": "weil",
+      "en": "because",
+      "pos": "conjunction",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "because",
+          "de": "gibt einen Grund an"
+        }
+      ],
+      "rule": "Subordinating conjunction: verb moves to the end of the clause.",
+      "example": "Ich bleibe zu Hause, weil ich krank bin.",
+      "exampleEn": "I'm staying home because I'm sick.",
+      "example2": "Sie lernt Deutsch, weil sie in Deutschland arbeiten möchte.",
+      "example2En": "She is learning German because she wants to work in Germany."
+    },
+    {
+      "de": "die Weiterbildung",
+      "en": "further training, continuing education",
+      "pos": "noun",
+      "plural": "die Weiterbildungen",
+      "meanings": [
+        {
+          "en": "further/continuing education, professional training",
+          "de": "Kurs oder Training, um neue Kenntnisse zu erwerben"
+        }
+      ],
+      "rule": "Feminine noun (die); from weiterbilden (sich).",
+      "example": "Meine Firma bezahlt eine Weiterbildung im Bereich Computer.",
+      "exampleEn": "My company pays for further training in computing.",
+      "example2": "Er macht eine Weiterbildung, um Chef zu werden.",
+      "example2En": "He's doing further training to become a manager."
+    },
+    {
+      "de": "weiterhin",
+      "en": "still, continuing",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "still, continuing to (do sth)",
+          "de": "auch in Zukunft, wie bisher"
+        }
+      ],
+      "rule": "No inflection; often with a verb to express continuation, e.g. \"weiterhin arbeiten\".",
+      "example": "Ich wünsche dir weiterhin viel Erfolg.",
+      "exampleEn": "I wish you continued success.",
+      "example2": "Sie wohnt weiterhin in derselben Stadt.",
+      "example2En": "She still lives in the same city."
+    },
+    {
+      "de": "die Welt",
+      "en": "world",
+      "pos": "noun",
+      "plural": "die Welten",
+      "meanings": [
+        {
+          "en": "the world, earth",
+          "de": "die ganze Erde; alle Länder und Menschen"
+        }
+      ],
+      "rule": "Feminine noun (die); often used in the singular without plural in everyday speech.",
+      "example": "Er möchte die ganze Welt bereisen.",
+      "exampleEn": "He wants to travel the whole world.",
+      "example2": "Diese Nachricht kam aus aller Welt.",
+      "example2En": "This news came from all over the world."
+    },
+    {
+      "de": "wenig",
+      "en": "little, few",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "little (amount)",
+          "de": "eine kleine Menge"
+        },
+        {
+          "en": "few (number)",
+          "de": "eine kleine Anzahl"
+        }
+      ],
+      "rule": "Regular comparison: wenig, weniger, am wenigsten. Uninflected before uncountable nouns (\"wenig Zeit\"), but inflects before plural countable nouns (\"wenige Leute\").",
+      "example": "Ich habe heute wenig Zeit.",
+      "exampleEn": "I have little time today.",
+      "example2": "Es waren nur wenige Leute im Raum.",
+      "example2En": "There were only few people in the room."
+    },
+    {
+      "de": "die Werbeagentur",
+      "en": "advertising agency",
+      "pos": "noun",
+      "plural": "die Werbeagenturen",
+      "meanings": [
+        {
+          "en": "advertising agency",
+          "de": "Firma, die Werbung für andere Firmen macht"
+        }
+      ],
+      "rule": "Feminine noun (die); compound of Werbung + Agentur.",
+      "example": "Sie arbeitet seit zwei Jahren bei einer Werbeagentur.",
+      "exampleEn": "She has worked at an advertising agency for two years.",
+      "example2": "Die Werbeagentur hat eine neue Kampagne entwickelt.",
+      "example2En": "The advertising agency developed a new campaign."
+    },
+    {
+      "de": "der Werbeflyer",
+      "en": "advertising flyer",
+      "pos": "noun",
+      "plural": "die Werbeflyer",
+      "meanings": [
+        {
+          "en": "promotional flyer/leaflet",
+          "de": "kleines Werbeblatt mit Informationen"
+        }
+      ],
+      "rule": "Masculine noun (der); plural unchanged (like Flyer).",
+      "example": "Vor dem Geschäft verteilte jemand Werbeflyer.",
+      "exampleEn": "Someone was handing out advertising flyers in front of the shop.",
+      "example2": "Ich habe den Werbeflyer gleich weggeworfen.",
+      "example2En": "I threw the advertising flyer away right away."
+    },
+    {
+      "de": "der Werbetexter / die Werbetexterin",
+      "en": "copywriter",
+      "pos": "noun",
+      "plural": "die Werbetexter / die Werbetexterinnen",
+      "meanings": [
+        {
+          "en": "copywriter (person who writes advertising texts)",
+          "de": "Person, die Texte für Werbung schreibt"
+        }
+      ],
+      "rule": "Masculine der Werbetexter, feminine die Werbetexterin (+in).",
+      "example": "Als Werbetexter schreibt er kurze, originelle Slogans.",
+      "exampleEn": "As a copywriter, he writes short, original slogans.",
+      "example2": "Die Werbetexterin hat den Text für die neue Anzeige geschrieben.",
+      "example2En": "The copywriter wrote the text for the new ad."
+    },
+    {
+      "de": "werfen",
+      "en": "to throw",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to throw",
+          "de": "etwas mit der Hand durch die Luft schleudern"
+        }
+      ],
+      "rule": "Unregelmäßig: wirft, warf, hat geworfen.",
+      "example": "Der Junge wirft den Ball ins Tor.",
+      "exampleEn": "The boy throws the ball into the goal.",
+      "example2": "Sie warf die alte Zeitung in den Müll.",
+      "example2En": "She threw the old newspaper in the trash."
+    },
+    {
+      "de": "die Wettervorhersage",
+      "en": "weather forecast",
+      "pos": "noun",
+      "plural": "die Wettervorhersagen",
+      "meanings": [
+        {
+          "en": "weather forecast",
+          "de": "Voraussage, wie das Wetter wird"
+        }
+      ],
+      "rule": "Feminine noun (die); compound of Wetter + Vorhersage.",
+      "example": "Laut Wettervorhersage regnet es morgen.",
+      "exampleEn": "According to the weather forecast, it will rain tomorrow.",
+      "example2": "Ich schaue jeden Abend die Wettervorhersage im Fernsehen.",
+      "example2En": "I watch the weather forecast on TV every evening."
+    },
+    {
+      "de": "wiederholen",
+      "en": "to repeat",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to repeat (say/do again)",
+          "de": "noch einmal sagen oder tun"
+        },
+        {
+          "en": "to review/revise (e.g. for a test)",
+          "de": "Lernstoff noch einmal durchgehen"
+        }
+      ],
+      "rule": "Untrennbar (Betonung auf -hol-): wiederholt, wiederholte, hat wiederholt. Kein \"ge-\" im Partizip.",
+      "example": "Können Sie bitte den Satz wiederholen?",
+      "exampleEn": "Could you please repeat the sentence?",
+      "example2": "Vor der Prüfung wiederholt sie den ganzen Wortschatz.",
+      "example2En": "Before the exam she reviews all the vocabulary."
+    }
+  ]
+}

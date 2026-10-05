@@ -1,0 +1,905 @@
+{
+  "id": "a2-16",
+  "title": "A2 · S (16)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "die Schwiegereltern",
+      "en": "parents-in-law",
+      "pos": "noun",
+      "plural": "die Schwiegereltern",
+      "meanings": [
+        {
+          "en": "parents-in-law",
+          "de": "die Eltern des Ehepartners"
+        }
+      ],
+      "rule": "Nur im Plural gebräuchlich (Vater/Mutter des Ehepartners); vgl. Schwiegervater, Schwiegermutter.",
+      "example": "Am Sonntag essen wir bei meinen Schwiegereltern.",
+      "exampleEn": "On Sunday we're eating at my in-laws' place.",
+      "example2": "Meine Schwiegereltern wohnen in Hamburg.",
+      "example2En": "My parents-in-law live in Hamburg."
+    },
+    {
+      "de": "schwierig",
+      "en": "difficult",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "difficult, hard",
+          "de": "nicht einfach"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: schwierig, schwieriger, am schwierigsten.",
+      "example": "Die Prüfung war sehr schwierig.",
+      "exampleEn": "The exam was very difficult.",
+      "example2": "Er ist im Moment ein schwieriger Kollege.",
+      "example2En": "He's a difficult colleague right now."
+    },
+    {
+      "de": "segeln",
+      "en": "to sail",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to sail",
+          "de": "mit einem Segelboot fahren"
+        }
+      ],
+      "rule": "Regelmäßig; Perfekt meist mit \"sein\" bei Bewegung: ist gesegelt (mit \"haben\" wenn die Tätigkeit selbst betont wird).",
+      "example": "Wir segeln jedes Wochenende auf dem See.",
+      "exampleEn": "We go sailing on the lake every weekend.",
+      "example2": "Letzten Sommer sind wir nach Dänemark gesegelt.",
+      "example2En": "Last summer we sailed to Denmark."
+    },
+    {
+      "de": "seit",
+      "en": "since; for (time)",
+      "pos": "preposition",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "since (a point in time)",
+          "de": "ab einem bestimmten Zeitpunkt"
+        },
+        {
+          "en": "for (a duration)",
+          "de": "eine Zeitdauer lang, bis jetzt"
+        }
+      ],
+      "rule": "+ Dativ; temporale Präposition, oft mit Präsens für andauernde Handlungen: \"Ich wohne seit 2020 hier.\"",
+      "example": "Ich lerne seit drei Jahren Deutsch.",
+      "exampleEn": "I have been learning German for three years.",
+      "example2": "Seit dem Unfall fährt sie kein Auto mehr.",
+      "example2En": "Since the accident she hasn't driven a car anymore."
+    },
+    {
+      "de": "das Sekretariat",
+      "en": "office (administrative); secretariat",
+      "pos": "noun",
+      "plural": "die Sekretariate",
+      "meanings": [
+        {
+          "en": "administrative office",
+          "de": "Büro für Verwaltungsaufgaben, z. B. in Schule oder Firma"
+        }
+      ],
+      "rule": "Neutrum; typisch in Schule/Universität/Firma.",
+      "example": "Das Zeugnis bekommst du im Sekretariat.",
+      "exampleEn": "You get the certificate at the office.",
+      "example2": "Das Sekretariat ist von 8 bis 12 Uhr geöffnet.",
+      "example2En": "The office is open from 8 to 12."
+    },
+    {
+      "de": "selber",
+      "en": "myself/yourself/etc. (oneself)",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "oneself, personally (emphasizing the subject)",
+          "de": "ich/du/er usw. selbst, ohne fremde Hilfe"
+        }
+      ],
+      "rule": "Umgangssprachliche Variante von \"selbst\"; unveränderlich, steht meist nach dem Bezugswort.",
+      "example": "Das habe ich selber gemacht.",
+      "exampleEn": "I made that myself.",
+      "example2": "Kannst du das nicht selber tragen?",
+      "example2En": "Can't you carry that yourself?"
+    },
+    {
+      "de": "selbst",
+      "en": "oneself; even",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "oneself, personally",
+          "de": "ohne fremde Hilfe, persönlich"
+        },
+        {
+          "en": "even (emphasizing something unexpected)",
+          "de": "sogar"
+        }
+      ],
+      "rule": "Unveränderlich; als Betonungswort direkt nach dem Bezugswort, als \"sogar\" meist am Satzanfang oder vor dem betonten Wort.",
+      "example": "Ich repariere das Fahrrad selbst.",
+      "exampleEn": "I'll repair the bike myself.",
+      "example2": "Selbst meine Oma benutzt ein Smartphone.",
+      "example2En": "Even my grandma uses a smartphone."
+    },
+    {
+      "de": "das Semester",
+      "en": "semester",
+      "pos": "noun",
+      "plural": "die Semester",
+      "meanings": [
+        {
+          "en": "semester (academic term)",
+          "de": "Studienhalbjahr an der Universität"
+        }
+      ],
+      "rule": "Neutrum; Plural bleibt gleich: das Semester, die Semester.",
+      "example": "Im Wintersemester habe ich fünf Kurse.",
+      "exampleEn": "In the winter semester I have five courses.",
+      "example2": "Sie ist jetzt im dritten Semester.",
+      "example2En": "She is now in her third semester."
+    },
+    {
+      "de": "der Senior / die Seniorin",
+      "en": "senior citizen",
+      "pos": "noun",
+      "plural": "die Senioren / die Seniorinnen",
+      "meanings": [
+        {
+          "en": "senior citizen, elderly person",
+          "de": "älterer Mensch, meist im Ruhestand"
+        }
+      ],
+      "rule": "Movierte Form auf -in; im Alltag oft im Plural \"Senioren\" für ältere Menschen allgemein.",
+      "example": "Der Bus bringt die Senioren zum Einkaufszentrum.",
+      "exampleEn": "The bus takes the senior citizens to the shopping center.",
+      "example2": "Meine Nachbarin ist Seniorin und geht jeden Tag spazieren.",
+      "example2En": "My neighbor is a senior citizen and goes for a walk every day."
+    },
+    {
+      "de": "separat",
+      "en": "separate",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "separate, apart",
+          "de": "getrennt, für sich allein"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: separat, separater, am separatesten (selten gesteigert).",
+      "example": "Die Kinder schlafen in einem separaten Zimmer.",
+      "exampleEn": "The children sleep in a separate room.",
+      "example2": "Bitte schicken Sie die Rechnung separat.",
+      "example2En": "Please send the invoice separately."
+    },
+    {
+      "de": "der Serviceschalter",
+      "en": "service counter",
+      "pos": "noun",
+      "plural": "die Serviceschalter",
+      "meanings": [
+        {
+          "en": "service counter/desk",
+          "de": "Schalter für Kundenservice, z. B. am Bahnhof oder Flughafen"
+        }
+      ],
+      "rule": "Zusammensetzung aus Service + Schalter; Plural unverändert.",
+      "example": "Am Serviceschalter kann man die Fahrkarte umtauschen.",
+      "exampleEn": "You can exchange the ticket at the service counter.",
+      "example2": "Der Serviceschalter ist gleich neben dem Eingang.",
+      "example2En": "The service counter is right next to the entrance."
+    },
+    {
+      "de": "setzen",
+      "en": "to put, to sit down",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to put, place (something)",
+          "de": "etwas an eine Stelle stellen/legen"
+        },
+        {
+          "en": "to sit down (reflexive: sich setzen)",
+          "de": "sich hinsetzen"
+        }
+      ],
+      "rule": "Regelmäßig: setzt, setzte, hat gesetzt; reflexiv \"sich setzen\" = sich hinsetzen.",
+      "example": "Sie setzt die Tasse auf den Tisch.",
+      "exampleEn": "She puts the cup on the table.",
+      "example2": "Setz dich bitte auf den Stuhl.",
+      "example2En": "Please sit down on the chair."
+    },
+    {
+      "de": "die Shorts",
+      "en": "shorts",
+      "pos": "noun",
+      "plural": "die Shorts",
+      "meanings": [
+        {
+          "en": "shorts (short trousers)",
+          "de": "kurze Hose"
+        }
+      ],
+      "rule": "Nur Plural gebräuchlich, wie \"die Hose\" im Singular für ein Kleidungsstück; kein Artikel im Singular.",
+      "example": "Im Sommer trage ich gern Shorts.",
+      "exampleEn": "In summer I like wearing shorts.",
+      "example2": "Die Shorts sind mir zu eng.",
+      "example2En": "The shorts are too tight for me."
+    },
+    {
+      "de": "sich ärgern",
+      "en": "to be annoyed, to get angry",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to feel annoyed or angry about something",
+          "de": "wütend oder verärgert sein"
+        }
+      ],
+      "rule": "Reflexive verb: sich ärgern über + Akkusativ; also transitive 'jemanden ärgern' = to annoy someone; regular weak verb (ärgert, ärgerte, hat geärgert).",
+      "example": "Ich ärgere mich über den Stau.",
+      "exampleEn": "I am annoyed about the traffic jam.",
+      "example2": "Mein kleiner Bruder ärgert mich oft.",
+      "example2En": "My little brother often annoys me."
+    },
+    {
+      "de": "die Sicherheit",
+      "en": "safety, security",
+      "pos": "noun",
+      "plural": "die Sicherheiten",
+      "meanings": [
+        {
+          "en": "safety, security",
+          "de": "Zustand ohne Gefahr"
+        },
+        {
+          "en": "certainty, confidence",
+          "de": "Gewissheit, Selbstbewusstsein"
+        }
+      ],
+      "rule": "Femininum; Plural \"die Sicherheiten\" meist im Finanzkontext (Kreditsicherheiten); sonst meist unzählbar.",
+      "example": "Die Sicherheit der Passagiere hat oberste Priorität.",
+      "exampleEn": "Passenger safety has top priority.",
+      "example2": "Er beantwortet die Frage mit großer Sicherheit.",
+      "example2En": "He answers the question with great confidence."
+    },
+    {
+      "de": "der Sieg",
+      "en": "victory",
+      "pos": "noun",
+      "plural": "die Siege",
+      "meanings": [
+        {
+          "en": "victory, win",
+          "de": "Erfolg in einem Wettkampf"
+        }
+      ],
+      "rule": "Maskulinum; Gegenteil: die Niederlage. Häufig mit \"gegen\": Sieg gegen einen Gegner.",
+      "example": "Das Team feiert den Sieg im Finale.",
+      "exampleEn": "The team celebrates the victory in the final.",
+      "example2": "Nach dem Sieg gab es ein großes Fest.",
+      "example2En": "After the victory there was a big celebration."
+    },
+    {
+      "de": "das Silber",
+      "en": "silver",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "silver (metal)",
+          "de": "edles graues Metall"
+        },
+        {
+          "en": "silver medal",
+          "de": "zweiter Platz bei einem Wettbewerb"
+        }
+      ],
+      "rule": "Neutrum, Stoffname, kein Plural üblich.",
+      "example": "Der Ring ist aus Silber.",
+      "exampleEn": "The ring is made of silver.",
+      "example2": "Sie hat bei der Olympiade Silber gewonnen.",
+      "example2En": "She won silver at the Olympics."
+    },
+    {
+      "de": "sinken",
+      "en": "to sink, to fall",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to sink (go down in water)",
+          "de": "unter die Oberfläche gehen"
+        },
+        {
+          "en": "to decrease, fall (level, price, number)",
+          "de": "weniger werden"
+        }
+      ],
+      "rule": "Unregelmäßig: sinkt, sank, ist gesunken (mit sein); intransitiv.",
+      "example": "Das Schiff sank langsam ins Meer.",
+      "exampleEn": "The ship slowly sank into the sea.",
+      "example2": "Die Preise für Benzin sind gesunken.",
+      "example2En": "Gasoline prices have fallen."
+    },
+    {
+      "de": "die Situation",
+      "en": "situation",
+      "pos": "noun",
+      "plural": "die Situationen",
+      "meanings": [
+        {
+          "en": "situation, circumstances",
+          "de": "Lage, Umstände"
+        }
+      ],
+      "rule": "Feminine noun; plural with -en.",
+      "example": "Die Situation im Büro ist im Moment schwierig.",
+      "exampleEn": "The situation at the office is difficult at the moment.",
+      "example2": "Er hat in jeder Situation Ruhe bewahrt.",
+      "example2En": "He stayed calm in every situation."
+    },
+    {
+      "de": "das Smartphone",
+      "en": "smartphone",
+      "pos": "noun",
+      "plural": "die Smartphones",
+      "meanings": [
+        {
+          "en": "smartphone",
+          "de": "modernes Mobiltelefon"
+        }
+      ],
+      "rule": "Neuter noun (English loanword); plural with -s.",
+      "example": "Mein Smartphone ist leider kaputt.",
+      "exampleEn": "Unfortunately my smartphone is broken.",
+      "example2": "Kinder sollten nicht zu lange am Smartphone spielen.",
+      "example2En": "Children shouldn't play on the smartphone for too long."
+    },
+    {
+      "de": "der Snack",
+      "en": "snack",
+      "pos": "noun",
+      "plural": "die Snacks",
+      "meanings": [
+        {
+          "en": "snack, small quick meal",
+          "de": "kleine Zwischenmahlzeit"
+        }
+      ],
+      "rule": "Masculine noun (English loanword); plural with -s.",
+      "example": "Ich kaufe mir einen Snack für die Reise.",
+      "exampleEn": "I'm buying myself a snack for the trip.",
+      "example2": "Am Kiosk gibt es viele Snacks.",
+      "example2En": "There are many snacks at the kiosk."
+    },
+    {
+      "de": "sogar",
+      "en": "even",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "even (emphasizing something surprising)",
+          "de": "selbst, auch"
+        }
+      ],
+      "rule": "Used to emphasize something unexpected; position flexible in the sentence.",
+      "example": "Er hat sogar am Sonntag gearbeitet.",
+      "exampleEn": "He even worked on Sunday.",
+      "example2": "Sogar meine Oma benutzt ein Smartphone.",
+      "example2En": "Even my grandma uses a smartphone."
+    },
+    {
+      "de": "sondern",
+      "en": "but (rather)",
+      "pos": "conjunction",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "but rather, on the contrary (after a negation)",
+          "de": "vielmehr, im Gegenteil"
+        }
+      ],
+      "rule": "Only used after a negative clause with 'nicht' or 'kein'; pairs with 'nicht nur ... sondern auch'.",
+      "example": "Das ist kein Tee, sondern Kaffee.",
+      "exampleEn": "That's not tea, but coffee.",
+      "example2": "Sie kommt nicht heute, sondern morgen.",
+      "example2En": "She's not coming today, but tomorrow."
+    },
+    {
+      "de": "sorgen",
+      "en": "to take care of; to worry",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to take care of, ensure (sorgen für + Akk.)",
+          "de": "sich kümmern um"
+        },
+        {
+          "en": "to worry (sich sorgen um + Akk.)",
+          "de": "sich Sorgen machen"
+        }
+      ],
+      "rule": "'sorgen für' + Akkusativ = to provide/ensure; reflexive 'sich sorgen um' + Akk. = to worry about. Regular weak verb.",
+      "example": "Die Eltern sorgen für ihre Kinder.",
+      "exampleEn": "The parents take care of their children.",
+      "example2": "Sie sorgt sich um ihren kranken Vater.",
+      "example2En": "She worries about her sick father."
+    },
+    {
+      "de": "sorgfältig",
+      "en": "careful, thorough",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "careful, thorough, diligent",
+          "de": "genau, gewissenhaft"
+        }
+      ],
+      "rule": "Regular comparison: sorgfältig, sorgfältiger, am sorgfältigsten.",
+      "example": "Bitte arbeiten Sie sorgfältig.",
+      "exampleEn": "Please work carefully.",
+      "example2": "Er hat den Text sorgfältig korrigiert.",
+      "example2En": "He corrected the text carefully."
+    },
+    {
+      "de": "der Sozialpädagoge / die Sozialpädagogin",
+      "en": "social worker, social education worker",
+      "pos": "noun",
+      "plural": "die Sozialpädagogen / die Sozialpädagoginnen",
+      "meanings": [
+        {
+          "en": "social education worker, social worker",
+          "de": "Fachkraft für soziale Arbeit"
+        }
+      ],
+      "rule": "Masculine weak noun (der Sozialpädagoge, den/dem/des Sozialpädagogen); feminine form with -in.",
+      "example": "Der Sozialpädagoge hilft Jugendlichen in der Schule.",
+      "exampleEn": "The social worker helps young people at school.",
+      "example2": "Die Sozialpädagogin arbeitet in einem Jugendzentrum.",
+      "example2En": "The social worker (female) works in a youth center."
+    },
+    {
+      "de": "sparen",
+      "en": "to save (money/resources)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to save money",
+          "de": "Geld zurücklegen"
+        },
+        {
+          "en": "to save, economize on (sparen an/mit)",
+          "de": "sparsam umgehen mit"
+        }
+      ],
+      "rule": "Regular weak verb; often with 'für' (sparen für ein Auto) or 'an/mit' (Energie sparen).",
+      "example": "Wir sparen für den Urlaub.",
+      "exampleEn": "We are saving up for our vacation.",
+      "example2": "Man kann viel Strom sparen.",
+      "example2En": "You can save a lot of electricity."
+    },
+    {
+      "de": "das Sparkonto",
+      "en": "savings account",
+      "pos": "noun",
+      "plural": "die Sparkonten",
+      "meanings": [
+        {
+          "en": "savings account",
+          "de": "Bankkonto zum Sparen"
+        }
+      ],
+      "rule": "Neuter noun; plural die Sparkonten (also colloquially die Sparkontos).",
+      "example": "Ich habe ein Sparkonto bei der Bank.",
+      "exampleEn": "I have a savings account at the bank.",
+      "example2": "Auf dem Sparkonto gibt es Zinsen.",
+      "example2En": "The savings account earns interest."
+    },
+    {
+      "de": "das Sparschwein",
+      "en": "piggy bank",
+      "pos": "noun",
+      "plural": "die Sparschweine",
+      "meanings": [
+        {
+          "en": "piggy bank",
+          "de": "Behälter zum Sparen von Münzen"
+        }
+      ],
+      "rule": "Neuter compound noun (sparen + Schwein); plural with -e.",
+      "example": "Mein Sohn wirft jeden Tag Münzen ins Sparschwein.",
+      "exampleEn": "My son puts coins in the piggy bank every day.",
+      "example2": "Das Sparschwein ist schon fast voll.",
+      "example2En": "The piggy bank is almost full already."
+    },
+    {
+      "de": "spätestens",
+      "en": "at the latest",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "at the latest",
+          "de": "nicht später als"
+        }
+      ],
+      "rule": "Superlative adverb from 'spät'; often combined with a time expression.",
+      "example": "Bitte melden Sie sich spätestens bis Freitag.",
+      "exampleEn": "Please get in touch by Friday at the latest.",
+      "example2": "Wir müssen spätestens um acht Uhr losfahren.",
+      "example2En": "We have to leave by eight o'clock at the latest."
+    },
+    {
+      "de": "der Spaziergang",
+      "en": "walk, stroll",
+      "pos": "noun",
+      "plural": "die Spaziergänge",
+      "meanings": [
+        {
+          "en": "walk, stroll",
+          "de": "kurzer Ausflug zu Fuß"
+        }
+      ],
+      "rule": "Masculine compound noun (spazieren + Gang); plural with umlaut -e (Gang → Gänge).",
+      "example": "Wir machen einen Spaziergang im Park.",
+      "exampleEn": "We're going for a walk in the park.",
+      "example2": "Nach dem Essen mache ich gern einen Spaziergang.",
+      "example2En": "After eating I like to take a walk."
+    },
+    {
+      "de": "speichern",
+      "en": "to save (data), to store",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to save (a file/data)",
+          "de": "(Daten) sichern"
+        },
+        {
+          "en": "to store (e.g. food, energy)",
+          "de": "lagern, aufbewahren"
+        }
+      ],
+      "rule": "Regular weak verb; commonly used for saving computer files (Datei speichern).",
+      "example": "Hast du das Dokument schon gespeichert?",
+      "exampleEn": "Have you already saved the document?",
+      "example2": "Der Akku speichert die Energie der Sonne.",
+      "example2En": "The battery stores the sun's energy."
+    },
+    {
+      "de": "spezial",
+      "en": "special (only in compounds)",
+      "pos": "other",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "special- (bound combining form used only in compound nouns)",
+          "de": "besonder-, speziell (nur als Wortbildungselement)"
+        }
+      ],
+      "rule": "Not an inflectable adjective: 'spezial' cannot stand alone attributively (*ein spezial Angebot is wrong) or predicatively. It only occurs as the first part of compound nouns, e.g. Spezialangebot, Spezialgebiet, Spezialwerkzeug. For free adjective use, use 'speziell' instead.",
+      "example": "Das ist ein Spezialangebot für Studenten.",
+      "exampleEn": "That's a special offer for students.",
+      "example2": "Er hat ein Spezialwerkzeug benutzt.",
+      "example2En": "He used a special tool."
+    },
+    {
+      "de": "speziell",
+      "en": "special, specific",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "special, particular",
+          "de": "besonder, eigens"
+        },
+        {
+          "en": "specifically, especially (adverbial use)",
+          "de": "besonders, eigens"
+        }
+      ],
+      "rule": "Regular comparison: speziell, spezieller, am speziellsten; can be used attributively and adverbially.",
+      "example": "Ich suche einen speziellen Termin beim Arzt.",
+      "exampleEn": "I'm looking for a specific appointment with the doctor.",
+      "example2": "Das Geschenk ist speziell für dich.",
+      "example2En": "The gift is especially for you."
+    },
+    {
+      "de": "der Spiegel",
+      "en": "mirror",
+      "pos": "noun",
+      "plural": "die Spiegel",
+      "meanings": [
+        {
+          "en": "mirror",
+          "de": "Gegenstand zum Sich-Anschauen"
+        }
+      ],
+      "rule": "Masculine noun; plural unchanged (der Spiegel - die Spiegel).",
+      "example": "Sie schaut in den Spiegel.",
+      "exampleEn": "She looks in the mirror.",
+      "example2": "Im Badezimmer hängt ein großer Spiegel.",
+      "example2En": "There's a big mirror hanging in the bathroom."
+    },
+    {
+      "de": "das Spielfeld",
+      "en": "playing field, pitch",
+      "pos": "noun",
+      "plural": "die Spielfelder",
+      "meanings": [
+        {
+          "en": "playing field, pitch, court",
+          "de": "Fläche für ein Sportspiel"
+        }
+      ],
+      "rule": "Neuter compound noun (Spiel + Feld); plural with -er, no umlaut (the 'e' in Feld cannot take an umlaut): das Feld → die Felder.",
+      "example": "Die Spieler laufen auf das Spielfeld.",
+      "exampleEn": "The players run onto the playing field.",
+      "example2": "Das Spielfeld ist nass vom Regen.",
+      "example2En": "The pitch is wet from the rain."
+    },
+    {
+      "de": "die Spielwaren",
+      "en": "toys (retail category)",
+      "pos": "noun",
+      "plural": "(Plural)",
+      "meanings": [
+        {
+          "en": "toys (goods sold in a shop)",
+          "de": "Waren zum Spielen, im Geschäft"
+        }
+      ],
+      "rule": "Usually used only in plural, often in compounds like Spielwarengeschäft (toy shop).",
+      "example": "Wir kaufen das Geschenk im Spielwarengeschäft.",
+      "exampleEn": "We buy the gift at the toy shop.",
+      "example2": "Die Spielwaren liegen im ersten Stock.",
+      "example2En": "The toys are on the first floor."
+    },
+    {
+      "de": "das Spielzeug",
+      "en": "toy",
+      "pos": "noun",
+      "plural": "die Spielzeuge",
+      "meanings": [
+        {
+          "en": "a toy / toys (general term)",
+          "de": "Gegenstand zum Spielen, besonders für Kinder"
+        }
+      ],
+      "rule": "Often used as an uncountable collective noun (kein Plural nötig): \"viel Spielzeug\".",
+      "example": "Das Kind hat viel Spielzeug im Zimmer.",
+      "exampleEn": "The child has a lot of toys in the room.",
+      "example2": "Er bekommt ein neues Spielzeug zum Geburtstag.",
+      "example2En": "He gets a new toy for his birthday."
+    },
+    {
+      "de": "die Sportart",
+      "en": "type of sport",
+      "pos": "noun",
+      "plural": "die Sportarten",
+      "meanings": [
+        {
+          "en": "a particular sport/discipline",
+          "de": "eine bestimmte Art von Sport, z. B. Fußball, Tennis"
+        }
+      ],
+      "rule": "Compound: Sport + Art. Always feminine like Art.",
+      "example": "Fußball ist meine Lieblingssportart.",
+      "exampleEn": "Football is my favorite sport.",
+      "example2": "Welche Sportart machst du?",
+      "example2En": "Which sport do you do?"
+    },
+    {
+      "de": "das Sportergebnis",
+      "en": "sports result/score",
+      "pos": "noun",
+      "plural": "die Sportergebnisse",
+      "meanings": [
+        {
+          "en": "the result or score of a sports event",
+          "de": "das Resultat eines Sportwettkampfs"
+        }
+      ],
+      "rule": "Compound: Sport + Ergebnis (neuter, like Ergebnis).",
+      "example": "Hast du das Sportergebnis vom Spiel gehört?",
+      "exampleEn": "Did you hear the score of the match?",
+      "example2": "Die Sportergebnisse stehen in der Zeitung.",
+      "example2En": "The sports results are in the newspaper."
+    },
+    {
+      "de": "der Sportplatz",
+      "en": "sports ground/field",
+      "pos": "noun",
+      "plural": "die Sportplätze",
+      "meanings": [
+        {
+          "en": "an outdoor area for playing sports",
+          "de": "ein Platz, auf dem man Sport treibt"
+        }
+      ],
+      "rule": "Compound: Sport + Platz (masculine, like Platz); plural with Umlaut.",
+      "example": "Wir treffen uns auf dem Sportplatz.",
+      "exampleEn": "We're meeting at the sports field.",
+      "example2": "Der Sportplatz liegt neben der Schule.",
+      "example2En": "The sports ground is next to the school."
+    },
+    {
+      "de": "der Sportunterricht",
+      "en": "physical education class",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "PE class at school",
+          "de": "Schulfach, in dem man Sport macht"
+        }
+      ],
+      "rule": "Uncountable, no plural. Compound: Sport + Unterricht.",
+      "example": "Heute haben wir Sportunterricht.",
+      "exampleEn": "Today we have PE class.",
+      "example2": "Er mag den Sportunterricht sehr gern.",
+      "example2En": "He really likes PE class."
+    },
+    {
+      "de": "der Sportverein",
+      "en": "sports club",
+      "pos": "noun",
+      "plural": "die Sportvereine",
+      "meanings": [
+        {
+          "en": "a club for practicing sports",
+          "de": "ein Verein, in dem man gemeinsam Sport macht"
+        }
+      ],
+      "rule": "Compound: Sport + Verein (masculine, like Verein).",
+      "example": "Ich bin Mitglied in einem Sportverein.",
+      "exampleEn": "I'm a member of a sports club.",
+      "example2": "Der Sportverein trainiert dreimal die Woche.",
+      "example2En": "The sports club trains three times a week."
+    },
+    {
+      "de": "die Staatsangehörigkeit",
+      "en": "nationality/citizenship",
+      "pos": "noun",
+      "plural": "die Staatsangehörigkeiten",
+      "meanings": [
+        {
+          "en": "legal citizenship of a country",
+          "de": "die Zugehörigkeit zu einem Staat"
+        }
+      ],
+      "rule": "Formal word often asked for on official forms; answer with \"deutsch\", \"türkisch\" etc.",
+      "example": "Welche Staatsangehörigkeit hast du?",
+      "exampleEn": "What is your nationality?",
+      "example2": "Sie hat die deutsche Staatsangehörigkeit.",
+      "example2En": "She has German citizenship."
+    },
+    {
+      "de": "städtisch",
+      "en": "municipal/urban",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "belonging to a city/town, run by the municipality",
+          "de": "zur Stadt gehörend, von der Stadt"
+        }
+      ],
+      "rule": "Regular comparison: städtisch, städtischer, am städtischsten (rarely compared).",
+      "example": "Das ist eine städtische Bibliothek.",
+      "exampleEn": "That is a municipal library.",
+      "example2": "Die städtischen Behörden haben entschieden.",
+      "example2En": "The city authorities have decided."
+    },
+    {
+      "de": "ständig",
+      "en": "constant(ly)",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "happening all the time, continuous",
+          "de": "immer wieder, ohne Unterbrechung"
+        }
+      ],
+      "rule": "Regular comparison: ständig, ständiger, am ständigsten (rarely compared, since it already expresses a continuous state). Also used as adverb.",
+      "example": "Er ist ständig müde.",
+      "exampleEn": "He is constantly tired.",
+      "example2": "Sie ruft mich ständig an.",
+      "example2En": "She calls me all the time."
+    },
+    {
+      "de": "stärken",
+      "en": "to strengthen",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make stronger (physically or figuratively)",
+          "de": "stärker machen"
+        }
+      ],
+      "rule": "Regular weak verb: stärkt, stärkte, hat gestärkt.",
+      "example": "Sport stärkt den Körper.",
+      "exampleEn": "Sport strengthens the body.",
+      "example2": "Die Pause hat ihn gestärkt.",
+      "example2En": "The break strengthened him."
+    },
+    {
+      "de": "starten",
+      "en": "to start/take off",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to begin something",
+          "de": "mit etwas beginnen"
+        },
+        {
+          "en": "to take off (plane)",
+          "de": "abheben (Flugzeug)"
+        }
+      ],
+      "rule": "Regular weak verb: startet, startete. Perfekt with sein when intransitive/describing motion (das Flugzeug ist gestartet, das Rennen ist gestartet); with haben when transitive (er hat den Computer gestartet).",
+      "example": "Das Rennen startet um 10 Uhr.",
+      "exampleEn": "The race starts at 10 o'clock.",
+      "example2": "Das Flugzeug ist pünktlich gestartet.",
+      "example2En": "The plane took off on time."
+    },
+    {
+      "de": "die Startseite",
+      "en": "homepage",
+      "pos": "noun",
+      "plural": "die Startseiten",
+      "meanings": [
+        {
+          "en": "the homepage of a website or browser",
+          "de": "die erste Seite einer Website"
+        }
+      ],
+      "rule": "Compound: Start + Seite (feminine, like Seite).",
+      "example": "Ich öffne zuerst die Startseite.",
+      "exampleEn": "I open the homepage first.",
+      "example2": "Die Startseite zeigt die neuesten Nachrichten.",
+      "example2En": "The homepage shows the latest news."
+    },
+    {
+      "de": "die Station",
+      "en": "station/stop",
+      "pos": "noun",
+      "plural": "die Stationen",
+      "meanings": [
+        {
+          "en": "a stop on public transport",
+          "de": "eine Haltestelle"
+        },
+        {
+          "en": "a ward/department in a hospital",
+          "de": "eine Abteilung im Krankenhaus"
+        }
+      ],
+      "rule": "Note: for train station use Bahnhof; Station is more for stops/wards.",
+      "example": "An der nächsten Station steigen wir aus.",
+      "exampleEn": "We get off at the next stop.",
+      "example2": "Mein Vater liegt auf Station 3.",
+      "example2En": "My father is in ward 3."
+    }
+  ]
+}

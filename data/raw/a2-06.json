@@ -1,0 +1,905 @@
+{
+  "id": "a2-06",
+  "title": "A2 · E (6)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "eindecken",
+      "en": "to stock up (on)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to provide oneself/others with a supply of something",
+          "de": "sich mit etwas versorgen"
+        }
+      ],
+      "rule": "Trennbar: deckt ein, deckte ein, hat eingedeckt. Usually reflexive: sich mit etwas eindecken.",
+      "example": "Vor dem Sturm haben wir uns mit Lebensmitteln eingedeckt.",
+      "exampleEn": "Before the storm we stocked up on food.",
+      "example2": "Sie deckt sich im Herbst mit Brennholz ein.",
+      "example2En": "She stocks up on firewood in autumn."
+    },
+    {
+      "de": "die Einfahrt",
+      "en": "driveway; entrance (for vehicles)",
+      "pos": "noun",
+      "plural": "die Einfahrten",
+      "meanings": [
+        {
+          "en": "a driveway or vehicle entrance to a property",
+          "de": "der Weg/Platz, wo Autos hineinfahren"
+        },
+        {
+          "en": "the act of a vehicle entering",
+          "de": "das Hineinfahren"
+        }
+      ],
+      "rule": "Often seen on signs: \"Einfahrt freihalten\" (keep driveway clear).",
+      "example": "Bitte die Einfahrt nicht zuparken.",
+      "exampleEn": "Please don't block the driveway with parking.",
+      "example2": "Die Einfahrt in den Bahnhof verzögert sich.",
+      "example2En": "The train's entry into the station is delayed."
+    },
+    {
+      "de": "einfarbig",
+      "en": "single-colored; plain",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "having only one color, not patterned",
+          "de": "nur eine Farbe habend"
+        }
+      ],
+      "rule": "Opposite of gemustert (patterned) or mehrfarbig (multicolored); no irregular comparison.",
+      "example": "Ich trage gern einfarbige Hemden.",
+      "exampleEn": "I like to wear plain (single-colored) shirts.",
+      "example2": "Die Wand ist einfarbig blau gestrichen.",
+      "example2En": "The wall is painted a single color, blue."
+    },
+    {
+      "de": "die Eingabe",
+      "en": "input; entry (of data)",
+      "pos": "noun",
+      "plural": "die Eingaben",
+      "meanings": [
+        {
+          "en": "data or information entered into a system",
+          "de": "Daten, die man in ein Gerät eingibt"
+        }
+      ],
+      "rule": "Related to the verb eingeben; common in computer/technology contexts.",
+      "example": "Bitte überprüfen Sie Ihre Eingabe.",
+      "exampleEn": "Please check your input.",
+      "example2": "Nach der Eingabe der PIN öffnet sich die Tür.",
+      "example2En": "After entering the PIN, the door opens."
+    },
+    {
+      "de": "eingeben",
+      "en": "to enter, input (data)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to type or input information into a device",
+          "de": "Daten in ein Gerät eintippen"
+        }
+      ],
+      "rule": "Trennbar und unregelmäßig: gibt ein, gab ein, hat eingegeben.",
+      "example": "Geben Sie bitte Ihr Passwort ein.",
+      "exampleEn": "Please enter your password.",
+      "example2": "Er hat die Adresse ins Navi eingegeben.",
+      "example2En": "He entered the address into the GPS."
+    },
+    {
+      "de": "der Einlass",
+      "en": "admission; entry (to a venue)",
+      "pos": "noun",
+      "plural": "die Einlässe",
+      "meanings": [
+        {
+          "en": "permission or the time to enter an event/place",
+          "de": "das Hineingehen-Dürfen bei einer Veranstaltung"
+        }
+      ],
+      "rule": "Common on tickets: \"Einlass ab 19 Uhr\" (admission from 7 pm).",
+      "example": "Der Einlass beginnt eine Stunde vor dem Konzert.",
+      "exampleEn": "Admission starts one hour before the concert.",
+      "example2": "Ohne Ticket gibt es keinen Einlass.",
+      "example2En": "Without a ticket there is no admission."
+    },
+    {
+      "de": "einrichten",
+      "en": "to furnish, set up",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to furnish a room or apartment",
+          "de": "ein Zimmer mit Möbeln ausstatten"
+        },
+        {
+          "en": "(reflexive) to settle in / adapt to a situation",
+          "de": "sich an eine Situation gewöhnen"
+        }
+      ],
+      "rule": "Trennbar: richtet ein, richtete ein, hat eingerichtet. Reflexive use: sich einrichten (+ in/auf + Akk.).",
+      "example": "Wir haben unsere Wohnung neu eingerichtet.",
+      "exampleEn": "We have refurnished our apartment.",
+      "example2": "Wir müssen uns auf weniger Geld einrichten.",
+      "example2En": "We have to adjust to having less money."
+    },
+    {
+      "de": "einsteigen",
+      "en": "to get on, board (a vehicle)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to get into a vehicle such as a bus, train or car",
+          "de": "in ein Fahrzeug hineingehen"
+        }
+      ],
+      "rule": "Trennbar, unregelmäßig, mit sein: steigt ein, stieg ein, ist eingestiegen.",
+      "example": "Bitte schnell einsteigen, der Zug fährt gleich ab.",
+      "exampleEn": "Please board quickly, the train is about to leave.",
+      "example2": "Er ist in den falschen Bus eingestiegen.",
+      "example2En": "He got on the wrong bus."
+    },
+    {
+      "de": "der Eintritt",
+      "en": "entrance; admission fee",
+      "pos": "noun",
+      "plural": "die Eintritte",
+      "meanings": [
+        {
+          "en": "the act of entering a place",
+          "de": "das Hineingehen"
+        },
+        {
+          "en": "the fee paid to enter",
+          "de": "der Preis, den man für den Eingang bezahlt"
+        }
+      ],
+      "rule": "Common phrase: \"Eintritt frei\" (free admission).",
+      "example": "Der Eintritt ins Museum kostet fünf Euro.",
+      "exampleEn": "Admission to the museum costs five euros.",
+      "example2": "Kinder haben freien Eintritt.",
+      "example2En": "Children get free admission."
+    },
+    {
+      "de": "die Einweihungsparty",
+      "en": "housewarming party",
+      "pos": "noun",
+      "plural": "die Einweihungspartys",
+      "meanings": [
+        {
+          "en": "a party celebrating moving into a new home",
+          "de": "eine Feier zum Einzug in eine neue Wohnung"
+        }
+      ],
+      "rule": "Compound: Einweihung (inauguration) + Party; informal, everyday word.",
+      "example": "Wir feiern am Samstag unsere Einweihungsparty.",
+      "exampleEn": "We're celebrating our housewarming party on Saturday.",
+      "example2": "Zur Einweihungsparty bringen die Gäste oft Pflanzen mit.",
+      "example2En": "Guests often bring plants to a housewarming party."
+    },
+    {
+      "de": "die Einweisung",
+      "en": "briefing; instruction",
+      "pos": "noun",
+      "plural": "die Einweisungen",
+      "meanings": [
+        {
+          "en": "an introduction or instruction on how to use/do something",
+          "de": "eine kurze Erklärung, wie man etwas macht"
+        }
+      ],
+      "rule": "Related to einweisen (to instruct/brief); often used for safety or equipment training.",
+      "example": "Vor der Arbeit gibt es eine kurze Einweisung.",
+      "exampleEn": "Before work there is a short briefing.",
+      "example2": "Die neue Mitarbeiterin bekommt eine Einweisung in die Maschine.",
+      "example2En": "The new employee gets instruction on the machine."
+    },
+    {
+      "de": "das Einwohnermeldeamt",
+      "en": "residents' registration office",
+      "pos": "noun",
+      "plural": "die Einwohnermeldeämter",
+      "meanings": [
+        {
+          "en": "the government office where you register your address in Germany",
+          "de": "das Amt, bei dem man seinen Wohnsitz anmeldet"
+        }
+      ],
+      "rule": "Compound: Einwohner (resident) + Melde- (registration) + Amt (office); important A2 survival-German word.",
+      "example": "Nach dem Umzug muss man zum Einwohnermeldeamt gehen.",
+      "exampleEn": "After moving, you have to go to the residents' registration office.",
+      "example2": "Das Einwohnermeldeamt ist von 8 bis 12 Uhr geöffnet.",
+      "example2En": "The registration office is open from 8 to 12."
+    },
+    {
+      "de": "die Einwurfzeit",
+      "en": "collection time (for mail)",
+      "pos": "noun",
+      "plural": "die Einwurfzeiten",
+      "meanings": [
+        {
+          "en": "the time by which mail must be posted for the next pickup",
+          "de": "die Zeit, bis zu der man einen Brief einwerfen muss"
+        }
+      ],
+      "rule": "Compound: Einwurf (posting/insertion) + Zeit; found printed on letterboxes/mailboxes.",
+      "example": "Die Einwurfzeit für den nächsten Tag ist 17 Uhr.",
+      "exampleEn": "The collection time for next-day delivery is 5 pm.",
+      "example2": "Schau auf dem Briefkasten nach der Einwurfzeit.",
+      "example2En": "Check the mailbox for the collection time."
+    },
+    {
+      "de": "einzahlen",
+      "en": "to pay in, deposit (money)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to put money into a bank account",
+          "de": "Geld auf ein Konto bringen"
+        }
+      ],
+      "rule": "Trennbar: zahlt ein, zahlte ein, hat eingezahlt.",
+      "example": "Ich möchte Geld auf mein Konto einzahlen.",
+      "exampleEn": "I would like to deposit money into my account.",
+      "example2": "Er hat den Betrag am Automaten eingezahlt.",
+      "example2En": "He paid in the amount at the machine."
+    },
+    {
+      "de": "einziehen",
+      "en": "to move in",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to move into a new home",
+          "de": "in eine neue Wohnung ziehen"
+        },
+        {
+          "en": "to be drawn in or absorbed (e.g. liquid)",
+          "de": "von etwas aufgenommen werden"
+        }
+      ],
+      "rule": "Trennbar, unregelmäßig, mit sein: zieht ein, zog ein, ist eingezogen.",
+      "example": "Nächste Woche ziehen wir in die neue Wohnung ein.",
+      "exampleEn": "Next week we're moving into the new apartment.",
+      "example2": "Die Creme zieht schnell in die Haut ein.",
+      "example2En": "The cream absorbs quickly into the skin."
+    },
+    {
+      "de": "der Einzug",
+      "en": "moving in; entrance",
+      "pos": "noun",
+      "plural": "die Einzüge",
+      "meanings": [
+        {
+          "en": "moving into a home",
+          "de": "das Einziehen in eine Wohnung"
+        },
+        {
+          "en": "entrance/parade (of people)",
+          "de": "das feierliche Eintreten, der Einmarsch (z. B. ins Stadion)"
+        }
+      ],
+      "rule": "Noun from 'einziehen' (trennbar). Often used with 'der Einzug in die Wohnung'.",
+      "example": "Der Einzug in die neue Wohnung war anstrengend.",
+      "exampleEn": "Moving into the new apartment was exhausting.",
+      "example2": "Beim Einzug der Mannschaft jubelten die Fans.",
+      "example2En": "When the team entered, the fans cheered."
+    },
+    {
+      "de": "der Eiswürfel",
+      "en": "ice cube",
+      "pos": "noun",
+      "plural": "die Eiswürfel",
+      "meanings": [
+        {
+          "en": "ice cube",
+          "de": "gefrorenes Wasser in Würfelform"
+        }
+      ],
+      "rule": "Compound noun: Eis + Würfel. Takes 'der' like 'der Würfel'.",
+      "example": "Kannst du mir bitte ein paar Eiswürfel geben?",
+      "exampleEn": "Can you give me a few ice cubes, please?",
+      "example2": "Ich trinke meine Cola immer mit Eiswürfeln.",
+      "example2En": "I always drink my cola with ice cubes."
+    },
+    {
+      "de": "die Elektrik",
+      "en": "electrical system/wiring",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "electrical system of a building/device",
+          "de": "die elektrischen Anlagen oder Leitungen"
+        }
+      ],
+      "rule": "Uncountable noun, no plural. Often used for house wiring or car electrics.",
+      "example": "Die Elektrik in der alten Wohnung ist kaputt.",
+      "exampleEn": "The wiring in the old apartment is broken.",
+      "example2": "Ein Elektriker hat die Elektrik im Haus geprüft.",
+      "example2En": "An electrician checked the house's electrical system."
+    },
+    {
+      "de": "die Elektronik",
+      "en": "electronics",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "field of electronics / electronic devices",
+          "de": "elektronische Geräte oder das Fachgebiet"
+        }
+      ],
+      "rule": "Uncountable noun, no plural.",
+      "example": "Er interessiert sich sehr für Elektronik.",
+      "exampleEn": "He is very interested in electronics.",
+      "example2": "Die Elektronik des Fernsehers ist defekt.",
+      "example2En": "The TV's electronics are defective."
+    },
+    {
+      "de": "der Elternabend",
+      "en": "parents' evening",
+      "pos": "noun",
+      "plural": "die Elternabende",
+      "meanings": [
+        {
+          "en": "school meeting for parents (evening)",
+          "de": "Treffen der Eltern in der Schule am Abend"
+        }
+      ],
+      "rule": "Compound: Eltern + Abend. General info meeting, not individual talks (compare Elternsprechtag).",
+      "example": "Am Elternabend spricht die Lehrerin über den Unterricht.",
+      "exampleEn": "At the parents' evening, the teacher talks about the lessons.",
+      "example2": "Wir haben morgen Elternabend in der Schule.",
+      "example2En": "We have a parents' evening at school tomorrow."
+    },
+    {
+      "de": "der Elternsprechtag",
+      "en": "parent-teacher conference day",
+      "pos": "noun",
+      "plural": "die Elternsprechtage",
+      "meanings": [
+        {
+          "en": "day for individual parent-teacher talks",
+          "de": "Tag mit Einzelgesprächen zwischen Eltern und Lehrern"
+        }
+      ],
+      "rule": "Compound: Eltern + Sprech + Tag. Individual meetings, unlike the general Elternabend.",
+      "example": "Am Elternsprechtag spreche ich mit dem Lehrer meines Sohnes.",
+      "exampleEn": "On the parent-teacher conference day, I talk to my son's teacher.",
+      "example2": "Der Elternsprechtag findet einmal im Halbjahr statt.",
+      "example2En": "The parent-teacher conference day takes place once a semester."
+    },
+    {
+      "de": "empfehlen",
+      "en": "to recommend",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to recommend something to someone",
+          "de": "jemandem etwas raten, vorschlagen"
+        }
+      ],
+      "rule": "Irregular: empfiehlt, empfahl, hat empfohlen. + Dativ (person) + Akkusativ (thing).",
+      "example": "Kannst du mir ein gutes Restaurant empfehlen?",
+      "exampleEn": "Can you recommend a good restaurant to me?",
+      "example2": "Der Arzt empfiehlt mir mehr Sport.",
+      "example2En": "The doctor recommends more exercise to me."
+    },
+    {
+      "de": "die Empfehlung",
+      "en": "recommendation",
+      "pos": "noun",
+      "plural": "die Empfehlungen",
+      "meanings": [
+        {
+          "en": "advice or suggestion",
+          "de": "ein Rat oder Vorschlag"
+        }
+      ],
+      "rule": "Noun from 'empfehlen'. Often with 'auf Empfehlung von...' (on the recommendation of...).",
+      "example": "Ich habe das Hotel auf Empfehlung meiner Freundin gebucht.",
+      "exampleEn": "I booked the hotel on my friend's recommendation.",
+      "example2": "Haben Sie eine Empfehlung für einen guten Arzt?",
+      "example2En": "Do you have a recommendation for a good doctor?"
+    },
+    {
+      "de": "empfindlich",
+      "en": "sensitive",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "easily hurt or irritated (person, skin)",
+          "de": "leicht reizbar oder verletzlich"
+        }
+      ],
+      "rule": "Regular comparison: empfindlich, empfindlicher, am empfindlichsten. Often used with 'gegen' (empfindlich gegen Kälte).",
+      "example": "Meine Haut ist sehr empfindlich gegen Sonne.",
+      "exampleEn": "My skin is very sensitive to sun.",
+      "example2": "Er ist sehr empfindlich, wenn man ihn kritisiert.",
+      "example2En": "He is very sensitive when someone criticizes him."
+    },
+    {
+      "de": "das Ende",
+      "en": "end",
+      "pos": "noun",
+      "plural": "die Enden",
+      "meanings": [
+        {
+          "en": "the end of something (time, space)",
+          "de": "der letzte Teil oder Punkt von etwas"
+        }
+      ],
+      "rule": "Neuter noun. Common phrase: 'am Ende' (in the end / at the end).",
+      "example": "Der Film hat ein trauriges Ende.",
+      "exampleEn": "The movie has a sad ending.",
+      "example2": "Am Ende der Straße ist ein Supermarkt.",
+      "example2En": "At the end of the street there is a supermarket."
+    },
+    {
+      "de": "die Energie",
+      "en": "energy",
+      "pos": "noun",
+      "plural": "die Energien",
+      "meanings": [
+        {
+          "en": "physical power/strength",
+          "de": "Kraft, Antrieb"
+        },
+        {
+          "en": "power for machines/electricity",
+          "de": "Strom, Kraftquelle für Maschinen"
+        }
+      ],
+      "rule": "Feminine noun. Plural rarely used in everyday speech, usually singular.",
+      "example": "Nach dem Urlaub habe ich wieder viel Energie.",
+      "exampleEn": "After the vacation I have a lot of energy again.",
+      "example2": "Wir sparen Energie und schalten das Licht aus.",
+      "example2En": "We save energy and turn off the light."
+    },
+    {
+      "de": "engagieren",
+      "en": "to commit oneself; to hire",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to be actively involved (reflexive)",
+          "de": "sich aktiv für etwas einsetzen"
+        },
+        {
+          "en": "to hire/employ someone",
+          "de": "jemanden einstellen"
+        }
+      ],
+      "rule": "Regular, weak verb: engagiert, engagierte, hat engagiert. Reflexive form 'sich engagieren' + für.",
+      "example": "Sie engagiert sich für den Tierschutz.",
+      "exampleEn": "She is actively involved in animal protection.",
+      "example2": "Die Firma hat einen neuen Trainer engagiert.",
+      "example2En": "The company hired a new coach."
+    },
+    {
+      "de": "der Englischlehrer / die Englischlehrerin",
+      "en": "English teacher",
+      "pos": "noun",
+      "plural": "die Englischlehrer / die Englischlehrerinnen",
+      "meanings": [
+        {
+          "en": "teacher of English",
+          "de": "Lehrer/in für das Fach Englisch"
+        }
+      ],
+      "rule": "Compound: Englisch + Lehrer/in. Feminine form adds -in.",
+      "example": "Unser Englischlehrer kommt aus Kanada.",
+      "exampleEn": "Our English teacher is from Canada.",
+      "example2": "Die Englischlehrerin gibt uns viele Hausaufgaben.",
+      "example2En": "The English teacher gives us a lot of homework."
+    },
+    {
+      "de": "der Enkel / die Enkelin",
+      "en": "grandson / granddaughter",
+      "pos": "noun",
+      "plural": "die Enkel / die Enkelinnen",
+      "meanings": [
+        {
+          "en": "grandchild (male/female)",
+          "de": "Kind des eigenen Kindes"
+        }
+      ],
+      "rule": "Feminine form adds -in. Also see 'das Enkelkind' for the neutral/general term.",
+      "example": "Mein Enkel besucht mich jeden Sonntag.",
+      "exampleEn": "My grandson visits me every Sunday.",
+      "example2": "Die Enkelin hilft der Oma im Garten.",
+      "example2En": "The granddaughter helps grandma in the garden."
+    },
+    {
+      "de": "das Enkelkind",
+      "en": "grandchild",
+      "pos": "noun",
+      "plural": "die Enkelkinder",
+      "meanings": [
+        {
+          "en": "grandchild (general term)",
+          "de": "Kind des eigenen Kindes, unabhängig vom Geschlecht"
+        }
+      ],
+      "rule": "Neuter noun; gender-neutral term for grandson/granddaughter.",
+      "example": "Die Großeltern haben vier Enkelkinder.",
+      "exampleEn": "The grandparents have four grandchildren.",
+      "example2": "Am Wochenende spielt sie mit ihrem Enkelkind.",
+      "example2En": "On the weekend she plays with her grandchild."
+    },
+    {
+      "de": "enthalten",
+      "en": "to contain",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to contain/include something",
+          "de": "etwas in sich haben, einschließen"
+        }
+      ],
+      "rule": "Irregular: enthält, enthielt, hat enthalten. + Akkusativ. Also reflexive 'sich enthalten' (+ Gen., to abstain) but that sense is not A2.",
+      "example": "Der Kuchen enthält viel Zucker.",
+      "exampleEn": "The cake contains a lot of sugar.",
+      "example2": "Im Preis ist das Frühstück enthalten.",
+      "example2En": "Breakfast is included in the price."
+    },
+    {
+      "de": "entlang",
+      "en": "along",
+      "pos": "preposition",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "along (a path, river, road)",
+          "de": "parallel zu etwas, in Längsrichtung"
+        }
+      ],
+      "rule": "Can follow the noun with Akkusativ (den Fluss entlang) or precede it with Dativ/Genitiv (entlang dem Fluss); A2 learners mainly use the postposed form with Akkusativ.",
+      "example": "Wir gehen den Fluss entlang.",
+      "exampleEn": "We walk along the river.",
+      "example2": "Die Straße entlang stehen viele Bäume.",
+      "example2En": "There are many trees along the street."
+    },
+    {
+      "de": "entscheiden",
+      "en": "to decide",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to decide (about something)",
+          "de": "eine Entscheidung treffen"
+        }
+      ],
+      "rule": "Irregular: entscheidet, entschied, hat entschieden. Often reflexive 'sich entscheiden für/gegen'.",
+      "example": "Ich kann mich nicht entscheiden, welches Kleid ich kaufe.",
+      "exampleEn": "I can't decide which dress to buy.",
+      "example2": "Wir haben uns für die kleinere Wohnung entschieden.",
+      "example2En": "We decided on the smaller apartment."
+    },
+    {
+      "de": "entschuldigen",
+      "en": "to excuse; to apologize",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to apologize (oneself)",
+          "de": "sich für etwas entschuldigen"
+        },
+        {
+          "en": "to excuse someone/something",
+          "de": "jemandem etwas nicht übelnehmen, einen Fehler tolerieren"
+        }
+      ],
+      "rule": "reflexiv: sich entschuldigen (bei + Dativ, für + Akkusativ); regelmäßig: entschuldigt, entschuldigte, hat entschuldigt",
+      "example": "Entschuldigen Sie bitte, wie spät ist es?",
+      "exampleEn": "Excuse me, please, what time is it?",
+      "example2": "Er hat sich für die Verspätung entschuldigt.",
+      "example2En": "He apologized for being late."
+    },
+    {
+      "de": "entsorgen",
+      "en": "to dispose of",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to dispose of waste properly",
+          "de": "Müll fachgerecht wegbringen"
+        }
+      ],
+      "rule": "regelmäßig: entsorgt, entsorgte, hat entsorgt; oft mit Müll/Abfall",
+      "example": "Wir entsorgen den Elektromüll im Recyclinghof.",
+      "exampleEn": "We dispose of the electronic waste at the recycling center.",
+      "example2": "Bitte entsorgen Sie die Batterien richtig.",
+      "example2En": "Please dispose of the batteries correctly."
+    },
+    {
+      "de": "entspannen",
+      "en": "to relax",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to relax (oneself)",
+          "de": "sich erholen, ruhig werden"
+        }
+      ],
+      "rule": "reflexiv: sich entspannen; auch nicht-reflexiv/transitiv: etwas entspannt jemanden/etwas; regelmäßig: entspannt, entspannte, hat entspannt",
+      "example": "Am Wochenende möchte ich mich richtig entspannen.",
+      "exampleEn": "On the weekend I want to really relax.",
+      "example2": "Ein warmes Bad entspannt den Körper.",
+      "example2En": "A warm bath relaxes the body."
+    },
+    {
+      "de": "die Entspannung",
+      "en": "relaxation",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relaxation, rest",
+          "de": "Erholung, Ruhe"
+        }
+      ],
+      "rule": "meist unzählbar, kein Plural; von entspannen",
+      "example": "Nach der Arbeit brauche ich Entspannung.",
+      "exampleEn": "After work I need relaxation.",
+      "example2": "Yoga hilft ihr bei der Entspannung.",
+      "example2En": "Yoga helps her with relaxation."
+    },
+    {
+      "de": "der Entwurf",
+      "en": "draft; design",
+      "pos": "noun",
+      "plural": "die Entwürfe",
+      "meanings": [
+        {
+          "en": "a draft (text/document)",
+          "de": "erste Version eines Textes"
+        },
+        {
+          "en": "a design/sketch",
+          "de": "Skizze, Plan"
+        }
+      ],
+      "rule": "Plural mit Umlaut: die Entwürfe; von entwerfen",
+      "example": "Sie schreibt einen Entwurf für den Brief.",
+      "exampleEn": "She is writing a draft of the letter.",
+      "example2": "Der Architekt zeigt seinen neuen Entwurf.",
+      "example2En": "The architect shows his new design."
+    },
+    {
+      "de": "die Erdkunde",
+      "en": "geography",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "geography (school subject)",
+          "de": "Schulfach über die Erde"
+        }
+      ],
+      "rule": "unzählbar, kein Plural; Schulfach, auch 'Geografie' genannt",
+      "example": "In Erdkunde lernen wir über andere Länder.",
+      "exampleEn": "In geography we learn about other countries.",
+      "example2": "Erdkunde ist mein Lieblingsfach.",
+      "example2En": "Geography is my favorite subject."
+    },
+    {
+      "de": "erfahren",
+      "en": "to learn/find out; experienced",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to find out / learn (news)",
+          "de": "etwas Neues hören, herausfinden"
+        },
+        {
+          "en": "(as adjective) experienced",
+          "de": "mit viel Erfahrung"
+        }
+      ],
+      "rule": "unregelmäßig: erfährt, erfuhr, hat erfahren; als Adjektiv (Partizip II): erfahren = mit viel Erfahrung, Steigerung: erfahrener, am erfahrensten",
+      "example": "Ich habe erst gestern von der Party erfahren.",
+      "exampleEn": "I only found out about the party yesterday.",
+      "example2": "Der erfahrene Lehrer hilft den neuen Kollegen.",
+      "example2En": "The experienced teacher helps the new colleagues."
+    },
+    {
+      "de": "erfolgen",
+      "en": "to take place, to happen",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to happen, take place (formal)",
+          "de": "geschehen, stattfinden"
+        }
+      ],
+      "rule": "regelmäßig: erfolgt, erfolgte, ist erfolgt; formelle Sprache, oft in Ämtern/Briefen",
+      "example": "Die Zahlung erfolgt per Überweisung.",
+      "exampleEn": "The payment is made by bank transfer.",
+      "example2": "Die Antwort erfolgt innerhalb von zwei Tagen.",
+      "example2En": "The reply will be given within two days."
+    },
+    {
+      "de": "erforderlich",
+      "en": "required, necessary",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "necessary, required",
+          "de": "notwendig"
+        }
+      ],
+      "rule": "meist nicht gesteigert (absolutes Adjektiv: etwas ist entweder erforderlich oder nicht); oft in Formularen/Amtssprache",
+      "example": "Für den Job sind gute Deutschkenntnisse erforderlich.",
+      "exampleEn": "Good German skills are required for the job.",
+      "example2": "Ein Reisepass ist für diese Reise erforderlich.",
+      "example2En": "A passport is required for this trip."
+    },
+    {
+      "de": "erhalten",
+      "en": "to receive; to preserve",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to receive (something)",
+          "de": "bekommen"
+        },
+        {
+          "en": "to preserve, keep",
+          "de": "bewahren, nicht verändern"
+        }
+      ],
+      "rule": "unregelmäßig: erhält, erhielt, hat erhalten",
+      "example": "Ich habe gestern deinen Brief erhalten.",
+      "exampleEn": "I received your letter yesterday.",
+      "example2": "Wir wollen die alte Tradition erhalten.",
+      "example2En": "We want to preserve the old tradition."
+    },
+    {
+      "de": "erlauben",
+      "en": "to allow, permit",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to allow, give permission",
+          "de": "jemandem etwas gestatten"
+        }
+      ],
+      "rule": "regelmäßig: erlaubt, erlaubte, hat erlaubt; + Dativ der Person",
+      "example": "Meine Eltern erlauben mir, allein zu reisen.",
+      "exampleEn": "My parents allow me to travel alone.",
+      "example2": "Hier ist das Rauchen nicht erlaubt.",
+      "example2En": "Smoking is not allowed here."
+    },
+    {
+      "de": "erledigen",
+      "en": "to take care of, complete",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to complete/finish a task",
+          "de": "eine Aufgabe fertig machen"
+        }
+      ],
+      "rule": "regelmäßig: erledigt, erledigte, hat erledigt; oft mit Einkäufe, Aufgaben",
+      "example": "Ich muss noch ein paar Einkäufe erledigen.",
+      "exampleEn": "I still need to run a few errands.",
+      "example2": "Hast du die Hausaufgaben schon erledigt?",
+      "example2En": "Have you already finished your homework?"
+    },
+    {
+      "de": "eröffnen",
+      "en": "to open (formally)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to open (a business, account, event)",
+          "de": "offiziell beginnen/öffnen"
+        }
+      ],
+      "rule": "regelmäßig: eröffnet, eröffnete, hat eröffnet; oft mit Konto, Geschäft, Ausstellung",
+      "example": "Die Bank hat mir ein neues Konto eröffnet.",
+      "exampleEn": "The bank opened a new account for me.",
+      "example2": "Morgen eröffnet das neue Restaurant.",
+      "example2En": "The new restaurant opens tomorrow."
+    },
+    {
+      "de": "erreichen",
+      "en": "to reach; to achieve",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to reach a place/person",
+          "de": "an ein Ziel kommen, jemanden kontaktieren"
+        },
+        {
+          "en": "to achieve a goal",
+          "de": "ein Ziel erfolgreich schaffen"
+        }
+      ],
+      "rule": "regelmäßig: erreicht, erreichte, hat erreicht",
+      "example": "Wir haben den Bahnhof pünktlich erreicht.",
+      "exampleEn": "We reached the station on time.",
+      "example2": "Er hat sein Ziel endlich erreicht.",
+      "example2En": "He finally achieved his goal."
+    },
+    {
+      "de": "erstatten",
+      "en": "to refund, reimburse",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to refund/reimburse money",
+          "de": "Geld zurückzahlen"
+        }
+      ],
+      "rule": "regelmäßig: erstattet, erstattete, hat erstattet; oft mit Kosten, Geld; + Dativ der Person",
+      "example": "Die Firma erstattet mir die Reisekosten.",
+      "exampleEn": "The company reimburses me for travel costs.",
+      "example2": "Können Sie mir das Geld erstatten?",
+      "example2En": "Can you refund me the money?"
+    },
+    {
+      "de": "erwarten",
+      "en": "to expect",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to expect something/someone",
+          "de": "mit etwas rechnen"
+        }
+      ],
+      "rule": "regelmäßig: erwartet, erwartete, hat erwartet",
+      "example": "Wir erwarten morgen Besuch.",
+      "exampleEn": "We are expecting visitors tomorrow.",
+      "example2": "Sie erwartet ein Baby im Herbst.",
+      "example2En": "She is expecting a baby in autumn."
+    },
+    {
+      "de": "erwischen",
+      "en": "to catch (informal)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to catch someone doing something / catch in time",
+          "de": "jemanden ertappen; etwas gerade noch schaffen"
+        }
+      ],
+      "rule": "regelmäßig: erwischt, erwischte, hat erwischt; umgangssprachlich",
+      "example": "Ich habe gerade noch den Bus erwischt.",
+      "exampleEn": "I just managed to catch the bus.",
+      "example2": "Der Lehrer hat ihn beim Spicken erwischt.",
+      "example2En": "The teacher caught him cheating."
+    }
+  ]
+}

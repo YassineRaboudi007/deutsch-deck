@@ -1,0 +1,613 @@
+{
+  "id": "b1-20",
+  "title": "B1 · Z (20)",
+  "level": "B1",
+  "words": [
+    {
+      "de": "die Zerstörung",
+      "en": "destruction",
+      "pos": "noun",
+      "plural": "die Zerstörungen",
+      "meanings": [
+        {
+          "en": "the act or result of destroying something",
+          "de": "das Zerstören, der Schaden"
+        }
+      ],
+      "rule": "Abgeleitet vom Verb 'zerstören'; feminin, Plural auf -en möglich bei mehreren Fällen.",
+      "example": "Die Zerstörung der alten Stadt dauerte nur Stunden.",
+      "exampleEn": "The destruction of the old city took only hours.",
+      "example2": "Die Zerstörungen nach dem Erdbeben waren enorm.",
+      "example2En": "The destruction after the earthquake was enormous."
+    },
+    {
+      "de": "das Ziel",
+      "en": "goal / destination",
+      "pos": "noun",
+      "plural": "die Ziele",
+      "meanings": [
+        {
+          "en": "a goal or objective",
+          "de": "etwas, das man erreichen will"
+        },
+        {
+          "en": "a destination",
+          "de": "der Ort, den man erreichen möchte"
+        }
+      ],
+      "rule": "Regelmäßiger Plural auf -e; oft in 'sich ein Ziel setzen'.",
+      "example": "Mein Ziel ist es, die Prüfung zu bestehen.",
+      "exampleEn": "My goal is to pass the exam.",
+      "example2": "Nach drei Stunden erreichten wir unser Ziel.",
+      "example2En": "After three hours we reached our destination."
+    },
+    {
+      "de": "ziemlich",
+      "en": "quite / rather",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "quite, fairly, rather",
+          "de": "in relativ hohem Maße"
+        }
+      ],
+      "rule": "Keine Steigerung; verstärkt Adjektive/Adverbien, z. B. 'ziemlich müde'.",
+      "example": "Das Essen war ziemlich teuer.",
+      "exampleEn": "The food was quite expensive.",
+      "example2": "Sie spricht ziemlich gut Deutsch.",
+      "example2En": "She speaks German quite well."
+    },
+    {
+      "de": "die Zigarettenkippe",
+      "en": "cigarette butt",
+      "pos": "noun",
+      "plural": "die Zigarettenkippen",
+      "meanings": [
+        {
+          "en": "the remaining stub of a smoked cigarette",
+          "de": "der Rest einer gerauchten Zigarette"
+        }
+      ],
+      "rule": "Kompositum aus Zigarette + Kippe; regelmäßiger Plural auf -n.",
+      "example": "Auf dem Gehweg lagen viele Zigarettenkippen.",
+      "exampleEn": "There were many cigarette butts on the sidewalk.",
+      "example2": "Er drückte die Zigarettenkippe im Aschenbecher aus.",
+      "example2En": "He put out the cigarette butt in the ashtray."
+    },
+    {
+      "de": "die Zimmerlautstärke",
+      "en": "room volume (moderate/indoor volume level)",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "a volume level suitable for indoors, not disturbing neighbors",
+          "de": "eine Lautstärke, die drinnen niemanden stört"
+        }
+      ],
+      "rule": "Unzählbar, kein Plural; typisch in Mietverträgen: 'Musik nur in Zimmerlautstärke'.",
+      "example": "Bitte spiel die Musik nur in Zimmerlautstärke.",
+      "exampleEn": "Please play the music only at a moderate indoor volume.",
+      "example2": "Nach 22 Uhr gilt im Haus Zimmerlautstärke.",
+      "example2En": "After 10 p.m., only indoor-level volume is allowed in the building."
+    },
+    {
+      "de": "der Zoll",
+      "en": "customs / customs duty",
+      "pos": "noun",
+      "plural": "die Zölle",
+      "meanings": [
+        {
+          "en": "customs (the authority/control at a border)",
+          "de": "die Behörde/Kontrolle an der Grenze"
+        },
+        {
+          "en": "a tariff or duty charged on goods",
+          "de": "eine Abgabe auf (importierte) Waren"
+        }
+      ],
+      "rule": "Maskulin; Plural 'die Zölle' meist bei Zollgebühren/Tarifen, bei der Behörde meist Singular.",
+      "example": "Am Flughafen musste er durch den Zoll gehen.",
+      "exampleEn": "At the airport he had to go through customs.",
+      "example2": "Auf importierte Waren werden hohe Zölle erhoben.",
+      "example2En": "High tariffs are charged on imported goods."
+    },
+    {
+      "de": "zudrehen",
+      "en": "to turn off / close (a tap, valve)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to close by turning, e.g. a tap or valve",
+          "de": "durch Drehen schließen, z. B. einen Hahn"
+        }
+      ],
+      "rule": "trennbar: er dreht zu, drehte zu, hat zugedreht.",
+      "example": "Dreh bitte den Wasserhahn zu!",
+      "exampleEn": "Please turn off the tap!",
+      "example2": "Er hat das Gasventil zugedreht.",
+      "example2En": "He closed the gas valve."
+    },
+    {
+      "de": "zufällig",
+      "en": "by chance / accidental",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "happening by chance, coincidental",
+          "de": "unabsichtlich, ohne Plan geschehend"
+        }
+      ],
+      "rule": "Adjektiv und Adverb identisch; wird meist ohne Steigerung verwendet, da 'zufällig' eine Ja/Nein-Eigenschaft beschreibt (nicht abstufbar); regiert keinen Kasus.",
+      "example": "Ich habe sie zufällig im Supermarkt getroffen.",
+      "exampleEn": "I ran into her by chance at the supermarket.",
+      "example2": "Das war kein Plan, das ist rein zufällig passiert.",
+      "example2En": "That wasn't planned, it happened purely by chance."
+    },
+    {
+      "de": "zugeben",
+      "en": "to admit",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to admit, confess something",
+          "de": "etwas als wahr/richtig einräumen"
+        }
+      ],
+      "rule": "trennbar, unregelmäßig: er gibt zu, gab zu, hat zugegeben.",
+      "example": "Er musste zugeben, dass er einen Fehler gemacht hatte.",
+      "exampleEn": "He had to admit that he had made a mistake.",
+      "example2": "Ich gebe zu, ich war zu spät.",
+      "example2En": "I admit I was late."
+    },
+    {
+      "de": "zügig",
+      "en": "swift / brisk",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "fast and steady, without delay",
+          "de": "schnell und ohne Unterbrechung"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: zügig, zügiger, am zügigsten.",
+      "example": "Die Arbeiten gingen zügig voran.",
+      "exampleEn": "The work progressed swiftly.",
+      "example2": "Bitte gehen Sie zügig zum Ausgang.",
+      "example2En": "Please move briskly to the exit."
+    },
+    {
+      "de": "zulassen",
+      "en": "to allow / to permit",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to permit, allow something to happen",
+          "de": "etwas erlauben, geschehen lassen"
+        },
+        {
+          "en": "to officially register/approve (e.g. a car)",
+          "de": "amtlich genehmigen, z. B. ein Fahrzeug"
+        }
+      ],
+      "rule": "trennbar, unregelmäßig: er lässt zu, ließ zu, hat zugelassen.",
+      "example": "Der Lehrer lässt keine Ausreden zu.",
+      "exampleEn": "The teacher doesn't allow excuses.",
+      "example2": "Das Auto wurde gerade neu zugelassen.",
+      "example2En": "The car was just newly registered."
+    },
+    {
+      "de": "zumachen",
+      "en": "to close / to shut",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to close, shut something",
+          "de": "etwas schließen"
+        },
+        {
+          "en": "(informal) to close down, stop operating",
+          "de": "ein Geschäft schließen/aufgeben"
+        }
+      ],
+      "rule": "trennbar, regelmäßig: er macht zu, machte zu, hat zugemacht.",
+      "example": "Mach bitte das Fenster zu, es ist kalt.",
+      "exampleEn": "Please close the window, it's cold.",
+      "example2": "Der Laden hat wegen der Krise zugemacht.",
+      "example2En": "The shop closed down because of the crisis."
+    },
+    {
+      "de": "zunehmen",
+      "en": "to increase / to gain weight",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to increase, grow in extent",
+          "de": "größer/stärker werden"
+        },
+        {
+          "en": "to gain (body) weight",
+          "de": "schwerer werden, an Gewicht zulegen"
+        }
+      ],
+      "rule": "trennbar, unregelmäßig: er nimmt zu, nahm zu, hat zugenommen.",
+      "example": "Die Zahl der Unfälle nimmt im Winter zu.",
+      "exampleEn": "The number of accidents increases in winter.",
+      "example2": "Seit dem Urlaub habe ich drei Kilo zugenommen.",
+      "example2En": "I've gained three kilos since the vacation."
+    },
+    {
+      "de": "zurückfahren",
+      "en": "to drive/go back",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to travel back (by vehicle)",
+          "de": "mit einem Fahrzeug zurückfahren"
+        },
+        {
+          "en": "to back up / reverse (a vehicle)",
+          "de": "rückwärts fahren"
+        }
+      ],
+      "rule": "trennbar: fährt zurück, fuhr zurück, ist zurückgefahren (Perfekt mit sein)",
+      "example": "Wir fahren morgen mit dem Zug nach Hause zurück.",
+      "exampleEn": "We are traveling back home by train tomorrow.",
+      "example2": "Er ist mit dem Auto ein Stück zurückgefahren.",
+      "example2En": "He reversed the car a bit."
+    },
+    {
+      "de": "zurückkehren",
+      "en": "to return, come back",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to return to a place",
+          "de": "an einen Ort zurückkommen"
+        }
+      ],
+      "rule": "trennbar: kehrt zurück, kehrte zurück, ist zurückgekehrt (Perfekt mit sein)",
+      "example": "Nach drei Jahren ist sie in ihre Heimat zurückgekehrt.",
+      "exampleEn": "After three years she returned to her homeland.",
+      "example2": "Der Chef kehrt nächste Woche aus dem Urlaub zurück.",
+      "example2En": "The boss returns from vacation next week."
+    },
+    {
+      "de": "zurücklassen",
+      "en": "to leave behind",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to leave something/someone behind",
+          "de": "etwas/jemanden an einem Ort lassen und weggehen"
+        }
+      ],
+      "rule": "trennbar, unregelmäßig: lässt zurück, ließ zurück, hat zurückgelassen",
+      "example": "Er musste sein Gepäck am Flughafen zurücklassen.",
+      "exampleEn": "He had to leave his luggage behind at the airport.",
+      "example2": "Sie hat eine Nachricht auf dem Tisch zurückgelassen.",
+      "example2En": "She left a note on the table."
+    },
+    {
+      "de": "zurückschicken",
+      "en": "to send back",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to return something by post/mail",
+          "de": "etwas per Post zurücksenden"
+        }
+      ],
+      "rule": "trennbar: schickt zurück, schickte zurück, hat zurückgeschickt; jemandem (Dativ) etwas (Akkusativ) zurückschicken",
+      "example": "Ich habe den defekten Artikel zurückgeschickt.",
+      "exampleEn": "I sent the defective item back.",
+      "example2": "Können Sie mir das Formular bitte zurückschicken?",
+      "example2En": "Could you please send the form back to me?"
+    },
+    {
+      "de": "zurücksenden",
+      "en": "to send back, return",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to return something (formal, same as zurückschicken)",
+          "de": "etwas zurückschicken (formell)"
+        }
+      ],
+      "rule": "trennbar: sendet zurück, sandte/sendete zurück, hat zurückgesandt/zurückgesendet; jemandem (Dativ) etwas (Akkusativ) zurücksenden",
+      "example": "Bitte senden Sie das unterschriebene Formular zurück.",
+      "exampleEn": "Please send the signed form back.",
+      "example2": "Die Ware wurde unbeschädigt zurückgesendet.",
+      "example2En": "The goods were returned undamaged."
+    },
+    {
+      "de": "zurücktreten",
+      "en": "to step back; to resign",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to step back (physically)",
+          "de": "einen Schritt nach hinten machen"
+        },
+        {
+          "en": "to resign from an office/position",
+          "de": "ein Amt aufgeben"
+        }
+      ],
+      "rule": "trennbar, unregelmäßig: tritt zurück, trat zurück, ist zurückgetreten (Perfekt mit sein)",
+      "example": "Bitte treten Sie einen Schritt zurück!",
+      "exampleEn": "Please step back!",
+      "example2": "Der Minister ist wegen des Skandals zurückgetreten.",
+      "example2En": "The minister resigned because of the scandal."
+    },
+    {
+      "de": "die Zusammenarbeit",
+      "en": "cooperation, collaboration",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "joint work between people/organizations",
+          "de": "gemeinsames Arbeiten mehrerer Personen/Firmen"
+        }
+      ],
+      "rule": "meist ohne Plural verwendet (unzählbar); oft mit 'mit' (Zusammenarbeit mit einer Firma)",
+      "example": "Die Zusammenarbeit zwischen den Abteilungen funktioniert gut.",
+      "exampleEn": "The cooperation between the departments works well.",
+      "example2": "Wir freuen uns auf eine gute Zusammenarbeit.",
+      "example2En": "We look forward to good cooperation."
+    },
+    {
+      "de": "zusammenarbeiten",
+      "en": "to work together, cooperate",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to work jointly with someone",
+          "de": "gemeinsam mit jemandem arbeiten"
+        }
+      ],
+      "rule": "trennbar: arbeitet zusammen, arbeitete zusammen, hat zusammengearbeitet",
+      "example": "Die beiden Firmen arbeiten seit Jahren zusammen.",
+      "exampleEn": "The two companies have been working together for years.",
+      "example2": "Wir sollten enger zusammenarbeiten.",
+      "example2En": "We should work together more closely."
+    },
+    {
+      "de": "das Zusammenleben",
+      "en": "living together, coexistence",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the act/state of living together",
+          "de": "gemeinsames Leben, z.B. als Paar oder in einer Gesellschaft"
+        }
+      ],
+      "rule": "unzählbar (kein Plural); substantiviertes Verb 'zusammenleben'",
+      "example": "Das Zusammenleben mit den Nachbarn klappt gut.",
+      "exampleEn": "Living together with the neighbors works well.",
+      "example2": "Respekt ist wichtig für das Zusammenleben in der Gesellschaft.",
+      "example2En": "Respect is important for coexistence in society."
+    },
+    {
+      "de": "zusammenstellen",
+      "en": "to put together, compile",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to assemble or compile a group/list of items",
+          "de": "mehrere Dinge zu einem Ganzen ordnen"
+        }
+      ],
+      "rule": "trennbar: stellt zusammen, stellte zusammen, hat zusammengestellt",
+      "example": "Sie hat eine Liste mit wichtigen Adressen zusammengestellt.",
+      "exampleEn": "She compiled a list of important addresses.",
+      "example2": "Der Koch stellt täglich ein neues Menü zusammen.",
+      "example2En": "The chef puts together a new menu every day."
+    },
+    {
+      "de": "zusammenstoßen",
+      "en": "to collide, crash into each other",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to collide physically (vehicles, people)",
+          "de": "gegeneinander prallen"
+        }
+      ],
+      "rule": "trennbar, unregelmäßig: stößt zusammen, stieß zusammen, ist zusammengestoßen (Perfekt mit sein)",
+      "example": "Zwei Autos sind an der Kreuzung zusammengestoßen.",
+      "exampleEn": "Two cars collided at the intersection.",
+      "example2": "Beim Rennen sind zwei Läufer zusammengestoßen.",
+      "example2En": "During the race two runners collided."
+    },
+    {
+      "de": "zusätzlich",
+      "en": "additional, extra",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "additional, on top of what already exists",
+          "de": "noch dazukommend, extra"
+        }
+      ],
+      "rule": "in der Regel nicht gesteigert (absolute Bedeutung); häufig in der Wendung 'zusätzlich zu' + Dativ (= on top of)",
+      "example": "Wir brauchen zusätzliches Personal für das Projekt.",
+      "exampleEn": "We need additional staff for the project.",
+      "example2": "Zusätzlich zum Gehalt bekommt er einen Bonus.",
+      "example2En": "In addition to his salary, he gets a bonus."
+    },
+    {
+      "de": "die Zusatzqualifikation",
+      "en": "additional qualification",
+      "pos": "noun",
+      "plural": "die Zusatzqualifikationen",
+      "meanings": [
+        {
+          "en": "an extra qualification beyond the basic one",
+          "de": "eine zusätzliche Qualifikation neben der Grundausbildung"
+        }
+      ],
+      "rule": "Kompositum aus 'Zusatz' + 'Qualifikation'; Genus wie 'die Qualifikation'",
+      "example": "Mit dieser Zusatzqualifikation hat er bessere Chancen auf dem Arbeitsmarkt.",
+      "exampleEn": "With this additional qualification he has better chances on the job market.",
+      "example2": "Sie hat eine Zusatzqualifikation im Bereich Projektmanagement erworben.",
+      "example2En": "She acquired an additional qualification in project management."
+    },
+    {
+      "de": "der Zusatzstoff",
+      "en": "additive (e.g. food additive)",
+      "pos": "noun",
+      "plural": "die Zusatzstoffe",
+      "meanings": [
+        {
+          "en": "a substance added to food/products",
+          "de": "ein Stoff, der einem Produkt (z.B. Lebensmittel) hinzugefügt wird"
+        }
+      ],
+      "rule": "Kompositum aus 'Zusatz' + 'Stoff'; Genus wie 'der Stoff'",
+      "example": "Dieses Brot enthält keine künstlichen Zusatzstoffe.",
+      "exampleEn": "This bread contains no artificial additives.",
+      "example2": "Manche Zusatzstoffe können Allergien auslösen.",
+      "example2En": "Some additives can trigger allergies."
+    },
+    {
+      "de": "die Zusatzversicherung",
+      "en": "supplementary insurance",
+      "pos": "noun",
+      "plural": "die Zusatzversicherungen",
+      "meanings": [
+        {
+          "en": "extra insurance on top of basic coverage",
+          "de": "eine zusätzliche Versicherung neben der Grundversicherung"
+        }
+      ],
+      "rule": "Kompositum aus 'Zusatz' + 'Versicherung'; Genus wie 'die Versicherung'",
+      "example": "Er hat eine Zusatzversicherung für Zahnbehandlungen abgeschlossen.",
+      "exampleEn": "He took out supplementary insurance for dental treatment.",
+      "example2": "Die Zusatzversicherung kostet zwanzig Euro im Monat.",
+      "example2En": "The supplementary insurance costs twenty euros a month."
+    },
+    {
+      "de": "der Zuschauer / die Zuschauerin",
+      "en": "spectator, viewer",
+      "pos": "noun",
+      "plural": "die Zuschauer / die Zuschauerinnen",
+      "meanings": [
+        {
+          "en": "a person watching an event, show, or TV",
+          "de": "eine Person, die etwas ansieht (z.B. Spiel, Sendung)"
+        }
+      ],
+      "rule": "maskulin -er, feminin -erin; Plural maskulin/gemischt: die Zuschauer",
+      "example": "Das Stadion war voll mit Zuschauern.",
+      "exampleEn": "The stadium was full of spectators.",
+      "example2": "Die Sendung hat viele junge Zuschauerinnen.",
+      "example2En": "The show has many young female viewers."
+    },
+    {
+      "de": "der Zuschlag",
+      "en": "surcharge, supplement",
+      "pos": "noun",
+      "plural": "die Zuschläge",
+      "meanings": [
+        {
+          "en": "an extra fee added to the basic price",
+          "de": "ein zusätzlicher Betrag zum Grundpreis"
+        }
+      ],
+      "rule": "oft mit 'für/auf': Zuschlag für den ICE; kombinieren mit Verb 'zahlen/bezahlen'",
+      "example": "Für den ICE muss man einen Zuschlag bezahlen.",
+      "exampleEn": "You have to pay a surcharge for the ICE train.",
+      "example2": "Am Feiertag gibt es einen Zuschlag von zehn Prozent.",
+      "example2En": "On public holidays there is a ten percent surcharge."
+    },
+    {
+      "de": "zustellen",
+      "en": "to deliver",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to deliver mail/parcels to someone",
+          "de": "Post oder Pakete an jemanden liefern"
+        }
+      ],
+      "rule": "trennbar: stellt zu, stellte zu, hat zugestellt; jemandem (Dativ) etwas (Akkusativ) zustellen",
+      "example": "Die Post wird jeden Morgen zugestellt.",
+      "exampleEn": "The mail is delivered every morning.",
+      "example2": "Der Bote hat das Paket direkt an die Haustür zugestellt.",
+      "example2En": "The courier delivered the parcel right to the front door."
+    },
+    {
+      "de": "zustimmen",
+      "en": "to agree",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to agree (with someone/something)",
+          "de": "seine Zustimmung geben, einverstanden sein"
+        }
+      ],
+      "rule": "trennbar: stimmt zu, stimmte zu, hat zugestimmt; + Dativ (jemandem/etwas zustimmen)",
+      "example": "Ich stimme deinem Vorschlag zu.",
+      "exampleEn": "I agree with your suggestion.",
+      "example2": "Alle Kollegen haben dem Plan zugestimmt.",
+      "example2En": "All the colleagues agreed to the plan."
+    },
+    {
+      "de": "der Zutritt",
+      "en": "access; admission",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "permission to enter a place",
+          "de": "das Recht, einen Ort zu betreten"
+        }
+      ],
+      "rule": "meist ohne Plural; oft mit 'Zutritt haben/verboten' + zu + Dativ",
+      "example": "Kinder unter 16 haben keinen Zutritt zur Disco.",
+      "exampleEn": "Children under 16 are not allowed into the disco.",
+      "example2": "Der Zutritt zum Gebäude ist nur mit Ausweis möglich.",
+      "example2En": "Entry to the building is only possible with an ID card."
+    },
+    {
+      "de": "die Zuverlässigkeit",
+      "en": "reliability",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the quality of being dependable/trustworthy",
+          "de": "die Eigenschaft, verlässlich zu sein"
+        }
+      ],
+      "rule": "Abstraktes Nomen, kein Plural; von 'zuverlässig' (Adjektiv)",
+      "example": "Der Chef schätzt die Zuverlässigkeit seiner Mitarbeiter.",
+      "exampleEn": "The boss values the reliability of his employees.",
+      "example2": "Dieses Auto ist bekannt für seine Zuverlässigkeit.",
+      "example2En": "This car is known for its reliability."
+    }
+  ]
+}

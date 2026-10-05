@@ -1,0 +1,885 @@
+{
+  "id": "a2-19",
+  "title": "A2 · U–V (19)",
+  "level": "A2",
+  "words": [
+    {
+      "de": "ungarisch",
+      "en": "Hungarian",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "relating to Hungary or the Hungarian language",
+          "de": "aus Ungarn, die Sprache Ungarns betreffend"
+        }
+      ],
+      "rule": "Adjectives of nationality are lowercase in German: ungarisch. The noun for the country is 'Ungarn' and the language is 'Ungarisch' (capitalized when used as a noun, e.g. after 'sprechen').",
+      "example": "Sie spricht sehr gut Ungarisch.",
+      "exampleEn": "She speaks Hungarian very well.",
+      "example2": "Er mag die ungarische Küche.",
+      "example2En": "He likes Hungarian cuisine."
+    },
+    {
+      "de": "ungenügend",
+      "en": "insufficient, inadequate",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not good enough, failing (grade)",
+          "de": "nicht ausreichend, schlecht"
+        }
+      ],
+      "rule": "Negation of 'genügend'. Also used as the worst German school grade (6 = ungenügend). Regular comparison, rarely used in comparative/superlative.",
+      "example": "Seine Deutschkenntnisse sind noch ungenügend.",
+      "exampleEn": "His German skills are still insufficient.",
+      "example2": "Er hat in der Prüfung die Note 'ungenügend' bekommen.",
+      "example2En": "He got the grade 'insufficient' on the exam."
+    },
+    {
+      "de": "die Uniform",
+      "en": "uniform",
+      "pos": "noun",
+      "plural": "die Uniformen",
+      "meanings": [
+        {
+          "en": "special clothing worn by members of an organization",
+          "de": "einheitliche Kleidung, z. B. bei der Polizei"
+        }
+      ],
+      "rule": "Feminine noun; regular plural -en.",
+      "example": "Der Polizist trägt eine Uniform.",
+      "exampleEn": "The police officer wears a uniform.",
+      "example2": "In dieser Schule tragen die Kinder Uniformen.",
+      "example2En": "At this school, the children wear uniforms."
+    },
+    {
+      "de": "unprofessionell",
+      "en": "unprofessional",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not showing the skill or standards expected",
+          "de": "nicht professionell, unsachgemäß"
+        }
+      ],
+      "rule": "Negation of 'professionell' with 'un-'. Regular comparison: unprofessionell, unprofessioneller, am unprofessionellsten.",
+      "example": "Der Kellner war ziemlich unprofessionell.",
+      "exampleEn": "The waiter was quite unprofessional.",
+      "example2": "Das Foto sieht sehr unprofessionell aus.",
+      "example2En": "The photo looks very unprofessional."
+    },
+    {
+      "de": "unsympathisch",
+      "en": "unlikeable, unpleasant (person)",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not likeable, causing dislike",
+          "de": "nicht sympathisch, unangenehm"
+        }
+      ],
+      "rule": "Negation of 'sympathisch'. Note: 'sympathisch' is a false friend, it means 'likeable', not 'sympathetic'. Regular comparison.",
+      "example": "Der neue Kollege ist mir unsympathisch.",
+      "exampleEn": "I don't like the new colleague (he seems unlikeable to me).",
+      "example2": "Sein Verhalten fand ich sehr unsympathisch.",
+      "example2En": "I found his behavior very off-putting."
+    },
+    {
+      "de": "unten",
+      "en": "below, downstairs, at the bottom",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "in a lower position, downstairs",
+          "de": "an einer tiefer liegenden Stelle, im unteren Stockwerk"
+        }
+      ],
+      "rule": "Adverb of place, not declined. Opposite: oben. Often with 'da unten', 'nach unten' (movement) vs 'unten' (location).",
+      "example": "Die Küche ist unten.",
+      "exampleEn": "The kitchen is downstairs.",
+      "example2": "Warten Sie bitte unten am Eingang.",
+      "example2En": "Please wait downstairs at the entrance."
+    },
+    {
+      "de": "unterhalten",
+      "en": "to entertain; to converse, chat",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to entertain someone",
+          "de": "jemandem Spaß oder Freude bereiten"
+        },
+        {
+          "en": "to have a conversation (sich unterhalten)",
+          "de": "sich mit jemandem sprechen, plaudern"
+        }
+      ],
+      "rule": "Untrennbar (inseparable, no 'ge-' in Perfekt): unterhält, unterhielt, hat unterhalten. Reflexive form 'sich unterhalten' (+ mit + Dativ) = to chat/converse.",
+      "example": "Der Clown unterhält die Kinder.",
+      "exampleEn": "The clown entertains the children.",
+      "example2": "Wir haben uns lange über die Reise unterhalten.",
+      "example2En": "We talked for a long time about the trip."
+    },
+    {
+      "de": "die Unterlagen",
+      "en": "documents, papers",
+      "pos": "noun",
+      "plural": "die Unterlagen",
+      "meanings": [
+        {
+          "en": "official papers or documents needed for something",
+          "de": "Dokumente, Papiere, die man braucht"
+        }
+      ],
+      "rule": "Used almost only in plural (Plural). Common in job applications: Bewerbungsunterlagen.",
+      "example": "Bitte bringen Sie alle Unterlagen mit.",
+      "exampleEn": "Please bring all the documents with you.",
+      "example2": "Ich habe die Unterlagen für die Bewerbung noch nicht fertig.",
+      "example2En": "I haven't finished the application documents yet."
+    },
+    {
+      "de": "unternehmen",
+      "en": "to undertake, to do (an activity)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to do something, especially for leisure",
+          "de": "etwas machen, z. B. in der Freizeit"
+        }
+      ],
+      "rule": "Untrennbar (inseparable): unternimmt, unternahm, hat unternommen. Often used as 'etwas unternehmen' = to do something together/take action.",
+      "example": "Am Wochenende wollen wir etwas unternehmen.",
+      "exampleEn": "We want to do something on the weekend.",
+      "example2": "Die Firma hat nichts gegen das Problem unternommen.",
+      "example2En": "The company did nothing about the problem."
+    },
+    {
+      "de": "der Unterschied",
+      "en": "difference",
+      "pos": "noun",
+      "plural": "die Unterschiede",
+      "meanings": [
+        {
+          "en": "a way in which two things are not the same",
+          "de": "das, worin sich zwei Dinge unterscheiden"
+        }
+      ],
+      "rule": "Masculine noun; regular plural -e. Common phrase: 'im Unterschied zu' (in contrast to).",
+      "example": "Es gibt einen großen Unterschied zwischen den beiden Produkten.",
+      "exampleEn": "There is a big difference between the two products.",
+      "example2": "Was ist der Unterschied zwischen 'der' und 'die'?",
+      "example2En": "What's the difference between 'der' and 'die'?"
+    },
+    {
+      "de": "unterschreiben",
+      "en": "to sign",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to write one's signature on a document",
+          "de": "seinen Namen auf ein Dokument schreiben"
+        }
+      ],
+      "rule": "Untrennbar (inseparable, no 'ge-'): unterschreibt, unterschrieb, hat unterschrieben.",
+      "example": "Bitte unterschreiben Sie hier.",
+      "exampleEn": "Please sign here.",
+      "example2": "Er hat den Vertrag noch nicht unterschrieben.",
+      "example2En": "He hasn't signed the contract yet."
+    },
+    {
+      "de": "unterstützen",
+      "en": "to support",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to help or assist someone, e.g. financially or morally",
+          "de": "jemandem helfen, jemanden fördern"
+        }
+      ],
+      "rule": "Untrennbar (inseparable, no 'ge-'): unterstützt, unterstützte, hat unterstützt. Takes a direct object (+ Akkusativ).",
+      "example": "Meine Eltern unterstützen mich finanziell.",
+      "exampleEn": "My parents support me financially.",
+      "example2": "Kannst du mich bei dem Projekt unterstützen?",
+      "example2En": "Can you support me with the project?"
+    },
+    {
+      "de": "die Unterwäsche",
+      "en": "underwear",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "underwear",
+          "de": "Kleidung, die man direkt auf der Haut trägt, unter der anderen Kleidung"
+        }
+      ],
+      "rule": "Nur Singular (uncountable), kein Plural.",
+      "example": "Ich kaufe neue Unterwäsche im Kaufhaus.",
+      "exampleEn": "I'm buying new underwear at the department store.",
+      "example2": "Die Unterwäsche liegt im obersten Schubfach.",
+      "example2En": "The underwear is in the top drawer."
+    },
+    {
+      "de": "unterwegs",
+      "en": "on the way; out and about",
+      "pos": "adverb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "on the way / traveling",
+          "de": "nicht zu Hause, auf dem Weg irgendwohin"
+        }
+      ],
+      "rule": "Unveränderlich (keine Steigerung); oft mit 'sein': unterwegs sein.",
+      "example": "Ich bin gerade unterwegs zur Arbeit.",
+      "exampleEn": "I'm on my way to work right now.",
+      "example2": "Er ist viel geschäftlich unterwegs.",
+      "example2En": "He travels a lot for business."
+    },
+    {
+      "de": "unzufrieden",
+      "en": "dissatisfied",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "not satisfied, discontent",
+          "de": "nicht zufrieden"
+        }
+      ],
+      "rule": "Regelmäßige Steigerung: unzufrieden, unzufriedener, am unzufriedensten; oft mit 'mit + Dativ'.",
+      "example": "Sie ist unzufrieden mit ihrem neuen Job.",
+      "exampleEn": "She is dissatisfied with her new job.",
+      "example2": "Die Kunden waren unzufrieden mit dem Service.",
+      "example2En": "The customers were dissatisfied with the service."
+    },
+    {
+      "de": "die Urkunde",
+      "en": "certificate, document",
+      "pos": "noun",
+      "plural": "die Urkunden",
+      "meanings": [
+        {
+          "en": "official certificate/document",
+          "de": "amtliches Dokument, z. B. Zeugnis oder Bescheinigung"
+        }
+      ],
+      "rule": "Femininum; oft in Verbindung mit Prüfungen, Heirat, Geburt (Geburtsurkunde).",
+      "example": "Er hat für den Kurs eine Urkunde bekommen.",
+      "exampleEn": "He received a certificate for the course.",
+      "example2": "Die Heiratsurkunde liegt im Schrank.",
+      "example2En": "The marriage certificate is in the cabinet."
+    },
+    {
+      "de": "das Vanilleeis",
+      "en": "vanilla ice cream",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "vanilla-flavored ice cream",
+          "de": "Eis mit Vanillegeschmack"
+        }
+      ],
+      "rule": "Neutrum, meist nur Singular (uncountable).",
+      "example": "Ich nehme eine Kugel Vanilleeis, bitte.",
+      "exampleEn": "I'll have a scoop of vanilla ice cream, please.",
+      "example2": "Die Kinder lieben Vanilleeis mit Schokosoße.",
+      "example2En": "The children love vanilla ice cream with chocolate sauce."
+    },
+    {
+      "de": "die Variante",
+      "en": "variant, version",
+      "pos": "noun",
+      "plural": "die Varianten",
+      "meanings": [
+        {
+          "en": "a different version of something",
+          "de": "eine andere Form oder Möglichkeit von etwas"
+        }
+      ],
+      "rule": "Femininum; oft mit 'von' oder als Adjektiv-Kompositum (Menüvariante).",
+      "example": "Das Restaurant bietet eine vegetarische Variante des Gerichts.",
+      "exampleEn": "The restaurant offers a vegetarian variant of the dish.",
+      "example2": "Welche Variante gefällt dir besser?",
+      "example2En": "Which variant do you like better?"
+    },
+    {
+      "de": "die Vase",
+      "en": "vase",
+      "pos": "noun",
+      "plural": "die Vasen",
+      "meanings": [
+        {
+          "en": "container for flowers",
+          "de": "Gefäß für Blumen"
+        }
+      ],
+      "rule": "Femininum; Aussprache: VA-se, Betonung auf der ersten Silbe mit langem 'a' [ˈvaːzə].",
+      "example": "Ich stelle die Blumen in eine Vase.",
+      "exampleEn": "I'm putting the flowers in a vase.",
+      "example2": "Die Vase ist aus Glas und sehr zerbrechlich.",
+      "example2En": "The vase is made of glass and very fragile."
+    },
+    {
+      "de": "der Vegetarier / die Vegetarierin",
+      "en": "vegetarian (person)",
+      "pos": "noun",
+      "plural": "die Vegetarier / die Vegetarierinnen",
+      "meanings": [
+        {
+          "en": "a person who doesn't eat meat",
+          "de": "eine Person, die kein Fleisch isst"
+        }
+      ],
+      "rule": "Maskulinum/Femininum-Paar; Plural bei beiden auf -innen bzw. unverändert im Maskulinum.",
+      "example": "Mein Bruder ist Vegetarier.",
+      "exampleEn": "My brother is a vegetarian.",
+      "example2": "Als Vegetarierin isst sie kein Fleisch und keinen Fisch.",
+      "example2En": "As a vegetarian, she eats no meat and no fish."
+    },
+    {
+      "de": "vegetarisch",
+      "en": "vegetarian",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "without meat",
+          "de": "ohne Fleisch"
+        }
+      ],
+      "rule": "Regelmäßige Adjektivendungen; keine Steigerung üblich.",
+      "example": "Ich esse gern vegetarisch.",
+      "exampleEn": "I like to eat vegetarian food.",
+      "example2": "Das Restaurant hat viele vegetarische Gerichte.",
+      "example2En": "The restaurant has many vegetarian dishes."
+    },
+    {
+      "de": "die Verabredung",
+      "en": "appointment, date (arranged meeting)",
+      "pos": "noun",
+      "plural": "die Verabredungen",
+      "meanings": [
+        {
+          "en": "an arranged meeting or date",
+          "de": "ein vereinbartes Treffen"
+        }
+      ],
+      "rule": "Femininum; kann romantisches Date oder normales Treffen bedeuten (nicht für Arzttermine - dort sagt man 'Termin').",
+      "example": "Ich habe heute Abend eine Verabredung mit Freunden.",
+      "exampleEn": "I have a get-together with friends tonight.",
+      "example2": "Er hat seine Verabredung mit seinem Freund vergessen.",
+      "example2En": "He forgot his meeting with his friend."
+    },
+    {
+      "de": "die Verabschiedung",
+      "en": "farewell, send-off",
+      "pos": "noun",
+      "plural": "die Verabschiedungen",
+      "meanings": [
+        {
+          "en": "act of saying goodbye / farewell event",
+          "de": "das Verabschieden, Abschiedsfeier"
+        }
+      ],
+      "rule": "Femininum; oft für eine offizielle Abschiedsfeier (Verabschiedung eines Kollegen).",
+      "example": "Am Freitag ist die Verabschiedung unseres Chefs.",
+      "exampleEn": "Our boss's farewell event is on Friday.",
+      "example2": "Die Verabschiedung am Bahnhof war sehr emotional.",
+      "example2En": "The farewell at the train station was very emotional."
+    },
+    {
+      "de": "veranstalten",
+      "en": "to organize, to hold (an event)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to organize an event",
+          "de": "ein Fest, eine Feier o. Ä. organisieren"
+        }
+      ],
+      "rule": "Regelmäßig, nicht trennbar: veranstaltet, veranstaltete, hat veranstaltet.",
+      "example": "Wir veranstalten am Samstag eine Party.",
+      "exampleEn": "We're organizing a party on Saturday.",
+      "example2": "Die Schule veranstaltet jedes Jahr ein Sommerfest.",
+      "example2En": "The school organizes a summer festival every year."
+    },
+    {
+      "de": "die Veranstaltung",
+      "en": "event",
+      "pos": "noun",
+      "plural": "die Veranstaltungen",
+      "meanings": [
+        {
+          "en": "organized event",
+          "de": "ein organisiertes Ereignis, z. B. Fest oder Konzert"
+        }
+      ],
+      "rule": "Femininum; häufig mit Adjektiven wie kulturell, öffentlich kombiniert.",
+      "example": "Die Veranstaltung findet im Stadtpark statt.",
+      "exampleEn": "The event takes place in the city park.",
+      "example2": "Wir haben Karten für die Veranstaltung gekauft.",
+      "example2En": "We bought tickets for the event."
+    },
+    {
+      "de": "der Veranstaltungshinweis",
+      "en": "event notice, event announcement",
+      "pos": "noun",
+      "plural": "die Veranstaltungshinweise",
+      "meanings": [
+        {
+          "en": "a notice/announcement about an event",
+          "de": "ein Hinweis auf eine Veranstaltung"
+        }
+      ],
+      "rule": "Maskulinum; Kompositum aus Veranstaltung + Hinweis; oft in Zeitungen oder Online-Kalendern.",
+      "example": "In der Zeitung steht ein Veranstaltungshinweis zum Stadtfest.",
+      "exampleEn": "There's an event notice about the city festival in the newspaper.",
+      "example2": "Schau mal auf der Webseite nach dem Veranstaltungshinweis.",
+      "example2En": "Check the website for the event notice."
+    },
+    {
+      "de": "der Veranstaltungstipp",
+      "en": "event tip, event recommendation",
+      "pos": "noun",
+      "plural": "die Veranstaltungstipps",
+      "meanings": [
+        {
+          "en": "a recommendation about an event worth attending",
+          "de": "eine Empfehlung für eine Veranstaltung"
+        }
+      ],
+      "rule": "Maskulinum; Kompositum aus Veranstaltung + Tipp; Plural mit -s.",
+      "example": "Hast du einen Veranstaltungstipp für das Wochenende?",
+      "exampleEn": "Do you have an event tip for the weekend?",
+      "example2": "Der Veranstaltungstipp der Woche ist ein Jazzkonzert.",
+      "example2En": "This week's event tip is a jazz concert."
+    },
+    {
+      "de": "verbessern",
+      "en": "to improve, to correct",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to make something better",
+          "de": "etwas besser machen"
+        },
+        {
+          "en": "to correct a mistake",
+          "de": "einen Fehler korrigieren"
+        }
+      ],
+      "rule": "Regelmäßig, nicht trennbar: verbessert, verbesserte, hat verbessert; oft reflexiv: sich verbessern.",
+      "example": "Ich möchte mein Deutsch verbessern.",
+      "exampleEn": "I want to improve my German.",
+      "example2": "Der Lehrer hat meinen Fehler im Text verbessert.",
+      "example2En": "The teacher corrected my mistake in the text."
+    },
+    {
+      "de": "die Verbindung",
+      "en": "connection",
+      "pos": "noun",
+      "plural": "die Verbindungen",
+      "meanings": [
+        {
+          "en": "a connection (transport, phone, internet)",
+          "de": "eine Verkehrs-, Telefon- oder Internetverbindung"
+        },
+        {
+          "en": "a relationship/link between people or things",
+          "de": "eine Beziehung oder ein Zusammenhang"
+        }
+      ],
+      "rule": "Femininum; häufig: Zugverbindung, Telefonverbindung, in Verbindung stehen mit + Dativ.",
+      "example": "Die Zugverbindung nach Berlin ist sehr gut.",
+      "exampleEn": "The train connection to Berlin is very good.",
+      "example2": "Die Verbindung zum Internet ist gerade schlecht.",
+      "example2En": "The internet connection is bad right now."
+    },
+    {
+      "de": "verboten",
+      "en": "forbidden; prohibited",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "forbidden, not allowed",
+          "de": "nicht erlaubt"
+        }
+      ],
+      "rule": "Partizip II von 'verbieten' (verbietet, verbot, hat verboten); oft als Prädikativ: 'X ist verboten.'",
+      "example": "Rauchen ist hier verboten.",
+      "exampleEn": "Smoking is forbidden here.",
+      "example2": "Parken verboten!",
+      "example2En": "No parking!"
+    },
+    {
+      "de": "der Verbrauchszähler",
+      "en": "consumption meter (e.g. electricity/water meter)",
+      "pos": "noun",
+      "plural": "die Verbrauchszähler",
+      "meanings": [
+        {
+          "en": "a meter that measures usage (electricity, water, gas)",
+          "de": "Gerät, das den Verbrauch misst"
+        }
+      ],
+      "rule": "Kompositum aus 'Verbrauch' (consumption) + 'Zähler' (meter) – NICHT 'Verbraucher' (consumer), da es den Verbrauch misst, nicht die Nutzer zählt; Plural bleibt unverändert wie bei 'der Zähler'.",
+      "example": "Der Verbrauchszähler zeigt den Stromverbrauch an.",
+      "exampleEn": "The consumption meter shows the electricity usage.",
+      "example2": "Bitte notieren Sie den Stand des Verbrauchszählers.",
+      "example2En": "Please note down the reading of the consumption meter."
+    },
+    {
+      "de": "verbringen",
+      "en": "to spend (time)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to spend time (somewhere/doing something)",
+          "de": "Zeit an einem Ort oder mit etwas verbringen"
+        }
+      ],
+      "rule": "unregelmäßig: verbringt, verbrachte, hat verbracht; + Akkusativ (Zeitangabe)",
+      "example": "Wir verbringen den Urlaub am Meer.",
+      "exampleEn": "We are spending our vacation by the sea.",
+      "example2": "Sie verbringt viel Zeit mit ihren Freunden.",
+      "example2En": "She spends a lot of time with her friends."
+    },
+    {
+      "de": "verehrt",
+      "en": "esteemed; dear (formal address)",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "esteemed, respected, dear",
+          "de": "sehr geschätzt, hochgeachtet"
+        }
+      ],
+      "rule": "Partizip II von 'verehren' (to admire/revere), adjektivisch gebraucht; nimmt normale Adjektivendungen an, z. B. 'der verehrte Gast' (Singular mit Artikel) oder 'Sehr verehrte Damen und Herren' (formelle Anrede, Plural ohne Artikel).",
+      "example": "Sehr verehrte Damen und Herren, herzlich willkommen!",
+      "exampleEn": "Dear ladies and gentlemen, welcome!",
+      "example2": "Der verehrte Gast wurde herzlich begrüßt.",
+      "example2En": "The esteemed guest was warmly welcomed."
+    },
+    {
+      "de": "vereinbaren",
+      "en": "to agree on; to arrange",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to agree on / arrange (e.g. an appointment)",
+          "de": "etwas gemeinsam festlegen"
+        }
+      ],
+      "rule": "regelmäßig: vereinbart, vereinbarte, hat vereinbart; + Akkusativ",
+      "example": "Wir vereinbaren einen Termin beim Arzt.",
+      "exampleEn": "We are arranging an appointment with the doctor.",
+      "example2": "Können wir ein Treffen vereinbaren?",
+      "example2En": "Can we arrange a meeting?"
+    },
+    {
+      "de": "die Vergangenheit",
+      "en": "the past",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the past (time before now)",
+          "de": "die Zeit vor der Gegenwart"
+        }
+      ],
+      "rule": "meist unzählbar, kein Plural im Alltagsgebrauch",
+      "example": "In der Vergangenheit war das anders.",
+      "exampleEn": "In the past, it was different.",
+      "example2": "Er spricht selten über seine Vergangenheit.",
+      "example2En": "He rarely talks about his past."
+    },
+    {
+      "de": "das Verhalten",
+      "en": "behavior; conduct",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the way someone acts; behavior",
+          "de": "die Art, wie jemand handelt"
+        }
+      ],
+      "rule": "unzählbares Nomen (kein Plural im Alltag), von 'sich verhalten'",
+      "example": "Das Verhalten des Kindes war sehr höflich.",
+      "exampleEn": "The child's behavior was very polite.",
+      "example2": "Sein Verhalten im Straßenverkehr ist vorbildlich.",
+      "example2En": "His behavior in traffic is exemplary."
+    },
+    {
+      "de": "verlegen",
+      "en": "to mislay; to postpone/move (a date)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to mislay, misplace (an object)",
+          "de": "etwas nicht mehr finden, weil man es weggelegt hat"
+        },
+        {
+          "en": "to postpone, move (an appointment/date)",
+          "de": "einen Termin auf einen anderen Zeitpunkt legen"
+        }
+      ],
+      "rule": "regelmäßig: verlegt, verlegte, hat verlegt; + Akkusativ. Achtung: 'verlegen' kann auch Adjektiv sein (= peinlich berührt).",
+      "example": "Ich habe meinen Schlüssel verlegt.",
+      "exampleEn": "I've mislaid my keys.",
+      "example2": "Wir haben den Termin auf Montag verlegt.",
+      "example2En": "We moved the appointment to Monday."
+    },
+    {
+      "de": "verlieren",
+      "en": "to lose",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to lose (an object)",
+          "de": "etwas nicht mehr haben, weil es weg ist"
+        },
+        {
+          "en": "to lose (a game/competition)",
+          "de": "bei einem Spiel nicht gewinnen"
+        }
+      ],
+      "rule": "unregelmäßig: verliert, verlor, hat verloren; + Akkusativ",
+      "example": "Ich habe meinen Schlüssel verloren.",
+      "exampleEn": "I lost my key.",
+      "example2": "Unsere Mannschaft hat das Spiel verloren.",
+      "example2En": "Our team lost the game."
+    },
+    {
+      "de": "vermeiden",
+      "en": "to avoid",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to avoid (something)",
+          "de": "etwas nicht tun oder nicht geschehen lassen"
+        }
+      ],
+      "rule": "unregelmäßig: vermeidet, vermied, hat vermieden; + Akkusativ",
+      "example": "Wir sollten Stress vermeiden.",
+      "exampleEn": "We should avoid stress.",
+      "example2": "Er vermeidet es, allein zu reisen.",
+      "example2En": "He avoids traveling alone."
+    },
+    {
+      "de": "die Vermeidung",
+      "en": "avoidance",
+      "pos": "noun",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "the act of avoiding something",
+          "de": "das Vermeiden von etwas"
+        }
+      ],
+      "rule": "unzählbares Nomen, von 'vermeiden'; oft in 'zur Vermeidung von...'",
+      "example": "Die Vermeidung von Müll ist wichtig für die Umwelt.",
+      "exampleEn": "Avoiding waste is important for the environment.",
+      "example2": "Zur Vermeidung von Fehlern sollten Sie die Anleitung lesen.",
+      "example2En": "To avoid mistakes, you should read the instructions."
+    },
+    {
+      "de": "vermieten",
+      "en": "to rent out; to let",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to rent out (a property) to someone",
+          "de": "jemandem eine Wohnung/ein Haus gegen Bezahlung überlassen"
+        }
+      ],
+      "rule": "regelmäßig: vermietet, vermietete, hat vermietet; + Akkusativ (+ an + Akkusativ)",
+      "example": "Wir vermieten unsere Wohnung für den Sommer.",
+      "exampleEn": "We are renting out our apartment for the summer.",
+      "example2": "Er vermietet Zimmer an Studenten.",
+      "example2En": "He rents out rooms to students."
+    },
+    {
+      "de": "der Vermieter / die Vermieterin",
+      "en": "landlord / landlady",
+      "pos": "noun",
+      "plural": "die Vermieter / die Vermieterinnen",
+      "meanings": [
+        {
+          "en": "a person who rents out property",
+          "de": "jemand, der eine Wohnung oder ein Haus vermietet"
+        }
+      ],
+      "rule": "Gegensatz zu 'Mieter/in' (tenant); weibliche Form mit Endung -in",
+      "example": "Der Vermieter hat die Miete erhöht.",
+      "exampleEn": "The landlord raised the rent.",
+      "example2": "Ich habe mit meiner Vermieterin telefoniert.",
+      "example2En": "I spoke with my landlady on the phone."
+    },
+    {
+      "de": "vermitteln",
+      "en": "to arrange/provide; to mediate; to convey",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to arrange, provide (e.g. a job, contact, apartment)",
+          "de": "etwas organisieren und weitergeben, z. B. eine Wohnung"
+        },
+        {
+          "en": "to convey, impart (knowledge/information)",
+          "de": "Wissen oder Informationen weitergeben"
+        }
+      ],
+      "rule": "regelmäßig: vermittelt, vermittelte, hat vermittelt; oft + Dativ (Person) + Akkusativ (Sache), z. B. 'jemandem etwas vermitteln'.",
+      "example": "Die Agentur vermittelt Wohnungen.",
+      "exampleEn": "The agency arranges apartments.",
+      "example2": "Der Lehrer vermittelt den Schülern neues Wissen.",
+      "example2En": "The teacher conveys new knowledge to the students."
+    },
+    {
+      "de": "die Verpackung",
+      "en": "packaging",
+      "pos": "noun",
+      "plural": "die Verpackungen",
+      "meanings": [
+        {
+          "en": "material used to wrap or contain a product",
+          "de": "Material, in das eine Ware eingepackt ist"
+        }
+      ],
+      "rule": "von 'verpacken'; regelmäßiger Plural auf -en",
+      "example": "Die Verpackung ist aus Plastik.",
+      "exampleEn": "The packaging is made of plastic.",
+      "example2": "Bitte entsorgen Sie die Verpackung richtig.",
+      "example2En": "Please dispose of the packaging properly."
+    },
+    {
+      "de": "verpassen",
+      "en": "to miss (a train, chance)",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to miss (a train, bus, opportunity)",
+          "de": "etwas nicht mehr erreichen oder nutzen"
+        }
+      ],
+      "rule": "regelmäßig: verpasst, verpasste, hat verpasst; + Akkusativ",
+      "example": "Ich habe den Bus verpasst.",
+      "exampleEn": "I missed the bus.",
+      "example2": "Verpass nicht die Chance!",
+      "example2En": "Don't miss the chance!"
+    },
+    {
+      "de": "verrückt",
+      "en": "crazy; insane",
+      "pos": "adjective",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "crazy, mentally unusual",
+          "de": "geistig ungewöhnlich, wahnsinnig"
+        },
+        {
+          "en": "wild, amazing (informal)",
+          "de": "sehr aufregend oder ungewöhnlich (umgangssprachlich)"
+        }
+      ],
+      "rule": "regelmäßige Steigerung: verrückt, verrückter, am verrücktesten",
+      "example": "Er ist total verrückt nach Fußball.",
+      "exampleEn": "He is totally crazy about soccer.",
+      "example2": "Das war eine verrückte Party.",
+      "example2En": "That was a wild party."
+    },
+    {
+      "de": "verschlafen",
+      "en": "to oversleep",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to sleep longer than intended",
+          "de": "zu lange schlafen"
+        }
+      ],
+      "rule": "unregelmäßig: verschläft, verschlief, hat verschlafen",
+      "example": "Ich habe heute verschlafen und den Bus verpasst.",
+      "exampleEn": "I overslept today and missed the bus.",
+      "example2": "Bitte stell einen Wecker, damit du nicht verschläfst.",
+      "example2En": "Please set an alarm so you don't oversleep."
+    },
+    {
+      "de": "verschreiben",
+      "en": "to prescribe",
+      "pos": "verb",
+      "plural": "",
+      "meanings": [
+        {
+          "en": "to prescribe (medicine)",
+          "de": "ein Medikament aufschreiben"
+        }
+      ],
+      "rule": "unregelmäßig: verschreibt, verschrieb, hat verschrieben; + Dativ (jemandem etwas verschreiben)",
+      "example": "Der Arzt hat mir Tabletten verschrieben.",
+      "exampleEn": "The doctor prescribed me tablets.",
+      "example2": "Können Sie mir ein stärkeres Medikament verschreiben?",
+      "example2En": "Can you prescribe me a stronger medicine?"
+    },
+    {
+      "de": "die Versicherung",
+      "en": "insurance",
+      "pos": "noun",
+      "plural": "die Versicherungen",
+      "meanings": [
+        {
+          "en": "insurance (company or policy)",
+          "de": "Schutz gegen Schäden gegen Bezahlung"
+        }
+      ],
+      "rule": "feminin: die Versicherung",
+      "example": "Ich habe eine Versicherung für mein Auto.",
+      "exampleEn": "I have insurance for my car.",
+      "example2": "Die Versicherung zahlt die Reparatur.",
+      "example2En": "The insurance pays for the repair."
+    },
+    {
+      "de": "der Versicherungsnehmer / die Versicherungsnehmerin",
+      "en": "policyholder",
+      "pos": "noun",
+      "plural": "die Versicherungsnehmer / die Versicherungsnehmerinnen",
+      "meanings": [
+        {
+          "en": "person who holds an insurance policy",
+          "de": "Person, die eine Versicherung abgeschlossen hat"
+        }
+      ],
+      "rule": "maskulin/feminin: der Versicherungsnehmer / die Versicherungsnehmerin",
+      "example": "Als Versicherungsnehmer müssen Sie den Schaden melden.",
+      "exampleEn": "As the policyholder, you must report the damage.",
+      "example2": "Die Versicherungsnehmerin hat ihre Adresse geändert.",
+      "example2En": "The policyholder changed her address."
+    }
+  ]
+}
