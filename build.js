@@ -20,6 +20,28 @@ try {
   console.log("patterns.js  <-", patterns.length, "patterns");
 } catch (e) { console.warn("patterns skipped:", e.message); }
 
+/* ---- redemittel (chunk bank for speaking + writing) ---- */
+try {
+  const r = readJSON(path.join(RAW, "redemittel.json"));
+  const items = (r.redemittel || r).map(function (it, i) {
+    return Object.assign({ num: i + 1 }, it);
+  });
+  fs.writeFileSync(path.join(OUT, "redemittel.js"),
+    "window.REDEMITTEL = " + JSON.stringify(items) + ";\n");
+  console.log("redemittel.js  <-", items.length, "Redemittel");
+} catch (e) { console.warn("redemittel skipped:", e.message); }
+
+/* ---- sprachbausteine (grammar/vocab gap-fill drill) ---- */
+try {
+  const s = readJSON(path.join(RAW, "sprachbausteine.json"));
+  const items = (s.sprachbausteine || s).map(function (it, i) {
+    return Object.assign({ num: i + 1 }, it);
+  });
+  fs.writeFileSync(path.join(OUT, "sprachbausteine.js"),
+    "window.SPRACHBAUSTEINE = " + JSON.stringify(items) + ";\n");
+  console.log("sprachbausteine.js  <-", items.length, "items");
+} catch (e) { console.warn("sprachbausteine skipped:", e.message); }
+
 /* ---- words ---- */
 // Load order: all A2 batches first, then all B1, so a headword that appears
 // at both levels is kept once, at the lower (A2) level.

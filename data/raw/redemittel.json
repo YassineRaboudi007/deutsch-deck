@@ -1,0 +1,58 @@
+{
+  "redemittel": [
+    { "func": "Kontakt & Smalltalk (Sprechen Teil 1)", "use": "Sprechen T1", "de": "Darf ich mich kurz vorstellen? Ich heiße …", "en": "May I briefly introduce myself? My name is …" },
+    { "func": "Kontakt & Smalltalk (Sprechen Teil 1)", "use": "Sprechen T1", "de": "Freut mich, Sie kennenzulernen.", "en": "Pleased to meet you." },
+    { "func": "Kontakt & Smalltalk (Sprechen Teil 1)", "use": "Sprechen T1", "de": "Woher kommen Sie denn ursprünglich?", "en": "Where are you originally from?" },
+    { "func": "Kontakt & Smalltalk (Sprechen Teil 1)", "use": "Sprechen T1", "de": "Und was machen Sie beruflich?", "en": "And what do you do for a living?" },
+    { "func": "Kontakt & Smalltalk (Sprechen Teil 1)", "use": "Sprechen T1", "de": "In meiner Freizeit … am liebsten …", "en": "In my free time I most like to …" },
+
+    { "func": "Meinung äußern", "use": "Sprechen T2 · Brief", "de": "Meiner Meinung nach …", "en": "In my opinion …" },
+    { "func": "Meinung äußern", "use": "Sprechen T2 · Brief", "de": "Ich bin der Meinung, dass …", "en": "I am of the opinion that …" },
+    { "func": "Meinung äußern", "use": "Sprechen T2 · Brief", "de": "Ich finde / glaube, dass …", "en": "I think / believe that …" },
+    { "func": "Meinung äußern", "use": "Sprechen T2 · Brief", "de": "Soweit ich weiß, …", "en": "As far as I know, …" },
+    { "func": "Meinung äußern", "use": "Sprechen T2 · Brief", "de": "Es kommt darauf an, ob …", "en": "It depends on whether …" },
+    { "func": "Meinung äußern", "use": "Sprechen T2", "de": "Auf dem Bild / der Grafik sieht man …", "en": "In the picture / chart you can see …" },
+
+    { "func": "Zustimmen & Widersprechen", "use": "Sprechen T2/T3", "de": "Da stimme ich dir / Ihnen völlig zu.", "en": "I completely agree with you." },
+    { "func": "Zustimmen & Widersprechen", "use": "Sprechen T2/T3", "de": "Das sehe ich genauso.", "en": "I see it exactly the same way." },
+    { "func": "Zustimmen & Widersprechen", "use": "Sprechen T2/T3", "de": "Das stimmt, aber man muss auch bedenken, dass …", "en": "That's true, but one also has to consider that …" },
+    { "func": "Zustimmen & Widersprechen", "use": "Sprechen T2/T3", "de": "Da bin ich anderer Meinung.", "en": "I disagree there." },
+    { "func": "Zustimmen & Widersprechen", "use": "Sprechen T2/T3", "de": "Das sehe ich leider ganz anders.", "en": "Unfortunately I see that quite differently." },
+
+    { "func": "Vorschläge machen (Sprechen Teil 3: planen)", "use": "Sprechen T3", "de": "Wie wäre es, wenn wir … würden?", "en": "How about if we …?" },
+    { "func": "Vorschläge machen (Sprechen Teil 3: planen)", "use": "Sprechen T3", "de": "Ich würde vorschlagen, dass wir …", "en": "I would suggest that we …" },
+    { "func": "Vorschläge machen (Sprechen Teil 3: planen)", "use": "Sprechen T3", "de": "Wir könnten doch …", "en": "We could just …" },
+    { "func": "Vorschläge machen (Sprechen Teil 3: planen)", "use": "Sprechen T3", "de": "Sollen wir lieber … oder …?", "en": "Should we rather … or …?" },
+    { "func": "Vorschläge machen (Sprechen Teil 3: planen)", "use": "Sprechen T3", "de": "Einverstanden! Dann machen wir das so.", "en": "Agreed! Then let's do it that way." },
+    { "func": "Vorschläge machen (Sprechen Teil 3: planen)", "use": "Sprechen T3", "de": "Das ist eine gute Idee, aber vielleicht …", "en": "That's a good idea, but maybe …" },
+
+    { "func": "Nachfragen & um Klärung bitten", "use": "Sprechen T1/T2/T3", "de": "Könntest du das bitte noch einmal wiederholen?", "en": "Could you please repeat that?" },
+    { "func": "Nachfragen & um Klärung bitten", "use": "Sprechen T1/T2/T3", "de": "Wie meinst du das genau?", "en": "What exactly do you mean by that?" },
+    { "func": "Nachfragen & um Klärung bitten", "use": "Sprechen T1/T2/T3", "de": "Wenn ich dich richtig verstehe, …", "en": "If I understand you correctly, …" },
+    { "func": "Nachfragen & um Klärung bitten", "use": "Sprechen T1/T2/T3", "de": "Was hältst du davon?", "en": "What do you think of that?" },
+
+    { "func": "Brief: Anrede", "use": "Brief", "de": "Liebe … / Lieber … ,", "en": "Dear … (informal)," },
+    { "func": "Brief: Anrede", "use": "Brief", "de": "Sehr geehrte Damen und Herren,", "en": "Dear Sir or Madam," },
+    { "func": "Brief: Anrede", "use": "Brief", "de": "Sehr geehrte Frau … / Sehr geehrter Herr … ,", "en": "Dear Ms … / Dear Mr … (formal)," },
+
+    { "func": "Brief: Einleitung", "use": "Brief", "de": "vielen Dank für deine / Ihre E-Mail.", "en": "many thanks for your email." },
+    { "func": "Brief: Einleitung", "use": "Brief", "de": "ich schreibe dir / Ihnen, weil …", "en": "I am writing to you because …" },
+    { "func": "Brief: Einleitung", "use": "Brief", "de": "wie geht es dir? Bei mir ist alles in Ordnung.", "en": "how are you? Everything is fine with me." },
+    { "func": "Brief: Einleitung", "use": "Brief", "de": "es tut mir leid, dass ich mich so lange nicht gemeldet habe.", "en": "I'm sorry I haven't been in touch for so long." },
+
+    { "func": "Brief: Verbinden & Begründen", "use": "Brief", "de": "Erstens … Zweitens … Außerdem …", "en": "Firstly … Secondly … Furthermore …" },
+    { "func": "Brief: Verbinden & Begründen", "use": "Brief", "de": "Deshalb möchte ich dich / Sie fragen, ob …", "en": "That's why I'd like to ask you whether …" },
+    { "func": "Brief: Verbinden & Begründen", "use": "Brief", "de": "Der Grund dafür ist, dass …", "en": "The reason for this is that …" },
+    { "func": "Brief: Verbinden & Begründen", "use": "Brief", "de": "Trotzdem / Allerdings …", "en": "Nevertheless / However …" },
+
+    { "func": "Brief: Bitten & Vorschlagen", "use": "Brief", "de": "Könntest du mir bitte Bescheid geben?", "en": "Could you please let me know?" },
+    { "func": "Brief: Bitten & Vorschlagen", "use": "Brief", "de": "Ich würde mich freuen, wenn …", "en": "I would be glad if …" },
+    { "func": "Brief: Bitten & Vorschlagen", "use": "Brief", "de": "Wäre es möglich, dass …?", "en": "Would it be possible that …?" },
+    { "func": "Brief: Bitten & Vorschlagen", "use": "Brief", "de": "Ich schlage vor, dass wir uns am … treffen.", "en": "I suggest that we meet on …" },
+
+    { "func": "Brief: Schluss & Grußformel", "use": "Brief", "de": "Ich hoffe, bald von dir / Ihnen zu hören.", "en": "I hope to hear from you soon." },
+    { "func": "Brief: Schluss & Grußformel", "use": "Brief", "de": "Vielen Dank im Voraus.", "en": "Many thanks in advance." },
+    { "func": "Brief: Schluss & Grußformel", "use": "Brief", "de": "Viele Grüße / Liebe Grüße", "en": "Best wishes / Warm regards (informal)" },
+    { "func": "Brief: Schluss & Grußformel", "use": "Brief", "de": "Mit freundlichen Grüßen", "en": "Yours sincerely (formal)" }
+  ]
+}

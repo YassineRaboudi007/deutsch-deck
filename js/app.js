@@ -5,6 +5,8 @@
 
   var VOCAB = window.VOCAB || { batches: [] };
   var PATTERNS = window.PATTERNS || [];
+  var REDEMITTEL = window.REDEMITTEL || [];
+  var SPRACHBAUSTEINE = window.SPRACHBAUSTEINE || [];
   var app = document.getElementById("app");
 
   /* ---------- persistence ---------- */
@@ -59,6 +61,8 @@
     var parts = h.split("/");
     if (parts[0] === "study" && parts[1]) return renderStudy(parts[1], parts[2] === "review");
     if (parts[0] === "patterns") { setActiveTab("patterns"); return renderPatterns(); }
+    if (parts[0] === "redemittel") { setActiveTab("redemittel"); return renderRedemittel(); }
+    if (parts[0] === "bausteine") { setActiveTab("bausteine"); return renderBausteine(); }
     setActiveTab("vocab");
     return renderHome();
   }
@@ -335,28 +339,100 @@
 
     flipChip.onclick = function () { renderPatternCards(); };
 
+    // ---- Group-by switch: Theme / Level / Grammar / Preposition ----
+    var MODES = [
+      { key: "category", label: "Theme" },
+      { key: "level",    label: "Level" },
+      { key: "group",    label: "Grammar" },
+      { key: "prep",     label: "Preposition" }
+    ];
+    var mode = state.pgroup || "category";
+    var gbwrap = el('<div class="gbwrap"><span class="gbl">Group by</span></div>');
+    var chips = {};
+    MODES.forEach(function (m) {
+      var c = el('<button class="chip">' + m.label + '</button>');
+      if (m.key === mode) c.classList.add("active");
+      c.onclick = function () {
+        mode = m.key; state.pgroup = mode; save();
+        for (var k in chips) chips[k].classList.toggle("active", k === mode);
+        drawList(input.value);
+      };
+      chips[m.key] = c; gbwrap.appendChild(c);
+    });
+    wrap.appendChild(gbwrap);
+
     var list = el('<div class="plist"></div>');
     wrap.appendChild(list);
+
+    // bare preposition ("auf + Akk" -> "auf") used for the Preposition grouping
+    function prepBase(p) { return p.prep ? p.prep.split(" ")[0] : null; }
+    var NOPREP = "Ohne feste Präposition";
+    var GRAMMAR_ORDER = ["Grundgerüst", "Modalverben", "Verb + Präposition", "Dativ-Verben",
+      "Ort & Richtung", "Nebensätze & Infinitiv", "Konjunktiv II & Höflichkeit", "Redemittel & Fragen"];
+    var LEVEL_ORDER = ["A1", "A2", "B1"];
+
+    function groupKey(p) {
+      if (mode === "level") return p.level || "–";
+      if (mode === "group") return p.group || "–";
+      if (mode === "prep") return prepBase(p) || NOPREP;
+      return p.category || "–";
+    }
+    // order the section headings for the current mode
+    function orderKeys(keys) {
+      var ref = mode === "level" ? LEVEL_ORDER : mode === "group" ? GRAMMAR_ORDER : null;
+      if (ref) {
+        return keys.slice().sort(function (a, b) {
+          var ia = ref.indexOf(a), ib = ref.indexOf(b);
+          if (ia < 0) ia = 99; if (ib < 0) ib = 99;
+          return ia - ib || a.localeCompare(b);
+        });
+      }
+      // prep: alphabetical, but keep the "no preposition" bucket last
+      if (mode === "prep") {
+        return keys.slice().sort(function (a, b) {
+          if (a === NOPREP) return 1; if (b === NOPREP) return -1;
+          return a.localeCompare(b, "de");
+        });
+      }
+      return keys; // category: preserve first-appearance order
+    }
+
+    function levelClass(lv) { return lv === "B1" ? "lvl-b1" : lv === "A2" ? "lvl-a2" : "lvl-a1"; }
 
     function drawList(q) {
       q = (q || "").toLowerCase().trim();
       list.innerHTML = "";
-      var lastCat = null, shown = 0;
+      var buckets = {}, seenOrder = [], shown = 0;
       PATTERNS.forEach(function (p) {
-        var hay = (p.formula + " " + p.note + " " + p.de + " " + p.en).toLowerCase();
+        var hay = (p.formula + " " + p.note + " " + p.de + " " + p.en + " " +
+          (p.prep || "") + " " + (p.level || "") + " " + (p.group || "")).toLowerCase();
         if (q && hay.indexOf(q) < 0) return;
         shown++;
-        if (p.category && p.category !== lastCat) { list.appendChild(el('<div class="pcat">' + esc(p.category) + '</div>')); lastCat = p.category; }
-        list.appendChild(el(
-          '<div class="pcard">' +
-            '<div class="pf"><span class="pnum">#' + p.num + '</span> ' + esc(p.formula) + '</div>' +
-            (p.note ? '<div class="pn">' + esc(p.note) + '</div>' : '') +
-            '<div class="pde">' + esc(p.de) + '</div>' +
-            '<div class="pen">' + esc(p.en) + '</div>' +
-          '</div>'
-        ));
+        var k = groupKey(p);
+        if (!buckets[k]) { buckets[k] = []; seenOrder.push(k); }
+        buckets[k].push(p);
       });
-      if (!shown) list.appendChild(el('<div class="empty">No patterns match “' + esc(q) + '”.</div>'));
+      if (!shown) { list.appendChild(el('<div class="empty">No patterns match “' + esc(q) + '”.</div>')); return; }
+
+      var keys = mode === "category" ? seenOrder : orderKeys(seenOrder);
+      keys.forEach(function (k) {
+        var items = buckets[k];
+        list.appendChild(el('<div class="pcat">' + esc(k) +
+          '<span class="pcat-n">' + items.length + '</span></div>'));
+        items.forEach(function (p) {
+          var badges = '';
+          if (p.level) badges += '<span class="lvl ' + levelClass(p.level) + '">' + esc(p.level) + '</span>';
+          if (p.prep && mode !== "prep") badges += '<span class="prep">' + esc(p.prep) + '</span>';
+          list.appendChild(el(
+            '<div class="pcard">' +
+              '<div class="pf"><span class="ff"><span class="pnum">#' + p.num + '</span> ' + esc(p.formula) + '</span>' + badges + '</div>' +
+              (p.note ? '<div class="pn">' + esc(p.note) + '</div>' : '') +
+              '<div class="pde">' + esc(p.de) + '</div>' +
+              '<div class="pen">' + esc(p.en) + '</div>' +
+            '</div>'
+          ));
+        });
+      });
     }
     input.oninput = function () { drawList(input.value); };
     drawList("");
@@ -383,8 +459,11 @@
       var flip = el(
         '<div class="flip"><div class="flip-inner">' +
           '<div class="face front">' +
-            '<div class="pos-tag">' + esc(p.category || "Pattern") + '</div>' +
+            '<div class="pos-tag">' + esc(p.group || p.category || "Pattern") +
+              (p.level ? ' · <span class="lvl ' + (p.level === "B1" ? "lvl-b1" : p.level === "A2" ? "lvl-a2" : "lvl-a1") + '">' + esc(p.level) + '</span>' : '') +
+            '</div>' +
             '<div class="word-de" style="font-size:26px">' + esc(p.formula) + '</div>' +
+            (p.prep ? '<div style="margin-top:8px"><span class="prep">' + esc(p.prep) + '</span></div>' : '') +
             (p.note ? '<div class="word-plural">' + esc(p.note) + '</div>' : '') +
             '<div class="tap-hint">tap for example</div>' +
           '</div>' +
@@ -403,6 +482,208 @@
       prog.querySelector(".progress-line span").style.width = pct + "%";
       prog.querySelector(".pm-left").textContent = "Pattern " + (pos + 1) + " of " + order.length;
       prog.querySelector(".pm-right").textContent = "#" + p.num;
+    }
+  }
+
+  /* ---------- REDEMITTEL (chunk bank for speaking + writing) ---------- */
+  function renderRedemittel() {
+    if (!REDEMITTEL.length) return renderMissing("Redemittel");
+    var wrap = el('<div></div>');
+    var funcs = {}; REDEMITTEL.forEach(function (r) { funcs[r.func] = 1; });
+    wrap.appendChild(el(
+      '<div class="hero">' +
+        '<div class="stat"><div class="n accent">' + REDEMITTEL.length + '</div><div class="l">Redemittel (chunks)</div></div>' +
+        '<div class="stat"><div class="n good">' + Object.keys(funcs).length + '</div><div class="l">Situations</div></div>' +
+        '<div class="stat"><div class="n">Sprechen · Brief</div><div class="l">For speaking & writing</div></div>' +
+      '</div>'
+    ));
+    var toolbar = el('<div class="toolbar"></div>');
+    var input = el('<input class="search" placeholder="Search Redemittel (German or English)…">');
+    var flipChip = el('<button class="chip">🔁 Flashcard mode</button>');
+    toolbar.appendChild(input); toolbar.appendChild(flipChip);
+    wrap.appendChild(toolbar);
+    flipChip.onclick = function () { renderRedemittelCards(); };
+
+    var list = el('<div class="plist"></div>');
+    wrap.appendChild(list);
+
+    function drawList(q) {
+      q = (q || "").toLowerCase().trim();
+      list.innerHTML = "";
+      var buckets = {}, order = [], shown = 0;
+      REDEMITTEL.forEach(function (r) {
+        var hay = (r.de + " " + r.en + " " + r.func + " " + (r.use || "")).toLowerCase();
+        if (q && hay.indexOf(q) < 0) return;
+        shown++;
+        if (!buckets[r.func]) { buckets[r.func] = []; order.push(r.func); }
+        buckets[r.func].push(r);
+      });
+      if (!shown) { list.appendChild(el('<div class="empty">No Redemittel match “' + esc(q) + '”.</div>')); return; }
+      order.forEach(function (f) {
+        var items = buckets[f];
+        list.appendChild(el('<div class="pcat">' + esc(f) + '<span class="pcat-n">' + items.length + '</span></div>'));
+        items.forEach(function (r) {
+          list.appendChild(el(
+            '<div class="pcard">' +
+              '<div class="pf"><span class="ff">' + esc(r.de) + '</span>' +
+                (r.use ? '<span class="use">' + esc(r.use) + '</span>' : '') + '</div>' +
+              '<div class="pen">' + esc(r.en) + '</div>' +
+            '</div>'
+          ));
+        });
+      });
+    }
+    input.oninput = function () { drawList(input.value); };
+    drawList("");
+    swap(wrap);
+  }
+
+  function renderRedemittelCards() {
+    var order = shuffle(REDEMITTEL.map(function (_, i) { return i; }));
+    var pos = 0, flipped = false;
+    var view = el('<div class="study"></div>');
+    var top = el('<div class="study-top"><button class="back">‹ Redemittel list</button><div class="study-title">Redemittel practice</div></div>');
+    top.querySelector(".back").onclick = function () { renderRedemittel(); };
+    view.appendChild(top);
+    var prog = el('<div class="progress-wrap"><div class="progress-line"><span></span></div><div class="progress-meta"><span class="pm-left"></span><span class="pm-right"></span></div></div>');
+    view.appendChild(prog);
+    var host = el('<div></div>'); view.appendChild(host);
+    swap(view); draw();
+
+    function draw() {
+      if (pos >= order.length) {
+        host.innerHTML = '<div class="done-card"><div class="big">🎉</div><h2>All Redemittel reviewed!</h2><div class="actions" style="max-width:420px;margin:18px auto 0"><button class="btn known b">Back to list</button></div></div>';
+        host.querySelector(".b").onclick = function () { renderRedemittel(); };
+        prog.querySelector(".progress-line span").style.width = "100%"; return;
+      }
+      var r = REDEMITTEL[order[pos]];
+      flipped = false;
+      host.innerHTML = "";
+      var flip = el(
+        '<div class="flip"><div class="flip-inner">' +
+          '<div class="face front">' +
+            '<div class="pos-tag">' + esc(r.func) + '</div>' +
+            '<div class="word-en" style="font-size:22px">' + esc(r.en) + '</div>' +
+            (r.use ? '<div style="margin-top:10px"><span class="use">' + esc(r.use) + '</span></div>' : '') +
+            '<div class="tap-hint">tap for German</div>' +
+          '</div>' +
+          '<div class="face back">' +
+            '<div class="word-de" style="font-size:24px">' + esc(r.de) + '</div>' +
+          '</div>' +
+        '</div></div>'
+      );
+      flip.querySelector(".flip-inner").onclick = function () { flipped = !flipped; flip.classList.toggle("flipped", flipped); };
+      host.appendChild(flip);
+      var nav = el('<div class="nav"><button class="btn prev">‹ Previous</button><button class="btn skip">Next ›</button></div>');
+      nav.querySelector(".prev").onclick = function () { if (pos > 0) { pos--; draw(); } };
+      nav.querySelector(".skip").onclick = function () { pos++; draw(); };
+      host.appendChild(nav);
+      prog.querySelector(".progress-line span").style.width = Math.round(pos / order.length * 100) + "%";
+      prog.querySelector(".pm-left").textContent = "Card " + (pos + 1) + " of " + order.length;
+      prog.querySelector(".pm-right").textContent = "#" + r.num;
+    }
+  }
+
+  /* ---------- SPRACHBAUSTEINE (grammar/vocab gap-fill drill) ---------- */
+  function renderBausteine() {
+    if (!SPRACHBAUSTEINE.length) return renderMissing("Sprachbausteine");
+    var best = state.bausteineBest || {};
+    var wrap = el('<div></div>');
+    wrap.appendChild(el(
+      '<div class="hero">' +
+        '<div class="stat"><div class="n accent">' + SPRACHBAUSTEINE.length + '</div><div class="l">Drill questions</div></div>' +
+        '<div class="stat"><div class="n good">' + (best.all != null ? best.all + "%" : "–") + '</div><div class="l">Best score</div></div>' +
+        '<div class="stat"><div class="n">Teil 1 · 2</div><div class="l">telc B1 Sprachbausteine</div></div>' +
+      '</div>'
+    ));
+    wrap.appendChild(el('<h2 class="section">Choose a set</h2>'));
+    var SETS = [
+      { key: "all", label: "All questions", filter: function () { return true; } },
+      { key: "t1", label: "Teil 1 · Grammar", filter: function (x) { return x.teil === 1; } },
+      { key: "t2", label: "Teil 2 · Vocab & connectors", filter: function (x) { return x.teil === 2; } }
+    ];
+    var box = el('<div class="toolbar"></div>');
+    SETS.forEach(function (s) {
+      var n = SPRACHBAUSTEINE.filter(s.filter).length;
+      var chip = el('<button class="chip">' + esc(s.label) + '<span class="badge">' + n + '</span></button>');
+      chip.onclick = function () { startDrill(s); };
+      box.appendChild(chip);
+    });
+    wrap.appendChild(box);
+    wrap.appendChild(el('<div class="empty" style="padding:30px 20px">Pick a set above to start. You get instant feedback and a short explanation after each answer.</div>'));
+    swap(wrap);
+  }
+
+  function startDrill(set) {
+    var pool = shuffle(SPRACHBAUSTEINE.filter(set.filter));
+    var pos = 0, correct = 0, answered = false;
+    var view = el('<div class="quiz"></div>');
+    var top = el('<div class="study-top"><button class="back">‹ Sets</button><div class="study-title">' + esc(set.label) + '</div></div>');
+    top.querySelector(".back").onclick = function () { renderBausteine(); };
+    view.appendChild(top);
+    var prog = el('<div class="progress-wrap"><div class="progress-line"><span></span></div><div class="progress-meta"><span class="pm-left"></span><span class="pm-right"></span></div></div>');
+    view.appendChild(prog);
+    var host = el('<div></div>'); view.appendChild(host);
+    swap(view); draw();
+
+    function finish() {
+      var pct = Math.round(correct / pool.length * 100);
+      var best = state.bausteineBest || {};
+      var prev = best[set.key];
+      if (prev == null || pct > prev) { best[set.key] = pct; state.bausteineBest = best; save(); }
+      host.innerHTML = '<div class="done-card"><div class="big">' + (pct >= 60 ? "🎉" : "💪") + '</div>' +
+        '<h2>' + correct + ' / ' + pool.length + ' correct (' + pct + '%)</h2>' +
+        '<div style="color:var(--muted);margin-top:6px">' + (pct >= 60 ? "That's above the 60% telc pass line." : "Below the 60% pass line — keep drilling.") + '</div>' +
+        '<div class="actions" style="max-width:420px;margin:18px auto 0">' +
+          '<button class="btn again a">Retry set</button><button class="btn known b">Back to sets</button></div></div>';
+      host.querySelector(".a").onclick = function () { startDrill(set); };
+      host.querySelector(".b").onclick = function () { renderBausteine(); };
+      prog.querySelector(".progress-line span").style.width = "100%";
+      prog.querySelector(".pm-left").textContent = "Done";
+      prog.querySelector(".pm-right").textContent = pct + "%";
+    }
+
+    function draw() {
+      if (pos >= pool.length) return finish();
+      answered = false;
+      var it = pool[pos];
+      host.innerHTML = "";
+      var parts = String(it.text).split("___");
+      var sentence = esc(parts[0]) + '<span class="gap">?</span>' + esc(parts[1] || "");
+      var card = el(
+        '<div class="q-card">' +
+          '<div class="q-topic"><span>' + esc(it.topic) + '</span>' +
+            '<span class="lvl ' + (it.level === "B1" ? "lvl-b1" : it.level === "A2" ? "lvl-a2" : "lvl-a1") + '">' + esc(it.level) + '</span>' +
+            '<span class="use">Teil ' + it.teil + '</span></div>' +
+          '<div class="q-sentence">' + sentence + '</div>' +
+          '<div class="q-opts"></div>' +
+        '</div>'
+      );
+      var opts = card.querySelector(".q-opts");
+      var gap = card.querySelector(".gap");
+      it.options.forEach(function (opt, i) {
+        var b = el('<button class="q-opt">' + esc(opt) + '</button>');
+        b.onclick = function () {
+          if (answered) return;
+          answered = true;
+          var btns = opts.querySelectorAll(".q-opt");
+          btns.forEach(function (x) { x.disabled = true; });
+          btns[it.answer].classList.add("correct");
+          if (i === it.answer) { correct++; } else { b.classList.add("wrong"); }
+          gap.textContent = it.options[it.answer];
+          var ex = el('<div class="q-explain"><b>' + (i === it.answer ? "Richtig!" : "Nicht ganz.") + '</b> ' + esc(it.explain) + '</div>');
+          card.appendChild(ex);
+          var nextBtn = el('<button class="btn known q-next">' + (pos + 1 >= pool.length ? "See results ›" : "Next question ›") + '</button>');
+          nextBtn.onclick = function () { pos++; draw(); };
+          card.appendChild(nextBtn);
+          prog.querySelector(".pm-right").textContent = correct + " correct";
+        };
+        opts.appendChild(b);
+      });
+      host.appendChild(card);
+      prog.querySelector(".progress-line span").style.width = Math.round(pos / pool.length * 100) + "%";
+      prog.querySelector(".pm-left").textContent = "Question " + (pos + 1) + " of " + pool.length;
+      prog.querySelector(".pm-right").textContent = correct + " correct";
     }
   }
 

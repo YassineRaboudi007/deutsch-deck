@@ -2,6 +2,9 @@
   "patterns": [
     {
       "num": 1,
+      "level": "A1",
+      "group": "Grundgerüst",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich bin + [Nomen / Adjektiv]",
       "note": "Basic identity and states.",
@@ -10,6 +13,9 @@
     },
     {
       "num": 2,
+      "level": "A1",
+      "group": "Grundgerüst",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich habe + [Akkusativ]",
       "note": "Expressing possession (einen / eine / ein).",
@@ -18,6 +24,9 @@
     },
     {
       "num": 3,
+      "level": "A1",
+      "group": "Grundgerüst",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Das ist + [Nomen]",
       "note": "Identifying objects or people.",
@@ -26,6 +35,9 @@
     },
     {
       "num": 4,
+      "level": "A1",
+      "group": "Grundgerüst",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Hier gibt es + [Akkusativ]",
       "note": "Expressing \"There is / There are\" (Es gibt + Akkusativ).",
@@ -34,6 +46,9 @@
     },
     {
       "num": 5,
+      "level": "A1",
+      "group": "Modalverben",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich möchte + [Akkusativ / Infinitiv]",
       "note": "Polite expression of desire (\"I would like...\").",
@@ -42,6 +57,9 @@
     },
     {
       "num": 6,
+      "level": "A1",
+      "group": "Modalverben",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich mag + [Akkusativ]",
       "note": "Expressing general preference or liking.",
@@ -50,6 +68,9 @@
     },
     {
       "num": 7,
+      "level": "A1",
+      "group": "Modalverben",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich kann + [Infinitiv]",
       "note": "Expressing ability or capability (Modal verb: können).",
@@ -58,6 +79,9 @@
     },
     {
       "num": 8,
+      "level": "A1",
+      "group": "Modalverben",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich muss + [Infinitiv]",
       "note": "Expressing necessity or obligation (Modal verb: müssen).",
@@ -66,6 +90,9 @@
     },
     {
       "num": 9,
+      "level": "A1",
+      "group": "Modalverben",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich will + [Infinitiv]",
       "note": "Expressing strong intention or desire (Modal verb: wollen).",
@@ -74,6 +101,9 @@
     },
     {
       "num": 10,
+      "level": "A1",
+      "group": "Ort & Richtung",
+      "prep": "in + Dat",
       "category": "Absolute Beginner Foundations",
       "formula": "Ich wohne in + [Ort]",
       "note": "Stating location of residence.",
@@ -82,6 +112,9 @@
     },
     {
       "num": 11,
+      "level": "A1",
+      "group": "Ort & Richtung",
+      "prep": "aus + Dat",
       "category": "Absolute Beginner Foundations",
       "formula": "Ich komme aus + [Land / Stadt]",
       "note": "Stating origin (Preposition aus + Dative).",
@@ -90,6 +123,9 @@
     },
     {
       "num": 12,
+      "level": "A1",
+      "group": "Grundgerüst",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich spreche + [Sprache]",
       "note": "Stating language proficiency.",
@@ -98,6 +134,9 @@
     },
     {
       "num": 13,
+      "level": "A1",
+      "group": "Grundgerüst",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich suche + [Akkusativ]",
       "note": "Looking for something or someone.",
@@ -106,6 +145,9 @@
     },
     {
       "num": 14,
+      "level": "A1",
+      "group": "Grundgerüst",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich brauche + [Akkusativ]",
       "note": "Expressing immediate need.",
@@ -114,6 +156,9 @@
     },
     {
       "num": 15,
+      "level": "A1",
+      "group": "Grundgerüst",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich finde + [Akkusativ] + [Adjektiv]",
       "note": "Expressing an evaluation or opinion about something.",
@@ -122,6 +167,9 @@
     },
     {
       "num": 16,
+      "level": "A1",
+      "group": "Ort & Richtung",
+      "prep": "nach + Dat",
       "category": "Absolute Beginner Foundations",
       "formula": "Ich gehe nach + [Hause / Ort]",
       "note": "Movement towards home or named cities/countries.",
@@ -130,6 +178,9 @@
     },
     {
       "num": 17,
+      "level": "A1",
+      "group": "Ort & Richtung",
+      "prep": "zu + Dat",
       "category": "Absolute Beginner Foundations",
       "formula": "Ich gehe zu + [Dativ]",
       "note": "Movement towards a person or destination (zu + Dative).",
@@ -138,6 +189,9 @@
     },
     {
       "num": 18,
+      "level": "A2",
+      "group": "Dativ-Verben",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Mir ist + [Adjektiv]",
       "note": "Expressing physical sensations or feelings (Dative pronoun).",
@@ -146,6 +200,9 @@
     },
     {
       "num": 19,
+      "level": "A1",
+      "group": "Grundgerüst",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Es ist + [Uhrzeit / Wetter]",
       "note": "Stating time or describing weather.",
@@ -154,6 +211,9 @@
     },
     {
       "num": 20,
+      "level": "A1",
+      "group": "Grundgerüst",
+      "prep": null,
       "category": "Absolute Beginner Foundations",
       "formula": "Ich habe Hunger / Durst",
       "note": "Expressing hunger or thirst (Fixed nouns without article).",
@@ -162,6 +222,9 @@
     },
     {
       "num": 21,
+      "level": "A2",
+      "group": "Dativ-Verben",
+      "prep": null,
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich helfe + [Dativ]",
       "note": "Verb helfen requires Dative (dem / der / den / mir / dir / ihm / ihr / uns).",
@@ -170,6 +233,9 @@
     },
     {
       "num": 22,
+      "level": "A2",
+      "group": "Dativ-Verben",
+      "prep": null,
       "category": "Fixed Case & Verb Automations",
       "formula": "Es gefällt + [Dativ]",
       "note": "Expressing liking something (Subject is the thing, person in Dative).",
@@ -178,6 +244,9 @@
     },
     {
       "num": 23,
+      "level": "A2",
+      "group": "Dativ-Verben",
+      "prep": null,
       "category": "Fixed Case & Verb Automations",
       "formula": "Es schmeckt + [Dativ]",
       "note": "Expressing taste/enjoyment of food (Dative person).",
@@ -186,6 +255,9 @@
     },
     {
       "num": 24,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "um + Akk",
       "category": "Fixed Case & Verb Automations",
       "formula": "Es geht um + [Akkusativ]",
       "note": "Fixed phrase: \"It is about...\" / \"The main topic is...\"",
@@ -194,6 +266,9 @@
     },
     {
       "num": 25,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "auf + Akk",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich passe auf + [Akkusativ] auf",
       "note": "Separable verb: aufpassen auf + Accusative (\"look after\").",
@@ -202,6 +277,9 @@
     },
     {
       "num": 26,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "für + Akk",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich danke + [Dativ] für + [Akkusativ]",
       "note": "Danke + Dative person + für + Accusative cause.",
@@ -210,6 +288,9 @@
     },
     {
       "num": 27,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "zu + Dat",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich gratuliere + [Dativ] zu + [Dativ]",
       "note": "Gratulieren + Dative person + zu + Dative occasion.",
@@ -218,6 +299,9 @@
     },
     {
       "num": 28,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "auf + Akk",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich antworte auf + [Akkusativ]",
       "note": "Antworten auf + Accusative (\"reply to\").",
@@ -226,6 +310,9 @@
     },
     {
       "num": 29,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "auf + Akk",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich warte auf + [Akkusativ]",
       "note": "Warten auf + Accusative (\"wait for\").",
@@ -234,6 +321,9 @@
     },
     {
       "num": 30,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "an + Akk",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich denke an + [Akkusativ]",
       "note": "Denken an + Accusative (\"think of/about\").",
@@ -242,6 +332,9 @@
     },
     {
       "num": 31,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "auf + Akk",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich freue mich auf + [Akkusativ]",
       "note": "Freuen auf + Accusative (Future joy / looking forward to).",
@@ -250,6 +343,9 @@
     },
     {
       "num": 32,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "über + Akk",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich freue mich über + [Akkusativ]",
       "note": "Freuen über + Accusative (Present/Past joy over a gift/event).",
@@ -258,6 +354,9 @@
     },
     {
       "num": 33,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "für + Akk",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich interessiere mich für + [Akkusativ]",
       "note": "Reflexive verb + für + Accusative (\"interested in\").",
@@ -266,6 +365,9 @@
     },
     {
       "num": 34,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "an + Dat",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich nehme an + [Dativ] teil",
       "note": "Separable verb: teilnehmen an + Dative (\"participate in\").",
@@ -274,6 +376,9 @@
     },
     {
       "num": 35,
+      "level": "A2",
+      "group": "Dativ-Verben",
+      "prep": null,
       "category": "Fixed Case & Verb Automations",
       "formula": "Es gehört + [Dativ]",
       "note": "Belonging to someone (Gehören + Dative person).",
@@ -282,6 +387,9 @@
     },
     {
       "num": 36,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "zu + Dat",
       "category": "Fixed Case & Verb Automations",
       "formula": "Es passt zu + [Dativ]",
       "note": "Matching or fitting well with something (zu + Dative).",
@@ -290,6 +398,9 @@
     },
     {
       "num": 37,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "nach + Dat",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich frage nach + [Dativ]",
       "note": "Asking about or for something (nach + Dative).",
@@ -298,6 +409,9 @@
     },
     {
       "num": 38,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "von + Dat",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich erzähle von + [Dativ]",
       "note": "Telling/narrating about something (von + Dative).",
@@ -306,6 +420,9 @@
     },
     {
       "num": 39,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "zu + Dat",
       "category": "Fixed Case & Verb Automations",
       "formula": "Ich lade dich zu + [Dativ] ein",
       "note": "Separable verb: einladen + Accusative person + zu + Dative event.",
@@ -314,6 +431,9 @@
     },
     {
       "num": 40,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "wegen + Gen",
       "category": "Fixed Case & Verb Automations",
       "formula": "Es tut mir leid wegen + [Genitiv / Dativ]",
       "note": "Expressing apology for something (wegen + Dative in speech).",
@@ -322,6 +442,9 @@
     },
     {
       "num": 41,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "für + Akk",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich habe keine Zeit für + [Akkusativ]",
       "note": "High-frequency spoken structure for lack of time.",
@@ -330,6 +453,9 @@
     },
     {
       "num": 42,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "auf + Akk",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich habe Lust auf + [Akkusativ]",
       "note": "Expressing craving, mood, or desire for something.",
@@ -338,6 +464,9 @@
     },
     {
       "num": 43,
+      "level": "A2",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich habe keine Lust zu + [Infinitiv]",
       "note": "Expressing lack of desire to do an action (zu + Infinitive).",
@@ -346,6 +475,9 @@
     },
     {
       "num": 44,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "auf + Akk",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Es kommt darauf an, ob/wie...",
       "note": "Expressing dependence (\"It depends on whether...\").",
@@ -354,6 +486,9 @@
     },
     {
       "num": 45,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich brauche + [Akkusativ], um ... zu + [Infinitiv]",
       "note": "Expressing purpose/requirement (\"in order to\").",
@@ -362,6 +497,9 @@
     },
     {
       "num": 46,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "nach + Dat",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich bin auf der Suche nach + [Dativ]",
       "note": "Formal/casual phrase for \"looking for\".",
@@ -370,6 +508,9 @@
     },
     {
       "num": 47,
+      "level": "A2",
+      "group": "Grundgerüst",
+      "prep": null,
       "category": "Daily Life, Priorities & Needs",
       "formula": "Es dauert + [Zeitangabe]",
       "note": "Expressing duration of time.",
@@ -378,6 +519,9 @@
     },
     {
       "num": 48,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "mit + Dat",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich habe Stress mit + [Dativ]",
       "note": "Expressing stress regarding work/people.",
@@ -386,6 +530,9 @@
     },
     {
       "num": 49,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "um + Akk",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich mache mir Sorgen um + [Akkusativ]",
       "note": "Reflexive phrase for worrying about someone/something.",
@@ -394,6 +541,9 @@
     },
     {
       "num": 50,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "an + Akk",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich gewöhne mich an + [Akkusativ]",
       "note": "Reflexive verb for getting used to something.",
@@ -402,6 +552,9 @@
     },
     {
       "num": 51,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "auf + Akk",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich bereite mich auf + [Akkusativ] vor",
       "note": "Separable reflexive verb for preparing for an event.",
@@ -410,6 +563,9 @@
     },
     {
       "num": 52,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "für + Akk",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Es ist Zeit für + [Akkusativ]",
       "note": "Announcing the time for an activity.",
@@ -418,6 +574,9 @@
     },
     {
       "num": 53,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "mit + Dat",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich vergleiche + [Akkusativ] mit + [Dativ]",
       "note": "Comparing one item with another.",
@@ -426,6 +585,9 @@
     },
     {
       "num": 54,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "mit + Dat",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich habe ein Problem mit + [Dativ]",
       "note": "Stating an issue or difficulty.",
@@ -434,6 +596,9 @@
     },
     {
       "num": 55,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "um + Akk",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich kümmere mich um + [Akkusativ]",
       "note": "Taking care of or handling a task.",
@@ -442,6 +607,9 @@
     },
     {
       "num": 56,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "mit + Dat",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich treffe mich mit + [Dativ]",
       "note": "Reflexive verb for meeting up with friends/people.",
@@ -450,6 +618,9 @@
     },
     {
       "num": 57,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "in + Dat",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich habe Erfahrung in + [Dativ]",
       "note": "Stating background experience in a field.",
@@ -458,6 +629,9 @@
     },
     {
       "num": 58,
+      "level": "B1",
+      "group": "Konjunktiv II & Höflichkeit",
+      "prep": null,
       "category": "Daily Life, Priorities & Needs",
       "formula": "Am liebsten würde ich + [Infinitiv]",
       "note": "Expressing ideal preference using Subjunctive II (Konjunktiv II).",
@@ -466,6 +640,9 @@
     },
     {
       "num": 59,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "mit + Dat",
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich bin fertig mit + [Dativ]",
       "note": "Stating completion of a task or activity.",
@@ -474,6 +651,9 @@
     },
     {
       "num": 60,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Daily Life, Priorities & Needs",
       "formula": "Ich habe vergessen, ... zu + [Infinitiv]",
       "note": "Expressing forgetting to perform an action.",
@@ -482,6 +662,9 @@
     },
     {
       "num": 61,
+      "level": "A2",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich denke / glaube, dass + [Verb am Ende]",
       "note": "Subordinate clause with dass (Verb moves to the end).",
@@ -490,6 +673,9 @@
     },
     {
       "num": 62,
+      "level": "B1",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Meiner Meinung nach + [Verb] + [Subjekt]",
       "note": "Inversion structure! Verb comes directly after the phrase.",
@@ -498,6 +684,9 @@
     },
     {
       "num": 63,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich bin mir sicher, dass + [Verb am Ende]",
       "note": "Expressing strong certainty.",
@@ -506,6 +695,9 @@
     },
     {
       "num": 64,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich habe vor, ... zu + [Infinitiv]",
       "note": "Expressing intentions or plans (\"I plan to...\").",
@@ -514,6 +706,9 @@
     },
     {
       "num": 65,
+      "level": "A2",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich hoffe, dass + [Verb am Ende]",
       "note": "Expressing hope for a future outcome.",
@@ -522,6 +717,9 @@
     },
     {
       "num": 66,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich finde es + [Adjektiv], dass...",
       "note": "Evaluating a situation with a dummy subject es.",
@@ -530,6 +728,9 @@
     },
     {
       "num": 67,
+      "level": "B1",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich bin dafür, dass...",
       "note": "Expressing agreement/support for a proposal.",
@@ -538,6 +739,9 @@
     },
     {
       "num": 68,
+      "level": "B1",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich bin dagegen, dass...",
       "note": "Expressing opposition/disagreement.",
@@ -546,6 +750,9 @@
     },
     {
       "num": 69,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich habe den Eindruck, dass...",
       "note": "Expressing a subtle impression or feeling.",
@@ -554,6 +761,9 @@
     },
     {
       "num": 70,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Für mich ist es wichtig, dass...",
       "note": "Prioritizing personal values or needs.",
@@ -562,6 +772,9 @@
     },
     {
       "num": 71,
+      "level": "A2",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich weiß nicht, ob...",
       "note": "Expressing uncertainty with indirect question ob (whether).",
@@ -570,6 +783,9 @@
     },
     {
       "num": 72,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich bin mir nicht sicher, ob...",
       "note": "Softer expression of doubt.",
@@ -578,6 +794,9 @@
     },
     {
       "num": 73,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich habe das Gefühl, dass...",
       "note": "Intuitive feeling about a situation.",
@@ -586,6 +805,9 @@
     },
     {
       "num": 74,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich schlage vor, dass ...",
       "note": "Making a direct proposal or suggestion.",
@@ -594,6 +816,9 @@
     },
     {
       "num": 75,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich habe mir überlegt, dass...",
       "note": "Introducing a considered idea or change of mind.",
@@ -602,6 +827,9 @@
     },
     {
       "num": 76,
+      "level": "B1",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ehrlich gesagt, + [Verb] + [Subjekt]",
       "note": "Conversational qualifier (\"To be honest...\").",
@@ -610,6 +838,9 @@
     },
     {
       "num": 77,
+      "level": "B1",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich stimme dir zu, aber...",
       "note": "Partial agreement during discussions.",
@@ -618,6 +849,9 @@
     },
     {
       "num": 78,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Das bedeutet, dass...",
       "note": "Clarifying implications or consequences.",
@@ -626,6 +860,9 @@
     },
     {
       "num": 79,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Ich bin überzeugt, dass...",
       "note": "Strong conviction or confidence.",
@@ -634,6 +871,9 @@
     },
     {
       "num": 80,
+      "level": "B1",
+      "group": "Nebensätze & Infinitiv",
+      "prep": null,
       "category": "Opinions, Certainty & Intentions",
       "formula": "Es ist besser, wenn...",
       "note": "Recommending an alternative action.",
@@ -642,6 +882,9 @@
     },
     {
       "num": 81,
+      "level": "A2",
+      "group": "Konjunktiv II & Höflichkeit",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Könntest du mir bitte ... ?",
       "note": "Polite request with Konjunktiv II (könntest).",
@@ -650,6 +893,9 @@
     },
     {
       "num": 82,
+      "level": "A2",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Können Sie mir sagen, wo / wie... ?",
       "note": "Formal polite query for information.",
@@ -658,6 +904,9 @@
     },
     {
       "num": 83,
+      "level": "B1",
+      "group": "Konjunktiv II & Höflichkeit",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Wie wäre es, wenn ... ?",
       "note": "Making casual invitations or proposals.",
@@ -666,6 +915,9 @@
     },
     {
       "num": 84,
+      "level": "B1",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Weißt du zufällig, ob / wo... ?",
       "note": "Casual polite question (\"Do you happen to know...\").",
@@ -674,6 +926,9 @@
     },
     {
       "num": 85,
+      "level": "A2",
+      "group": "Redemittel & Fragen",
+      "prep": "für + Akk",
       "category": "Questions, Requests & Social Formulas",
       "formula": "Haben Sie Zeit für ... ?",
       "note": "Formal request for someone's time.",
@@ -682,6 +937,9 @@
     },
     {
       "num": 86,
+      "level": "A2",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Kann ich bitte + [Akkusativ] haben?",
       "note": "Standard polite ordering or requesting phrase.",
@@ -690,6 +948,9 @@
     },
     {
       "num": 87,
+      "level": "A1",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Wie viel kostet + [Nomen]?",
       "note": "Asking for prices in shops/restaurants.",
@@ -698,6 +959,9 @@
     },
     {
       "num": 88,
+      "level": "A1",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Entschuldigung, wo finde ich + [Akkusativ]?",
       "note": "Asking for directions inside stores/facilities.",
@@ -706,6 +970,9 @@
     },
     {
       "num": 89,
+      "level": "A2",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Gibt es hier in der Nähe + [Akkusativ]?",
       "note": "Inquiring about nearby amenities.",
@@ -714,6 +981,9 @@
     },
     {
       "num": 90,
+      "level": "A1",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Was bedeutet + [Wort]?",
       "note": "Clarifying unknown vocabulary.",
@@ -722,6 +992,9 @@
     },
     {
       "num": 91,
+      "level": "A2",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Wie spricht man + [Wort] aus?",
       "note": "Asking for pronunciation help.",
@@ -730,6 +1003,9 @@
     },
     {
       "num": 92,
+      "level": "B1",
+      "group": "Redemittel & Fragen",
+      "prep": "mit + Dat",
       "category": "Questions, Requests & Social Formulas",
       "formula": "Was meinst du genau mit + [Dativ]?",
       "note": "Asking the speaker to rephrase or elaborate on a specific word or concept.",
@@ -738,6 +1014,9 @@
     },
     {
       "num": 93,
+      "level": "B1",
+      "group": "Redemittel & Fragen",
+      "prep": "von + Dat",
       "category": "Questions, Requests & Social Formulas",
       "formula": "Was hältst du von + [Dativ]?",
       "note": "Asking for an opinion on an idea.",
@@ -746,6 +1025,9 @@
     },
     {
       "num": 94,
+      "level": "B1",
+      "group": "Redemittel & Fragen",
+      "prep": "gegen + Akk",
       "category": "Questions, Requests & Social Formulas",
       "formula": "Haben Sie etwas gegen + [Akkusativ]?",
       "note": "Asking for permission politely (\"Do you mind...\").",
@@ -754,6 +1036,9 @@
     },
     {
       "num": 95,
+      "level": "A2",
+      "group": "Redemittel & Fragen",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Darf ich kurz fragen, ... ?",
       "note": "Polite interruption before asking a question.",
@@ -762,6 +1047,9 @@
     },
     {
       "num": 96,
+      "level": "A2",
+      "group": "Redemittel & Fragen",
+      "prep": "an + Dat",
       "category": "Questions, Requests & Social Formulas",
       "formula": "Passt es dir am + [Wochentag]?",
       "note": "Checking appointment availability.",
@@ -770,6 +1058,9 @@
     },
     {
       "num": 97,
+      "level": "A2",
+      "group": "Modalverben",
+      "prep": null,
       "category": "Questions, Requests & Social Formulas",
       "formula": "Wollen wir zusammen + [Infinitiv]?",
       "note": "Suggesting a joint activity with friends.",
@@ -778,6 +1069,9 @@
     },
     {
       "num": 98,
+      "level": "A2",
+      "group": "Redemittel & Fragen",
+      "prep": "zu + Dat",
       "category": "Questions, Requests & Social Formulas",
       "formula": "Alles Gute zum / zur + [Nomen]!",
       "note": "Standard celebration greeting.",
@@ -786,6 +1080,9 @@
     },
     {
       "num": 99,
+      "level": "A2",
+      "group": "Redemittel & Fragen",
+      "prep": "bei + Dat",
       "category": "Questions, Requests & Social Formulas",
       "formula": "Viel Erfolg bei + [Dativ]!",
       "note": "Wishing good luck/success for an upcoming task.",
@@ -794,11 +1091,267 @@
     },
     {
       "num": 100,
+      "level": "A2",
+      "group": "Redemittel & Fragen",
+      "prep": "an + Akk",
       "category": "Questions, Requests & Social Formulas",
       "formula": "Schöne Grüße an + [Akkusativ]!",
       "note": "Sending regards to someone's family/friends.",
       "de": "Richte bitte schöne Grüße an deine Familie aus!",
       "en": "Please send warm regards to your family!"
+    },
+    {
+      "num": 101,
+      "level": "A1",
+      "group": "Verb + Präposition",
+      "prep": "mit + Dat",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich spreche mit + [Dativ]",
+      "note": "sprechen mit — Merksatz: mit ist IMMER Dativ.",
+      "de": "Ich spreche mit meinem Chef über das Projekt.",
+      "en": "I'm speaking with my boss about the project."
+    },
+    {
+      "num": 102,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "mit + Dat",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich telefoniere mit + [Dativ]",
+      "note": "telefonieren mit + Dativ.",
+      "de": "Ich telefoniere jeden Abend mit meiner Mutter.",
+      "en": "I talk on the phone with my mother every evening."
+    },
+    {
+      "num": 103,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "mit + Dat",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich fange mit + [Dativ] an",
+      "note": "anfangen mit + Dativ (trennbar).",
+      "de": "Ich fange morgen mit dem neuen Kurs an.",
+      "en": "I'm starting the new course tomorrow."
+    },
+    {
+      "num": 104,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "mit + Dat",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich höre mit + [Dativ] auf",
+      "note": "aufhören mit + Dativ (trennbar).",
+      "de": "Ich höre endlich mit dem Rauchen auf.",
+      "en": "I'm finally quitting smoking."
+    },
+    {
+      "num": 105,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "von + Dat",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich träume von + [Dativ]",
+      "note": "träumen von + Dativ.",
+      "de": "Ich träume von einer langen Reise nach Japan.",
+      "en": "I dream of a long trip to Japan."
+    },
+    {
+      "num": 106,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "an + Akk",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich erinnere mich an + [Akkusativ]",
+      "note": "sich erinnern an + Akkusativ (reflexiv).",
+      "de": "Ich erinnere mich gern an unseren Urlaub.",
+      "en": "I remember our holiday fondly."
+    },
+    {
+      "num": 107,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "über + Akk",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich denke über + [Akkusativ] nach",
+      "note": "nachdenken über + Akkusativ (trennbar).",
+      "de": "Ich denke oft über meine Zukunft nach.",
+      "en": "I often reflect on my future."
+    },
+    {
+      "num": 108,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "über + Akk",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich ärgere mich über + [Akkusativ]",
+      "note": "sich ärgern über + Akkusativ (reflexiv).",
+      "de": "Ich ärgere mich über den schlechten Service.",
+      "en": "I'm annoyed about the bad service."
+    },
+    {
+      "num": 109,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "über + Akk",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich beschwere mich über + [Akkusativ]",
+      "note": "sich beschweren über + Akkusativ (reflexiv).",
+      "de": "Ich beschwere mich über den Lärm der Nachbarn.",
+      "en": "I'm complaining about the neighbours' noise."
+    },
+    {
+      "num": 110,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "auf + Akk",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich achte auf + [Akkusativ]",
+      "note": "achten auf + Akkusativ.",
+      "de": "Ich achte auf eine gesunde Ernährung.",
+      "en": "I pay attention to a healthy diet."
+    },
+    {
+      "num": 111,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "auf + Akk",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich verlasse mich auf + [Akkusativ]",
+      "note": "sich verlassen auf + Akkusativ (reflexiv).",
+      "de": "Ich verlasse mich voll auf mein Team.",
+      "en": "I rely completely on my team."
+    },
+    {
+      "num": 112,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "auf + Akk",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich hoffe auf + [Akkusativ]",
+      "note": "hoffen auf + Akkusativ.",
+      "de": "Wir hoffen auf besseres Wetter am Wochenende.",
+      "en": "We're hoping for better weather at the weekend."
+    },
+    {
+      "num": 113,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "um + Akk",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich bewerbe mich um + [Akkusativ]",
+      "note": "sich bewerben um + Akkusativ (reflexiv).",
+      "de": "Ich bewerbe mich um eine neue Stelle.",
+      "en": "I'm applying for a new position."
+    },
+    {
+      "num": 114,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "für + Akk",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich entscheide mich für + [Akkusativ]",
+      "note": "sich entscheiden für + Akkusativ (reflexiv).",
+      "de": "Ich entscheide mich für den günstigeren Tarif.",
+      "en": "I'm going for the cheaper plan."
+    },
+    {
+      "num": 115,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "vor + Dat",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich habe Angst vor + [Dativ]",
+      "note": "Angst haben vor + Dativ.",
+      "de": "Ich habe ein bisschen Angst vor der Prüfung.",
+      "en": "I'm a little afraid of the exam."
+    },
+    {
+      "num": 116,
+      "level": "A2",
+      "group": "Verb + Präposition",
+      "prep": "mit + Dat",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich bin zufrieden mit + [Dativ]",
+      "note": "zufrieden sein mit + Dativ.",
+      "de": "Ich bin sehr zufrieden mit meiner neuen Wohnung.",
+      "en": "I'm very happy with my new flat."
+    },
+    {
+      "num": 117,
+      "level": "B1",
+      "group": "Verb + Präposition",
+      "prep": "auf + Akk",
+      "category": "Verben & Ausdrücke mit Präposition",
+      "formula": "Ich bin stolz auf + [Akkusativ]",
+      "note": "stolz sein auf + Akkusativ.",
+      "de": "Ich bin stolz auf meine Fortschritte im Deutschen.",
+      "en": "I'm proud of my progress in German."
+    },
+    {
+      "num": 118,
+      "level": "A2",
+      "group": "Ort & Richtung",
+      "prep": "in + Dat",
+      "category": "Wechselpräpositionen: Ort & Richtung",
+      "formula": "Ich bin in + [Dativ]  (Wo?)",
+      "note": "Position/Ort → Dativ. Frage: Wo?",
+      "de": "Ich bin gerade in der Küche.",
+      "en": "I'm in the kitchen right now."
+    },
+    {
+      "num": 119,
+      "level": "A2",
+      "group": "Ort & Richtung",
+      "prep": "in + Akk",
+      "category": "Wechselpräpositionen: Ort & Richtung",
+      "formula": "Ich gehe in + [Akkusativ]  (Wohin?)",
+      "note": "Bewegung/Richtung → Akkusativ. Frage: Wohin?",
+      "de": "Ich gehe jetzt in die Küche.",
+      "en": "I'm going into the kitchen now."
+    },
+    {
+      "num": 120,
+      "level": "A2",
+      "group": "Ort & Richtung",
+      "prep": "auf + Dat",
+      "category": "Wechselpräpositionen: Ort & Richtung",
+      "formula": "Es liegt auf + [Dativ]  (Wo?)",
+      "note": "Position → Dativ. Frage: Wo?",
+      "de": "Das Buch liegt auf dem Tisch.",
+      "en": "The book is lying on the table."
+    },
+    {
+      "num": 121,
+      "level": "A2",
+      "group": "Ort & Richtung",
+      "prep": "auf + Akk",
+      "category": "Wechselpräpositionen: Ort & Richtung",
+      "formula": "Ich lege es auf + [Akkusativ]  (Wohin?)",
+      "note": "Bewegung → Akkusativ. Frage: Wohin?",
+      "de": "Ich lege das Buch auf den Tisch.",
+      "en": "I'm putting the book on the table."
+    },
+    {
+      "num": 122,
+      "level": "A2",
+      "group": "Ort & Richtung",
+      "prep": "an + Dat",
+      "category": "Wechselpräpositionen: Ort & Richtung",
+      "formula": "Das Bild hängt an + [Dativ]  (Wo?)",
+      "note": "Position → Dativ. Frage: Wo?",
+      "de": "Das Bild hängt an der Wand.",
+      "en": "The picture is hanging on the wall."
+    },
+    {
+      "num": 123,
+      "level": "A2",
+      "group": "Ort & Richtung",
+      "prep": "an + Akk",
+      "category": "Wechselpräpositionen: Ort & Richtung",
+      "formula": "Ich hänge es an + [Akkusativ]  (Wohin?)",
+      "note": "Bewegung → Akkusativ. Frage: Wohin?",
+      "de": "Ich hänge das Bild an die Wand.",
+      "en": "I'm hanging the picture on the wall."
     }
   ]
 }

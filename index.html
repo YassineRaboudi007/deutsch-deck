@@ -149,15 +149,46 @@ h2.section{font-size:15px;text-transform:uppercase;letter-spacing:.08em;color:va
 .chip{padding:7px 13px;border-radius:10px;background:var(--panel);border:1px solid var(--line);font-size:13px;font-weight:600;color:var(--muted)}
 .chip.active{color:var(--txt);border-color:var(--accent)}
 .hidden{display:none!important}
-.lvl{font-size:11px;font-weight:800;padding:2px 8px;border-radius:99px;letter-spacing:.03em}
+.lvl{font-size:11px;font-weight:800;padding:2px 8px;border-radius:99px;letter-spacing:.03em;flex:none}
 .lvl-a{background:color-mix(in srgb,var(--accent) 22%,transparent);color:var(--accent)}
+.lvl-a1{background:color-mix(in srgb,var(--accent) 18%,transparent);color:var(--accent)}
+.lvl-a2{background:color-mix(in srgb,var(--warn) 22%,transparent);color:var(--warn)}
 .lvl-b1{background:color-mix(in srgb,var(--accent2) 24%,transparent);color:var(--accent2)}
 .chip .badge{margin-left:4px}
+/* pattern meta badges */
+.pcard .pf{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.pf .ff{flex:1;min-width:0}
+.prep{font-size:11px;font-weight:800;padding:2px 9px;border-radius:99px;letter-spacing:.02em;flex:none;
+  background:color-mix(in srgb,var(--accent2) 14%,transparent);color:var(--accent2);
+  border:1px solid color-mix(in srgb,var(--accent2) 34%,transparent);font-variant-numeric:tabular-nums}
+.gbwrap{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:0 0 14px}
+.gbwrap .gbl{font-size:12px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.pcat .pcat-n{font-size:12px;font-weight:700;color:var(--muted);margin-left:8px}
 .ex2{margin-top:12px;padding-top:10px;border-top:1px dashed var(--line)}
 .done-card{background:var(--panel);border:1px solid var(--line);border-radius:22px;padding:40px 24px;text-align:center}
 .done-card .big{font-size:44px}
 .search{flex:1;min-width:180px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:8px 12px;color:var(--txt);font-size:14px}
 .search::placeholder{color:var(--muted)}
+
+/* Redemittel */
+.use{font-size:11px;font-weight:700;padding:2px 8px;border-radius:99px;flex:none;
+  background:var(--panel2);color:var(--muted);border:1px solid var(--line)}
+
+/* Sprachbausteine drill */
+.quiz{max-width:640px;margin:0 auto}
+.q-card{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:22px}
+.q-topic{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--accent);margin-bottom:10px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.q-sentence{font-size:20px;font-weight:600;line-height:1.6;margin-bottom:18px}
+.q-sentence .gap{display:inline-block;min-width:54px;border-bottom:2px dashed var(--accent);text-align:center;color:var(--accent);font-weight:800}
+.q-opts{display:flex;flex-direction:column;gap:10px}
+.q-opt{text-align:left;padding:13px 16px;border-radius:12px;background:var(--panel2);border:1px solid var(--line);font-size:16px;font-weight:600;transition:border-color .12s,background .12s}
+.q-opt:hover:not(:disabled){border-color:var(--accent)}
+.q-opt:disabled{cursor:default}
+.q-opt.correct{background:color-mix(in srgb,var(--good) 20%,transparent);border-color:var(--good);color:var(--good)}
+.q-opt.wrong{background:color-mix(in srgb,var(--bad) 18%,transparent);border-color:var(--bad);color:var(--bad)}
+.q-explain{margin-top:16px;background:color-mix(in srgb,var(--accent) 9%,transparent);border:1px solid color-mix(in srgb,var(--accent) 28%,transparent);border-radius:12px;padding:11px 14px;font-size:14px;line-height:1.5}
+.q-explain b{color:var(--accent)}
+.q-next{margin-top:16px}
 </style>
 </head>
 <body>
@@ -165,8 +196,10 @@ h2.section{font-size:15px;text-transform:uppercase;letter-spacing:.08em;color:va
   <div class="hbar">
     <div class="brand"><span class="flag">🇩🇪</span> Deutsch Deck</div>
     <nav class="tabs">
-      <button data-tab="vocab" class="active">Vocabulary</button>
+      <button data-tab="vocab" class="active">Vocab</button>
       <button data-tab="patterns">Patterns</button>
+      <button data-tab="redemittel">Redemittel</button>
+      <button data-tab="bausteine">Bausteine</button>
     </nav>
     <button class="icon-btn" id="themeBtn" title="Toggle theme">🌙</button>
   </div>
@@ -176,8 +209,10 @@ h2.section{font-size:15px;text-transform:uppercase;letter-spacing:.08em;color:va
   <div class="empty"><div class="spinner"></div>Loading deck…</div>
 </main>
 
-<script src="data/patterns.js?v=2"></script>
+<script src="data/patterns.js?v=4"></script>
+<script src="data/redemittel.js?v=4"></script>
+<script src="data/sprachbausteine.js?v=4"></script>
 <script src="data/words.js?v=2"></script>
-<script src="js/app.js?v=2"></script>
+<script src="js/app.js?v=4"></script>
 </body>
 </html>
