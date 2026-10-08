@@ -20,6 +20,7 @@ body{
   font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
   background:var(--bg); color:var(--txt); line-height:1.5;
   -webkit-font-smoothing:antialiased;
+  overflow-wrap:break-word; /* long German compounds can't overflow the viewport */
 }
 a{color:var(--accent);text-decoration:none}
 button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
@@ -189,12 +190,93 @@ h2.section{font-size:15px;text-transform:uppercase;letter-spacing:.08em;color:va
 .q-explain{margin-top:16px;background:color-mix(in srgb,var(--accent) 9%,transparent);border:1px solid color-mix(in srgb,var(--accent) 28%,transparent);border-radius:12px;padding:11px 14px;font-size:14px;line-height:1.5}
 .q-explain b{color:var(--accent)}
 .q-next{margin-top:16px}
+
+/* ---------- batch overview: study sets ---------- */
+.ov-head{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin:2px 0 4px}
+.ov-head .ov-sub{color:var(--muted);font-size:14px}
+.setgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}
+.setcard{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 15px;cursor:pointer;transition:transform .12s,border-color .12s;position:relative}
+.setcard:hover{transform:translateY(-2px);border-color:var(--accent)}
+.setcard .sc-n{font-size:13px;color:var(--muted);font-weight:700}
+.setcard .sc-t{font-size:15px;font-weight:700;margin:2px 0 9px;letter-spacing:-.01em}
+.setcard.done{border-color:color-mix(in srgb,var(--good) 55%,var(--line))}
+.setcard .sc-check{position:absolute;top:12px;right:13px;color:var(--good);font-size:13px;font-weight:800}
+.bigbtns{display:flex;gap:10px;flex-wrap:wrap;margin:4px 0 20px}
+.bigbtn{flex:1;min-width:150px;display:flex;align-items:center;gap:11px;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:13px 15px;text-align:left;transition:border-color .12s,transform .12s}
+.bigbtn:hover{border-color:var(--accent);transform:translateY(-2px)}
+.bigbtn .bb-ic{font-size:20px;flex:none}
+.bigbtn .bb-t{font-weight:700;font-size:15px}
+.bigbtn .bb-s{color:var(--muted);font-size:12.5px;margin-top:1px}
+.bigbtn.accent{border-color:color-mix(in srgb,var(--accent) 45%,var(--line));background:color-mix(in srgb,var(--accent) 7%,var(--panel))}
+.bigbtn .bb-badge{margin-left:auto;font-size:12px;font-weight:800;color:var(--accent);background:color-mix(in srgb,var(--accent) 16%,transparent);padding:2px 9px;border-radius:99px;flex:none}
+
+/* ---------- related words (word family) on card back ---------- */
+.rel{margin-top:14px;width:100%;text-align:left;border-top:1px dashed var(--line);padding-top:12px}
+.rel-h{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:7px}
+.rel-item{display:flex;align-items:baseline;gap:8px;padding:3px 0;font-size:14px}
+.rel-item .rel-de{font-weight:700}
+.rel-item .rel-pos{font-size:10px;font-weight:800;text-transform:uppercase;color:var(--accent);flex:none}
+.rel-item .rel-en{color:var(--muted);font-size:13px}
+
+/* ---------- SRS box indicator ---------- */
+.srs-dot{position:absolute;top:14px;left:16px;display:flex;gap:3px}
+.srs-dot i{width:6px;height:6px;border-radius:50%;background:var(--line);display:block}
+.srs-dot i.on{background:var(--accent)}
+.due-tag{display:inline-block;font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.04em;color:var(--warn);background:color-mix(in srgb,var(--warn) 16%,transparent);padding:1px 7px;border-radius:99px;margin-left:6px;vertical-align:middle}
+
+/* ---------- keyboard hint ---------- */
+.kbd-hint{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:14px;color:var(--muted);font-size:12px}
+.kbd-hint kbd{font-family:inherit;font-size:11px;font-weight:700;background:var(--panel2);border:1px solid var(--line);border-bottom-width:2px;border-radius:6px;padding:1px 6px;color:var(--txt)}
+
+/* ---------- pattern card teaching extras ---------- */
+.pnote-back{margin-top:12px;width:100%;text-align:left;background:color-mix(in srgb,var(--accent) 8%,transparent);border:1px solid color-mix(in srgb,var(--accent) 26%,transparent);border-radius:12px;padding:9px 12px;font-size:13px;line-height:1.45;color:var(--txt)}
+.pnote-back .pnb-i{font-weight:800;color:var(--accent);margin-right:5px}
+.pcard .pde2{font-style:italic;font-weight:600;margin-top:8px;padding-top:8px;border-top:1px dashed var(--line)}
+.pcard .pen2{color:var(--muted);font-size:14px;margin-top:2px}
+
+/* ========================================================= */
+/* RESPONSIVE                                                */
+/* ========================================================= */
+@media (max-width:720px){
+  .wrap{padding:16px 13px 72px}
+  .hbar{gap:10px;padding:11px 13px}
+  .brand{font-size:17px}
+  /* tabs scroll horizontally instead of overflowing */
+  .tabs{margin-left:auto;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .tabs::-webkit-scrollbar{display:none}
+  .tabs button{padding:7px 11px;font-size:13px;white-space:nowrap}
+  .hero{gap:9px}
+  .stat{min-width:0;flex:1 1 calc(50% - 5px);padding:13px 14px}
+  .stat .n{font-size:22px}
+  .grid{grid-template-columns:1fr 1fr;gap:10px}
+  .word-de{font-size:28px}
+  .word-en{font-size:21px}
+  .face{padding:24px 18px}
+  .flip-inner{min-height:300px}
+}
+@media (max-width:460px){
+  .hbar{flex-wrap:wrap}
+  .brand .txt{display:none}
+  .tabs{order:3;width:100%;margin-left:0;justify-content:flex-start}
+  .icon-btn{margin-left:auto}
+  .hero{gap:8px}
+  .stat{flex:1 1 calc(50% - 4px)}
+  .grid{grid-template-columns:1fr;gap:9px}
+  .setgrid{grid-template-columns:1fr 1fr}
+  .actions{gap:8px}
+  .btn{padding:14px 10px;font-size:14px}
+  .word-de{font-size:25px}
+  .face{padding:22px 15px}
+  .q-sentence{font-size:18px}
+  .q-opt{font-size:15px;padding:12px 13px}
+  .kbd-hint{display:none}
+}
 </style>
 </head>
 <body>
 <header>
   <div class="hbar">
-    <div class="brand"><span class="flag">🇩🇪</span> Deutsch Deck</div>
+    <div class="brand"><span class="flag">🇩🇪</span> <span class="txt">Deutsch Deck</span></div>
     <nav class="tabs">
       <button data-tab="vocab" class="active">Vocab</button>
       <button data-tab="patterns">Patterns</button>
@@ -209,10 +291,10 @@ h2.section{font-size:15px;text-transform:uppercase;letter-spacing:.08em;color:va
   <div class="empty"><div class="spinner"></div>Loading deck…</div>
 </main>
 
-<script src="data/patterns.js?v=4"></script>
+<script src="data/patterns.js?v=5"></script>
 <script src="data/redemittel.js?v=4"></script>
 <script src="data/sprachbausteine.js?v=4"></script>
 <script src="data/words.js?v=2"></script>
-<script src="js/app.js?v=4"></script>
+<script src="js/app.js?v=5"></script>
 </body>
 </html>
